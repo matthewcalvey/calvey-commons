@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 452" role="img" aria-label="Interior view of a sanatorium bedroom drawn from the eye level of someone lying in bed, with ceiling, window and light fitting annotated.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE PATIENT ROOM FROM THE PILLOW</text>
+<text x="58" y="38" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DRAWN FROM THE EYE POSITION OF A PERSON LYING FLAT, FOR MONTHS</text>
+<rect x="58" y="58" width="354" height="210" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="156" y="132" width="180" height="94" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<line x1="58" y1="58" x2="156" y2="132" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="412" y1="58" x2="336" y2="132" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="58" y1="268" x2="156" y2="226" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="412" y1="268" x2="336" y2="226" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="150" y="92" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE CEILING IS MOST OF THE VIEW</text>
+<path d="M176 268 L334 268 L288 226 L222 226 Z" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="190" y="260" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">THE BED, FROM THE PILLOW</text>
+<circle cx="316" cy="146" r="6" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="432" y1="162" x2="326.47" y2="150.49" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/><path d="M322 150 L326.68 148.61 L326.27 152.37 Z" fill="var(--ok,#7AB87A)"/>
+<text x="438" y="158" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">THE LAMP, PUT OUT OF</text>
+<text x="438" y="170" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">THE LINE OF SIGHT</text>
+<rect x="72" y="122" width="46" height="100" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="72" y1="155" x2="118" y2="155" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="72" y1="188" x2="118" y2="188" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="95" y1="122" x2="95" y2="222" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="58" y="288" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">DOUBLE-GLAZED TIMBER, VENTILATING</text>
+<text x="58" y="300" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THROUGH VERTICAL OPENINGS</text>
+<path d="M352 238 L398 238 L390 256 L360 256 Z" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="375" y1="226" x2="375" y2="238" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="432" y1="252" x2="406.46" y2="248.59" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/><path d="M402 248 L406.71 246.72 L406.21 250.47 Z" fill="var(--ink,#ECEAE3)"/>
+<text x="438" y="236" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE BASIN, ANGLED SO</text>
+<text x="438" y="248" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE WATER STRIKES</text>
+<text x="438" y="260" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">OBLIQUELY AND MAKES</text>
+<text x="438" y="272" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">NO NOISE</text>
+<line x1="432" y1="96" x2="304.5" y2="96" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/><path d="M300 96 L304.5 94.11 L304.5 97.89 Z" fill="var(--hot,#C45C3E)"/>
+<text x="438" y="76" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE CEILING FINISH,</text>
+<text x="438" y="88" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">CHOSEN AGAINST GLARE.</text>
+<text x="438" y="100" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">A RESTFUL GREYISH GREEN</text>
+<text x="438" y="112" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">IN ONE ACCOUNT; DARK IN</text>
+<text x="438" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE OTHER. BOTH STAND.</text>
+<text x="58" y="330" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND THE BALCONY AT THE END OF THE WING, WHERE A WEAK PATIENT COULD BE WHEELED OUT IN BED:</text>
+<rect x="58" y="338" width="200" height="26" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="158" y="354" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DEPTH UNFILLED</text>
+<text x="272" y="350" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE CURE BALCONY'S DEFINING DIMENSION</text>
+<text x="272" y="362" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IS UNRECORDED ACROSS TWO CHAPTERS.</text>
+<line x1="58" y1="386" x2="612" y2="386" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="406" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">EVERY DECISION HERE IS A CLAIM ABOUT THE EXPERIENCE OF AN ILL PERSON IN BED FOR MONTHS.</text>
+<text x="58" y="424" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NOT ONE OF THEM HAS EVER BEEN EVALUATED. NINETY YEARS OLD, AND STILL UNTESTED.</text>
+<text x="58" y="442" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PAIMIO'S EVIDENTIAL STATUS IS NOT DISPROVED. IT IS NEVER EXAMINED.</text>
+</svg>

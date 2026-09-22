@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Dot plot of mycelium composite compressive strength across five substrate mixtures, values from 33 to 491 kilopascals, with strength falling as cultivation time increases.">
+
+<line x1="104" y1="74" x2="104" y2="268" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="104" y1="268" x2="500" y2="268" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="104" y1="268" x2="500" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="271" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="104" y1="231.85" x2="500" y2="231.85" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="234.85" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">100</text>
+<line x1="104" y1="195.69" x2="500" y2="195.69" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="198.69" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">200</text>
+<line x1="104" y1="159.54" x2="500" y2="159.54" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="162.54" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">300</text>
+<line x1="104" y1="123.38" x2="500" y2="123.38" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="126.38" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">400</text>
+<line x1="104" y1="87.23" x2="500" y2="87.23" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="90.23" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">500</text>
+<text x="98" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">COMPRESSIVE STRENGTH  ·  kPa</text>
+<text x="148" y="284" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">SAWDUST</text>
+<line x1="148" y1="268" x2="148" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="225" y="284" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">7 : 1</text>
+<line x1="225" y1="268" x2="225" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="302" y="284" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">3 : 1</text>
+<line x1="302" y1="268" x2="302" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="379" y="284" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2 : 1</text>
+<line x1="379" y1="268" x2="379" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="456" y="284" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1 : 1</text>
+<line x1="456" y1="268" x2="456" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="98" y="300" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">STRAW TO SAWDUST RATIO  ·  FIVE SUBSTRATE MIXTURES</text>
+<line x1="104" y1="90.48" x2="500" y2="90.48" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="506" y="93.48" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">491</text>
+<text x="506" y="105.48" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">MEASURED MAXIMUM</text>
+<line x1="104" y1="256.07" x2="500" y2="256.07" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="506" y="259.07" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">33</text>
+<text x="506" y="271.07" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">MEASURED MINIMUM</text>
+<circle cx="128.8" cy="90.48" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="132.6" y="166.89" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 141.6 186.37 L 144.8 192.17 L 138.4 192.17 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="148" cy="125.12" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="151.8" y="166.33" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 160.8 188.55 L 164 194.35 L 157.6 194.35 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="167.2" cy="139.24" r="3" fill="var(--accent,#6A9CC4)"/>
+<circle cx="205.8" cy="170.59" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="209.6" y="175.96" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 218.6 192.11 L 221.8 197.91 L 215.4 197.91 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="225" cy="145.08" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="228.8" y="193.48" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 237.8 205.8 L 241 211.6 L 234.6 211.6 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="244.2" cy="174.54" r="3" fill="var(--accent,#6A9CC4)"/>
+<circle cx="282.8" cy="162.46" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="286.6" y="182.81" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 295.6 227.61 L 298.8 233.41 L 292.4 233.41 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="302" cy="155.22" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="305.8" y="171.43" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 314.8 201.94 L 318 207.74 L 311.6 207.74 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="321.2" cy="170.6" r="3" fill="var(--accent,#6A9CC4)"/>
+<circle cx="359.8" cy="206.08" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="363.6" y="224.28" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 372.6 216.97 L 375.8 222.77 L 369.4 222.77 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="379" cy="210.19" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="382.8" y="216.93" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 391.8 228.98 L 395 234.78 L 388.6 234.78 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="398.2" cy="211.42" r="3" fill="var(--accent,#6A9CC4)"/>
+<circle cx="436.8" cy="209.5" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="440.6" y="219.45" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 449.6 213.56 L 452.8 219.36 L 446.4 219.36 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="456" cy="207.18" r="3" fill="var(--accent,#6A9CC4)"/>
+<rect x="459.8" y="211.07" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<path d="M 468.8 227.93 L 472 233.73 L 465.6 233.73 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 475.2 252.87 L 478.4 258.67 L 472 258.67 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="486" y1="98.08" x2="486" y2="135.68" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M 482.6 129.17 L 486 137.12 L 489.4 129.17" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="476" y="102.08" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">STRENGTH FALLS</text>
+<text x="476" y="112.08" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">AS CULTIVATION</text>
+<text x="476" y="122.08" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">TIME RISES</text>
+<circle cx="104" cy="315" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="116" y="318" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">FIVE WEEKS</text>
+<rect x="229.4" y="312.4" width="5.2" height="5.2" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<text x="244" y="318" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">SIX WEEKS</text>
+<path d="M 360 311.8 L 363.2 317.6 L 356.8 317.6 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="372" y="318" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">SEVEN WEEKS</text>
+<text x="44" y="348" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Thirty-five treatments, one species, one laboratory. The spread within them is wider than any single value the</text>
+<text x="44" y="359" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">phrase ‘the compressive strength of mycelium composite’ could carry: a fifteen-fold range, 33 to 491 kPa, set by</text>
+<text x="44" y="370" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">substrate and cultivation schedule. Only the two extremes and the direction of the cultivation effect are drawn</text>
+<text x="44" y="381" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">from stated values; horizontal placement within a column is for legibility and is not data.</text>
+<text x="44" y="392" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Ghazvinian &amp; Gürsoy 2022.</text>
+</svg>

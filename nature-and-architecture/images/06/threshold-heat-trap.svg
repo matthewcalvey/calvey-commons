@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="Two daily temperature traces relative to outdoor air, one oscillating around ambient and one permanently above it.">
+<line x1="80.00" y1="264.00" x2="584.00" y2="264.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="74.00" y="267.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-6</text>
+<line x1="80.00" y1="226.50" x2="584.00" y2="226.50" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="74.00" y="229.50" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-3</text>
+<line x1="80.00" y1="189.00" x2="584.00" y2="189.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="74.00" y="192.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="80.00" y1="151.50" x2="584.00" y2="151.50" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="74.00" y="154.50" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">+3</text>
+<line x1="80.00" y1="114.00" x2="584.00" y2="114.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="74.00" y="117.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">+6</text>
+<line x1="80.00" y1="76.50" x2="584.00" y2="76.50" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="74.00" y="79.50" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">+9</text>
+<line x1="80.00" y1="264.00" x2="584.00" y2="264.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="80.00" y1="264.00" x2="80.00" y2="64.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="80.00" y1="264.00" x2="80.00" y2="267.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="80.00" y="280.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">00</text>
+<line x1="206.00" y1="264.00" x2="206.00" y2="267.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="206.00" y="280.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">06</text>
+<line x1="332.00" y1="264.00" x2="332.00" y2="267.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="332.00" y="280.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">12</text>
+<line x1="458.00" y1="264.00" x2="458.00" y2="267.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="458.00" y="280.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">18</text>
+<line x1="584.00" y1="264.00" x2="584.00" y2="267.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="584.00" y="280.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">24</text>
+<text x="332.00" y="298.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">HOUR</text>
+<text x="40.00" y="164.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 40.00 164.00)">DIFFERENCE FROM OUTDOOR AIR  K</text>
+<line x1="80.00" y1="189.00" x2="584.00" y2="189.00" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="582.00" y="183.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">OUTDOOR AIR</text>
+<path d="M80.0 156.5 L143.0 161.5 L206.0 174.0 L269.0 206.5 L332.0 229.0 L395.0 234.0 L458.0 201.5 L521.0 169.0 L584.0 156.5" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="363.50" y="246.50" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">YAZD WINDCATCHER — A THERMAL BATTERY</text>
+<text x="363.50" y="256.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">cooler than ambient by day, warmer by night</text>
+<path d="M80.0 134.0 L143.0 139.0 L206.0 134.0 L269.0 114.0 L332.0 94.0 L395.0 86.5 L458.0 106.5 L521.0 124.0 L584.0 134.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="214.40" y="72.75" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BILBAO PASSIVHAUS SEMI-EXTERIOR LAUNDRY — A ONE-WAY HEAT TRAP</text>
+<text x="214.40" y="81.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">about 5 °C above ambient day and night</text>
+<rect x="80.00" y="64.00" width="504.00" height="125.00" fill="var(--hot,#C45C3E)" fill-opacity="0.05"/>
+<text x="86.00" y="183.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ALWAYS WARMER</text>
+<text x="86.00" y="196.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">SOMETIMES COOLER</text>
+<text x="80.00" y="52.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TRACE SHAPES SCHEMATIC · THE SIGN, THE MAGNITUDE AND THE DIRECTION ARE THE REPORTED FACTS</text>
+<line x1="64.00" y1="306.00" x2="596.00" y2="306.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="326.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">EXTREMES ABOVE 50 °C AND DIFFERENTIALS TO 15.85 K WERE RECORDED IN THE BILBAO SPACES</text>
+<text x="64.00" y="348.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The traditional threshold stored and released. The modern one only accumulated.</text>
+<text x="64.00" y="392.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OTAEGI ET AL. 2024, FOUR YEARS · YAZD WINDCATCHER MONITORED ACROSS A WINTER (CHAPTER 2)</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 472" role="img" aria-label="Cutaway section of the Ford Foundation atrium showing terraces, glass roof, pool and the rainwater and condensate collection system.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE ATRIUM IN SECTION · 100 × 100 FEET, 160 FEET TALL</text>
+<line x1="130" y1="62" x2="130" y2="276" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="400" y1="62" x2="400" y2="276" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M130 62 L146 48 L146 62 L160 62" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M160 62 L176 48 L176 62 L190 62" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M190 62 L206 48 L206 62 L220 62" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M220 62 L236 48 L236 62 L250 62" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M250 62 L266 48 L266 62 L280 62" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M280 62 L296 48 L296 62 L310 62" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M310 62 L326 48 L326 62 L340 62" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M340 62 L356 48 L356 62 L370 62" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M370 62 L386 48 L386 62 L400 62" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="130" y="40" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">SAWTOOTH GLASS ROOF · 9,000 SQ FT</text>
+<line x1="62" y1="276" x2="130" y2="276" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="62" y="270" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">42ND STREET</text>
+<line x1="400" y1="240" x2="446" y2="240" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="406" y="234" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">43RD STREET</text>
+<line x1="436" y1="240" x2="436" y2="276" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<line x1="432" y1="276" x2="440" y2="276" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="432" y1="240" x2="440" y2="240" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="444" y="262" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">13 FT</text>
+<rect x="140" y="264" width="86" height="12" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<rect x="226" y="252" width="86" height="12" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<rect x="312" y="240" width="86" height="12" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="140" y="294" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THREE TERRACE LEVELS</text>
+<rect x="144" y="266" width="28" height="10" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="144" y="258" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">POOL</text>
+<line x1="156" y1="264" x2="156" y2="230" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="156" cy="220" r="11" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="190" y1="264" x2="190" y2="230" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="190" cy="220" r="11" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="224" y1="264" x2="224" y2="230" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="224" cy="220" r="11" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="258" y1="252" x2="258" y2="218" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="258" cy="208" r="11" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="292" y1="252" x2="292" y2="218" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="292" cy="208" r="11" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="326" y1="252" x2="326" y2="218" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="326" cy="208" r="11" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="360" y1="240" x2="360" y2="206" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="360" cy="196" r="11" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="400" y1="66" x2="416" y2="66" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="416" y1="66" x2="416" y2="340" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="406" y1="74" x2="406" y2="92" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M406 96 L404.32 92 L407.68 92 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="422" y="88" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ROOF RAIN</text>
+<rect x="360" y="340" width="80" height="22" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="446" y="354" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">BASEMENT TANK</text>
+<rect x="386" y="288" width="14" height="20" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="378" y="300" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">CONDENSATION CISTERN,</text>
+<text x="378" y="312" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">SOUTH-EAST CORNER</text>
+<line x1="140" y1="326" x2="360" y2="326" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="160" y1="326" x2="160" y2="318" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="194" y1="326" x2="194" y2="318" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="228" y1="326" x2="228" y2="318" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="262" y1="326" x2="262" y2="318" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="296" y1="326" x2="296" y2="318" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="330" y1="326" x2="330" y2="318" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="360" y1="326" x2="360" y2="340" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="140" y="362" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">SPRINKLER LINE UNDER THE GARDEN</text>
+<text x="140" y="374" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE BUILDING'S BEST AND LEAST-KNOWN FEATURE</text>
+<line x1="86" y1="96" x2="86" y2="236" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<text x="80" y="112" font-family="&#39;Space Mono&#39;,monospace" font-size="11" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">?</text>
+<text x="80" y="148" font-family="&#39;Space Mono&#39;,monospace" font-size="11" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">?</text>
+<text x="80" y="184" font-family="&#39;Space Mono&#39;,monospace" font-size="11" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">?</text>
+<text x="80" y="220" font-family="&#39;Space Mono&#39;,monospace" font-size="11" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">?</text>
+<circle cx="86" cy="230" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<text x="80" y="233" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">10%</text>
+<text x="58" y="84" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE ONE PUBLISHED ENVIRONMENTAL NUMBER</text>
+<line x1="58" y1="390" x2="612" y2="390" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="406" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">10 PER CENT RELATIVE HUMIDITY IN WINTER, AT PLANT LEVEL. NO INVESTIGATOR, INSTRUMENT,</text>
+<text x="58" y="418" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">PERIOD OR HEIGHT IS STATED — IN A VOLUME 160 FEET TALL, WHERE STRATIFICATION IS CERTAIN.</text>
+<text x="58" y="440" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">INTO IT WENT SAUCER MAGNOLIAS, WHICH NEED WINTER CHILL, AND EUCALYPTUS BROUGHT FROM</text>
+<text x="58" y="452" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">CALIFORNIA. BOTH FAILED, FOR OPPOSITE REASONS. THE STATED INTENT OF THE GARDEN IS SOCIAL;</text>
+<text x="58" y="464" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NO THERMAL INTENT APPEARS IN ANY NEAR-CONTEMPORARY ACCOUNT.</text>
+</svg>

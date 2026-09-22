@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 452" role="img" aria-label="A chart of four house types with a bar for temperature reduction and a bar for lag in hours, the courtyard house far ahead.">
+<text x="36.0" y="44.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">INDOOR MAXIMUM AGAINST AN OUTDOOR MAXIMUM OF ABOUT 35 °C</text>
+<line x1="168.0" y1="58.0" x2="168.0" y2="228.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="232.0" y1="58.0" x2="232.0" y2="228.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="296.0" y1="58.0" x2="296.0" y2="228.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="360.0" y1="58.0" x2="360.0" y2="228.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="424.0" y1="58.0" x2="424.0" y2="228.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="264.0" y1="58.0" x2="264.0" y2="228.0" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="248.0" y="246.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">← HOTTER THAN OUTSIDE</text>
+<text x="280.0" y="246.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">COOLER THAN OUTSIDE →</text>
+<text x="168.0" y="76.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">PEUL THATCH HOUSE</text>
+<text x="168.0" y="88.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">ROUND, THATCH</text>
+<rect x="264.0" y="66.0" width="32.0" height="20.0" fill="var(--surface,#1F211E)"/>
+<rect x="264.0" y="66.0" width="32.0" height="20.0" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="496.0" y="80.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">ABOUT 1 · NO LAG</text>
+<text x="168.0" y="116.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">MOSSI ADOBE HOUSE</text>
+<text x="168.0" y="128.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">ROUND, CONICAL ROOF</text>
+<rect x="296.0" y="106.0" width="32.0" height="20.0" fill="var(--surface,#1F211E)"/>
+<rect x="296.0" y="106.0" width="32.0" height="20.0" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="496.0" y="120.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">1 TO 2 · ABOUT 1 H</text>
+<text x="168.0" y="156.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">POPULAR HOUSE</text>
+<text x="168.0" y="168.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">FIBRE-CEMENT ROOF</text>
+<rect x="168.0" y="146.0" width="64.0" height="20.0" fill="var(--surface,#1F211E)"/>
+<rect x="168.0" y="146.0" width="64.0" height="20.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="496.0" y="160.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">1 TO 3 HOTTER · NO LAG</text>
+<text x="168.0" y="196.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">SHARED COURTYARD HOUSE</text>
+<text x="168.0" y="208.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">COMPACT, SHARED PATIOS</text>
+<rect x="424.0" y="186.0" width="44.8" height="20.0" fill="var(--surface,#1F211E)"/>
+<rect x="424.0" y="186.0" width="44.8" height="20.0" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="468.8" y1="186.0" x2="478.8" y2="196.0" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="468.8" y1="206.0" x2="478.8" y2="196.0" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="496.0" y="200.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">OVER 5 · OVER 5 H</text>
+<text x="36.0" y="284.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">RANKING, BEST TO WORST: COURTYARD, MOSSI, PEUL, POPULAR.</text>
+<text x="36.0" y="300.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE PLAN GEOMETRY DID THE WORK — NOT THE THATCH.</text>
+<line x1="36.0" y1="322.0" x2="604.0" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="36.0" y="344.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AND THE COST OF A TIGHT ENVELOPE, MEASURED ONCE</text>
+<line x1="264.0" y1="356.0" x2="264.0" y2="386.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="264.0" y="400.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="392.0" y1="356.0" x2="392.0" y2="386.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="392.0" y="400.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1,000</text>
+<line x1="520.0" y1="356.0" x2="520.0" y2="386.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="520.0" y="400.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2,000</text>
+<rect x="494.4" y="358.0" width="12.8" height="22.0" fill="var(--surface,#1F211E)"/>
+<rect x="494.4" y="358.0" width="12.8" height="22.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="252.0" y="372.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">CARBON DIOXIDE, ppm</text>
+<text x="517.2" y="372.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">1,800–1,900 ppm</text>
+<text x="36.0" y="424.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROUGHLY FOUR TO FIVE TIMES OUTDOOR · WIDERA 2021</text>
+<text x="36.0" y="440.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AGUILAR-SANCHEZ, ALMODOVAR-MELENDO &amp; CABEZA-LAINEZ 2023 · BURKINA FASO, 2021–22</text>
+</svg>

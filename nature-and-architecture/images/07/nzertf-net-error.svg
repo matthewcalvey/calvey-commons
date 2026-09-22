@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Bar chart comparing predicted and measured annual electricity use, solar generation and net surplus for a net-zero test house, the surplus bars differing dramatically while the others nearly match.">
+
+<line x1="92" y1="90" x2="92" y2="266" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="92" y1="266" x2="596" y2="266" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="92" y1="266" x2="596" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="92" y1="209.33" x2="596" y2="209.33" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="212.33" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">5,000</text>
+<line x1="92" y1="152.67" x2="596" y2="152.67" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="155.67" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">10,000</text>
+<line x1="92" y1="96" x2="596" y2="96" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="99" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">15,000</text>
+<text x="86" y="52" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">ANNUAL ELECTRICITY  ·  kWh  ·  ONE AXIS FOR ALL THREE PAIRS</text>
+<text x="86" y="68" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">A 16 AND A 5 PER CENT ERROR BECOME AN 81 PER CENT ERROR BY SUBTRACTION.</text>
+<rect x="122" y="139.57" width="44" height="126.43" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="144" y="132.57" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">11,156</text>
+<text x="144" y="281" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">SIMULATED</text>
+<rect x="176" y="119.49" width="44" height="146.51" fill="var(--dim,#B8B5AC)" opacity="0.5"/>
+<rect x="176" y="119.49" width="44" height="146.51" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="198" y="112.49" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">12,927</text>
+<text x="198" y="281" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">MEASURED</text>
+<text x="171" y="298" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">CONSUMPTION</text>
+<text x="171" y="311" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.04em">− 15.9 %</text>
+<rect x="278" y="104.82" width="44" height="161.18" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="300" y="97.82" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">14,222</text>
+<text x="300" y="281" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">SIMULATED</text>
+<rect x="332" y="112.74" width="44" height="153.26" fill="var(--dim,#B8B5AC)" opacity="0.5"/>
+<rect x="332" y="112.74" width="44" height="153.26" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="354" y="105.74" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">13,523</text>
+<text x="354" y="281" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">MEASURED</text>
+<text x="327" y="298" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">GENERATION</text>
+<text x="327" y="311" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.04em">+ 5.2 %</text>
+<rect x="420" y="90" width="126" height="176" fill="var(--hot,#C45C3E)" opacity="0.09"/>
+<rect x="434" y="231.25" width="44" height="34.75" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="456" y="224.25" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">3,066</text>
+<text x="456" y="281" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">SIMULATED</text>
+<rect x="488" y="259.25" width="44" height="6.75" fill="var(--hot,#C45C3E)" opacity="0.5"/>
+<rect x="488" y="259.25" width="44" height="6.75" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="510" y="252.25" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">596</text>
+<text x="510" y="281" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">MEASURED</text>
+<text x="483" y="298" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">NET SURPLUS</text>
+<text x="483" y="311" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">− 80.6 %</text>
+<text x="44" y="336" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">A federal test house, sub-metered for a year, against a model published before the demonstration year. There were</text>
+<text x="44" y="347" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">no occupants. The error in a net quantity is the sum of the component errors divided by a small number, and the</text>
+<text x="44" y="358" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">net quantity is what the building was designed to deliver. The third pair is on the same axis as the first two; that</text>
+<text x="44" y="369" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">is the whole point of the drawing. NIST Special Publication 1182, Kneifel, Payne, Ullah and Ng 2015.</text>
+</svg>

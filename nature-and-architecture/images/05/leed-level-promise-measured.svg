@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" role="img" aria-label="Paired charts showing that promised energy savings rose neatly with certification level while measured savings did not rise at all.">
+<text x="56.00" y="26.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">PROPOSED AT DESIGN STAGE</text>
+<text x="56.00" y="40.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.14em">SIMULATED</text>
+<line x1="56.00" y1="286.00" x2="296.00" y2="286.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="56.00" y1="286.00" x2="56.00" y2="72.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="22.00" y="179.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 22.00 179.00)">SAVING  %</text>
+<path d="M94 240 L174 198 L254 156" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="butt"/>
+<circle cx="94.00" cy="240.00" r="4.40" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="174.00" cy="198.00" r="4.40" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="254.00" cy="156.00" r="4.40" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="94.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">CERTIFIED</text>
+<text x="174.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SILVER</text>
+<text x="254.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">GOLD+PLAT</text>
+<text x="62.00" y="88.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">RISES RELIABLY</text>
+<text x="62.00" y="101.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.02em">F(2,72) = 10.2  p &lt; 0.001</text>
+<text x="62.00" y="114.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.02em">η² = 0.22</text>
+<text x="56.00" y="326.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.02em">PER-LEVEL VALUES NOT PUBLISHED</text>
+<text x="56.00" y="338.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.02em">— SLOPE ONLY. MEDIAN 25 %</text>
+<text x="368.00" y="26.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MEASURED IN OPERATION</text>
+<text x="368.00" y="40.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ONE YEAR OF METERED ENERGY</text>
+<rect x="368.00" y="116.51" width="244.00" height="117.70" fill="var(--hot,#C45C3E)" fill-opacity="0.1"/>
+<line x1="368.00" y1="286.00" x2="612.00" y2="286.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="362.00" y="289.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-30</text>
+<line x1="368.00" y1="243.20" x2="612.00" y2="243.20" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="362.00" y="246.20" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-10</text>
+<line x1="368.00" y1="200.40" x2="612.00" y2="200.40" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="362.00" y="203.40" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">10</text>
+<line x1="368.00" y1="157.60" x2="612.00" y2="157.60" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="362.00" y="160.60" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">30</text>
+<line x1="368.00" y1="114.80" x2="612.00" y2="114.80" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="362.00" y="117.80" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">50</text>
+<line x1="368.00" y1="72.00" x2="612.00" y2="72.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="362.00" y="75.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">70</text>
+<line x1="368.00" y1="286.00" x2="368.00" y2="72.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="368.00" y1="221.80" x2="612.00" y2="221.80" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="334.00" y="179.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 334.00 179.00)">SAVING  %</text>
+<line x1="410.00" y1="116.51" x2="410.00" y2="234.21" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="403.00" y1="116.51" x2="417.00" y2="116.51" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="403.00" y1="234.21" x2="417.00" y2="234.21" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<circle cx="410.00" cy="175.36" r="3.80" fill="var(--ink,#ECEAE3)"/>
+<text x="420.00" y="186.36" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">21.7</text>
+<text x="410.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">CERTIFIED</text>
+<text x="410.00" y="313.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">N = 38</text>
+<line x1="490.00" y1="77.99" x2="490.00" y2="258.18" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="483.00" y1="77.99" x2="497.00" y2="77.99" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="483.00" y1="258.18" x2="497.00" y2="258.18" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<circle cx="490.00" cy="168.09" r="3.80" fill="var(--ink,#ECEAE3)"/>
+<text x="500.00" y="179.09" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">25.1</text>
+<text x="490.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SILVER</text>
+<text x="490.00" y="313.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">N = 35</text>
+<line x1="570.00" y1="93.19" x2="570.00" y2="263.96" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="563.00" y1="93.19" x2="577.00" y2="93.19" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="563.00" y1="263.96" x2="577.00" y2="263.96" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<circle cx="570.00" cy="178.57" r="3.80" fill="var(--ink,#ECEAE3)"/>
+<text x="580.00" y="189.57" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">20.2</text>
+<text x="570.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">GOLD+PLAT</text>
+<text x="570.00" y="313.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">N = 27</text>
+<line x1="368.00" y1="174.08" x2="612.00" y2="174.08" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="612.00" y="167.08" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">NO TREND</text>
+<text x="368.00" y="62.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">S.D. WHISKERS 27–42 POINTS</text>
+<text x="368.00" y="330.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MEASURED EUI  KBTU/FT²/YR</text>
+<text x="410.00" y="344.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">72.4</text>
+<text x="490.00" y="344.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">69.2</text>
+<text x="570.00" y="344.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">58.7</text>
+<line x1="40.00" y1="358.00" x2="612.00" y2="358.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="40.00" y="378.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The right panel&#x27;s differences are NOT statistically significant. Silver did not beat Certified; Gold and</text>
+<text x="40.00" y="392.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Platinum did not beat Silver. Energy credits explained 11 per cent of the variance in measured intensity.</text>
+<text x="40.00" y="406.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The rating predicted the promise, not the performance.</text>
+<text x="40.00" y="436.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">100 LEED-CERTIFIED US BUILDINGS · NEWSHAM, MANCINI AND BIRT 2009, TABLE 5</text>
+<text x="40.00" y="452.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">Three reported groups: Gold and Platinum are pooled in the source.</text>
+<text x="40.00" y="464.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">First years of operation; voluntary sample.</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Bar chart in which the middle substrate depth retains more rainfall than the deepest one during large storms.">
+<line x1="64.00" y1="268.00" x2="600.00" y2="268.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="271.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.0</text>
+<line x1="64.00" y1="219.36" x2="600.00" y2="219.36" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="222.36" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.5</text>
+<line x1="64.00" y1="170.73" x2="600.00" y2="170.73" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="173.73" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.0</text>
+<line x1="64.00" y1="122.09" x2="600.00" y2="122.09" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="125.09" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.5</text>
+<line x1="64.00" y1="73.45" x2="600.00" y2="73.45" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="76.45" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">2.0</text>
+<line x1="64.00" y1="268.00" x2="600.00" y2="268.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="64.00" y1="268.00" x2="64.00" y2="54.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="24.00" y="161.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 24.00 161.00)">RETAINED DEPTH  cm</text>
+<rect x="104.00" y="238.82" width="38.00" height="29.18" fill="var(--dim,#B8B5AC)" fill-opacity="0.22"/>
+<rect x="104.00" y="238.82" width="38.00" height="29.18" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="123.00" y="230.82" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">0.3</text>
+<text x="123.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10 cm</text>
+<rect x="150.00" y="238.82" width="38.00" height="29.18" fill="var(--dim,#B8B5AC)" fill-opacity="0.22"/>
+<rect x="150.00" y="238.82" width="38.00" height="29.18" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="169.00" y="230.82" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">0.3</text>
+<text x="169.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">15 cm</text>
+<rect x="196.00" y="248.55" width="38.00" height="19.45" fill="var(--dim,#B8B5AC)" fill-opacity="0.22"/>
+<rect x="196.00" y="248.55" width="38.00" height="19.45" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="215.00" y="240.55" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">0.2</text>
+<text x="215.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">20 cm</text>
+<text x="165.00" y="300.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">LOW  &lt; 0.64 CM</text>
+<rect x="290.00" y="141.55" width="38.00" height="126.45" fill="var(--dim,#B8B5AC)" fill-opacity="0.22"/>
+<rect x="290.00" y="141.55" width="38.00" height="126.45" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="309.00" y="133.55" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">1.3</text>
+<text x="309.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10 cm</text>
+<rect x="336.00" y="141.55" width="38.00" height="126.45" fill="var(--dim,#B8B5AC)" fill-opacity="0.22"/>
+<rect x="336.00" y="141.55" width="38.00" height="126.45" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="355.00" y="133.55" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">1.3</text>
+<text x="355.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">15 cm</text>
+<rect x="382.00" y="161.00" width="38.00" height="107.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.22"/>
+<rect x="382.00" y="161.00" width="38.00" height="107.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="401.00" y="153.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">1.1</text>
+<text x="401.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">20 cm</text>
+<text x="351.00" y="300.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MEDIUM  0.64–2.54 CM</text>
+<rect x="476.00" y="102.64" width="38.00" height="165.36" fill="var(--dim,#B8B5AC)" fill-opacity="0.22"/>
+<rect x="476.00" y="102.64" width="38.00" height="165.36" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="495.00" y="94.64" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">1.7</text>
+<text x="495.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10 cm</text>
+<rect x="522.00" y="83.18" width="38.00" height="184.82" fill="var(--accent,#6A9CC4)" fill-opacity="0.4"/>
+<rect x="522.00" y="83.18" width="38.00" height="184.82" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="541.00" y="75.18" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">1.9</text>
+<text x="541.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">15 cm</text>
+<rect x="568.00" y="161.00" width="38.00" height="107.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.22"/>
+<rect x="568.00" y="161.00" width="38.00" height="107.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="587.00" y="153.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">1.1</text>
+<text x="587.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">20 cm</text>
+<text x="537.00" y="300.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">HIGH  &gt; 2.54 CM</text>
+<text x="541.00" y="59.84" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">THE MIDDLE DEPTH WINS</text>
+<line x1="541.00" y1="65.67" x2="541.00" y2="75.40" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<path d="M541.00 75.40 L539.37 71.75 L542.63 71.75 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="70.00" y="64.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GROWING SEASON, PLANTED</text>
+<line x1="56.00" y1="320.00" x2="600.00" y2="320.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56.00" y="338.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Deeper is not better. In large storms the 20 cm profile retains least, because it was still wet from</text>
+<text x="56.00" y="352.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">the last storm. 15 cm retained significantly more than 20 cm in medium and high growing-season events.</text>
+<text x="56.00" y="384.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DATA 2005–2008 · ASHITEY ET AL. 2023</text>
+</svg>

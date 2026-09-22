@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Overlap diagram of arthropod species on three green roofs beside a panel of non-significant results for substrate treatments.">
+<text x="48.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">LEFT · WHERE THE SPECIES WERE</text>
+<circle cx="180.00" cy="110.00" r="62.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.14"/>
+<circle cx="180.00" cy="110.00" r="62.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="180.00" y="78.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ROOF 1</text>
+<circle cx="216.37" cy="173.00" r="62.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.14"/>
+<circle cx="216.37" cy="173.00" r="62.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="287.39" y="214.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ROOF 2</text>
+<circle cx="143.63" cy="173.00" r="62.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.14"/>
+<circle cx="143.63" cy="173.00" r="62.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="72.61" y="214.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ROOF 3</text>
+<text x="180.00" y="157.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">35 %</text>
+<circle cx="58.00" cy="284.00" r="5.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.4"/>
+<text x="70.00" y="288.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">35 %</text>
+<text x="108.00" y="288.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OF SPECIES ON ALL THREE ROOFS</text>
+<circle cx="58.00" cy="304.00" r="5.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.14"/>
+<circle cx="58.00" cy="304.00" r="5.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="70.00" y="308.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">40 %</text>
+<text x="108.00" y="308.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ON ONLY ONE ROOF</text>
+<text x="48.00" y="268.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THREE ROOFS, ONE KILOMETRE APART, HAIFA · SAMPLED 2013–2016</text>
+<line x1="324.00" y1="48.00" x2="324.00" y2="312.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="348.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">RIGHT · WHAT THE SPECIFICATION DID</text>
+<rect x="348.00" y="72.00" width="236.00" height="28.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="358.00" y="85.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUBSTRATE DEPTH VARIED</text>
+<text x="358.00" y="96.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NOT SIGNIFICANT</text>
+<rect x="348.00" y="112.00" width="236.00" height="28.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="358.00" y="125.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUBSTRATE TYPE VARIED</text>
+<text x="358.00" y="136.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NOT SIGNIFICANT</text>
+<rect x="348.00" y="152.00" width="236.00" height="28.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="358.00" y="165.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SURFACE RELIEF VARIED</text>
+<text x="358.00" y="176.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NOT SIGNIFICANT</text>
+<rect x="348.00" y="192.00" width="236.00" height="28.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="358.00" y="205.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MIXED HETEROGENEITY</text>
+<text x="358.00" y="216.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NOT SIGNIFICANT</text>
+<text x="348.00" y="252.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FOUR SUBSTRATE-HETEROGENEITY TREATMENTS.</text>
+<text x="348.00" y="264.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NONE MOVED THE ARTHROPOD ASSEMBLAGE.</text>
+<line x1="48.00" y1="326.00" x2="596.00" y2="326.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="346.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Location did the work. Specification did not.</text>
+<text x="48.00" y="382.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SCHINDLER ET AL. 2019</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-label="Timeline showing the few green roof and planting restudies that exist, and an empty row where restudies of celebrated buildings would be.">
+
+<line x1="208" y1="88" x2="560" y2="88" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="208" y1="88" x2="208" y2="83" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="208" y="76" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="296" y1="88" x2="296" y2="83" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="296" y="76" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10</text>
+<line x1="384" y1="88" x2="384" y2="83" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="384" y="76" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">20</text>
+<line x1="472" y1="88" x2="472" y2="83" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="472" y="76" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">30</text>
+<line x1="560" y1="88" x2="560" y2="83" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="560" y="76" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">40</text>
+<text x="208" y="60" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">YEARS SINCE COMPLETION</text>
+<text x="44" y="54" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">WHAT WAS REVISITED</text>
+<text x="44" y="111" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BERKELEY–OAKLAND BOULEVARD</text>
+<line x1="208" y1="108" x2="560" y2="108" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<circle cx="225.6" cy="108" r="3.6" fill="var(--ok,#7AB87A)"/>
+<text x="234.6" y="111" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">2</text>
+<text x="44" y="133" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ROME PLANTING</text>
+<line x1="208" y1="130" x2="560" y2="130" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<circle cx="252" cy="130" r="3.6" fill="var(--ok,#7AB87A)"/>
+<text x="261" y="133" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">5</text>
+<text x="44" y="155" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BERLIN-BRANDENBURG ROOF</text>
+<line x1="208" y1="152" x2="560" y2="152" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<rect x="208" y="147" width="79.2" height="10" fill="var(--ok,#7AB87A)" opacity="0.4"/>
+<rect x="208" y="147" width="79.2" height="10" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="295.2" y="155" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">CONTINUOUS 9-YEAR RECORD</text>
+<text x="44" y="177" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">DENVER GREEN ROOF</text>
+<line x1="208" y1="174" x2="560" y2="174" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<circle cx="313.6" cy="174" r="3.6" fill="var(--ok,#7AB87A)"/>
+<text x="322.6" y="177" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">12</text>
+<text x="44" y="199" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">WORCESTER YARD TREES</text>
+<line x1="208" y1="196" x2="560" y2="196" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<circle cx="313.6" cy="196" r="3.6" fill="var(--ok,#7AB87A)"/>
+<text x="322.6" y="199" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">12</text>
+<text x="44" y="221" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE STUTTGART NINE</text>
+<line x1="208" y1="218" x2="560" y2="218" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<line x1="384" y1="218" x2="445.6" y2="218" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="384" cy="218" r="3.4" fill="var(--ok,#7AB87A)"/>
+<circle cx="445.6" cy="218" r="3.4" fill="var(--ok,#7AB87A)"/>
+<text x="453.6" y="221" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">20 – 27</text>
+<text x="44" y="243" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">BERLIN RETROFIT</text>
+<line x1="208" y1="240" x2="560" y2="240" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<circle cx="507.2" cy="240" r="4.2" fill="none" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<text x="516.2" y="243" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CLOSED ACCESS</text>
+<line x1="44" y1="266" x2="592" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="44" y="282" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">WHAT WAS NOT</text>
+<text x="44" y="303" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">FALLINGWATER</text>
+<line x1="208" y1="300" x2="560" y2="300" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.5"/>
+<text x="44" y="321" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">PAIMIO SANATORIUM</text>
+<line x1="208" y1="318" x2="560" y2="318" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.5"/>
+<text x="44" y="339" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">THE FORD FOUNDATION ATRIUM</text>
+<line x1="208" y1="336" x2="560" y2="336" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.5"/>
+<text x="44" y="357" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">VILLAGE HOMES</text>
+<line x1="208" y1="354" x2="560" y2="354" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.5"/>
+<text x="44" y="375" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">THE QUEEN&#x27;S BUILDING</text>
+<line x1="208" y1="372" x2="560" y2="372" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.5"/>
+<text x="44" y="393" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">THE EASTGATE CENTRE</text>
+<line x1="208" y1="390" x2="560" y2="390" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.5"/>
+<text x="218" y="332" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">NO RESTUDY AT ANY AGE</text>
+<text x="44" y="416" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE BLANK ROW IS THE FIGURE&#x27;S ARGUMENT.</text>
+<text x="44" y="438" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">Compiled from this chapter&#x27;s bibliography, 1985–2026. All four restudies in the practice lane are vegetation,</text>
+<text x="44" y="449" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">and all four are by-products of other work.</text>
+</svg>

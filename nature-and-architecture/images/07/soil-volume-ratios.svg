@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Logarithmic plot of required soil volume per unit crown for eight cities spanning a twenty-four-fold range, with the commonly quoted value marked as one line.">
+
+<line x1="150" y1="50" x2="150" y2="286" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="150" y="300" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.5</text>
+<line x1="230.44" y1="50" x2="230.44" y2="286" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="230.44" y="300" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1</text>
+<line x1="310.88" y1="50" x2="310.88" y2="286" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="310.88" y="300" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2</text>
+<line x1="417.22" y1="50" x2="417.22" y2="286" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="417.22" y="300" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">5</text>
+<line x1="497.66" y1="50" x2="497.66" y2="286" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="497.66" y="300" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10</text>
+<line x1="578.1" y1="50" x2="578.1" y2="286" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="578.1" y="300" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">20</text>
+<text x="150" y="316" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">CUBIC FEET OF SOIL PER SQUARE FOOT OF CROWN PROJECTION  ·  LOG</text>
+<line x1="310.88" y1="38" x2="310.88" y2="286" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="316.88" y="34" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">THE RULE THE PROFESSION QUOTES  ·  2.0</text>
+<line x1="150" y1="64" x2="604" y2="64" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<text x="140" y="67" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">ITHACA</text>
+<circle cx="189.05" cy="64" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="197.05" y="67.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">0.70</text>
+<line x1="150" y1="86" x2="604" y2="86" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<text x="140" y="89" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">MOBILE</text>
+<circle cx="204.55" cy="86" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="212.55" y="89.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">0.80</text>
+<line x1="150" y1="108" x2="604" y2="108" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<text x="140" y="111" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">MIAMI</text>
+<circle cx="219.5" cy="108" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="227.5" y="111.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">0.91</text>
+<line x1="150" y1="130" x2="604" y2="130" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<text x="140" y="133" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">MINNEAPOLIS</text>
+<circle cx="243.59" cy="130" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="251.59" y="133.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">1.12</text>
+<line x1="150" y1="152" x2="604" y2="152" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<text x="140" y="155" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">INDIANAPOLIS</text>
+<circle cx="258.18" cy="152" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="266.18" y="155.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">1.27</text>
+<line x1="150" y1="174" x2="604" y2="174" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<text x="140" y="177" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">SEATTLE</text>
+<circle cx="279.79" cy="174" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="287.79" y="177.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">1.53</text>
+<line x1="150" y1="196" x2="604" y2="196" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<text x="140" y="199" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">DENVER</text>
+<circle cx="323.52" cy="196" r="3.4" fill="var(--hot,#C45C3E)"/>
+<text x="331.52" y="199.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">2.23</text>
+<line x1="150" y1="218" x2="604" y2="218" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.5"/>
+<text x="140" y="221" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">PHOENIX</text>
+<circle cx="560.6" cy="218" r="3.4" fill="var(--hot,#C45C3E)"/>
+<text x="552.6" y="221.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.04em">17.20</text>
+<line x1="189.05" y1="234" x2="560.6" y2="234" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="189.05" y1="230" x2="189.05" y2="238" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="560.6" y1="230" x2="560.6" y2="238" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="374.82" y="249" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">TWENTY-FOUR-FOLD SPREAD INSIDE THE SOURCE PAPER&#x27;S OWN TABLE 3</text>
+<rect x="174.96" y="262" width="68.63" height="16" fill="var(--dim,#B8B5AC)" opacity="0.22"/>
+<line x1="174.96" y1="262" x2="174.96" y2="278" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="243.59" y1="262" x2="243.59" y2="278" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="140" y="273" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">BOSTON</text>
+<text x="251.59" y="273" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">0.62 – 1.12  DEGAETANO 2000, DIFFERENT ASSUMPTIONS</text>
+<text x="48" y="372" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Lindsey and Bassuk 1991 Table 3; DeGaetano 2000. The rule is an explicitly rough</text>
+<text x="48" y="383" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">general estimate from a water budget. A linear axis would hide every city but Phoenix.</text>
+</svg>

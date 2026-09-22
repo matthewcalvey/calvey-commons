@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Three boxes of increasing size representing air space per soldier, beside a falling line of death rates.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AIR PER BODY · CUBIC FEET A MAN</text>
+<text x="58" y="38" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BOXES PROPORTIONAL IN AREA TO THE VOLUME ALLOWED</text>
+<rect x="58" y="127.37" width="64.63" height="64.63" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="58" y="208" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">450</text>
+<text x="58" y="221" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HOME, 1845</text>
+<rect x="144.63" y="117.37" width="74.63" height="74.63" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="144.63" y="208" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">600</text>
+<text x="144.63" y="221" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HOME, 1858</text>
+<rect x="241.26" y="74" width="118" height="118" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="241.26" y="208" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">1,500</text>
+<text x="241.26" y="221" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">INDIA, DE RENZY 1883</text>
+<text x="58" y="244" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FLOOR: 80 SQ FT IN INDIA · 50 SQ FT IN HALL'S ADVOCACY</text>
+<text x="58" y="258" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MORE THAN TWICE THE HOME ALLOWANCE, FOR THE SAME ARMY.</text>
+<line x1="382" y1="40" x2="382" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="400" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DEATHS PER 1,000</text>
+<line x1="400" y1="56" x2="400" y2="200" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="400" y1="200" x2="612" y2="200" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="396" y1="200" x2="400" y2="200" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="393" y="203" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="396" y1="158.86" x2="400" y2="158.86" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="393" y="161.86" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">20</text>
+<line x1="396" y1="117.71" x2="400" y2="117.71" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="393" y="120.71" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">40</text>
+<line x1="396" y1="76.57" x2="400" y2="76.57" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="393" y="79.57" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">60</text>
+<circle cx="424" cy="58.06" r="3.4" fill="var(--hot,#C45C3E)"/>
+<text x="424" y="50.06" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">69</text>
+<text x="424" y="215" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1800–56</text>
+<circle cx="472" cy="153.45" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="472" y="145.45" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">22.63</text>
+<text x="472" y="215" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">BENGAL</text>
+<text x="472" y="226" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1862–80</text>
+<circle cx="520" cy="178.19" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="520" y="170.19" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">10.6</text>
+<text x="520" y="215" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">FORT WILLIAM</text>
+<text x="520" y="226" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">TO 1880</text>
+<circle cx="568" cy="182.14" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<text x="568" y="174.14" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">8.68</text>
+<text x="568" y="215" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ENGLAND</text>
+<path d="M424 58.06 L472 153.45 L520 178.19 L568 182.14" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="400" y="248" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FOUR POPULATIONS, FOUR PERIODS.</text>
+<text x="400" y="260" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A FALLING SHAPE, NOT A SERIES.</text>
+<line x1="58" y1="322" x2="612" y2="322" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="342" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DE RENZY'S OWN READING OF THE RESIDUAL DEATHS: WATER, NOT CLIMATE.</text>
+<text x="58" y="360" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE CUBIC-FOOT RULE WAS TRIPLED FOR INDIA ON A MIASMATIC ARGUMENT ABOUT AIR,</text>
+<text x="58" y="372" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND THE MAN WHO SET IT SAID THE DEATHS CAME FROM THE WATER SUPPLY.</text>
+<text x="58" y="392" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NO INSTRUMENTED MEASUREMENT OF AIR CHANGE, TEMPERATURE OR HUMIDITY IN ANY BARRACK WAS FOUND.</text>
+</svg>

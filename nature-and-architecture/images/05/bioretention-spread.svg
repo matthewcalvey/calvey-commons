@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Dot plot of bioretention pollutant-removal results showing tight clustering for particulates and wide scatter, including negative removal, for dissolved nutrients.">
+<line x1="207.08" y1="66.00" x2="207.08" y2="290.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="207.08" y="306.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-250</text>
+<line x1="262.49" y1="66.00" x2="262.49" y2="290.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="262.49" y="306.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-200</text>
+<line x1="317.89" y1="66.00" x2="317.89" y2="290.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="317.89" y="306.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-150</text>
+<line x1="373.30" y1="66.00" x2="373.30" y2="290.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="373.30" y="306.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-100</text>
+<line x1="428.70" y1="66.00" x2="428.70" y2="290.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="428.70" y="306.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-50</text>
+<line x1="484.11" y1="66.00" x2="484.11" y2="290.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="484.11" y="306.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="539.51" y1="66.00" x2="539.51" y2="290.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="539.51" y="306.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">50</text>
+<line x1="594.92" y1="66.00" x2="594.92" y2="290.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="594.92" y="306.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">100</text>
+<line x1="484.11" y1="66.00" x2="484.11" y2="290.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="5 3"/>
+<text x="401.00" y="324.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">REMOVAL  %</text>
+<text x="478.11" y="56.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">LEFT OF ZERO THE CELL EXPORTED THE POLLUTANT</text>
+<text x="186.00" y="82.17" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">TOTAL SUSPENDED</text>
+<text x="186.00" y="93.17" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">SOLIDS</text>
+<line x1="581.62" y1="97.67" x2="593.81" y2="97.67" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<circle cx="590.49" cy="81.88" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="589.38" cy="79.63" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="592.70" cy="86.13" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="583.84" cy="78.61" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="587.16" cy="84.63" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="591.59" cy="82.42" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="593.81" cy="78.42" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="581.62" cy="84.26" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="588.27" cy="78.15" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<line x1="104.00" y1="103.33" x2="606.00" y2="103.33" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="186.00" y="125.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">METALS Cu Pb Zn</text>
+<line x1="566.11" y1="135.00" x2="591.59" y2="135.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<circle cx="586.05" cy="120.64" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="581.62" cy="115.91" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="589.38" cy="116.18" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="566.11" cy="120.52" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="573.86" cy="125.75" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="591.59" cy="116.61" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<circle cx="579.41" cy="117.90" r="3.30" fill="var(--ok,#7AB87A)" fill-opacity="0.62"/>
+<line x1="104.00" y1="140.67" x2="606.00" y2="140.67" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="186.00" y="162.33" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">TOTAL PHOSPHORUS</text>
+<line x1="449.76" y1="172.33" x2="571.65" y2="172.33" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="571.65" cy="160.49" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="556.14" cy="164.65" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="529.54" cy="159.84" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="495.19" cy="157.49" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="475.24" cy="165.02" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="545.05" cy="152.94" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="510.70" cy="163.49" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="449.76" cy="156.10" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<line x1="104.00" y1="178.00" x2="606.00" y2="178.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="186.00" y="199.67" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">TOTAL NITROGEN</text>
+<line x1="463.05" y1="209.67" x2="545.05" y2="209.67" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="545.05" cy="191.54" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="519.57" cy="191.20" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="499.62" cy="193.68" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="477.46" cy="200.28" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="531.76" cy="192.02" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="463.05" cy="197.23" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<circle cx="492.97" cy="197.97" r="3.30" fill="var(--dim,#B8B5AC)" fill-opacity="0.62"/>
+<line x1="104.00" y1="215.33" x2="606.00" y2="215.33" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="186.00" y="237.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">NITRATE</text>
+<line x1="376.62" y1="247.00" x2="528.43" y2="247.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<circle cx="510.70" cy="231.84" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="470.81" cy="234.12" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="423.16" cy="227.82" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="500.73" cy="227.77" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="376.62" cy="229.68" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="528.43" cy="235.85" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="447.54" cy="232.56" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<line x1="104.00" y1="252.67" x2="606.00" y2="252.67" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="186.00" y="274.33" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">DISSOLVED REACTIVE P</text>
+<line x1="222.59" y1="284.33" x2="504.05" y2="284.33" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<circle cx="470.81" cy="268.42" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="435.35" cy="271.95" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="362.22" cy="270.22" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="504.05" cy="268.23" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="222.59" cy="274.66" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="406.54" cy="273.42" r="3.30" fill="var(--hot,#C45C3E)" fill-opacity="0.62"/>
+<circle cx="222.59" cy="273.33" r="5.20" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<line x1="222.59" y1="99.60" x2="222.59" y2="267.33" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="230.59" y="84.67" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">DISSOLVED REACTIVE</text>
+<text x="230.59" y="95.67" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">PHOSPHORUS UP 236 %</text>
+<text x="104.00" y="344.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EVERY REPORTED VALUE IS PLOTTED · NO MEANS ARE SHOWN</text>
+<text x="104.00" y="358.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">Vertical position within a row is jittered for legibility only.</text>
+<line x1="56.00" y1="372.00" x2="606.00" y2="372.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56.00" y="390.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Particulates cluster near complete removal. Dissolved nutrients scatter across zero and below it:</text>
+<text x="56.00" y="404.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">the same device, the same literature, a change of sign.</text>
+<text x="56.00" y="432.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">VALUES 2003–2025 · DAVIS 2003, 2006; YOUNGBLOOD 2017; JAY 2019; BODUS 2025; PATRICK 2025</text>
+</svg>

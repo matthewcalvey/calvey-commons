@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Scatter plot showing measured green roof substrate depth falling as roof age increases across nine German roofs.">
+
+<line x1="92" y1="78" x2="92" y2="252" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="92" y1="252" x2="480" y2="252" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="92" y1="252" x2="480" y2="252" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="255" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">20</text>
+<line x1="92" y1="220" x2="480" y2="220" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="223" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">40</text>
+<line x1="92" y1="188" x2="480" y2="188" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="191" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">60</text>
+<line x1="92" y1="156" x2="480" y2="156" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="159" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">80</text>
+<line x1="92" y1="124" x2="480" y2="124" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="127" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">100</text>
+<line x1="92" y1="92" x2="480" y2="92" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="95" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">120</text>
+<text x="86" y="62" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MEAN MEASURED SUBSTRATE DEPTH  ·  MM</text>
+<line x1="162.55" y1="252" x2="162.55" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="162.55" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">20</text>
+<line x1="233.09" y1="252" x2="233.09" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="233.09" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">22</text>
+<line x1="303.64" y1="252" x2="303.64" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="303.64" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">24</text>
+<line x1="374.18" y1="252" x2="374.18" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="374.18" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">26</text>
+<line x1="444.73" y1="252" x2="444.73" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="444.73" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">28</text>
+<text x="92" y="285" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">ROOF AGE AT SURVEY  ·  YEARS</text>
+<rect x="92" y="124" width="388" height="32" fill="var(--accent,#6A9CC4)" opacity="0.22"/>
+<rect x="92" y="124" width="388" height="32" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="474" y="143" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="end" letter-spacing="0.08em">A TYPICAL SPECIFIED EXTENSIVE DEPTH</text>
+<rect x="141.38" y="98.4" width="112.87" height="48" fill="var(--dim,#B8B5AC)" opacity="0.18"/>
+<rect x="141.38" y="98.4" width="112.87" height="48" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="197.82" y="90.4" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">THE YOUNGER ROOFS</text>
+<text x="197.82" y="125.6" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">86 MM AND ABOVE</text>
+<rect x="353.02" y="198.72" width="98.76" height="21.76" fill="var(--hot,#C45C3E)" opacity="0.28"/>
+<rect x="353.02" y="198.72" width="98.76" height="21.76" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="402.4" y="190.72" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">THE OLDEST ROOFS</text>
+<text x="402.4" y="231.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">39.7 – 53.3 MM</text>
+<line x1="162.55" y1="124" x2="444.73" y2="210.4" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<rect x="102.58" y="226.4" width="196" height="40" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="110.58" y="241.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">NINE ROOFS.  INDIVIDUAL</text>
+<text x="110.58" y="252.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">COORDINATES ARE NOT REPORTED</text>
+<text x="110.58" y="263.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">IN THE SOURCE — CLUSTERS ONLY.</text>
+<text x="498" y="96" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SIX BY ZINCO,</text>
+<text x="498" y="107" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">THREE BY OTHERS,</text>
+<text x="498" y="118" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">INSTALLED IN THE</text>
+<text x="498" y="129" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">EARLY 1980s.</text>
+<text x="498" y="156" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">MAINTENANCE</text>
+<text x="498" y="167" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CONTRACTS NOT</text>
+<text x="498" y="178" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">RENEWED, EARLY</text>
+<text x="498" y="189" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">1990s.</text>
+<text x="498" y="216" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ORIGINAL</text>
+<text x="498" y="227" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">SPECIFICATIONS</text>
+<text x="498" y="238" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">LOST.</text>
+<text x="44" y="316" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">A roof specified at eighty or a hundred millimetres is not that roof at year twenty-five. It drifts out of the standard</text>
+<text x="44" y="327" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">by doing nothing, and no inspection regime in general practice would detect it. There is no baseline: the original</text>
+<text x="44" y="338" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">depths, compositions and species lists are gone, which is itself a finding about record-keeping. Organic content</text>
+<text x="44" y="349" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">exceeded the FLL limits on four of the nine, and composition simplified toward Sedum with age.</text>
+<text x="44" y="360" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Thuring and Dunnett 2014; surveyed 2010–11 in twelve to eighteen quadrats per roof.</text>
+</svg>

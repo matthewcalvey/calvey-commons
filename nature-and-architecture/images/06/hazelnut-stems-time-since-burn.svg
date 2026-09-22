@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 462" role="img" aria-label="Two-panel chart of hazelnut basketry stem counts and harvest rates by fire history.">
+<line x1="150.00" y1="192.00" x2="560.00" y2="192.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="144.00" y="195.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="150.00" y1="159.00" x2="560.00" y2="159.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="144.00" y="162.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">3</text>
+<line x1="150.00" y1="126.00" x2="560.00" y2="126.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="144.00" y="129.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">6</text>
+<line x1="150.00" y1="93.00" x2="560.00" y2="93.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="144.00" y="96.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">9</text>
+<line x1="150.00" y1="60.00" x2="560.00" y2="60.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="144.00" y="63.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">12</text>
+<line x1="150.00" y1="192.00" x2="560.00" y2="192.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="150.00" y1="192.00" x2="150.00" y2="60.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="106.00" y="126.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 106.00 126.00)">STEMS PER SHRUB</text>
+<text x="150.00" y="36.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A · BASKETRY STEMS BY TIME SINCE BURN</text>
+<text x="150.00" y="48.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ESTIMATED MARGINAL MEANS WITH STANDARD ERRORS</text>
+<line x1="186.00" y1="73.46" x2="254.00" y2="73.46" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="220.00" y1="83.03" x2="220.00" y2="63.89" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="214.00" y1="63.89" x2="226.00" y2="63.89" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<line x1="214.00" y1="83.03" x2="226.00" y2="83.03" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="180.00" y="64.46" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="end">10.776</text>
+<text x="220.00" y="208.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ONE GROWING SEASON</text>
+<text x="220.00" y="219.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SE 0.87</text>
+<line x1="321.00" y1="172.12" x2="389.00" y2="172.12" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="355.00" y1="174.87" x2="355.00" y2="169.37" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="349.00" y1="169.37" x2="361.00" y2="169.37" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="349.00" y1="174.87" x2="361.00" y2="174.87" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="315.00" y="163.12" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.0em" text-anchor="end">1.807</text>
+<text x="355.00" y="208.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">TWO SEASONS</text>
+<text x="355.00" y="219.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SE 0.25</text>
+<line x1="456.00" y1="183.19" x2="524.00" y2="183.19" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="490.00" y1="184.07" x2="490.00" y2="182.31" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="484.00" y1="182.31" x2="496.00" y2="182.31" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="484.00" y1="184.07" x2="496.00" y2="184.07" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="450.00" y="174.19" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="end">0.801</text>
+<text x="490.00" y="208.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THREE OR MORE</text>
+<text x="490.00" y="219.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SE 0.08</text>
+<line x1="220.00" y1="79.46" x2="490.00" y2="177.19" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="389.00" y="130.40" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">THIRTEEN-FOLD</text>
+<line x1="150.00" y1="352.00" x2="560.00" y2="352.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="144.00" y="355.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="150.00" y1="316.36" x2="560.00" y2="316.36" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="144.00" y="319.36" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">2</text>
+<line x1="150.00" y1="280.73" x2="560.00" y2="280.73" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="144.00" y="283.73" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">4</text>
+<line x1="150.00" y1="352.00" x2="560.00" y2="352.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="150.00" y1="352.00" x2="150.00" y2="254.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="106.00" y="303.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 106.00 303.00)">STEMS / MINUTE</text>
+<text x="150.00" y="240.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">B · HARVEST RATE BY FIRE HISTORY</text>
+<rect x="186.00" y="264.69" width="68.00" height="87.31" fill="var(--ok,#7AB87A)" fill-opacity="0.28"/>
+<rect x="186.00" y="264.69" width="68.00" height="87.31" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="220.00" y="256.69" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="middle">4.9</text>
+<text x="220.00" y="368.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">CULTURAL BURN</text>
+<rect x="321.00" y="323.49" width="68.00" height="28.51" fill="var(--dim,#B8B5AC)" fill-opacity="0.28"/>
+<rect x="321.00" y="323.49" width="68.00" height="28.51" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="355.00" y="315.49" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.0em" text-anchor="middle">1.6</text>
+<text x="355.00" y="368.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">WILDFIRE</text>
+<rect x="456.00" y="343.09" width="68.00" height="8.91" fill="var(--hot,#C45C3E)" fill-opacity="0.28"/>
+<rect x="456.00" y="343.09" width="68.00" height="8.91" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="490.00" y="335.09" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">0.5</text>
+<text x="490.00" y="368.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">FIRE-EXCLUDED</text>
+<line x1="64.00" y1="382.00" x2="596.00" y2="382.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="402.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The resource and the labour cost move together. Between a burned and an unburned grove the</text>
+<text x="64.00" y="416.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">difference is about tenfold in a weaver’s time.</text>
+<text x="64.00" y="446.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DATA 2015–2019 · MARKS-BLOCK, LAKE, BLIEGE BIRD &amp; CURRAN 2021</text>
+</svg>

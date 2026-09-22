@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 424" role="img" aria-label="Bar chart of survey percentages on dissatisfaction with windowless offices above a timeline showing the towers were built first.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHAT THE OCCUPANTS SAID, ONCE ANYONE ASKED</text>
+<text x="58" y="48" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RUYS 1970 · 139 SEATTLE OFFICE WORKERS</text>
+<rect x="58" y="53" width="334.8" height="13" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="400.8" y="64" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">90%</text>
+<text x="438.8" y="64" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">DISSATISFIED WITH NO WINDOW</text>
+<text x="58" y="86" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RUYS 1970</text>
+<rect x="58" y="91" width="186" height="13" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="252" y="102" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">50%</text>
+<text x="290" y="102" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BELIEVED IT HARMED THEIR WORK</text>
+<text x="58" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RUYS 1970</text>
+<rect x="58" y="129" width="130.2" height="13" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="196.2" y="140" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">35%</text>
+<text x="234.2" y="140" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">NAMED IT UNPROMPTED</text>
+<text x="58" y="162" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WELLS 1965</text>
+<rect x="58" y="167" width="331.08" height="13" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="397.08" y="178" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">89%</text>
+<text x="435.08" y="178" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WANTED TO SEE OUT</text>
+<text x="58" y="200" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WELLS 1965</text>
+<rect x="58" y="205" width="3.72" height="13" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="69.72" y="216" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">1%</text>
+<text x="107.72" y="216" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">INDIFFERENT</text>
+<text x="58" y="238" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MANNING 1965 · FUNDED BY A FLAT-GLASS MAKER</text>
+<rect x="58" y="243" width="241.8" height="13" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="307.8" y="254" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">65%</text>
+<text x="345.8" y="254" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">WANTED DAYLIGHT</text>
+<line x1="58" y1="268" x2="430" y2="268" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58" y1="268" x2="58" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="58" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="151" y1="268" x2="151" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="151" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">25</text>
+<line x1="244" y1="268" x2="244" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="244" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">50</text>
+<line x1="337" y1="268" x2="337" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="337" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">75</text>
+<line x1="430" y1="268" x2="430" y2="272" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="430" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">100</text>
+<text x="58" y="297" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PER CENT OF THOSE ASKED</text>
+<line x1="58" y1="312" x2="612" y2="312" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="58" y1="350" x2="580" y2="350" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<line x1="132.57" y1="350" x2="132.57" y2="355" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="132.57" y="368" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1950</text>
+<line x1="281.71" y1="350" x2="281.71" y2="355" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="281.71" y="368" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1960</text>
+<line x1="430.86" y1="350" x2="430.86" y2="355" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="430.86" y="368" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1970</text>
+<line x1="580" y1="350" x2="580" y2="355" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="580" y="368" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1980</text>
+<rect x="132.57" y="332" width="119.31" height="14" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="132.57" y="328" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE TOWERS · 1950, 1952, 1958</text>
+<rect x="356.29" y="332" width="149.14" height="14" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="356.29" y="328" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE RESEARCH · 1965–1975</text>
+<text x="58" y="390" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BOTH WINGS OF THIS CHAPTER BUILT FIRST AND ASKED AFTERWARDS.</text>
+<text x="58" y="406" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A NEARBY WINDOW, BRIGHTER LIGHT AND WARM COLOURS DID NOT CHANGE THE DISLIKE.</text>
+</svg>

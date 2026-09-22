@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="A horizontal timeline from 1750 to 1914 with labelled points for buildings and texts, and a few points marked with a thermometer symbol.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CHAPTER 3 · 1750 TO 1914</text>
+<line x1="58" y1="308" x2="600" y2="308" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<line x1="58" y1="308" x2="58" y2="313" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="58" y="326" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1750</text>
+<line x1="137.71" y1="308" x2="137.71" y2="313" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="137.71" y="326" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1775</text>
+<line x1="217.41" y1="308" x2="217.41" y2="313" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="217.41" y="326" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1800</text>
+<line x1="297.12" y1="308" x2="297.12" y2="313" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="297.12" y="326" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1825</text>
+<line x1="376.82" y1="308" x2="376.82" y2="313" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="376.82" y="326" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1850</text>
+<line x1="456.53" y1="308" x2="456.53" y2="313" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="456.53" y="326" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1875</text>
+<line x1="536.24" y1="308" x2="536.24" y2="313" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="536.24" y="326" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1900</text>
+<line x1="67.56" y1="308" x2="67.56" y2="288" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="67.56" cy="308" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<text x="72.56" y="284" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">LAUGIER</text>
+<text x="72.56" y="295" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1753</text>
+<line x1="96.26" y1="308" x2="96.26" y2="262" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="96.26" cy="308" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<text x="101.26" y="258" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">PAINSHILL</text>
+<text x="101.26" y="269" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1762</text>
+<line x1="249.29" y1="308" x2="249.29" y2="288" stroke="var(--ok,#7AB87A)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="249.29" cy="308" r="5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="249.29" y1="303" x2="249.29" y2="295" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="254.29" y="284" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">MONTICELLO</text>
+<text x="254.29" y="295" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1810</text>
+<line x1="309.87" y1="308" x2="309.87" y2="262" stroke="var(--ok,#7AB87A)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="309.87" cy="308" r="2.8" fill="var(--ok,#7AB87A)"/>
+<text x="314.87" y="258" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">WARDIAN CASE</text>
+<text x="314.87" y="269" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1829</text>
+<line x1="322.62" y1="308" x2="322.62" y2="288" stroke="var(--ok,#7AB87A)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="322.62" cy="308" r="2.8" fill="var(--ok,#7AB87A)"/>
+<text x="327.62" y="284" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">CHATSWORTH</text>
+<text x="327.62" y="295" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1833</text>
+<line x1="357.69" y1="308" x2="357.69" y2="236" stroke="var(--ok,#7AB87A)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="357.69" cy="308" r="2.8" fill="var(--ok,#7AB87A)"/>
+<text x="362.69" y="232" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">PALM HOUSE</text>
+<text x="362.69" y="243" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1844</text>
+<line x1="380.01" y1="308" x2="380.01" y2="210" stroke="var(--ok,#7AB87A)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="380.01" cy="308" r="5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="380.01" y1="303" x2="380.01" y2="295" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="385.01" y="206" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">CRYSTAL PALACE</text>
+<text x="385.01" y="217" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1851</text>
+<line x1="392.76" y1="308" x2="392.76" y2="288" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="392.76" cy="308" r="5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="392.76" y1="303" x2="392.76" y2="295" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="397.76" y="284" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">SCUTARI</text>
+<text x="397.76" y="295" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1855</text>
+<line x1="395.95" y1="308" x2="395.95" y2="262" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="395.95" cy="308" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<text x="400.95" y="258" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">GRAMMAR OF ORNAMENT</text>
+<text x="400.95" y="269" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1856</text>
+<line x1="402.33" y1="308" x2="402.33" y2="184" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="402.33" cy="308" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="407.33" y="180" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">POLAR DIAGRAMS</text>
+<text x="407.33" y="191" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1858</text>
+<line x1="402.33" y1="308" x2="402.33" y2="158" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="402.33" cy="308" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="407.33" y="154" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">CENTRAL PARK</text>
+<text x="407.33" y="165" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1858</text>
+<line x1="415.08" y1="308" x2="415.08" y2="132" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="415.08" cy="308" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<text x="420.08" y="128" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">TRELLIS</text>
+<text x="420.08" y="139" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1862</text>
+<line x1="466.09" y1="308" x2="466.09" y2="288" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="466.09" cy="308" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="471.09" y="284" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">BACK BAY FENS</text>
+<text x="471.09" y="295" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1878</text>
+<line x1="482.04" y1="308" x2="482.04" y2="236" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="482.04" cy="308" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="487.04" y="232" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">DE RENZY, BARRACKS</text>
+<text x="487.04" y="243" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1883</text>
+<line x1="513.92" y1="308" x2="513.92" y2="262" stroke="var(--ok,#7AB87A)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="513.92" cy="308" r="5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="513.92" y1="303" x2="513.92" y2="295" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="518.92" y="258" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">DANNENFELS</text>
+<text x="518.92" y="269" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1893</text>
+<line x1="529.86" y1="308" x2="529.86" y2="106" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="529.86" cy="308" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<text x="524.86" y="102" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">THREE MAGNETS</text>
+<text x="524.86" y="113" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1898</text>
+<line x1="536.24" y1="308" x2="536.24" y2="80" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="536.24" cy="308" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<text x="531.24" y="76" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">BINET'S GATE</text>
+<text x="531.24" y="87" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1900</text>
+<line x1="539.42" y1="308" x2="539.42" y2="54" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="539.42" cy="308" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="534.42" y="50" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="end">TENEMENT ACT</text>
+<text x="534.42" y="61" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1901</text>
+<line x1="545.8" y1="308" x2="545.8" y2="210" stroke="var(--ok,#7AB87A)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="545.8" cy="308" r="2.8" fill="var(--ok,#7AB87A)"/>
+<text x="550.8" y="206" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">LEYSIN</text>
+<text x="550.8" y="217" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1903</text>
+<line x1="558.55" y1="308" x2="558.55" y2="158" stroke="var(--ok,#7AB87A)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="558.55" cy="308" r="5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="558.55" y1="303" x2="558.55" y2="295" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="553.55" y="154" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">BOSTALL WOOD</text>
+<text x="553.55" y="165" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1907</text>
+<line x1="568.12" y1="308" x2="568.12" y2="184" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.65"/>
+<circle cx="568.12" cy="308" r="2.8" fill="var(--ink,#ECEAE3)"/>
+<text x="563.12" y="180" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">GAUDÍ'S NET</text>
+<text x="563.12" y="191" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1910</text>
+<line x1="58" y1="345" x2="72" y2="345" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="77" y="348" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">IMAGE</text>
+<line x1="188" y1="345" x2="202" y2="345" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="207" y="348" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FORM</text>
+<line x1="318" y1="345" x2="332" y2="345" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="337" y="348" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">CLIMATE</text>
+<line x1="448" y1="345" x2="462" y2="345" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="467" y="348" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">SYSTEM / HYGIENE</text>
+<text x="58" y="370" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">A RING AND A STEM MARKS THE FIRST INSTRUMENTED MOMENTS: MONTICELLO 1810, HYDE PARK 1851, SCUTARI 1855,</text>
+<text x="58" y="382" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">DANNENFELS 1893–98, BOSTALL WOOD 1907.</text>
+<text x="58" y="402" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EVERY BUILDING HERE OUTLIVED ITS READING. THE CRYSTAL PALACE'S SUCCESSOR STOOD 82 YEARS UNMEASURED.</text>
+</svg>

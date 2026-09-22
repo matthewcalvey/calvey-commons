@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 436" role="img" aria-label="Two-column diagram listing instrumented tropical building studies on one side and celebrated tropical modernist buildings on the other, with no connections between them.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHERE THE INSTRUMENTS ARE, AND WHERE THE FAMOUS BUILDINGS ARE</text>
+<text x="58" y="58" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE INSTRUMENTED RECORD</text>
+<text x="58" y="70" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHAT THE LANES COULD VERIFY</text>
+<circle cx="62" cy="95" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="72" y="98" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SINGAPORE COMFORT STUDIES, 1952–53</text>
+<circle cx="62" cy="115" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="72" y="118" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">EQUATORIAL COMFORT, 1959</text>
+<circle cx="62" cy="135" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="72" y="138" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">HOT-HUMID AUSTRALIA, 1963</text>
+<circle cx="62" cy="155" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="72" y="158" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CBRI ROORKEE, FROM 1947</text>
+<circle cx="62" cy="175" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="72" y="178" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">COMMONWEALTH EXPERIMENTAL</text>
+<text x="72" y="198" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BUILDING STATION</text>
+<circle cx="62" cy="215" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="72" y="218" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">KUMASI TEST CELLS</text>
+<circle cx="62" cy="235" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="72" y="238" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A 42-YEAR URBAN HEAT SERIES,</text>
+<text x="72" y="258" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ABOUT 2 DEG C OF WARMING</text>
+<text x="352" y="58" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE CANONICAL BUILDINGS</text>
+<text x="352" y="70" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHAT THE BOOKS REPRODUCE</text>
+<circle cx="356" cy="95" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="366" y="98" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FRY AND DREW'S SCHOOLS</text>
+<circle cx="356" cy="115" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="366" y="118" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE TUBE HOUSE</text>
+<circle cx="356" cy="135" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="366" y="138" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">NEW GOURNA</text>
+<circle cx="356" cy="155" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="366" y="158" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">NEW BARIS</text>
+<circle cx="356" cy="175" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="366" y="178" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE RIO MINISTRY</text>
+<circle cx="356" cy="195" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="366" y="198" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BAWA'S HOUSES</text>
+<circle cx="356" cy="215" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="366" y="218" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DE SILVA'S HOUSES</text>
+<line x1="300" y1="82" x2="300" y2="270" stroke="var(--line,#32352F)" stroke-width="0.75" stroke-dasharray="3 4"/>
+<text x="300" y="174" font-family="&#39;Space Mono&#39;,monospace" font-size="11" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">NO LINES</text>
+<text x="300" y="190" font-family="&#39;Space Mono&#39;,monospace" font-size="11" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">TO DRAW</text>
+<text x="300" y="212" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE EMPTY SPACE</text>
+<text x="300" y="224" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">IS THE FIGURE</text>
+<line x1="58" y1="306" x2="612" y2="306" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="322" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NOT ONE OF THE STUDIES ON THE LEFT MEASURES ANY OF THE BUILDINGS ON THE RIGHT.</text>
+<text x="58" y="346" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A BUILDING RESEARCH STATION OFFICER'S SINGAPORE OBSERVATIONS OF 1949–50, PUBLISHED IN 1959,</text>
+<text x="58" y="358" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PUT THAT INSTITUTION INSIDE THE PEER-REVIEWED MEDICAL LITERATURE: THIS PERIOD'S TROPICAL</text>
+<text x="58" y="370" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BUILDING SCIENCE IS TO BE SOUGHT IN THE HYGIENE AND INDUSTRIAL-MEDICINE JOURNALS,</text>
+<text x="58" y="382" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NOT THE ARCHITECTURAL ONES.</text>
+<text x="58" y="406" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">TWO UNRELATED BODIES ARE BOTH CALLED A BUILDING RESEARCH STATION, ONE AT HAIFA AND ONE AT</text>
+<text x="58" y="418" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">GARSTON. THEY MUST NEVER BE MERGED.</text>
+</svg>

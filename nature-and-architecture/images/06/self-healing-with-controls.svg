@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Three bars comparing healed crack width for autogenous, crystalline-admixture and bacterial concrete; only the bacterial bar carries a figure, the others are drawn as unfilled.">
+<line x1="170.00" y1="64.00" x2="170.00" y2="242.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="170.00" y="54.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.00</text>
+<line x1="267.50" y1="64.00" x2="267.50" y2="242.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="267.50" y="54.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.25</text>
+<line x1="365.00" y1="64.00" x2="365.00" y2="242.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="365.00" y="54.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.50</text>
+<line x1="462.50" y1="64.00" x2="462.50" y2="242.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="462.50" y="54.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.75</text>
+<line x1="560.00" y1="64.00" x2="560.00" y2="242.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="560.00" y="54.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1.00</text>
+<text x="170.00" y="38.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HEALED CRACK WIDTH  MM</text>
+<text x="160.00" y="102.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">AUTOGENOUS HEALING</text>
+<text x="160.00" y="113.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">plain concrete</text>
+<rect x="170.00" y="88.00" width="390.00" height="34.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="5 3"/>
+<text x="180.00" y="103.00" font-family="'Space Mono',monospace" font-size="13" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">?</text>
+<text x="196.00" y="107.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NO COMPARABLE FIGURE REACHED</text>
+<text x="196.00" y="119.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REINHARDT &amp; JOOSS 2003 — NOT REACHED</text>
+<text x="160.00" y="166.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">CRYSTALLINE ADMIXTURE</text>
+<rect x="170.00" y="152.00" width="390.00" height="34.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="5 3"/>
+<text x="180.00" y="167.00" font-family="'Space Mono',monospace" font-size="13" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">?</text>
+<text x="196.00" y="171.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NO COMPARABLE FIGURE REACHED</text>
+<text x="196.00" y="183.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">STEFANOVSKA ET AL. 2026 — NOT REACHED</text>
+<text x="160.00" y="230.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">BACTERIAL MINERALISATION</text>
+<text x="160.00" y="241.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">at 60 days</text>
+<rect x="170.00" y="216.00" width="179.40" height="34.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="349.40" y="216.00" width="15.60" height="34.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55"/>
+<rect x="170.00" y="216.00" width="195.00" height="34.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="373.00" y="236.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.04em">0.46 – 0.50 mm</text>
+<text x="373.00" y="248.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ZHAO ET AL. 2026</text>
+<line x1="64.00" y1="272.00" x2="596.00" y2="272.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="292.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The bacterial number is real. The comparison that would make it meaningful is unfilled — and this</text>
+<text x="64.00" y="306.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">figure displays its own missing data rather than quietly omitting the row.</text>
+<text x="64.00" y="344.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ZHAO ET AL. 2026 · COMPARATORS REINHARDT &amp; JOOSS 2003 AND STEFANOVSKA ET AL. 2026</text>
+</svg>

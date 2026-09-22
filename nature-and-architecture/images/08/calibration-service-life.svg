@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Timeline showing sensor calibration lifetimes of four to ten months against a much longer monitoring commitment, with an inset of two conflicting uncertainty figures.">
+
+<line x1="208" y1="256" x2="470" y2="256" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="208" y1="256" x2="208" y2="261" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="208" y="273" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="208" y1="78" x2="208" y2="256" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="251.67" y1="256" x2="251.67" y2="261" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="251.67" y="273" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">4</text>
+<line x1="251.67" y1="78" x2="251.67" y2="256" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="295.33" y1="256" x2="295.33" y2="261" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="295.33" y="273" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">8</text>
+<line x1="295.33" y1="78" x2="295.33" y2="256" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="339" y1="256" x2="339" y2="261" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="339" y="273" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">12</text>
+<line x1="339" y1="78" x2="339" y2="256" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="382.67" y1="256" x2="382.67" y2="261" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="382.67" y="273" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">16</text>
+<line x1="382.67" y1="78" x2="382.67" y2="256" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="426.33" y1="256" x2="426.33" y2="261" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="426.33" y="273" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">20</text>
+<line x1="426.33" y1="78" x2="426.33" y2="256" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="470" y1="256" x2="470" y2="261" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="470" y="273" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">24</text>
+<line x1="470" y1="78" x2="470" y2="256" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="198" y="273" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">MONTHS</text>
+<rect x="208" y="84" width="43.67" height="24" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="208" y="84" width="43.67" height="24" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="251.67" y1="80" x2="251.67" y2="112" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="198" y="97" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">RANDOM-FOREST</text>
+<text x="198" y="107" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.04em">CALIBRATION, Pittsburgh</text>
+<text x="259.67" y="100" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">A HARD EDGE:  NOTHING BEYOND IT CLAIMED</text>
+<rect x="208" y="126" width="87.33" height="24" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="295.33" y="126" width="21.83" height="24" fill="var(--accent,#6A9CC4)" opacity="0.22"/>
+<rect x="208" y="126" width="109.17" height="24" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="317.17" y="126" width="152.83" height="24" fill="var(--hot,#C45C3E)" opacity="0.28"/>
+<rect x="317.17" y="126" width="152.83" height="24" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="198" y="139" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">ELECTROCHEMICAL OZONE</text>
+<text x="198" y="149" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.04em">Thessaloniki</text>
+<text x="212.37" y="142" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">8 – 10 MONTHS</text>
+<text x="323.17" y="118" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">PHYSICALLY IMPOSSIBLE NEGATIVE VALUES</text>
+<rect x="349.92" y="168" width="120.08" height="24" fill="var(--dim,#B8B5AC)" opacity="0.3"/>
+<rect x="349.92" y="168" width="120.08" height="24" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M 349.92 180 L 352.65 183.36 L 355.38 185.89 L 358.1 186.98 L 360.83 186.37 L 363.56 184.19 L 366.29 180.99 L 369.02 177.54 L 371.75 174.7 L 374.48 173.16 L 377.21 173.29 L 379.94 175.06 L 382.67 178.04 L 385.4 181.51 L 388.12 184.6 L 390.85 186.57 L 393.58 186.93 L 396.31 185.59 L 399.04 182.88 L 401.77 179.47 L 404.5 176.19 L 407.23 173.84 L 409.96 173 L 412.69 173.87 L 415.42 176.24 L 418.15 179.54 L 420.88 182.94 L 423.6 185.63 L 426.33 186.93 L 429.06 186.54 L 431.79 184.55 L 434.52 181.45 L 437.25 177.98 L 439.98 175.02 L 442.71 173.27 L 445.44 173.17 L 448.17 174.74 L 450.9 177.6 L 453.62 181.05 L 456.35 184.24 L 459.08 186.39 L 461.81 186.98 L 464.54 185.86 L 467.27 183.3 L 470 179.94" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="198" y="181" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">PM10 SENSORS</text>
+<text x="198" y="191" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.04em">13 to 24 months</text>
+<text x="349.92" y="160" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">WINTER–SUMMER DRIFT CYCLE</text>
+<rect x="208" y="210" width="251.08" height="24" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M 461.08 215 L 466.08 222 L 461.08 229" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 468.08 215 L 473.08 222 L 468.08 229" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 475.08 215 L 480.08 222 L 475.08 229" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="198" y="223" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">A POST-OCCUPANCY</text>
+<text x="198" y="233" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">MONITORING COMMITMENT</text>
+<text x="212.37" y="226" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">RUNS FAR PAST EVERY WINDOW ABOVE</text>
+<rect x="492" y="92" width="104" height="160" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="502" y="110" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">REGISTER ITEM 24</text>
+<text x="502" y="132" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RELATIVE</text>
+<text x="502" y="142" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">EXPANDED</text>
+<text x="502" y="152" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">UNCERTAINTY</text>
+<text x="502" y="180" font-family="'Space Mono',monospace" font-size="12" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">25 %</text>
+<text x="502" y="202" font-family="'Space Mono',monospace" font-size="12" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">50 %</text>
+<text x="502" y="218" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE EUROPEAN</text>
+<text x="502" y="228" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THRESHOLD SITS</text>
+<text x="502" y="238" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BETWEEN THEM,</text>
+<text x="502" y="248" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">UNRESOLVED.</text>
+<text x="44" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">WHAT A SENSOR&#x27;S CALIBRATION IS WORTH, AND FOR HOW LONG</text>
+<text x="44" y="300" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">A calibration is not a property of a sensor; it is a property of a sensor, a place and a season, and it expires.</text>
+<text x="44" y="311" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Nothing in the reachable record says how many sensors in a monitored building are still calibrated and logging</text>
+<text x="44" y="322" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">at year five — chapter 7 calls that the most useful unmeasured quantity in the book. The two uncertainty figures</text>
+<text x="44" y="333" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">come from two sources and are left unresolved. Zimmerman et al. 2018; Bagkis, Kassandros &amp; Karatzas 2022.</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Cutaway of a green roof and a gravel roof showing identical surface warming over twenty years but a 1.5 kelvin divergence inside the substrate layer.">
+<text x="207.00" y="26.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">GREEN ROOF</text>
+<text x="497.00" y="26.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">GRAVEL REFERENCE</text>
+<text x="8.00" y="100.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AT SURFACE</text>
+<text x="8.00" y="130.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IN SUBSTRATE</text>
+<line x1="8.00" y1="96.00" x2="632.00" y2="96.00" stroke="var(--line,#32352F)" stroke-width="0.75" stroke-dasharray="2 4"/>
+<line x1="8.00" y1="126.00" x2="632.00" y2="126.00" stroke="var(--line,#32352F)" stroke-width="0.75" stroke-dasharray="2 4"/>
+<rect x="112.00" y="96.00" width="190.00" height="60.00" fill="var(--surface,#1F211E)" fill-opacity="0.85"/>
+<rect x="112.00" y="96.00" width="190.00" height="60.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M120.0 96.0 q -4.5 -10 1 -14 q 4.5 11 3.5 14" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M135.8 96.0 q -4.5 -10 1 -14 q 4.5 11 3.5 14" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M151.6 96.0 q -4.5 -10 1 -14 q 4.5 11 3.5 14" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M167.5 96.0 q -4.5 -10 1 -14 q 4.5 11 3.5 14" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M246.5 96.0 q -4.5 -10 1 -14 q 4.5 11 3.5 14" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M262.4 96.0 q -4.5 -10 1 -14 q 4.5 11 3.5 14" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M278.2 96.0 q -4.5 -10 1 -14 q 4.5 11 3.5 14" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M294.0 96.0 q -4.5 -10 1 -14 q 4.5 11 3.5 14" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="butt"/>
+<rect x="112.00" y="156.00" width="190.00" height="14.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="207.00" y="166.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MEMBRANE</text>
+<rect x="112.00" y="170.00" width="190.00" height="12.00" fill="var(--line,#32352F)" fill-opacity="1.0"/>
+<rect x="112.00" y="170.00" width="190.00" height="12.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="207.00" y="195.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DECK</text>
+<rect x="402.00" y="96.00" width="190.00" height="60.00" fill="var(--surface,#1F211E)" fill-opacity="0.85"/>
+<rect x="402.00" y="96.00" width="190.00" height="60.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="408.00" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="419.12" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="430.25" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="441.38" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="452.50" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="463.62" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="530.38" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="541.50" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="552.62" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="563.75" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="574.88" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="586.00" cy="92.00" r="2.10" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="402.00" y="156.00" width="190.00" height="14.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="497.00" y="166.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MEMBRANE</text>
+<rect x="402.00" y="170.00" width="190.00" height="12.00" fill="var(--line,#32352F)" fill-opacity="1.0"/>
+<rect x="402.00" y="170.00" width="190.00" height="12.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="497.00" y="195.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DECK</text>
+<circle cx="207.00" cy="96.00" r="3.60" fill="var(--dim,#B8B5AC)"/>
+<text x="207.00" y="83.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.04em" text-anchor="middle">+0.7 K</text>
+<circle cx="497.00" cy="96.00" r="3.60" fill="var(--dim,#B8B5AC)"/>
+<text x="497.00" y="83.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.04em" text-anchor="middle">+0.7 K</text>
+<text x="320.00" y="62.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.16em" text-anchor="middle">IDENTICAL</text>
+<line x1="241.00" y1="79.00" x2="463.00" y2="79.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="207.00" cy="126.00" r="4.00" fill="var(--ok,#7AB87A)"/>
+<circle cx="497.00" cy="126.00" r="4.00" fill="var(--hot,#C45C3E)"/>
+<text x="207.00" y="144.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">−0.1 K</text>
+<text x="497.00" y="144.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">+1.4 K</text>
+<line x1="207.00" y1="152.00" x2="207.00" y2="226.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="497.00" y1="152.00" x2="497.00" y2="226.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="207.00" y1="226.00" x2="497.00" y2="226.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="320.00" y1="226.00" x2="210.00" y2="226.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M210.00 226.00 L214.11 224.17 L214.11 227.83 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="320.00" y1="226.00" x2="494.00" y2="226.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M494.00 226.00 L489.89 227.83 L489.89 224.17 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="320.00" y="217.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.04em" text-anchor="middle">1.5 K DIVERGENCE</text>
+<text x="320.00" y="243.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE DIFFERENCE IS BELOW THE SURFACE, ABOVE THE MEMBRANE</text>
+<line x1="48.00" y1="266.00" x2="592.00" y2="266.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="286.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The green roof is not a cool surface. Both surfaces warmed by the same 0.7 K in twenty years.</text>
+<text x="48.00" y="301.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">What it did was buffer — and it delivered downward, into the layer the gravel roof let</text>
+<text x="48.00" y="316.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">warm by 1.4 K.</text>
+<text x="48.00" y="354.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TWENTY-YEAR TEMPERATURE TREND, 1999–2018 · NEUBRANDENBURG · KÖHLER AND KAISER 2019</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 488" role="img" aria-label="Two cutaway sections of a termite mound; the left shows a single upward chimney flow, the right shows day and night flows in opposite directions with carbon dioxide held near five per cent.">
+<text x="52.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LEFT · THE RECEIVED ARCHITECTURAL ACCOUNT</text>
+<text x="330.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">RIGHT · THE MEASURED ACCOUNT</text>
+<line x1="310.00" y1="44.00" x2="310.00" y2="300.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="50.00" y1="272.00" x2="280.00" y2="272.00" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<path d="M80 272 C 107 173 148 117 165 92 C 182 117 222 173 250 272 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="165.00" y1="256.00" x2="165.00" y2="106.00" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<line x1="165.00" y1="232.00" x2="165.00" y2="112.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M165.00 112.00 L167.04 116.57 L162.96 116.57 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="172.00" y="162.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ONE UPWARD FLOW</text>
+<text x="172.00" y="173.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THROUGH A CENTRAL</text>
+<text x="172.00" y="184.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">CHIMNEY</text>
+<ellipse cx="165.00" cy="256.00" rx="34.00" ry="12.00" fill="var(--hot,#C45C3E)" fill-opacity="0.24"/>
+<text x="165.00" y="288.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">HEAT SOURCE AT THE NEST</text>
+<text x="165.00" y="82.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">INTERIOR: “CONSTANT TEMPERATURE”</text>
+<line x1="330.00" y1="272.00" x2="560.00" y2="272.00" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<path d="M360 272 C 387 173 428 117 445 92 C 462 117 502 173 530 272 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2" stroke-linecap="butt"/>
+<circle cx="352.00" cy="84.00" r="9.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<circle cx="566.00" cy="84.00" r="9.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="352.00" y="70.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MORNING</text>
+<text x="566.00" y="70.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">AFTERNOON</text>
+<line x1="360.00" y1="94.00" x2="404.00" y2="122.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<path d="M404.00 122.00 L400.04 121.42 L401.79 118.66 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="558.00" y1="94.00" x2="512.00" y2="122.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<path d="M512.00 122.00 L514.27 118.71 L515.97 121.49 Z" fill="var(--accent,#6A9CC4)"/>
+<path d="M400 120 C 412 152 424 188 430 222" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2" stroke-linecap="butt"/>
+<path d="M486 120 C 474 152 462 188 456 222" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2" stroke-linecap="butt"/>
+<text x="443.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">AZIMUTHAL WARMING SEQUENCE AROUND THE FLANKS</text>
+<line x1="424.00" y1="152.00" x2="424.00" y2="216.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<path d="M424.00 216.00 L422.17 211.89 L425.83 211.89 Z" fill="var(--ok,#7AB87A)"/>
+<text x="418.00" y="180.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="end">NIGHT: DOWN</text>
+<line x1="462.00" y1="216.00" x2="462.00" y2="152.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M462.00 152.00 L463.83 156.11 L460.17 156.11 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="468.00" y="180.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">DAY: UP</text>
+<text x="443.00" y="288.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">THE SAME CONDUIT, REVERSING</text>
+<rect x="334.00" y="318.00" width="180.00" height="90.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="334.00" y="312.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">INTERNAL FLOW AGAINST INTERNAL TEMPERATURE GRADIENT</text>
+<path d="M344 398 L500 332" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.2" stroke-linecap="butt"/>
+<circle cx="441.17" cy="361.24" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="468.05" cy="353.48" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="459.42" cy="356.77" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="348.52" cy="395.47" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="491.16" cy="338.42" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="484.54" cy="331.58" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="417.17" cy="362.48" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="428.83" cy="363.44" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="346.05" cy="392.04" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="387.60" cy="387.05" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="463.45" cy="341.33" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="468.35" cy="338.89" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="440.32" cy="350.53" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="344.28" cy="402.00" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="376.68" cy="379.05" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="497.26" cy="339.86" r="2.20" fill="var(--accent,#6A9CC4)"/>
+<text x="506.00" y="400.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="end">r = 0.76</text>
+<line x1="386.00" y1="318.00" x2="386.00" y2="408.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="334.00" y="421.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BELOW 3 m/s, WIND DOES NOT PREDICT FLOW</text>
+<rect x="52.00" y="318.00" width="260.00" height="56.00" fill="var(--hot,#C45C3E)" fill-opacity="0.14"/>
+<rect x="52.00" y="318.00" width="260.00" height="56.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="62.00" y="338.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CARBON DIOXIDE HELD AT ABOUT</text>
+<text x="62.00" y="358.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em">5 %  ACROSS TWENTY-FOUR HOURS</text>
+<text x="52.00" y="386.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">A HUMAN-OCCUPIED ROOM IS VENTILATED AT ABOUT 0.1 %.</text>
+<text x="52.00" y="398.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THIS IS THE FIGURE THAT MAKES THE ANALOGY IMPOSSIBLE.</text>
+<line x1="52.00" y1="432.00" x2="596.00" y2="432.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="452.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">The left diagram has one arrow. The right has two, and they reverse.</text>
+<text x="52.00" y="474.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MEASURED HALF AFTER OCKO ET AL. 2017 · FIELDWORK APRIL–MAY 2014 AND 2015</text>
+</svg>

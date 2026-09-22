@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 444" role="img" aria-label="Cutaway diagram of a test rig for a double-glazed wall with heated air in the cavity and a refrigerated chamber outside, annotated with the negative result and a completion date.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SAINT-GOBAIN TEST ARRANGEMENT, 1931–32</text>
+<rect x="58" y="120" width="120" height="116" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="66" y="138" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CHAMBER</text>
+<text x="66" y="152" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">4 × 2 × 3 M</text>
+<rect x="178" y="130" width="6" height="106" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="208" y="130" width="6" height="106" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="184" y1="130" x2="184" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="208" y1="130" x2="208" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="196" y1="224" x2="196" y2="210" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M196 206 L197.68 210 L194.32 210 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="196" y1="198" x2="196" y2="184" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M196 180 L197.68 184 L194.32 184 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="196" y1="172" x2="196" y2="158" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M196 154 L197.68 158 L194.32 158 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="196" y1="146" x2="196" y2="132" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M196 128 L197.68 132 L194.32 132 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="196" y1="130" x2="196" y2="122" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="196" y="98" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">DOUBLE-GLAZED PANEL</text>
+<text x="196" y="112" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">1.5 × 2.5 M</text>
+<rect x="214" y="120" width="186" height="116" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="222" y="138" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">OUTER CHAMBER</text>
+<text x="222" y="151" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">CHILLED WITH DRY ICE</text>
+<rect x="248" y="210" width="24" height="16" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="248" y1="226" x2="272" y2="210" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.6"/>
+<rect x="332" y="210" width="24" height="16" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="332" y1="226" x2="356" y2="210" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.6"/>
+<rect x="248" y="180" width="24" height="16" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="248" y1="196" x2="272" y2="180" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.6"/>
+<rect x="332" y="180" width="24" height="16" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="332" y1="196" x2="356" y2="180" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" opacity="0.6"/>
+<line x1="54" y1="236" x2="404" y2="236" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="120" y1="262" x2="187.66" y2="243.2" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M192 242 L188.17 245.03 L187.16 241.38 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="58" y="266" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">CAVITY, DEPTH VARIED</text>
+<text x="58" y="278" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">CIRCULATING AIR UP TO 150 LITRES A SECOND</text>
+<text x="58" y="290" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">15 DEG C FOR SUMMER · 30 DEG C FOR WINTER</text>
+<text x="58" y="312" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LE BRAZ, UNDER GUSTAVE LYON</text>
+<text x="58" y="324" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A FULL-SCALE PHYSICAL TEST OF A PHYSICAL WALL</text>
+<line x1="420" y1="46" x2="420" y2="300" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="438" y="62" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE 1932 CONCLUSION</text>
+<text x="438" y="86" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">STEAM</text>
+<rect x="438" y="92" width="62" height="26" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<text x="469" y="109" font-family="&#39;Space Mono&#39;,monospace" font-size="13" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">× ?</text>
+<text x="508" y="103" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">UNFILLED</text>
+<text x="438" y="132" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">VERY MUCH MORE STEAM,</text>
+<text x="438" y="144" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ON ONE MODERN READING;</text>
+<text x="438" y="156" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MORE THAN FOUR TIMES,</text>
+<text x="438" y="168" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ON ANOTHER.</text>
+<text x="438" y="190" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FAN ENERGY</text>
+<text x="438" y="210" font-family="&#39;Space Mono&#39;,monospace" font-size="12" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">MORE THAN TWICE</text>
+<text x="438" y="226" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A CONVENTIONAL INSTALLATION</text>
+<text x="438" y="250" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE REPORT ITSELF IS UNOPENED.</text>
+<text x="438" y="262" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NO SINGLE MULTIPLIER IS</text>
+<text x="438" y="274" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PRINTED HERE.</text>
+<line x1="58" y1="344" x2="612" y2="344" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="368" font-family="&#39;Space Mono&#39;,monospace" font-size="15" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">DECEMBER 1933</text>
+<text x="58" y="390" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE CITÉ DE REFUGE IS COMPLETED ANYWAY — THE DOUBLE SKIN DELETED, THE SEAL KEPT.</text>
+<text x="58" y="410" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IT OVERHEATED AT ONCE. THE WALL WAS NOT BUILT IN REDUCED FORM; IT WAS NOT BUILT AT ALL.</text>
+<text x="58" y="428" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE EVIDENCE WAS COMMISSIONED, THE ANSWER WAS UNFAVOURABLE, AND THE BUILDING WENT UP.</text>
+</svg>

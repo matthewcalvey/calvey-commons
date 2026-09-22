@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Two parallel glare-probability scales showing the Thai occupant thresholds falling entirely below the European imperceptible boundary.">
+
+<text x="52" y="50" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">EN 17037  ·  EUROPEAN BANDS</text>
+<rect x="100" y="66" width="246" height="34" fill="var(--dim,#B8B5AC)" opacity="0.18"/>
+<rect x="100" y="66" width="246" height="34" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="223" y="87" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">IMPERCEPTIBLE</text>
+<rect x="346" y="66" width="61.5" height="34" fill="var(--dim,#B8B5AC)" opacity="0.32"/>
+<rect x="346" y="66" width="61.5" height="34" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="376.75" y="87" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">PERCEPTIBLE</text>
+<rect x="407.5" y="66" width="61.5" height="34" fill="var(--dim,#B8B5AC)" opacity="0.46"/>
+<rect x="407.5" y="66" width="61.5" height="34" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="438.25" y="87" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">DISTURBING</text>
+<rect x="469" y="66" width="123" height="34" fill="var(--hot,#C45C3E)" opacity="0.32"/>
+<rect x="469" y="66" width="123" height="34" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="530.5" y="87" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">INTOLERABLE</text>
+<line x1="346" y1="100" x2="346" y2="108" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="346" y="120" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">0.35</text>
+<line x1="407.5" y1="100" x2="407.5" y2="108" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="407.5" y="120" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">0.40</text>
+<line x1="469" y1="100" x2="469" y2="108" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="469" y="120" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">0.45</text>
+<line x1="100" y1="176" x2="592" y2="176" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="100" y1="176" x2="100" y2="181" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="100" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.15</text>
+<line x1="161.5" y1="176" x2="161.5" y2="181" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="161.5" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.20</text>
+<line x1="223" y1="176" x2="223" y2="181" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="223" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.25</text>
+<line x1="284.5" y1="176" x2="284.5" y2="181" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="284.5" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.30</text>
+<line x1="346" y1="176" x2="346" y2="181" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="346" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.35</text>
+<line x1="407.5" y1="176" x2="407.5" y2="181" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="407.5" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.40</text>
+<line x1="469" y1="176" x2="469" y2="181" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="469" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.45</text>
+<line x1="530.5" y1="176" x2="530.5" y2="181" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="530.5" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.50</text>
+<line x1="592" y1="176" x2="592" y2="181" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="592" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.55</text>
+<text x="52" y="179" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">DGP</text>
+<text x="100" y="209" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">DAYLIGHT GLARE PROBABILITY</text>
+<text x="52" y="224" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">BANGKOK  ·  FIELD BOUNDARIES FROM 1,488 SAMPLES IN EIGHT OFFICES</text>
+<rect x="124.6" y="232" width="172.2" height="34" fill="var(--accent,#6A9CC4)" opacity="0.22"/>
+<rect x="124.6" y="232" width="172.2" height="34" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="186.1" y1="224" x2="186.1" y2="274" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="186.1" y="288" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">0.22</text>
+<line x1="210.7" y1="224" x2="210.7" y2="274" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="210.7" y="288" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">0.24</text>
+<line x1="235.3" y1="224" x2="235.3" y2="274" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="235.3" y="288" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">0.26</text>
+<circle cx="223" cy="249" r="3.6" fill="var(--ink,#ECEAE3)"/>
+<text x="306.8" y="246" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">THE WHOLE 1,488-SAMPLE DISTRIBUTION,</text>
+<text x="306.8" y="257" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">MEAN DISCOMFORT VALUE 0.25</text>
+<line x1="296.8" y1="66" x2="296.8" y2="266" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4"/>
+<line x1="346" y1="66" x2="346" y2="266" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4"/>
+<text x="52" y="308" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">EVERY THAI VALUE, INCLUDING INTOLERABLE, SITS INSIDE THE EUROPEAN IMPERCEPTIBLE BAND.</text>
+<text x="52" y="336" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Occupants in eight Bangkok open-plan offices reported discomfort at values a European standard calls</text>
+<text x="52" y="347" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">imperceptible. A glare threshold does not travel across a climate.</text>
+<text x="52" y="358" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Bueno and colleagues 2021; Chaloeytoy, Ichinose and Chien 2020.</text>
+</svg>

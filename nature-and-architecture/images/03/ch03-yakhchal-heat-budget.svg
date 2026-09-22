@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 396" role="img" aria-label="A diagram of a shallow pond at night with four labelled arrows of very different sizes, and two unequal bars for predicted ice yield.">
+<text x="58" y="22" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHERE THE COLD GOES</text>
+<text x="58" y="35" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MODELLED COLDEST-WEEK AVERAGE, WATTS PER SQUARE METRE</text>
+<line x1="58" y1="52" x2="330" y2="52" stroke="var(--line,#32352F)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<text x="58" y="48" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CLEAR NIGHT SKY</text>
+<rect x="58" y="232" width="272" height="15" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="52" y1="247" x2="346" y2="247" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="52" y="247" width="294" height="40" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="280" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GROUND</text>
+<text x="58" y="260" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">SHALLOW POND, SHADED, ON A WINTER NIGHT</text>
+<line x1="114" y1="232" x2="114" y2="104.5" stroke="var(--accent,#6A9CC4)" stroke-width="3"/><path d="M114 100 L115.89 104.5 L112.11 104.5 Z" fill="var(--accent,#6A9CC4)"/><text x="114" y="92" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">60</text><text x="114" y="80" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">SKY RADIATION</text>
+<line x1="218" y1="232" x2="218" y2="192.5" stroke="var(--ink,#ECEAE3)" stroke-width="1.73"/><path d="M218 188 L219.89 192.5 L216.11 192.5 Z" fill="var(--ink,#ECEAE3)"/><text x="218" y="180" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">20</text><text x="218" y="168" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">EVAPORATION</text>
+<line x1="302" y1="232" x2="302" y2="232.8" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/><path d="M302 229.8 L303.26 232.8 L300.74 232.8 Z" fill="var(--hot,#C45C3E)"/>
+<text x="302" y="222" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">1</text>
+<text x="302" y="210" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">CONVECTION</text>
+<text x="302" y="198" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">1.4 PER CENT OF THE NET</text>
+<line x1="354" y1="274" x2="354" y2="255.5" stroke="var(--dim,#B8B5AC)" stroke-width="1.3"/><path d="M354 251 L355.89 255.5 L352.11 255.5 Z" fill="var(--dim,#B8B5AC)"/>
+<text x="360" y="266" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">8</text>
+<text x="360" y="278" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">GROUND GAIN</text>
+<line x1="354" y1="71.4" x2="354" y2="232" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="350" y1="71.4" x2="358" y2="71.4" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<line x1="350" y1="232" x2="358" y2="232" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="348" y="75.4" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">NET 73</text>
+<text x="348" y="87.4" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">60 + 20 + 1 − 8</text>
+<line x1="400" y1="40" x2="400" y2="300" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="414" y="22" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PREDICTED ICE YIELD</text>
+<line x1="424" y1="66" x2="424" y2="240" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="424" y1="240" x2="612" y2="240" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="420" y1="240" x2="424" y2="240" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="417" y="243" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="420" y1="173.08" x2="424" y2="173.08" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="417" y="176.08" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">50</text>
+<line x1="420" y1="106.15" x2="424" y2="106.15" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="417" y="109.15" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">100</text>
+<text x="428" y="55" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MM PER YEAR</text>
+<rect x="450" y="79.38" width="50" height="160.62" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="475" y="73.38" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">120</text>
+<text x="475" y="255" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">POCHEE ET AL.</text>
+<rect x="536" y="146.31" width="50" height="93.69" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="561" y="140.31" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">70</text>
+<text x="561" y="255" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">ASHTON</text>
+<text x="414" y="280" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TWO MODELS, ONE QUANTITY,</text>
+<text x="414" y="292" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A NEARLY TWO-FOLD GAP.</text>
+<text x="414" y="306" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NOT RECONCILED.</text>
+<line x1="58" y1="322" x2="612" y2="322" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="340" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE WATER FREEZES BY RADIATING TO THE SKY, NOT BY CONTACT WITH COLD AIR.</text>
+<text x="58" y="356" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE ENGLISH BUILDER COULD NOT HAVE KNOWN THAT, AND WITH HIS NORTH DOOR, TREE SHADE</text>
+<text x="58" y="368" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND EARTH COVER GOT IT RIGHT ANYWAY.</text>
+</svg>

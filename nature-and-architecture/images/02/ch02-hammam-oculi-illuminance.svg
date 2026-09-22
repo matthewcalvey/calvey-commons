@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="A roof plan dotted with small circular openings above a day-curve of light level that falls sharply in the afternoon.">
+<rect x="58.0" y="56.0" width="250.0" height="132.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<circle cx="84.0" cy="90.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="112.0" cy="90.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="140.0" cy="90.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="168.0" cy="90.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="196.0" cy="90.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="224.0" cy="90.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="252.0" cy="90.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="280.0" cy="90.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="84.0" cy="122.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="112.0" cy="122.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="140.0" cy="122.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="168.0" cy="122.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="196.0" cy="122.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="224.0" cy="122.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="252.0" cy="122.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="280.0" cy="122.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="84.0" cy="154.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="112.0" cy="154.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="140.0" cy="154.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="168.0" cy="154.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="196.0" cy="154.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="224.0" cy="154.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="252.0" cy="154.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="280.0" cy="154.0" r="5.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="58.0" y="42.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ROOF PLAN · THREE ROWS OF EIGHT OCULI</text>
+<text x="58.0" y="206.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">APERTURES 18 TO 20 CM, GLASS-CAPPED</text>
+<text x="58.0" y="232.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TOTAL ROOF OPENING AGAINST FLOOR AREA</text>
+<rect x="58.0" y="240.0" width="120.0" height="26.0" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="58.0" y="240.0" width="2.4" height="26.0" fill="var(--accent,#6A9CC4)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="186.0" y="257.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">UNDER 2 %</text>
+<line x1="372.0" y1="230.0" x2="612.0" y2="230.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="364.0" y="233.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="372.0" y1="184.3" x2="612.0" y2="184.3" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="364.0" y="187.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">20</text>
+<line x1="372.0" y1="138.6" x2="612.0" y2="138.6" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="364.0" y="141.6" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">40</text>
+<line x1="372.0" y1="92.9" x2="612.0" y2="92.9" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="364.0" y="95.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">60</text>
+<text x="372.0" y="56.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">HOT ROOM · ILLUMINANCE, LUX</text>
+<line x1="372.0" y1="92.9" x2="612.0" y2="92.9" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="612.0" y="86.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">NEVER ABOVE 60 LUX</text>
+<line x1="372.0" y1="172.9" x2="612.0" y2="172.9" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-dasharray="2 4"/>
+<text x="378.0" y="166.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">WEEKLY MEAN ABOUT 25</text>
+<polyline points="372.0,211.7 392.0,184.3 412.0,147.7 432.0,115.7 452.0,99.7 472.0,97.4 492.0,111.1 504.0,161.4 516.0,198.0 532.0,204.9 552.0,202.6 572.0,207.1 592.0,214.0 612.0,220.9" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="372.0" y1="70.0" x2="372.0" y2="230.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="372.0" y1="230.0" x2="612.0" y2="230.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="372.0" y1="230.0" x2="372.0" y2="234.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="372.0" y="247.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">07:00</text>
+<line x1="432.0" y1="230.0" x2="432.0" y2="234.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="432.0" y="247.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10:00</text>
+<line x1="492.0" y1="230.0" x2="492.0" y2="234.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="492.0" y="247.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">13:00</text>
+<line x1="552.0" y1="230.0" x2="552.0" y2="234.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="552.0" y="247.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">16:00</text>
+<line x1="612.0" y1="230.0" x2="612.0" y2="234.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="612.0" y="247.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">19:00</text>
+<line x1="506.0" y1="166.0" x2="552.0" y2="142.6" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="612.0" y="138.6" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">STEAM SATURATES</text>
+<text x="612.0" y="150.6" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">AND THE LIGHT GOES</text>
+<line x1="58.0" y1="288.0" x2="612.0" y2="288.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.0" y="312.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHAT THIS FIGURE PLOTS AS NUMBERS IS THE CEILING, THE MEAN AND THE FALL.</text>
+<text x="58.0" y="326.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SHAPE BETWEEN THEM IS THE REPORTED BEHAVIOUR, NOT A PUBLISHED SERIES.</text>
+<text x="58.0" y="354.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THIRTEEN WORKING HAMMAMS, MARRAKECH MEDINA · JULY–SEPTEMBER 2016 · 20-MINUTE LOGGING</text>
+<text x="58.0" y="368.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DAYLIGHT FACTORS BELOW 2 PER CENT · DAILY RANGE 10 TO 60 LUX · SIBLEY 2018</text>
+<text x="58.0" y="396.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE AUTHOR ARGUES THESE VERY LOW LEVELS ARE AN AUTHENTIC QUALITY TO BE CONSERVED,</text>
+<text x="58.0" y="410.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AND NO PUBLISHED SOURCE ARGUES THE OTHER WAY: THE CONFLICT IS WITH A STANDARD,</text>
+<text x="58.0" y="424.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">NOT WITH A SCHOLAR.</text>
+</svg>

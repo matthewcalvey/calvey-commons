@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 404" role="img" aria-label="Diagram of the tropical architecture evidence chain, showing measurement feeding rules and rules feeding buildings, with the verification arrow from buildings back to measurement drawn as absent.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE LOOP THAT WAS NEVER CLOSED · 1949–1974</text>
+<rect x="58" y="66" width="156" height="136" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="68" y="88" font-family="&#39;Space Mono&#39;,monospace" font-size="9.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">MEASURED PEOPLE</text>
+<text x="68" y="110" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ELLIS, SINGAPORE 1952–53</text>
+<text x="68" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WEBB 1959</text>
+<text x="68" y="138" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WYNDHAM 1963</text>
+<text x="68" y="152" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">INSTRUMENTED COMFORT</text>
+<text x="68" y="166" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">STUDIES, IN MEDICAL</text>
+<text x="68" y="180" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">JOURNALS</text>
+<rect x="240" y="66" width="156" height="136" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="250" y="88" font-family="&#39;Space Mono&#39;,monospace" font-size="9.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DESIGN RULES</text>
+<text x="250" y="110" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FRY AND DREW'S BOOKS,</text>
+<text x="250" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1947–64</text>
+<text x="250" y="138" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE MAHONEY TABLES</text>
+<text x="250" y="152" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE BRS TROPICAL</text>
+<text x="250" y="166" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BUILDING NOTES</text>
+<rect x="422" y="66" width="156" height="136" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="432" y="88" font-family="&#39;Space Mono&#39;,monospace" font-size="9.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BUILDINGS</text>
+<text x="432" y="110" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FRY AND DREW'S SCHOOLS</text>
+<text x="432" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE TUBE HOUSE</text>
+<text x="432" y="138" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NEW BARIS</text>
+<text x="432" y="152" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE RIO BRISE-SOLEIL</text>
+<line x1="218" y1="134" x2="229" y2="134" stroke="var(--ink,#ECEAE3)" stroke-width="2"/><path d="M236 134 L229 136.94 L229 131.06 Z" fill="var(--ink,#ECEAE3)"/>
+<line x1="400" y1="134" x2="411" y2="134" stroke="var(--ink,#ECEAE3)" stroke-width="2"/><path d="M418 134 L411 136.94 L411 131.06 Z" fill="var(--ink,#ECEAE3)"/>
+<line x1="500" y1="202" x2="500" y2="248" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<line x1="136" y1="248" x2="136" y2="202" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<line x1="136" y1="248" x2="500" y2="248" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<path d="M136 204 L131 214 L141 214 Z" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<text x="340" y="240" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">VERIFICATION — NOT FOUND</text>
+<line x1="58" y1="286" x2="612" y2="286" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="302" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TROPICAL MODERNISM MEASURED PEOPLE, CLIMATES AND MATERIALS, WROTE DESIGN RULES FROM THAT,</text>
+<text x="58" y="316" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AND NEVER CLOSED THE LOOP BY MEASURING THE BUILDINGS.</text>
+<text x="58" y="340" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NO INSTRUMENTED STUDY EXISTS OF CORREA'S TUBE HOUSE, OF FRY AND DREW'S WEST AFRICAN SCHOOLS,</text>
+<text x="58" y="352" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OF ANY BAWA OR DE SILVA BUILDING, OF NEW BARIS'S MALQAF, OR OF THE RIO MINISTRY.</text>
+<text x="58" y="374" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">IT WAS BUILT ON CLIMATE DATA AND HUMAN-COMFORT MEASUREMENT, NOT ON MEASURED BUILDING</text>
+<text x="58" y="386" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">PERFORMANCE. THAT QUALIFICATION GOVERNS THE WHOLE LANE.</text>
+</svg>

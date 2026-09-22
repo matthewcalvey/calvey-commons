@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 424" role="img" aria-label="A rising step chart of daily exposure times next to a stepped building section with sun lines reaching every terrace.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE DOSE</text>
+<line x1="58" y1="56" x2="58" y2="214" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58" y1="214" x2="300" y2="214" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="54" y1="214" x2="58" y2="214" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="51" y="217" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="54" y1="161.33" x2="58" y2="161.33" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="51" y="164.33" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">10</text>
+<line x1="54" y1="108.67" x2="58" y2="108.67" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="51" y="111.67" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">20</text>
+<line x1="54" y1="56" x2="58" y2="56" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="51" y="59" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">30</text>
+<text x="51" y="45" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">MINUTES</text>
+<line x1="58" y1="214" x2="58" y2="218" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="58" y="230" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DAY 1</text>
+<line x1="124.86" y1="214" x2="124.86" y2="218" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="124.86" y="230" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DAY 5</text>
+<line x1="208.43" y1="214" x2="208.43" y2="218" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="208.43" y="230" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DAY 10</text>
+<line x1="292" y1="214" x2="292" y2="218" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="292" y="230" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DAY 15</text>
+<path d="M58 187.67 L124.86 187.67 L124.86 82.33 L292 82.33" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="58" cy="187.67" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<text x="65" y="181.67" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">5</text>
+<text x="65" y="195.67" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">FIVE MINUTES, THE FEET ONLY</text>
+<circle cx="124.86" cy="82.33" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<text x="131.86" y="76.33" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">25</text>
+<text x="131.86" y="90.33" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">25-MINUTE SESSIONS</text>
+<line x1="292" y1="62" x2="292" y2="214" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<text x="286" y="60" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">FULL BODY BY ABOUT DAY 15</text>
+<text x="58" y="250" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE STEPS BETWEEN THE STATED DAYS ARE DRAWN DASHED:</text>
+<text x="58" y="262" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE PROTOCOL IS GRADUATED, THE INTERMEDIATE VALUES UNSTATED.</text>
+<text x="58" y="282" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MAINTAINED: 2–3 HOURS IN SUMMER, 3–4 IN WINTER.</text>
+<text x="58" y="296" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AT LOW ALTITUDE, IN THE MORNING, BEFORE NINE.</text>
+<line x1="322" y1="40" x2="322" y2="306" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="340" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SECTION IT FORCES · LES FRÊNES, 1911</text>
+<rect x="340" y="72" width="42" height="38" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="340" y1="72" x2="382" y2="72" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="382" y="110" width="42" height="38" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="382" y1="110" x2="424" y2="110" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="424" y="148" width="42" height="38" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="424" y1="148" x2="466" y2="148" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="466" y="186" width="42" height="38" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="466" y1="186" x2="508" y2="186" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="508" y="224" width="42" height="38" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="508" y1="224" x2="550" y2="224" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="334" y1="262" x2="560" y2="262" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="310" y1="42" x2="344.74" y2="66.68" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M348 69 L343.77 68.05 L345.71 65.31 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="352" y1="80" x2="386.74" y2="104.68" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M390 107 L385.77 106.05 L387.71 103.31 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="394" y1="118" x2="428.74" y2="142.68" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M432 145 L427.77 144.05 L429.71 141.31 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="436" y1="156" x2="470.74" y2="180.68" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M474 183 L469.77 182.05 L471.71 179.31 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="478" y1="194" x2="512.74" y2="218.68" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M516 221 L511.77 220.05 L513.71 217.31 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="340" y="70" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">MORNING SUN</text>
+<text x="340" y="82" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">REACHES EVERY BALCONY</text>
+<text x="340" y="280" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EACH BALCONY IS SET BACK SO THAT NONE</text>
+<text x="340" y="292" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SHADES THE ONE BELOW.</text>
+<text x="340" y="308" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE SECTION IS A CONSEQUENCE OF THE CLOCK.</text>
+<line x1="58" y1="344" x2="612" y2="344" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="362" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ROLLIER'S TALLY: 1,746 OF 2,167 RECOVERED. UNCONTROLLED, AND FOR SURGICAL TUBERCULOSIS,</text>
+<text x="58" y="376" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A DIFFERENT DISEASE FROM THE ONE THE PULMONARY SANATORIA TREATED.</text>
+<text x="58" y="396" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE GENERAL SUNLIGHT CURE FOR TUBERCULOSIS FAILED. THE SPECIFIC ULTRAVIOLET CLAIM FOR RICKETS,</text>
+<text x="58" y="408" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BERLIN 1918–19, WAS TRUE, AND BECAME VITAMIN D.</text>
+</svg>

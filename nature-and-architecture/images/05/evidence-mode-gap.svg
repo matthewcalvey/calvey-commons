@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Diagram showing evidence located at the IMAGE mode being used to justify interventions at four other modes of the nature-architecture spectrum.">
+<line x1="60.00" y1="110.00" x2="596.00" y2="110.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="60.00" y1="140.00" x2="596.00" y2="140.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="60.00" y1="110.00" x2="60.00" y2="140.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98.29" y="129.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">IMAGE</text>
+<line x1="136.57" y1="110.00" x2="136.57" y2="140.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="174.86" y="129.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">FORM</text>
+<line x1="213.14" y1="110.00" x2="213.14" y2="140.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="251.43" y="129.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MODEL</text>
+<line x1="289.71" y1="110.00" x2="289.71" y2="140.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="328.00" y="129.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MATERIAL</text>
+<line x1="366.29" y1="110.00" x2="366.29" y2="140.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="404.57" y="129.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">CLIMATE</text>
+<line x1="442.86" y1="110.00" x2="442.86" y2="140.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="481.14" y="129.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SYSTEM</text>
+<line x1="519.43" y1="110.00" x2="519.43" y2="140.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="557.71" y="129.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PARTNER</text>
+<line x1="596.00" y1="110.00" x2="596.00" y2="140.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="60.00" y="96.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SPECTRUM OF MODES — NOT A LADDER</text>
+<rect x="34.29" y="36.00" width="128.00" height="44.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.2"/>
+<rect x="34.29" y="36.00" width="128.00" height="44.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="98.29" y="52.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">ULRICH 1984</text>
+<text x="98.29" y="64.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">23 MATCHED PAIRS</text>
+<text x="98.29" y="75.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">A FRAMED STATIC VIEW</text>
+<line x1="98.29" y1="80.00" x2="98.29" y2="110.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="98.29" cy="110.00" r="4.20" fill="var(--accent,#6A9CC4)"/>
+<path d="M98.3 140.0 C 98.3 180.0 328.0 158.0 328.0 198.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="328.00" y1="190.00" x2="328.00" y2="198.00" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<path d="M328.00 198.00 L326.37 194.35 L329.63 194.35 Z" fill="var(--hot,#C45C3E)"/>
+<text x="328.00" y="214.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">natural</text>
+<text x="328.00" y="225.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">materials</text>
+<path d="M98.3 140.0 C 98.3 180.0 404.6 158.0 404.6 198.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="404.57" y1="190.00" x2="404.57" y2="198.00" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<path d="M404.57 198.00 L402.94 194.35 L406.20 194.35 Z" fill="var(--hot,#C45C3E)"/>
+<text x="404.57" y="214.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">daylight and</text>
+<text x="404.57" y="225.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">ventilation</text>
+<path d="M98.3 140.0 C 98.3 180.0 481.1 158.0 481.1 198.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="481.14" y1="190.00" x2="481.14" y2="198.00" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<path d="M481.14 198.00 L479.51 194.35 L482.77 194.35 Z" fill="var(--hot,#C45C3E)"/>
+<text x="481.14" y="214.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">living walls</text>
+<path d="M98.3 140.0 C 98.3 180.0 557.7 158.0 557.7 198.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="557.71" y1="190.00" x2="557.71" y2="198.00" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<path d="M557.71 198.00 L556.08 194.35 L559.35 194.35 Z" fill="var(--hot,#C45C3E)"/>
+<text x="557.71" y="214.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">habitat</text>
+<text x="60.00" y="272.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">WHAT THE BIOPHILIC DESIGN LITERATURE JUSTIFIES BY REFERENCE TO IT</text>
+<line x1="60.00" y1="284.00" x2="596.00" y2="284.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="60.00" y="304.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">One small piece of evidence, gathered at one mode, asked to support four others.</text>
+<text x="60.00" y="319.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">This is the chapter’s structural figure; chapter 6 builds on it.</text>
+<text x="60.00" y="368.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE ARGUMENT OF §02.5</text>
+</svg>

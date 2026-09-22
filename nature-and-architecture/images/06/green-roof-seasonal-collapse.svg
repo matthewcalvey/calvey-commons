@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Chart of green roof runoff coefficient across the year showing a low value in warm months stepping up sharply in winter, against a wide shaded band showing the range of retention values reported across the literature.">
+<line x1="76.00" y1="262.00" x2="596.00" y2="262.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="265.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.0</text>
+<line x1="76.00" y1="221.60" x2="596.00" y2="221.60" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="224.60" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.2</text>
+<line x1="76.00" y1="181.20" x2="596.00" y2="181.20" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="184.20" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.4</text>
+<line x1="76.00" y1="140.80" x2="596.00" y2="140.80" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="143.80" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.6</text>
+<line x1="76.00" y1="100.40" x2="596.00" y2="100.40" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="103.40" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.8</text>
+<line x1="76.00" y1="60.00" x2="596.00" y2="60.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="63.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.0</text>
+<line x1="76.00" y1="262.00" x2="596.00" y2="262.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="76.00" y1="262.00" x2="76.00" y2="60.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="97.67" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">J</text>
+<text x="141.00" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">F</text>
+<text x="184.33" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">M</text>
+<text x="227.67" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">A</text>
+<text x="271.00" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">M</text>
+<text x="314.33" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">J</text>
+<text x="357.67" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">J</text>
+<text x="401.00" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">A</text>
+<text x="444.33" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">S</text>
+<text x="487.67" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">O</text>
+<text x="531.00" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">N</text>
+<text x="574.33" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">D</text>
+<text x="336.00" y="296.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MONTH</text>
+<text x="36.00" y="161.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 36.00 161.00)">RUNOFF COEFFICIENT</text>
+<rect x="76.00" y="67.68" width="520.00" height="190.89" fill="var(--dim,#B8B5AC)" fill-opacity="0.1"/>
+<rect x="76.00" y="67.68" width="520.00" height="190.89" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="592.00" y="72.12" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THE FULL REPORTED SPREAD OF GREEN-ROOF RETENTION, 3.8 – 98.3 %</text>
+<path d="M76.0 126.7 L206.0 126.7 M206.0 227.7 L509.3 227.7 M509.3 126.7 L596.0 126.7" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="206.00" y1="126.66" x2="206.00" y2="227.66" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="509.33" y1="227.66" x2="509.33" y2="126.66" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="357.67" y="217.66" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.04em" text-anchor="middle">0.17  WARM MONTHS</text>
+<text x="141.00" y="116.66" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em" text-anchor="middle">0.67</text>
+<text x="552.67" y="116.66" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em" text-anchor="middle">0.67</text>
+<text x="141.00" y="104.66" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">WINTER</text>
+<text x="80.00" y="48.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE STEP IS DRAWN AS A STEP, NOT SMOOTHED</text>
+<line x1="517.33" y1="126.66" x2="517.33" y2="227.66" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="523.33" y="177.16" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ABOUT FOUR TIMES</text>
+<text x="523.33" y="188.16" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE WATER</text>
+<line x1="64.00" y1="320.00" x2="596.00" y2="320.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="340.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">A roof sized on its growing-season coefficient passes roughly four times as much water in the</text>
+<text x="64.00" y="354.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">season of saturated ground. A single retention percentage is not a property of green roofs.</text>
+<text x="64.00" y="392.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TORONTO MEASUREMENT: FRIZZI ET AL. 2025 · SPREAD: ZHOU 2020 AND GONG ET AL. 2018</text>
+</svg>

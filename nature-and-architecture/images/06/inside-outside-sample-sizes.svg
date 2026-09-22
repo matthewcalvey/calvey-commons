@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Logarithmic plot of sample sizes showing outdoor greenspace studies in the millions against indoor biophilic studies in the tens.">
+<line x1="72.00" y1="196.00" x2="596.00" y2="196.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="72.00" y1="192.00" x2="72.00" y2="200.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="72.00" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1</text>
+<line x1="143.77" y1="192.00" x2="143.77" y2="200.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="143.77" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10</text>
+<line x1="215.54" y1="192.00" x2="215.54" y2="200.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="215.54" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">100</text>
+<line x1="287.31" y1="192.00" x2="287.31" y2="200.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="287.31" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1,000</text>
+<line x1="359.08" y1="192.00" x2="359.08" y2="200.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="359.08" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10,000</text>
+<line x1="430.85" y1="192.00" x2="430.85" y2="200.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="430.85" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">100,000</text>
+<line x1="502.62" y1="192.00" x2="502.62" y2="200.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="502.62" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1 M</text>
+<line x1="574.39" y1="192.00" x2="574.39" y2="200.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="574.39" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10 M</text>
+<text x="596.00" y="230.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">SAMPLE SIZE  (LOG)</text>
+<text x="72.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">ABOVE THE LINE · OUTSIDE — GREENSPACE AND POPULATION</text>
+<circle cx="568.68" cy="196.00" r="5.60" fill="var(--ok,#7AB87A)"/>
+<line x1="568.68" y1="188.00" x2="568.68" y2="74.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="563.68" y="64.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">ROJAS-RUEDA 2019</text>
+<text x="563.68" y="77.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="end">8,324,652</text>
+<text x="563.68" y="89.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">9 cohorts, 7 countries · years of follow-up</text>
+<circle cx="380.38" cy="196.00" r="5.60" fill="var(--ok,#7AB87A)"/>
+<line x1="380.38" y1="188.00" x2="380.38" y2="126.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="375.38" y="116.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">WHITE 2019</text>
+<text x="375.38" y="129.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="end">19,806</text>
+<text x="375.38" y="141.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">English survey · one week recalled</text>
+<line x1="165.38" y1="250.00" x2="568.68" y2="250.00" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="165.38" y1="244.00" x2="165.38" y2="256.00" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="568.68" y1="244.00" x2="568.68" y2="256.00" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="367.03" y="242.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">MORE THAN FOUR HUNDRED THOUSAND TO ONE</text>
+<text x="596.00" y="276.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">BELOW THE LINE · INSIDE — EVERY STUDY THE BIOPHILIA LANE VERIFIED</text>
+<circle cx="211.91" cy="196.00" r="4.60" fill="var(--hot,#C45C3E)"/>
+<line x1="211.91" y1="204.00" x2="211.91" y2="287.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="218.91" y="296.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BROWNING 2020</text>
+<text x="218.91" y="308.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">n = 89</text>
+<text x="269.91" y="308.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· exposure six minutes</text>
+<circle cx="178.01" cy="196.00" r="4.60" fill="var(--hot,#C45C3E)"/>
+<line x1="178.01" y1="204.00" x2="178.01" y2="317.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="185.01" y="326.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BOUBEKRI</text>
+<text x="185.01" y="338.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">n = 30</text>
+<text x="236.01" y="338.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· exposure one week</text>
+<circle cx="165.38" cy="196.00" r="4.60" fill="var(--hot,#C45C3E)"/>
+<line x1="165.38" y1="204.00" x2="165.38" y2="347.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="172.38" y="356.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SHEN</text>
+<text x="172.38" y="368.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">n = 20</text>
+<text x="223.38" y="368.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· exposure not recorded here</text>
+<circle cx="106.24" cy="196.00" r="4.60" fill="var(--hot,#C45C3E)"/>
+<line x1="106.24" y1="204.00" x2="106.24" y2="377.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="113.24" y="386.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">HAN ET AL.</text>
+<text x="113.24" y="398.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">2–3</text>
+<text x="164.24" y="398.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· STUDIES per outcome, not participants</text>
+<line x1="64.00" y1="426.00" x2="596.00" y2="426.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="446.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The profession’s design attention is concentrated entirely below the line.</text>
+<text x="64.00" y="470.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FROM §02.6</text>
+</svg>

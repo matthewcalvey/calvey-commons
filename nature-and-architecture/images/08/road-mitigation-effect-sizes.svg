@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Bar chart of road mitigation effectiveness in which fencing alone performs best and wildlife crossing structures without fencing show no benefit.">
+
+<line x1="278.92" y1="82" x2="278.92" y2="310" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="278.92" y="326" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">-25</text>
+<line x1="333.54" y1="82" x2="333.54" y2="310" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="333.54" y="326" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="388.15" y1="82" x2="388.15" y2="310" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="388.15" y="326" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">25</text>
+<line x1="442.77" y1="82" x2="442.77" y2="310" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="442.77" y="326" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">50</text>
+<line x1="497.38" y1="82" x2="497.38" y2="310" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="497.38" y="326" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">75</text>
+<line x1="552" y1="82" x2="552" y2="310" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="552" y="326" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">100</text>
+<line x1="333.54" y1="82" x2="333.54" y2="310" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="78" y="326" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MEASURED CHANGE IN ROAD KILL  ·  %</text>
+<text x="78" y="338" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">POSITIVE = REDUCTION</text>
+<rect x="333.54" y="90.5" width="187.88" height="19" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="333.54" y="90.5" width="187.88" height="19" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="529.42" y="104" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.04em">86 %</text>
+<text x="258" y="104" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">FENCING ALONE</text>
+<rect x="333.54" y="122.5" width="181.32" height="19" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="333.54" y="122.5" width="181.32" height="19" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="522.86" y="136" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.04em">83 %</text>
+<text x="258" y="133" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">FENCING WITH STRUCTURES,</text>
+<text x="258" y="143" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">LARGE MAMMALS</text>
+<rect x="333.54" y="154.5" width="124.52" height="19" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="333.54" y="154.5" width="124.52" height="19" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="466.06" y="168" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">57 %</text>
+<text x="258" y="165" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">ANIMAL DETECTION SYSTEMS,</text>
+<text x="258" y="175" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">LARGE MAMMALS</text>
+<rect x="333.54" y="186.5" width="117.97" height="19" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="333.54" y="186.5" width="117.97" height="19" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="459.51" y="200" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">54 %</text>
+<text x="258" y="200" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">FENCING, ± STRUCTURES</text>
+<rect x="333.54" y="218.5" width="111.42" height="19" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="333.54" y="218.5" width="111.42" height="19" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="452.95" y="232" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">51 %</text>
+<text x="258" y="232" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">STRUCTURES WITH FENCING</text>
+<rect x="333.54" y="250.5" width="2.18" height="19" fill="var(--mut,#8A8880)" opacity="0.45"/>
+<rect x="333.54" y="250.5" width="2.18" height="19" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="343.72" y="264" font-family="'Space Mono',monospace" font-size="10" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">1 %</text>
+<text x="258" y="264" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">REFLECTORS</text>
+<rect x="283.29" y="282.5" width="50.25" height="19" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="283.29" y="282.5" width="50.25" height="19" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="341.54" y="296" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">-23 %</text>
+<text x="381.54" y="296" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">AN INCREASE, CROSSING THE ZERO LINE</text>
+<text x="258" y="296" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">CROSSING STRUCTURES ALONE</text>
+<text x="44" y="62" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE FENCE, NOT THE BRIDGE.</text>
+<rect x="44" y="342" width="552" height="30" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54" y="361" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">82 PER CENT OF STUDIES WERE NORTH AMERICAN AND 90 PER CENT WERE ON MAMMALS.</text>
+<text x="44" y="390" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">What is measured is road kill — mortality at the artefact — and not whether any population was made viable.</text>
+<text x="44" y="401" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">This figure carries register item 16. Rytwinski et al. 2016.</text>
+</svg>

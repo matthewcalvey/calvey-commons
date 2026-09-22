@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="A cross-section through a stone-walled terrace showing three layers beneath the soil and a small drain opening in the wall.">
+<defs><marker id="f31a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="176.0" y="104.0" width="26.0" height="160.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="176.0" y1="112.0" x2="202.0" y2="112.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="176.0" y1="140.0" x2="202.0" y2="140.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="176.0" y1="168.0" x2="202.0" y2="168.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="176.0" y1="196.0" x2="202.0" y2="196.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="176.0" y1="224.0" x2="202.0" y2="224.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="176.0" y1="252.0" x2="202.0" y2="252.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="202.0" y1="104.0" x2="560.0" y2="104.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="202.0" y1="138.0" x2="560.0" y2="138.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="202.0" y1="202.0" x2="560.0" y2="202.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="176.0" y1="264.0" x2="560.0" y2="264.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="560.0" y1="104.0" x2="560.0" y2="264.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<path d="M176,264 L120,264 L120,298" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="124.0" y="284.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NEXT TERRACE</text>
+<circle cx="216.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="225.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="234.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="243.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="252.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="261.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="270.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="279.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="288.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="297.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="306.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="315.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="324.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="333.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="342.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="351.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="360.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="369.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="378.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="387.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="396.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="405.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="414.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="423.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="432.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="441.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="450.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="459.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="468.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="477.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="486.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="495.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="504.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="513.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="522.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="531.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="540.0" cy="118.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<circle cx="549.0" cy="130.0" r="1.5" fill="var(--mut,#8A8880)"/>
+<line x1="203.0" y1="139.0" x2="203.0" y2="139.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="214.0" y1="139.0" x2="203.0" y2="150.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="225.0" y1="139.0" x2="203.0" y2="161.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="236.0" y1="139.0" x2="203.0" y2="172.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="247.0" y1="139.0" x2="203.0" y2="183.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="258.0" y1="139.0" x2="203.0" y2="194.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="269.0" y1="139.0" x2="207.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="280.0" y1="139.0" x2="218.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="291.0" y1="139.0" x2="229.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="302.0" y1="139.0" x2="240.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="313.0" y1="139.0" x2="251.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="324.0" y1="139.0" x2="262.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="335.0" y1="139.0" x2="273.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="346.0" y1="139.0" x2="284.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="357.0" y1="139.0" x2="295.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="368.0" y1="139.0" x2="306.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="379.0" y1="139.0" x2="317.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="390.0" y1="139.0" x2="328.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="401.0" y1="139.0" x2="339.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="412.0" y1="139.0" x2="350.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="423.0" y1="139.0" x2="361.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="434.0" y1="139.0" x2="372.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="445.0" y1="139.0" x2="383.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="456.0" y1="139.0" x2="394.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="467.0" y1="139.0" x2="405.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="478.0" y1="139.0" x2="416.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="489.0" y1="139.0" x2="427.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="500.0" y1="139.0" x2="438.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="511.0" y1="139.0" x2="449.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="522.0" y1="139.0" x2="460.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="533.0" y1="139.0" x2="471.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="544.0" y1="139.0" x2="482.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="555.0" y1="139.0" x2="493.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="559.0" y1="146.0" x2="504.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="559.0" y1="157.0" x2="515.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="559.0" y1="168.0" x2="526.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="559.0" y1="179.0" x2="537.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="559.0" y1="190.0" x2="548.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="559.0" y1="201.0" x2="559.0" y2="201.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M212,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M240,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M268,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M296,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M324,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M352,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M380,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M408,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M436,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M464,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M492,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<path d="M520,216 l11,6 l-4,11 l-11,-6 Z" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="202.0" y="234.0" width="332.0" height="9.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="520.0" y1="238.0" x2="218.0" y2="238.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f31a)" stroke-linecap="round"/>
+<rect x="174.0" y="124.0" width="30.0" height="11.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="196.0" y1="130.0" x2="136.0" y2="130.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f31a)" stroke-linecap="round"/>
+<text x="130.0" y="122.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">WALL OUTLET</text>
+<text x="130.0" y="134.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">10 × 13 CM</text>
+<text x="130.0" y="146.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">PER 200 M²</text>
+<line x1="236.0" y1="64.0" x2="231.0" y2="98.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="282.0" y1="64.0" x2="277.0" y2="98.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="328.0" y1="64.0" x2="323.0" y2="98.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="374.0" y1="64.0" x2="369.0" y2="98.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="420.0" y1="64.0" x2="415.0" y2="98.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="466.0" y1="64.0" x2="461.0" y2="98.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="512.0" y1="64.0" x2="507.0" y2="98.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="558.0" y1="64.0" x2="553.0" y2="98.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<circle cx="578.0" cy="121.0" r="7.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="578.0" y="124.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">1</text>
+<line x1="562.0" y1="121.0" x2="569.0" y2="121.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="578.0" cy="170.0" r="7.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="578.0" y="173.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">2</text>
+<line x1="562.0" y1="170.0" x2="569.0" y2="170.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="578.0" cy="233.0" r="7.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="578.0" y="236.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">3</text>
+<line x1="562.0" y1="233.0" x2="569.0" y2="233.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58.0" y1="288.0" x2="612.0" y2="288.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="65.0" cy="306.5" r="7.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="65.0" y="310.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">1</text>
+<text x="82.0" y="307.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">0.5 M SANDY LOAM</text>
+<text x="82.0" y="319.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">66 % SAND, 17 SILT, 17 CLAY · INFILTRATION ABOUT 10 CM AN HOUR</text>
+<circle cx="65.0" cy="332.5" r="7.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="65.0" y="336.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">2</text>
+<text x="82.0" y="333.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ABOUT 1 M OF ROCK AND STONE CHIPS</text>
+<text x="82.0" y="345.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PERMEABILITY ABOUT 12 L A DAY PER CM² · STORAGE ABOUT 0.15</text>
+<circle cx="65.0" cy="358.5" r="7.5" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="65.0" y="362.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">3</text>
+<text x="82.0" y="359.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SHAPED FILL, WITH A HORIZONTAL DRAIN</text>
+<text x="82.0" y="371.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE TERRACE DRAIN RUNS ABOUT 42 M, SOUTH TO NORTH</text>
+<rect x="58.0" y="392.0" width="480.0" height="22.0" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="59.0" y1="393.0" x2="59.0" y2="393.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="68.0" y1="393.0" x2="59.0" y2="402.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="77.0" y1="393.0" x2="59.0" y2="411.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="86.0" y1="393.0" x2="66.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="95.0" y1="393.0" x2="75.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="104.0" y1="393.0" x2="84.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="113.0" y1="393.0" x2="93.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="122.0" y1="393.0" x2="102.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="131.0" y1="393.0" x2="111.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="140.0" y1="393.0" x2="120.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="149.0" y1="393.0" x2="129.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="158.0" y1="393.0" x2="138.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="167.0" y1="393.0" x2="147.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="176.0" y1="393.0" x2="156.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="185.0" y1="393.0" x2="165.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="194.0" y1="393.0" x2="174.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="203.0" y1="393.0" x2="183.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="212.0" y1="393.0" x2="192.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="221.0" y1="393.0" x2="201.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="230.0" y1="393.0" x2="210.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="239.0" y1="393.0" x2="219.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="248.0" y1="393.0" x2="228.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="257.0" y1="393.0" x2="237.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="266.0" y1="393.0" x2="246.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="275.0" y1="393.0" x2="255.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="284.0" y1="393.0" x2="264.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="293.0" y1="393.0" x2="273.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="302.0" y1="393.0" x2="282.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="311.0" y1="393.0" x2="291.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="320.0" y1="393.0" x2="300.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="329.0" y1="393.0" x2="309.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="338.0" y1="393.0" x2="318.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="345.0" y1="395.0" x2="327.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="345.0" y1="404.0" x2="336.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="345.0" y1="413.0" x2="345.0" y2="413.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<rect x="58.0" y="392.0" width="288.0" height="22.0" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="58.0" y="386.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ABOUT 60 PER CENT OF THE CONSTRUCTION EFFORT IS BELOW THE SURFACE</text>
+<text x="354.0" y="407.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">VISIBLE</text>
+<text x="58.0" y="434.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WRIGHT, VALENCIA ZEGARRA &amp; LORAH 1999 · TEST PITS AND SOIL TESTING</text>
+<text x="58.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A MACHU PICCHU TERRACE IN SECTION</text>
+<text x="612.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">ABOUT 1,940 MM OF RAIN A YEAR · 1,472 IN SIX MONTHS</text>
+</svg>

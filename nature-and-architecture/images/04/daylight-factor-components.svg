@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 464" role="img" aria-label="Section through a daylit room showing three paths by which light reaches a point on a desk.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE THREE COMPONENTS OF THE DAYLIGHT FACTOR</text>
+<rect x="150" y="108" width="250" height="142" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="396" y="120" width="4" height="80" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="340" y="214" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WINDOW</text>
+<rect x="500" y="95" width="44" height="155" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="504" y="116" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OPPOSING</text>
+<text x="504" y="128" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FAÇADE</text>
+<line x1="140" y1="250" x2="560" y2="250" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="158" y1="220" x2="388" y2="220" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<circle cx="238" cy="220" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="158" y="214" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WORKING PLANE</text>
+<text x="232" y="234" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">THE POINT</text>
+<line x1="500" y1="95" x2="242.51" y2="217.85" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M238 220 L241.61 215.95 L243.42 219.74 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="506" y="74" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">SKY COMPONENT</text>
+<text x="506" y="86" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DIRECT FROM THE SKY</text>
+<line x1="500" y1="162" x2="242.88" y2="218.92" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/><path d="M238 220 L242.43 216.87 L243.34 220.97 Z" fill="var(--ok,#7AB87A)"/>
+<line x1="558" y1="126" x2="500" y2="162" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<text x="554" y="150" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">EXTERNALLY</text>
+<text x="554" y="162" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">REFLECTED</text>
+<line x1="170" y1="118" x2="235.23" y2="215.84" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-dasharray="2 2"/><path d="M238 220 L233.48 217 L236.97 214.67 Z" fill="var(--dim,#B8B5AC)"/>
+<line x1="392" y1="142" x2="170" y2="118" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<text x="158" y="138" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">INTERNALLY REFLECTED</text>
+<text x="58" y="290" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DAYLIGHT FACTOR  =  ILLUMINANCE AT THE POINT INDOORS  ÷  ILLUMINANCE OUTDOORS</text>
+<text x="58" y="304" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">UNDER AN UNOBSTRUCTED OVERCAST HEMISPHERE, AS A PERCENTAGE</text>
+<line x1="58" y1="340" x2="470" y2="340" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58" y1="340" x2="58" y2="344" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="58" y="355" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0%</text>
+<line x1="161" y1="340" x2="161" y2="344" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="161" y="355" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2%</text>
+<line x1="264" y1="340" x2="264" y2="344" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="264" y="355" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">4%</text>
+<line x1="315.5" y1="340" x2="315.5" y2="344" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="315.5" y="355" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">5%</text>
+<line x1="367" y1="340" x2="367" y2="344" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="367" y="355" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">6%</text>
+<line x1="470" y1="340" x2="470" y2="344" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="470" y="355" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">8%</text>
+<rect x="58" y="320" width="103" height="16" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="62" y="332" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NOT ADEQUATELY LIT</text>
+<rect x="315.5" y="320" width="154.5" height="16" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="319.5" y="332" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">WELL LIT</text>
+<text x="58" y="370" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ARTIFICIAL LIGHT AT ALL TIMES</text>
+<text x="319.5" y="370" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND GLARE AND SOLAR GAIN BECOME THE RISK</text>
+<text x="480" y="343" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CIBSE LIGHTING</text>
+<text x="480" y="355" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GUIDE 10, 1999</text>
+<text x="58" y="408" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE GRUMBLE POINT</text>
+<rect x="214" y="396" width="110" height="24" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="269" y="411" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="338" y="404" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE THRESHOLD BELOW WHICH OCCUPANTS WERE HELD</text>
+<text x="338" y="416" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TO COMPLAIN. IT PASSED INTO ENGLISH RIGHTS-OF-</text>
+<text x="338" y="428" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LIGHT PRACTICE AS A LEGAL TEST. ITS VALUE WAS</text>
+<text x="338" y="440" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NOT VERIFIED AT SOURCE AND IS NOT PRINTED HERE.</text>
+<text x="58" y="430" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">A NUMBER THAT DECIDES PROPERTY</text>
+<text x="58" y="442" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">DISPUTES, AND IT WAS CALIBRATED</text>
+<text x="58" y="454" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ON WHEN PEOPLE GRUMBLE.</text>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="Paired diagram contrasting the weak scholarly base of permaculture literature with strong measured soil and biodiversity results from permaculture farms.">
+<text x="52.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">LEFT · THE LITERATURE, 1978–2013</text>
+<text x="340.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">RIGHT · THE FIELDS, 2024</text>
+<line x1="318.00" y1="44.00" x2="318.00" y2="300.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="60.00" y="60.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">230-ITEM BIBLIOGRAPHY</text>
+<rect x="60.00" y="70.00" width="49.13" height="20.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.18"/>
+<rect x="60.00" y="70.00" width="49.13" height="20.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="109.13" y="70.00" width="45.20" height="20.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.24"/>
+<rect x="109.13" y="70.00" width="45.20" height="20.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="154.33" y="70.00" width="40.29" height="20.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.3"/>
+<rect x="154.33" y="70.00" width="40.29" height="20.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="194.62" y="70.00" width="91.38" height="20.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.36"/>
+<rect x="194.62" y="70.00" width="91.38" height="20.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="60.00" y="108.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">JOURNAL ARTICLES  50</text>
+<text x="60.00" y="121.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THESES  46</text>
+<text x="60.00" y="134.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BOOKS  41</text>
+<text x="60.00" y="147.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REMAINDER, NOT BROKEN DOWN  93</text>
+<rect x="60.00" y="170.00" width="31.41" height="18.00" fill="var(--hot,#C45C3E)" fill-opacity="0.35"/>
+<rect x="60.00" y="170.00" width="226.00" height="18.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="99.41" y="184.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">13.9 % PEER-REVIEWED</text>
+<text x="60.00" y="216.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2003 READING LIST · MEAN PUBLICATION DATE</text>
+<line x1="60.00" y1="240.00" x2="286.00" y2="240.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="60.00" y1="240.00" x2="60.00" y2="244.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="60.00" y="256.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1940</text>
+<line x1="120.27" y1="240.00" x2="120.27" y2="244.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="120.27" y="256.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1960</text>
+<line x1="180.53" y1="240.00" x2="180.53" y2="244.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="180.53" y="256.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1980</text>
+<line x1="240.80" y1="240.00" x2="240.80" y2="244.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="240.80" y="256.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2000</text>
+<circle cx="132.32" cy="240.00" r="4.60" fill="var(--hot,#C45C3E)"/>
+<text x="132.32" y="232.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em" text-anchor="middle">1964</text>
+<text x="60.00" y="276.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">A MOVEMENT CUT OFF FROM ITS OWN SCIENCE</text>
+<text x="340.00" y="62.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SOIL CARBON STOCK</text>
+<rect x="340.00" y="70.00" width="111.60" height="14.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.25"/>
+<rect x="340.00" y="70.00" width="111.60" height="14.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="340.00" y="88.00" width="180.00" height="14.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="340.00" y="88.00" width="180.00" height="14.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="457.60" y="81.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CONTROL</text>
+<text x="526.00" y="99.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">PERMACULTURE</text>
+<text x="340.00" y="120.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BULK DENSITY (LOWER IS BETTER)</text>
+<rect x="340.00" y="128.00" width="180.00" height="14.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.25"/>
+<rect x="340.00" y="128.00" width="180.00" height="14.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="340.00" y="146.00" width="140.40" height="14.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="340.00" y="146.00" width="140.40" height="14.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="526.00" y="139.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CONTROL</text>
+<text x="486.40" y="157.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">PERMACULTURE</text>
+<text x="340.00" y="178.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EARTHWORM ABUNDANCE</text>
+<rect x="340.00" y="186.00" width="81.00" height="14.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.25"/>
+<rect x="340.00" y="186.00" width="81.00" height="14.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="340.00" y="204.00" width="180.00" height="14.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="340.00" y="204.00" width="180.00" height="14.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="427.00" y="197.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CONTROL</text>
+<text x="526.00" y="215.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">PERMACULTURE</text>
+<text x="340.00" y="236.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLANT SPECIES RICHNESS</text>
+<rect x="340.00" y="244.00" width="68.40" height="14.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.25"/>
+<rect x="340.00" y="244.00" width="68.40" height="14.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="340.00" y="262.00" width="180.00" height="14.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="340.00" y="262.00" width="180.00" height="14.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="414.40" y="255.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CONTROL</text>
+<text x="526.00" y="273.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">PERMACULTURE</text>
+<text x="340.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BAR LENGTHS INDICATE DIRECTION ONLY;</text>
+<text x="340.00" y="313.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EFFECT SIZES WERE NOT REACHED.</text>
+<line x1="52.00" y1="338.00" x2="596.00" y2="338.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="358.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Both panels are true. A literature with almost no peer review, and fields that outperformed</text>
+<text x="52.00" y="372.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">their neighbours on soil carbon, compaction, earthworms and plant richness.</text>
+<text x="52.00" y="404.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FERGUSON AND LOVELL 2014 (BIBLIOMETRICS) · REIFF ET AL. 2024 (FIELD RESULTS)</text>
+</svg>

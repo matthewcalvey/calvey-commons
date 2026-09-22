@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Section of a test room showing comfort exceeded near the south glass and acceptable seven metres back.">
+<text x="52.00" y="28.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SECTION · NBS DIRECT GAIN CELL</text>
+<line x1="52.00" y1="196.00" x2="286.00" y2="196.00" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="52.00" y1="84.00" x2="286.00" y2="84.00" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="286.00" y1="84.00" x2="286.00" y2="196.00" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="52.00" y1="84.00" x2="52.00" y2="196.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="48.00" y1="90.00" x2="56.00" y2="86.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="48.00" y1="110.00" x2="56.00" y2="106.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="48.00" y1="130.00" x2="56.00" y2="126.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="48.00" y1="150.00" x2="56.00" y2="146.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="48.00" y1="170.00" x2="56.00" y2="166.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="48.00" y1="190.00" x2="56.00" y2="186.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="46.00" y="76.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">SOUTH GLAZING</text>
+<line x1="52.00" y1="206.00" x2="286.00" y2="206.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="52.00" y1="206.00" x2="52.00" y2="210.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="52.00" y="222.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="110.50" y1="206.00" x2="110.50" y2="210.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="110.50" y="222.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2</text>
+<line x1="169.00" y1="206.00" x2="169.00" y2="210.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="169.00" y="222.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">4</text>
+<line x1="227.50" y1="206.00" x2="227.50" y2="210.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="227.50" y="222.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">6</text>
+<line x1="286.00" y1="206.00" x2="286.00" y2="210.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="286.00" y="222.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">8</text>
+<text x="169.00" y="238.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DEPTH FROM GLAZING  M</text>
+<rect x="52.00" y="189.00" width="99.45" height="7.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.26"/>
+<rect x="52.00" y="189.00" width="64.35" height="7.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.4"/>
+<line x1="116.35" y1="189.00" x2="116.35" y2="196.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<line x1="151.45" y1="189.00" x2="151.45" y2="196.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<text x="119.35" y="185.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">2.2 m OCT</text>
+<text x="154.45" y="174.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">3.4 m JAN</text>
+<text x="58.00" y="162.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUNLIT FLOOR</text>
+<circle cx="96.46" cy="118.00" r="4.00" fill="var(--hot,#C45C3E)"/>
+<text x="96.46" y="108.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1.52 m</text>
+<circle cx="190.06" cy="118.00" r="4.00" fill="var(--dim,#B8B5AC)"/>
+<text x="190.06" y="108.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">4.72 m</text>
+<circle cx="256.75" cy="118.00" r="4.00" fill="var(--ok,#7AB87A)"/>
+<text x="256.75" y="108.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">7 m</text>
+<text x="352.00" y="28.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BLACK GLOBE TEMPERATURE · CLEAR WINTER DAY</text>
+<line x1="352.00" y1="272.00" x2="612.00" y2="272.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="346.00" y="275.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">14</text>
+<line x1="352.00" y1="237.60" x2="612.00" y2="237.60" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="346.00" y="240.60" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">18</text>
+<line x1="352.00" y1="203.20" x2="612.00" y2="203.20" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="346.00" y="206.20" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">22</text>
+<line x1="352.00" y1="168.80" x2="612.00" y2="168.80" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="346.00" y="171.80" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">26</text>
+<line x1="352.00" y1="134.40" x2="612.00" y2="134.40" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="346.00" y="137.40" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">30</text>
+<line x1="352.00" y1="100.00" x2="612.00" y2="100.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="346.00" y="103.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">34</text>
+<line x1="352.00" y1="272.00" x2="612.00" y2="272.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="352.00" y1="272.00" x2="352.00" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="316.00" y="186.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 316.00 186.00)">°C</text>
+<rect x="352.00" y="180.84" width="260.00" height="37.84" fill="var(--ok,#7AB87A)" fill-opacity="0.13"/>
+<line x1="352.00" y1="180.84" x2="612.00" y2="180.84" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<line x1="352.00" y1="218.68" x2="612.00" y2="218.68" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<line x1="352.00" y1="272.00" x2="352.00" y2="275.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="352.00" y="288.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">00</text>
+<line x1="417.00" y1="272.00" x2="417.00" y2="275.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="417.00" y="288.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">06</text>
+<line x1="482.00" y1="272.00" x2="482.00" y2="275.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="482.00" y="288.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">12</text>
+<line x1="547.00" y1="272.00" x2="547.00" y2="275.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="547.00" y="288.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">18</text>
+<line x1="612.00" y1="272.00" x2="612.00" y2="275.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="612.00" y="288.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">24</text>
+<text x="482.00" y="304.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">HOUR</text>
+<path d="M352.0 232.4 L406.2 229.9 L438.7 215.2 L460.3 174.4 L482.0 121.5 L498.2 116.3 L514.5 129.2 L536.2 174.4 L568.7 222.1 L612.0 232.4" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="butt"/>
+<path d="M352.0 217.0 L406.2 214.4 L438.7 199.8 L460.3 195.5 L482.0 179.1 L498.2 174.0 L514.5 186.9 L536.2 195.5 L568.7 206.6 L612.0 217.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linecap="butt"/>
+<path d="M352.0 211.8 L406.2 209.2 L438.7 194.6 L460.3 199.3 L482.0 192.0 L498.2 186.9 L514.5 199.8 L536.2 199.3 L568.7 201.5 L612.0 211.8" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="502.25" y="112.34" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">1.52 m</text>
+<text x="502.25" y="169.96" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">4.72 m</text>
+<text x="502.25" y="196.86" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">7 m</text>
+<text x="357.00" y="259.96" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">1 – 7.5 °C ABOVE THE BAND, &gt; 6 HOURS</text>
+<rect x="352.00" y="68.00" width="9.00" height="7.00" fill="var(--ok,#7AB87A)" fill-opacity="0.5"/>
+<rect x="352.00" y="68.00" width="9.00" height="7.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="366.00" y="74.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ASHRAE 55-1981 COMFORT BAND  20.2 – 24.6 °C</text>
+<text x="352.00" y="90.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TRACE SHAPE SCHEMATIC · REPORTED EXTREMES PLOTTED</text>
+<line x1="52.00" y1="320.00" x2="612.00" y2="320.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="338.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Overheating in a direct gain room is a place, not a temperature. At 1.52 m from the glass the globe runs</text>
+<text x="52.00" y="352.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">one to seven and a half degrees above the comfort band for more than six hours, and below it at night.</text>
+<text x="52.00" y="366.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Seven metres back, the same room stays inside the band all day.</text>
+<text x="52.00" y="410.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OCTOBER 1981 AND JANUARY 1982 · LIU, NBSIR 82-2621</text>
+</svg>

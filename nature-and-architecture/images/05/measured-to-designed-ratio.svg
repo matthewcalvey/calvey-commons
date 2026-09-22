@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 362" role="img" aria-label="A number line showing energy prediction accuracy: the average sits almost exactly on target while individual buildings scatter from a quarter to nearly three times predicted.">
+<line x1="76.00" y1="170.00" x2="596.00" y2="170.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="76.00" y1="170.00" x2="76.00" y2="175.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="76.00" y="190.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.0</text>
+<line x1="162.67" y1="170.00" x2="162.67" y2="175.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="162.67" y="190.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.5</text>
+<line x1="249.33" y1="170.00" x2="249.33" y2="175.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="249.33" y="190.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1.0</text>
+<line x1="336.00" y1="170.00" x2="336.00" y2="175.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="336.00" y="190.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1.5</text>
+<line x1="422.67" y1="170.00" x2="422.67" y2="175.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="422.67" y="190.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2.0</text>
+<line x1="509.33" y1="170.00" x2="509.33" y2="175.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="509.33" y="190.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2.5</text>
+<line x1="596.00" y1="170.00" x2="596.00" y2="175.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="596.00" y="190.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">3.0</text>
+<text x="336.00" y="266.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">RATIO OF MEASURED TO DESIGNED ENERGY USE INTENSITY</text>
+<rect x="119.33" y="124.00" width="433.33" height="38.00" fill="var(--hot,#C45C3E)" fill-opacity="0.14"/>
+<rect x="119.33" y="124.00" width="433.33" height="38.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<line x1="134.93" y1="143.00" x2="103.73" y2="143.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<path d="M103.73 143.00 L107.84 141.17 L107.84 144.83 Z" fill="var(--hot,#C45C3E)"/>
+<line x1="537.07" y1="143.00" x2="568.27" y2="143.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<path d="M568.27 143.00 L564.16 144.83 L564.16 141.17 Z" fill="var(--hot,#C45C3E)"/>
+<text x="336.00" y="147.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">INDIVIDUAL PROJECTS</text>
+<text x="125.33" y="118.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em">UNDER 0.25</text>
+<text x="546.67" y="118.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em" text-anchor="end">OVER 2.75</text>
+<line x1="249.33" y1="78.00" x2="249.33" y2="176.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="255.33" y="86.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ON TARGET</text>
+<circle cx="235.47" cy="170.00" r="6.00" fill="var(--accent,#6A9CC4)"/>
+<path d="M235.5 177.0 L235.5 214.0 L344.7 214.0" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="353.33" y="211.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.04em">POPULATION MEAN  0.92</text>
+<text x="353.33" y="225.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE NUMBER A MODELLER CAN DEFEND</text>
+<text x="258.00" y="112.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE NUMBER A CLIENT EXPERIENCES</text>
+<line x1="64.00" y1="288.00" x2="596.00" y2="288.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="308.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">One dataset. A model unbiased across a population can be useless for the</text>
+<text x="64.00" y="322.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">building on your desk.</text>
+<text x="64.00" y="348.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NEWSHAM, MANCINI AND BIRT 2009, REPORTING NEW BUILDINGS INSTITUTE DATA (TURNER AND FRANKEL 2008)</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Diagram showing radiative sky cooling potential plotted against population-weighted cooling demand, revealing that high-potential regions are sparsely populated and densely populated humid regions have low potential.">
+
+<line x1="140" y1="90" x2="140" y2="264" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="140" y1="264" x2="470" y2="264" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="44" y="56" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">RADIATIVE SKY COOLING POTENTIAL  ↑</text>
+<text x="44" y="68" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">driven by low precipitable water</text>
+<text x="140" y="284" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">POPULATION DENSITY WEIGHTED BY COOLING DEMAND  →</text>
+<line x1="159.8" y1="116.16" x2="443.6" y2="240.48" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<text x="357.8" y="198.48" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" transform="rotate(-27 357.8 198.48)">THE ANTI-CORRELATION</text>
+<ellipse cx="206" cy="126.24" rx="46" ry="27.599999999999998" fill="var(--hot,#C45C3E)" opacity="0.16"/>
+<ellipse cx="206" cy="126.24" rx="46" ry="27.599999999999998" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="206" y="124.24" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">DRY</text>
+<text x="206" y="135.24" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">INTERIORS</text>
+<text x="262" y="116.24" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">HIGH POTENTIAL,</text>
+<text x="262" y="127.24" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">ALMOST NOBODY</text>
+<text x="262" y="138.24" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">LIVES THERE</text>
+<ellipse cx="410.6" cy="230.4" rx="50" ry="30.0" fill="var(--hot,#C45C3E)" opacity="0.16"/>
+<ellipse cx="410.6" cy="230.4" rx="50" ry="30.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="410.6" y="228.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">HUMID TROPICS</text>
+<text x="410.6" y="239.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">AND COASTS</text>
+<text x="350.6" y="220.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">LOW POTENTIAL,</text>
+<text x="350.6" y="231.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">WHERE THE</text>
+<text x="350.6" y="242.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">DEMAND IS</text>
+<ellipse cx="308.3" cy="176.64" rx="44" ry="26.4" fill="var(--ok,#7AB87A)" opacity="0.16"/>
+<ellipse cx="308.3" cy="176.64" rx="44" ry="26.4" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="308.3" y="174.64" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">TRANSITIONAL</text>
+<text x="308.3" y="185.64" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">BELT</text>
+<text x="362.3" y="166.64" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RESOURCE AND</text>
+<text x="362.3" y="177.64" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">DEMAND COINCIDE</text>
+<rect x="492" y="96" width="104" height="168" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="502" y="116" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE TECHNIQUE&#x27;S</text>
+<text x="502" y="127" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">RESOURCE AND</text>
+<text x="502" y="138" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ITS MARKET ARE</text>
+<text x="502" y="149" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">GEOGRAPHICALLY</text>
+<text x="502" y="160" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">OPPOSED.</text>
+<text x="502" y="194" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">RADIATIVE SKY</text>
+<text x="502" y="205" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">COOLING WORKS</text>
+<text x="502" y="216" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BEST WHERE</text>
+<text x="502" y="227" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ALMOST NOBODY</text>
+<text x="502" y="238" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">LIVES.</text>
+<text x="44" y="314" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Axes are the two quantities the source pairs; the three regions are drawn as zones and not as data points,</text>
+<text x="44" y="325" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">because the paper reports the structural relation and the lane&#x27;s read names no individual cities. Modelled</text>
+<text x="44" y="336" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">globally with MODTRAN profiles, cloud error within ± 5 W/m²; cooling power rises with ambient temperature and</text>
+<text x="44" y="347" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">falls with atmospheric moisture. Aili, Yin &amp; Yang 2021.</text>
+</svg>

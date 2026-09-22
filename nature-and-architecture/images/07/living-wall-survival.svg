@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Three panels showing living wall plant survival by substrate and species, and the inverse relationship between growth and drainage up the wall.">
+
+<text x="56" y="52" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BY SUBSTRATE</text>
+<line x1="56" y1="112" x2="56" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="56" y1="246" x2="234" y2="246" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="50" y="249" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">50</text>
+<line x1="56" y1="220.8" x2="234" y2="220.8" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="50" y="223.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">60</text>
+<line x1="56" y1="195.6" x2="234" y2="195.6" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="56" y1="170.4" x2="234" y2="170.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="50" y="173.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">80</text>
+<line x1="56" y1="145.2" x2="234" y2="145.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="56" y1="120" x2="234" y2="120" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="50" y="123" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">100</text>
+<text x="50" y="98" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SURVIVAL AT 18 MONTHS  %</text>
+<rect x="74" y="183" width="34" height="63" fill="var(--dim,#B8B5AC)" opacity="0.42"/>
+<rect x="74" y="183" width="34" height="63" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="91" y="177" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">75.0</text>
+<text x="91" y="260" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">LOAM</text>
+<rect x="128" y="188.29" width="34" height="57.71" fill="var(--dim,#B8B5AC)" opacity="0.42"/>
+<rect x="128" y="188.29" width="34" height="57.71" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="145" y="182.29" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">72.9</text>
+<text x="145" y="260" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">POTTING</text>
+<text x="145" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">MIX</text>
+<rect x="182" y="209.21" width="34" height="36.79" fill="var(--dim,#B8B5AC)" opacity="0.42"/>
+<rect x="182" y="209.21" width="34" height="36.79" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="199" y="203.21" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">64.6</text>
+<text x="199" y="260" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NATIVE</text>
+<text x="199" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">SOIL</text>
+<line x1="56" y1="193.58" x2="234" y2="193.58" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="234" y="187.58" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="end" letter-spacing="0.08em">70.8 OVERALL</text>
+<text x="56" y="286" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">NOT SIGNIFICANT  p &gt; 0.05</text>
+<text x="262" y="52" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BY SPECIES</text>
+<line x1="262" y1="112" x2="262" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="262" y1="246" x2="440" y2="246" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="262" y1="220.8" x2="440" y2="220.8" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="262" y1="195.6" x2="440" y2="195.6" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="262" y1="170.4" x2="440" y2="170.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="262" y1="145.2" x2="440" y2="145.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="262" y1="120" x2="440" y2="120" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="256" y="98" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">WIDEST SPREAD OF THE THREE</text>
+<rect x="282" y="140.16" width="34" height="105.84" fill="var(--ok,#7AB87A)" opacity="0.42"/>
+<rect x="282" y="140.16" width="34" height="105.84" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="299" y="134.16" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">92.0</text>
+<text x="299" y="260" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">GOODENIA</text>
+<text x="299" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">VARIA</text>
+<rect x="402" y="225.08" width="34" height="20.92" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<rect x="402" y="225.08" width="34" height="20.92" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="419" y="219.08" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">58.3</text>
+<text x="419" y="260" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">DIANELLA</text>
+<text x="419" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">REVOLUTA</text>
+<rect x="322" y="140.16" width="76" height="84.92" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="360" y="186" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">FOUR MORE</text>
+<text x="360" y="196" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">SPECIES,</text>
+<text x="360" y="206" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">VALUES NOT</text>
+<text x="360" y="216" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">REPORTED</text>
+<text x="262" y="286" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">HIGHLY SIGNIFICANT</text>
+<text x="470" y="52" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">UP THE WALL</text>
+<rect x="496" y="112" width="60" height="134" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="496" y1="179" x2="556" y2="179" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="526" y="140" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">TOP</text>
+<text x="526" y="234" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">BOTTOM</text>
+<rect x="466" y="152" width="28" height="16" fill="var(--ok,#7AB87A)" opacity="0.5"/>
+<rect x="486" y="210" width="8" height="16" fill="var(--ok,#7AB87A)" opacity="0.5"/>
+<text x="492" y="146" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ok,#7AB87A)" text-anchor="end" letter-spacing="0.08em">DRY WEIGHT</text>
+<text x="492" y="182" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="end" letter-spacing="0.04em">2 – 4 ×</text>
+<rect x="558" y="152" width="8" height="16" fill="var(--accent,#6A9CC4)" opacity="0.5"/>
+<rect x="558" y="210" width="28" height="16" fill="var(--accent,#6A9CC4)" opacity="0.5"/>
+<text x="558" y="146" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">DRAINAGE</text>
+<text x="558" y="204" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">2.2 – 3.6 ×</text>
+<text x="470" y="286" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">GROWTH AT THE TOP,</text>
+<text x="470" y="297" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">WATER AT THE BOTTOM</text>
+<text x="56" y="322" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">144 pots in twelve rows, 1.5 L each, three substrates, two irrigation regimes at 133 and 100 mL per pot per day,</text>
+<text x="56" y="333" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">eighteen months over two summers. Overall survival 102 of 144. Species choice beat system choice; a single</text>
+<text x="56" y="344" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">irrigation zone cannot serve both ends of a wall. Bustami, Beecham and Hopeward 2023, Adelaide.</text>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Four bar charts comparing mycelium with PMMA and PLA, mycelium lowest on the three heat-release measures and highest on char residue.">
+
+<text x="52" y="56" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">PEAK HEAT RELEASE</text>
+<text x="52" y="68" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">W / g</text>
+<line x1="52" y1="96" x2="52" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="52" y1="246" x2="178" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="62" y="225.9" width="28" height="20.1" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="62" y="225.9" width="28" height="20.1" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="76" y="219.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">67</text>
+<text x="76" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">MYC.</text>
+<rect x="100" y="112.2" width="28" height="133.8" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="100" y="112.2" width="28" height="133.8" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="114" y="106.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">446</text>
+<text x="114" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">PMMA</text>
+<rect x="138" y="133.5" width="28" height="112.5" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="138" y="133.5" width="28" height="112.5" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="152" y="127.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">375</text>
+<text x="152" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">PLA</text>
+<text x="200" y="56" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">TOTAL HEAT RELEASE</text>
+<text x="200" y="68" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">kJ / g</text>
+<line x1="200" y1="96" x2="200" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="200" y1="246" x2="326" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="210" y="209.57" width="28" height="36.43" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="210" y="209.57" width="28" height="36.43" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="224" y="203.57" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">6.8</text>
+<text x="224" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">MYC.</text>
+<rect x="248" y="114.21" width="28" height="131.79" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="248" y="114.21" width="28" height="131.79" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="262" y="108.21" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">24.6</text>
+<text x="262" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">PMMA</text>
+<rect x="286" y="130.82" width="28" height="115.18" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="286" y="130.82" width="28" height="115.18" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="300" y="124.82" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">21.5</text>
+<text x="300" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">PLA</text>
+<text x="348" y="56" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">HEAT RELEASE CAPACITY</text>
+<text x="348" y="68" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">J / gK</text>
+<line x1="348" y1="96" x2="348" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="348" y1="246" x2="474" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="358" y="225.95" width="28" height="20.05" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="358" y="225.95" width="28" height="20.05" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="372" y="219.95" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">69.5</text>
+<text x="372" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">MYC.</text>
+<rect x="396" y="119.37" width="28" height="126.63" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="396" y="119.37" width="28" height="126.63" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="410" y="113.37" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">439</text>
+<text x="410" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">PMMA</text>
+<rect x="434" y="104.94" width="28" height="141.06" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="434" y="104.94" width="28" height="141.06" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="448" y="98.94" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">489</text>
+<text x="448" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">PLA</text>
+<text x="496" y="56" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">CHAR RESIDUE</text>
+<text x="496" y="68" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">WT %</text>
+<line x1="496" y1="96" x2="496" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="496" y1="246" x2="622" y2="246" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="506" y="113.31" width="28" height="132.69" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="506" y="113.31" width="28" height="132.69" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="520" y="107.31" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">23</text>
+<text x="520" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">MYC.</text>
+<rect x="544" y="246" width="28" height="0" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="544" y="246" width="28" height="0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="558" y="240" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">0</text>
+<text x="558" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">PMMA</text>
+<rect x="582" y="242.54" width="28" height="3.46" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="582" y="242.54" width="28" height="3.46" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="596" y="236.54" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">0.6</text>
+<text x="596" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">PLA</text>
+<rect x="52" y="278" width="544" height="42" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="62" y="294" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">TEST STANDARDS:  PYROLYSIS COMBUSTION FLOW CALORIMETRY FOR PEAK AND TOTAL HEAT</text>
+<text x="62" y="306" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RELEASE AND HEAT RELEASE CAPACITY;  CHAR RESIDUE BY MASS AFTER PYROLYSIS.</text>
+<text x="52" y="342" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE SPECIMENS ARE MILLIGRAMS AND PLATES.  NOT ASSEMBLIES, NOT WALLS, NOT COMPARTMENTS.</text>
+<text x="52" y="364" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">The fire advantage at the substance scale is large and it stops at the substance. Nothing here tells you how</text>
+<text x="52" y="375" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">a mycelium wall behaves in a fire, only how a milligram of mycelium behaves in a calorimeter. Jones et al. 2018.</text>
+</svg>

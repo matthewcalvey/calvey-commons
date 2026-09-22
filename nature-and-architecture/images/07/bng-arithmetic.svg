@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Flow diagram of England&#x27;s biodiversity net gain calculation with four measured shortfalls annotated as leaks.">
+
+<text x="44" y="50" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">POSTNOTE PN-0728 2024  ·  THE INSTRUMENT AS ARITHMETIC</text>
+<rect x="44" y="72" width="128" height="46" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="108" y="92" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.05em">BASELINE HABITAT</text>
+<text x="108" y="105" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.05em">UK HAB. CLASSIFICATION</text>
+<line x1="174" y1="95" x2="185" y2="95" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 181 92 L 186 95 L 181 98" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="188" y="72" width="128" height="46" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="252" y="92" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.05em">× SIZE, CONDITION</text>
+<text x="252" y="105" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.05em">AND TYPE → UNITS</text>
+<line x1="318" y1="95" x2="329" y2="95" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 325 92 L 330 95 L 325 98" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="332" y="72" width="128" height="46" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="396" y="92" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.05em">+ 10 % REQUIRED</text>
+<text x="396" y="105" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.05em">NINE-UNIT THRESHOLD</text>
+<line x1="462" y1="95" x2="473" y2="95" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 469 92 L 474 95 L 469 98" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="476" y="72" width="128" height="46" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="540" y="92" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.05em">30 YEARS</text>
+<text x="540" y="105" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.05em">SECURING PERIOD</text>
+<line x1="540" y1="118" x2="540" y2="132" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="110" y1="132" x2="540" y2="132" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="44" y="136" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ROUTES</text>
+<line x1="180" y1="132" x2="180" y2="162" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="110" y="162" width="140" height="28" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="180" y="180" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.05em">1  ON SITE</text>
+<line x1="340" y1="132" x2="340" y2="162" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="270" y="162" width="140" height="28" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="340" y="180" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.05em">2  OFF SITE</text>
+<line x1="500" y1="132" x2="500" y2="162" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="430" y="162" width="140" height="28" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="500" y="180" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.05em">3  STATUTORY CREDITS</text>
+<text x="110" y="206" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MANDATED ORDER  ·  STATUTORY CREDITS ARE LAST RESORT</text>
+<text x="44" y="234" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">MEASURED LEAKS, TAPPED OFF THE FLOW</text>
+<line x1="44" y1="251" x2="53" y2="251" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="48.5" y1="253" x2="48.5" y2="260" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="1.5 2"/>
+<text x="64" y="256" font-family="'Space Mono',monospace" font-size="11" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">34 %</text>
+<text x="110" y="256" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">REDUCTION IN NON-URBAN HABITAT AREA</text>
+<text x="390" y="256" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.78">zu Ermgassen and colleagues 2021</text>
+<line x1="44" y1="275" x2="53" y2="275" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="48.5" y1="277" x2="48.5" y2="284" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="1.5 2"/>
+<text x="64" y="280" font-family="'Space Mono',monospace" font-size="11" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">95 %</text>
+<text x="110" y="280" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">OF UNITS FROM DEVELOPER-MANAGED LAND</text>
+<text x="390" y="280" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.78">zu Ermgassen and colleagues 2021</text>
+<line x1="44" y1="299" x2="53" y2="299" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="48.5" y1="301" x2="48.5" y2="308" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="1.5 2"/>
+<text x="64" y="304" font-family="'Space Mono',monospace" font-size="11" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">27 %</text>
+<text x="110" y="304" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">OF UNITS IN GOVERNANCE GAPS</text>
+<text x="390" y="304" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.78">zu Ermgassen and colleagues 2021</text>
+<line x1="44" y1="323" x2="53" y2="323" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="48.5" y1="325" x2="48.5" y2="332" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="1.5 2"/>
+<text x="64" y="328" font-family="'Space Mono',monospace" font-size="11" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">21 %</text>
+<text x="110" y="328" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">OF APPLICATIONS WITH CONSPICUOUS ERRORS</text>
+<text x="390" y="328" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.78">Rampling and colleagues 2023</text>
+<rect x="44" y="346" width="552" height="34" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56" y="361" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">GRADE:  REQUIREMENT / ANALYTICAL.  NO ELEMENT OF THE CALCULATION IS</text>
+<text x="56" y="373" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MEASURED.  THE ARITHMETIC IS PERFORMED BEFORE THE HABITAT EXISTS.</text>
+<text x="44" y="408" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em" opacity="0.78">Side note: the preprint&#x27;s figures differ from the published ones; the published figures are drawn here.</text>
+</svg>

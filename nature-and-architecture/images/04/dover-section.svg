@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 456" role="img" aria-label="Section through a solar house showing airflow from a glazed south wall through salt storage drums into the rooms, with the failure modes annotated.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE DOVER SUN HOUSE IN SECTION · 1948</text>
+<text x="58" y="62" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">800 SQ FT OF DOUBLE PLATE GLASS</text>
+<text x="58" y="74" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OVER BLACK METAL, FACING SOUTH</text>
+<rect x="58" y="100" width="12" height="168" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="74" y="100" width="8" height="168" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<line x1="72" y1="244" x2="72" y2="228" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M72 224 L73.68 228 L70.32 228 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="72" y1="214" x2="72" y2="198" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M72 194 L73.68 198 L70.32 198 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="72" y1="184" x2="72" y2="168" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M72 164 L73.68 168 L70.32 168 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="72" y1="154" x2="72" y2="138" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M72 134 L73.68 138 L70.32 138 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="72" y1="124" x2="72" y2="108" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M72 104 L73.68 108 L70.32 108 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="72" y1="106" x2="72" y2="98" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="72" y1="98" x2="163.5" y2="98" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M168 98 L163.5 99.89 L163.5 96.11 Z" fill="var(--accent,#6A9CC4)"/>
+<rect x="168" y="100" width="56" height="168" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="176" y="110" width="40" height="22" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<rect x="176" y="141" width="40" height="22" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<rect x="176" y="172" width="40" height="22" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<rect x="176" y="203" width="40" height="22" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<rect x="176" y="234" width="40" height="22" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="160" y="288" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">DRUMS OF GLAUBER'S SALT, ABOUT 3,500 GALLONS,</text>
+<text x="160" y="300" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BETWEEN THE WALLS</text>
+<rect x="340" y="134" width="200" height="134" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="380" y1="134" x2="380" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="420" y1="134" x2="420" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="460" y1="134" x2="460" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="500" y1="134" x2="500" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="340" y="122" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FIVE ROOMS</text>
+<line x1="224" y1="98" x2="525.5" y2="98" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M530 98 L525.5 99.89 L525.5 96.11 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="370" y="90" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WARM AIR TO THE ROOMS</text>
+<line x1="530" y1="276" x2="202.5" y2="276" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M198 276 L202.5 274.11 L202.5 277.89 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="54" y1="268" x2="556" y2="268" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="112" cy="276" r="9" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="106" y1="270" x2="118" y2="282" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<line x1="106" y1="282" x2="118" y2="270" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="58" y="314" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">THE FAN. ITS ELECTRICITY WAS EXCLUDED FROM THE PUBLIC CLAIM OF WARMTH ALL WINTER WITHOUT A FURNACE.</text>
+<text x="58" y="326" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">BY THE THIRD WINTER THE FAMILY HAD ELECTRIC HEATERS IN EVERY ROOM.</text>
+<text x="58" y="346" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE DRUMS STRATIFIED INTO LIQUID AND SOLID LAYERS, CORRODED AND LEAKED.</text>
+<line x1="58" y1="360" x2="612" y2="360" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="374" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THREE WOMEN BUILT IT</text>
+<text x="58" y="398" font-family="&#39;Space Mono&#39;,monospace" font-size="9.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AMELIA PEABODY</text>
+<text x="58" y="411" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PAID FOR IT AND SITED IT</text>
+<text x="244" y="398" font-family="&#39;Space Mono&#39;,monospace" font-size="9.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ELEANOR RAYMOND</text>
+<text x="244" y="411" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DESIGNED IT</text>
+<text x="430" y="398" font-family="&#39;Space Mono&#39;,monospace" font-size="9.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MÁRIA TELKES</text>
+<text x="430" y="411" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ENGINEERED IT</text>
+<text x="58" y="432" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TELKES CAME FROM MIT'S METALLURGY DEPARTMENT, HAVING BEEN REMOVED FROM THE SOLAR</text>
+<text x="58" y="444" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FUND AFTER THE 1946 SALT FAILURE.</text>
+</svg>

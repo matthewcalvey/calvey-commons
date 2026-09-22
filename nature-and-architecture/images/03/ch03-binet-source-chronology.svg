@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 356" role="img" aria-label="A timeline of publications and a building's dates, showing the famous plates appearing after the building was designed.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BINET'S SOURCE · 1887 AGAINST 1899–1904</text>
+<text x="58" y="38" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE USUAL CAPTION HAS THE ORDER BACKWARDS.</text>
+<line x1="58" y1="178" x2="596" y2="178" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<line x1="58" y1="178" x2="58" y2="183" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="58" y="196" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1860</text>
+<line x1="174.96" y1="178" x2="174.96" y2="183" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="174.96" y="196" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1870</text>
+<line x1="291.91" y1="178" x2="291.91" y2="183" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="291.91" y="196" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1880</text>
+<line x1="408.87" y1="178" x2="408.87" y2="183" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="408.87" y="196" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1890</text>
+<line x1="525.83" y1="178" x2="525.83" y2="183" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="525.83" y="196" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1900</text>
+<circle cx="81.39" cy="178" r="3.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="81.39" y1="170" x2="81.39" y2="144" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="81.39" y="140" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">HAECKEL · RADIOLARIA</text>
+<text x="81.39" y="128" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE FIRST PLATES</text>
+<text x="81.39" y="156" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">1862</text>
+<circle cx="373.78" cy="178" r="3.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="373.78" y1="170" x2="373.78" y2="144" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="373.78" y="140" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE CHALLENGER REPORT</text>
+<text x="373.78" y="128" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SOURCE HE COULD HAVE SEEN</text>
+<text x="373.78" y="156" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">1887</text>
+<line x1="443.96" y1="104" x2="514.13" y2="104" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="443.96" y1="100" x2="443.96" y2="108" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="514.13" y1="100" x2="514.13" y2="108" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="435.96" y="107" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="end">SIX YEARS IN THE PARIS MUSEUM LIBRARY</text>
+<circle cx="502.43" cy="178" r="3.2" fill="var(--ink,#ECEAE3)"/>
+<circle cx="514.13" cy="178" r="3.2" fill="var(--ink,#ECEAE3)"/>
+<circle cx="525.83" cy="178" r="3.2" fill="var(--ink,#ECEAE3)"/>
+<line x1="502.43" y1="212" x2="525.83" y2="212" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="502.43" y1="178" x2="502.43" y2="212" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<line x1="525.83" y1="178" x2="525.83" y2="212" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="514.13" y="226" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">1898 DESIGNED · 12 MARCH 1899 THE LETTER · 1900 OPENED</text>
+<rect x="514.13" y="240" width="58.48" height="18" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="514.13" y="274" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">KUNSTFORMEN DER NATUR, IN INSTALMENTS 1899–1904 —</text>
+<text x="514.13" y="286" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">THE PLATES EVERY CAPTION CREDITS APPEAR AFTER THE GATE WAS DESIGNED.</text>
+<line x1="58" y1="318" x2="596" y2="318" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="336" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A PENCILLED REFERENCE TO D'ORBIGNY'S PLATE 715 IS MARKED AS THE SECOND SOURCE.</text>
+</svg>

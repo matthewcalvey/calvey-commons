@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 506" role="img" aria-label="Dose-response curve of weekly nature contact against self-reported health with the 120-minute threshold marked, above a strip of subgroup results showing where the threshold held and where it did not.">
+<line x1="76.00" y1="218.22" x2="596.00" y2="218.22" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="221.22" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.0</text>
+<line x1="76.00" y1="178.67" x2="596.00" y2="178.67" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="181.67" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.2</text>
+<line x1="76.00" y1="139.11" x2="596.00" y2="139.11" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="142.11" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.4</text>
+<line x1="76.00" y1="99.56" x2="596.00" y2="99.56" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="102.56" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.6</text>
+<line x1="76.00" y1="60.00" x2="596.00" y2="60.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="63.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.8</text>
+<line x1="76.00" y1="238.00" x2="596.00" y2="238.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="76.00" y1="238.00" x2="76.00" y2="60.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="76.00" y1="238.00" x2="76.00" y2="241.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="76.00" y="254.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="141.00" y1="238.00" x2="141.00" y2="241.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="141.00" y="254.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">60</text>
+<line x1="206.00" y1="238.00" x2="206.00" y2="241.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="206.00" y="254.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">120</text>
+<line x1="271.00" y1="238.00" x2="271.00" y2="241.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="271.00" y="254.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">180</text>
+<line x1="336.00" y1="238.00" x2="336.00" y2="241.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="336.00" y="254.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">240</text>
+<line x1="401.00" y1="238.00" x2="401.00" y2="241.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="401.00" y="254.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">300</text>
+<line x1="466.00" y1="238.00" x2="466.00" y2="241.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="466.00" y="254.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">360</text>
+<line x1="596.00" y1="238.00" x2="596.00" y2="241.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="596.00" y="254.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">480</text>
+<text x="336.00" y="272.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MINUTES IN NATURE PER WEEK</text>
+<text x="36.00" y="149.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 36.00 149.00)">ODDS OF GOOD HEALTH</text>
+<line x1="76.00" y1="218.22" x2="596.00" y2="218.22" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="594.00" y="212.22" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">NO CONTACT = 1.0</text>
+<path d="M76.0 218.2 L108.5 190.5 L173.5 147.0 L238.5 109.4 L303.5 101.5 L368.5 97.6 L466.0 105.5 L563.5 115.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="butt"/>
+<path d="M76.0 218.2 L108.5 178.7 L173.5 133.2 L238.5 93.6 L303.5 81.8 L368.5 73.8 L466.0 71.9 L563.5 64.0 L563.5 166.8 L466.0 139.1 L368.5 121.3 L303.5 121.3 L238.5 125.3 L173.5 160.9 L108.5 202.4 L76.0 218.2 Z" fill="var(--accent,#6A9CC4)" fill-opacity="0.12"/>
+<circle cx="76.00" cy="218.22" r="3.00" fill="var(--accent,#6A9CC4)"/>
+<circle cx="108.50" cy="190.53" r="3.00" fill="var(--accent,#6A9CC4)"/>
+<circle cx="173.50" cy="147.02" r="3.00" fill="var(--accent,#6A9CC4)"/>
+<circle cx="238.50" cy="109.44" r="3.00" fill="var(--accent,#6A9CC4)"/>
+<circle cx="303.50" cy="101.53" r="3.00" fill="var(--accent,#6A9CC4)"/>
+<circle cx="368.50" cy="97.58" r="3.00" fill="var(--accent,#6A9CC4)"/>
+<circle cx="466.00" cy="105.49" r="3.00" fill="var(--accent,#6A9CC4)"/>
+<circle cx="563.50" cy="115.38" r="3.00" fill="var(--accent,#6A9CC4)"/>
+<line x1="206.00" y1="60.00" x2="206.00" y2="238.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="212.00" y="74.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">120 MINUTES</text>
+<text x="212.00" y="86.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">+59 % ODDS OF GOOD HEALTH</text>
+<rect x="292.67" y="60.00" width="108.33" height="178.00" fill="var(--ink,#ECEAE3)" fill-opacity="0.06"/>
+<text x="346.83" y="166.80" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">200–300 MIN</text>
+<text x="346.83" y="178.67" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PLATEAU</text>
+<line x1="509.33" y1="60.00" x2="509.33" y2="238.00" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4"/>
+<text x="593.83" y="71.87" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">INTERVALS WIDEN</text>
+<text x="76.00" y="48.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CURVE SHAPE SCHEMATIC · THE THRESHOLD, PLATEAU AND WIDENING INTERVAL ARE THE REPORTED FACTS</text>
+<line x1="64.00" y1="270.00" x2="596.00" y2="270.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="288.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE THRESHOLD ACROSS SUBGROUPS</text>
+<rect x="64.00" y="300.00" width="102.00" height="38.00" fill="var(--ok,#7AB87A)" fill-opacity="0.2"/>
+<rect x="64.00" y="300.00" width="102.00" height="38.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="115.00" y="313.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MALE</text>
+<text x="115.00" y="333.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">HELD</text>
+<rect x="170.00" y="300.00" width="102.00" height="38.00" fill="var(--ok,#7AB87A)" fill-opacity="0.2"/>
+<rect x="170.00" y="300.00" width="102.00" height="38.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="221.00" y="313.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">FEMALE</text>
+<text x="221.00" y="333.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">HELD</text>
+<rect x="276.00" y="300.00" width="102.00" height="38.00" fill="var(--ok,#7AB87A)" fill-opacity="0.2"/>
+<rect x="276.00" y="300.00" width="102.00" height="38.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="327.00" y="313.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">OVER 65</text>
+<text x="327.00" y="333.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">HELD</text>
+<rect x="382.00" y="300.00" width="102.00" height="38.00" fill="var(--ok,#7AB87A)" fill-opacity="0.2"/>
+<rect x="382.00" y="300.00" width="102.00" height="38.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="433.00" y="313.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">UNDER 65</text>
+<text x="433.00" y="333.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">HELD</text>
+<rect x="488.00" y="300.00" width="102.00" height="38.00" fill="var(--ok,#7AB87A)" fill-opacity="0.2"/>
+<rect x="488.00" y="300.00" width="102.00" height="38.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="539.00" y="313.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">URBAN</text>
+<text x="539.00" y="333.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">HELD</text>
+<rect x="64.00" y="346.00" width="102.00" height="38.00" fill="var(--ok,#7AB87A)" fill-opacity="0.2"/>
+<rect x="64.00" y="346.00" width="102.00" height="38.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="115.00" y="359.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">RURAL</text>
+<text x="115.00" y="379.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">HELD</text>
+<rect x="170.00" y="346.00" width="102.00" height="38.00" fill="var(--ok,#7AB87A)" fill-opacity="0.2"/>
+<rect x="170.00" y="346.00" width="102.00" height="38.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="221.00" y="359.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">HIGH</text>
+<text x="221.00" y="369.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DEPRIVATION</text>
+<text x="221.00" y="379.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">HELD</text>
+<rect x="276.00" y="346.00" width="102.00" height="38.00" fill="var(--ok,#7AB87A)" fill-opacity="0.2"/>
+<rect x="276.00" y="346.00" width="102.00" height="38.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="327.00" y="359.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">LOW</text>
+<text x="327.00" y="369.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DEPRIVATION</text>
+<text x="327.00" y="379.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">HELD</text>
+<rect x="382.00" y="346.00" width="102.00" height="38.00" fill="var(--ok,#7AB87A)" fill-opacity="0.2"/>
+<rect x="382.00" y="346.00" width="102.00" height="38.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="433.00" y="359.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">LONG-TERM</text>
+<text x="433.00" y="369.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ILLNESS</text>
+<text x="433.00" y="379.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">HELD</text>
+<rect x="488.00" y="346.00" width="102.00" height="38.00" fill="var(--hot,#C45C3E)" fill-opacity="0.16"/>
+<rect x="488.00" y="346.00" width="102.00" height="38.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="539.00" y="359.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">NOT WHITE</text>
+<text x="539.00" y="369.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">BRITISH</text>
+<text x="539.00" y="379.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">DID NOT HOLD</text>
+<text x="64.00" y="404.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE DEFINITION OF NATURE EXCLUDED PRIVATE GARDENS —</text>
+<text x="64.00" y="416.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">IF A GARDEN DOES NOT COUNT, AN ATRIUM DOES NOT EITHER.</text>
+<line x1="64.00" y1="438.00" x2="596.00" y2="438.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="458.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Robust across most of the population, with a named boundary. n = 19,806.</text>
+<text x="64.00" y="490.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHITE ET AL. 2019</text>
+</svg>

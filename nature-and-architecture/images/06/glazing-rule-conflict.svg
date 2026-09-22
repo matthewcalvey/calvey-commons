@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="The same interior window view drawn twice, once clear with trees visible beyond and once overlaid with a bird-deterrent pattern, presenting the conflict between two design rules.">
+<text x="52.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">LEFT · THE 3–30–300 RULE, FIRST COMPONENT</text>
+<text x="340.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">RIGHT · THE COLLISION-DETERRENT PATTERN</text>
+<line x1="318.00" y1="44.00" x2="318.00" y2="300.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="46.00" y="60.00" width="244.00" height="170.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<rect x="56.00" y="70.00" width="224.00" height="150.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="168.00" y1="70.00" x2="168.00" y2="220.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="168.00" y="242.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SEEN FROM INSIDE</text>
+<rect x="334.00" y="60.00" width="244.00" height="170.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<rect x="344.00" y="70.00" width="224.00" height="150.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="456.00" y1="70.00" x2="456.00" y2="220.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="456.00" y="242.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SEEN FROM INSIDE</text>
+<line x1="60.00" y1="206.00" x2="276.00" y2="206.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<line x1="98.00" y1="206.00" x2="98.00" y2="176.00" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<circle cx="98.00" cy="162.00" r="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<circle cx="98.00" cy="162.00" r="16.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<line x1="166.00" y1="206.00" x2="166.00" y2="176.00" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<circle cx="166.00" cy="162.00" r="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<circle cx="166.00" cy="162.00" r="16.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<line x1="234.00" y1="206.00" x2="234.00" y2="176.00" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<circle cx="234.00" cy="162.00" r="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<circle cx="234.00" cy="162.00" r="16.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<line x1="348.00" y1="206.00" x2="564.00" y2="206.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<line x1="386.00" y1="206.00" x2="386.00" y2="176.00" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<circle cx="386.00" cy="162.00" r="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<circle cx="386.00" cy="162.00" r="16.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<line x1="454.00" y1="206.00" x2="454.00" y2="176.00" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<circle cx="454.00" cy="162.00" r="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<circle cx="454.00" cy="162.00" r="16.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<line x1="522.00" y1="206.00" x2="522.00" y2="176.00" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<circle cx="522.00" cy="162.00" r="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<circle cx="522.00" cy="162.00" r="16.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<line x1="362.67" y1="70.00" x2="362.67" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="381.33" y1="70.00" x2="381.33" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="400.00" y1="70.00" x2="400.00" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="418.67" y1="70.00" x2="418.67" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="437.33" y1="70.00" x2="437.33" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="456.00" y1="70.00" x2="456.00" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="474.67" y1="70.00" x2="474.67" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="493.33" y1="70.00" x2="493.33" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="512.00" y1="70.00" x2="512.00" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="530.67" y1="70.00" x2="530.67" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="549.33" y1="70.00" x2="549.33" y2="220.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="344.00" y1="91.43" x2="568.00" y2="91.43" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="344.00" y1="112.86" x2="568.00" y2="112.86" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="344.00" y1="134.29" x2="568.00" y2="134.29" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="344.00" y1="155.71" x2="568.00" y2="155.71" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="344.00" y1="177.14" x2="568.00" y2="177.14" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<line x1="344.00" y1="198.57" x2="568.00" y2="198.57" stroke="var(--hot,#C45C3E)" stroke-width="0.9" stroke-dasharray="4 6"/>
+<text x="456.00" y="252.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">PATTERN SPACING DRAWN INDICATIVELY —</text>
+<text x="456.00" y="263.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">THE SPECIFICATION COULD NOT BE VERIFIED</text>
+<text x="56.00" y="252.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THREE TREES VISIBLE FROM EVERY HOME.</text>
+<text x="56.00" y="263.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BY ITS AUTHOR’S OWN STATEMENT THIS</text>
+<text x="56.00" y="274.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">COMPONENT HAS NO SCIENTIFIC SUPPORT.</text>
+<text x="344.00" y="274.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GLASS AREA IS THE PRIMARY MEASURED</text>
+<text x="344.00" y="285.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PREDICTOR OF BIRD MORTALITY.</text>
+<line x1="52.00" y1="314.00" x2="596.00" y2="314.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="52.00" y="326.00" width="544.00" height="44.00" fill="var(--hot,#C45C3E)" fill-opacity="0.1"/>
+<rect x="52.00" y="326.00" width="544.00" height="44.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="62.00" y="344.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BOTH RULES HAVE STANDING. THEY CONFLICT AT THIS PLANE.</text>
+<text x="62.00" y="360.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NO SOURCE LOCATED QUANTIFIES THE TRADE-OFF.</text>
+<text x="52.00" y="398.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">KONIJNENDIJK 2022 · SCHNEIDER ET AL. 2018 · AMERICAN BIRD CONSERVANCY · GAN ET AL. 2024</text>
+</svg>

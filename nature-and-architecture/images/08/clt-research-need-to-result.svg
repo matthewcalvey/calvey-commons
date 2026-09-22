@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Two-column diagram pairing two 2014 research needs about self-extinguishment and board fall-off with 2017 compartment fire results showing auto-extinction in one of five tests.">
+
+<line x1="320" y1="66" x2="320" y2="316" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="44" y="56" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">2014  ·  THE QUESTION SET</text>
+<text x="342" y="56" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">2017  ·  THE ANSWER</text>
+<text x="44" y="92" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">TWO OF TEN PRIORITISED RESEARCH</text>
+<text x="44" y="103" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">NEEDS IN THE NIST WHITE PAPER:</text>
+<rect x="44" y="132" width="246" height="52" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="54" y="147" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">1</text>
+<text x="70" y="147" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE CONDITIONS UNDER WHICH</text>
+<text x="70" y="159" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">CHARRED WOOD SELF-</text>
+<text x="70" y="171" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">EXTINGUISHES</text>
+<rect x="44" y="206" width="246" height="64" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="54" y="221" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">2</text>
+<text x="70" y="221" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE PERFORMANCE OF</text>
+<text x="70" y="233" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ENCAPSULATED TIMBER,</text>
+<text x="70" y="245" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">INCLUDING THE FALL-OFF TIME</text>
+<text x="70" y="257" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">OF PROTECTIVE BOARDS</text>
+<line x1="292" y1="154" x2="336" y2="154" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<path d="M 331 151 L 337 154 L 331 157" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="292" y1="226" x2="336" y2="226" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<path d="M 331 223 L 337 226 L 331 229" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="342" y="92" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">FIVE COMPARTMENT EXPERIMENTS</text>
+<rect x="342" y="104" width="30" height="34" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 357 118 C 351 126 353 132 357 132 C 361 132 363 126 357 118" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="382" y="104" width="30" height="34" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 397 118 C 391 126 393 132 397 132 C 401 132 403 126 397 118" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="422" y="104" width="30" height="34" fill="var(--ok,#7AB87A)" stroke="var(--ok,#7AB87A)" stroke-width="1.5" opacity="0.3"/>
+<rect x="422" y="104" width="30" height="34" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<path d="M 437 118 C 431 126 433 132 437 132 C 441 132 443 126 437 118" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="462" y="104" width="30" height="34" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 477 118 C 471 126 473 132 477 132 C 481 132 483 126 477 118" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="502" y="104" width="30" height="34" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 517 118 C 511 126 513 132 517 132 C 521 132 523 126 517 118" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="342" y="154" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">ONE OF FIVE AUTO-EXTINGUISHED.</text>
+<text x="342" y="165" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE OTHER FOUR DID NOT.</text>
+<text x="342" y="178" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">BOARD FALL-OFF, MEASURED</text>
+<line x1="342" y1="226" x2="542" y2="226" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="342" y1="226" x2="342" y2="230" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="342" y="241" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="404.5" y1="226" x2="404.5" y2="230" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="404.5" y="241" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10</text>
+<line x1="467" y1="226" x2="467" y2="230" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="467" y="241" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">20</text>
+<line x1="529.5" y1="226" x2="529.5" y2="230" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="529.5" y="241" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">30</text>
+<text x="342" y="256" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MINUTES FROM IGNITION</text>
+<line x1="483.25" y1="200" x2="483.25" y2="226" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<circle cx="483.25" cy="200" r="3.4" fill="var(--hot,#C45C3E)"/>
+<text x="473.25" y="192" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.04em">22.6</text>
+<text x="467.25" y="168" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">≈ 99 kg</text>
+<line x1="498.25" y1="200" x2="498.25" y2="226" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<circle cx="498.25" cy="200" r="3.4" fill="var(--hot,#C45C3E)"/>
+<text x="498.25" y="192" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">25.0</text>
+<text x="498.25" y="180" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">≈ 105 kg</text>
+<text x="342" y="292" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">A DISCIPLINE SET ITSELF A QUESTION</text>
+<text x="342" y="304" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">AND GOT AN UNWELCOME ANSWER.</text>
+<text x="44" y="348" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Protective boards fell off at 22.6 and 25.0 minutes, carrying roughly 99 and 105 kilograms with them, and only</text>
+<text x="44" y="359" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">one of five compartments auto-extinguished. The research need was named in 2014 and answered in 2017;</text>
+<text x="44" y="370" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">the answer was negative. Buchanan, Östman &amp; Frangi 2014; Hadden et al. 2017.</text>
+</svg>

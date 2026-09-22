@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Comparative section diagram showing that the two window conditions in Ulrich&#x27;s study differed in view content, view depth and visible movement simultaneously.">
+<text x="52.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">CONDITION A · NATURAL SCENE</text>
+<text x="340.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">CONDITION B · BRICK WALL</text>
+<line x1="320.00" y1="44.00" x2="320.00" y2="272.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="60.00" y="70.00" width="80.00" height="100.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="100.00" y="96.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PATIENT</text>
+<circle cx="100.00" cy="114.00" r="5.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<line x1="140.00" y1="70.00" x2="140.00" y2="170.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="136.00" y="184.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">WINDOW</text>
+<line x1="100.00" y1="114.00" x2="286.00" y2="114.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<line x1="272.00" y1="114.00" x2="286.00" y2="114.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<path d="M286.00 114.00 L282.35 115.63 L282.35 112.37 Z" fill="var(--ink,#ECEAE3)"/>
+<line x1="100.00" y1="198.00" x2="286.00" y2="198.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="100.00" y1="194.00" x2="100.00" y2="202.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="286.00" y1="194.00" x2="286.00" y2="202.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="193.00" y="214.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">LONG SIGHTLINE</text>
+<line x1="196.00" y1="170.00" x2="196.00" y2="136.00" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<circle cx="196.00" cy="124.00" r="13.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<circle cx="196.00" cy="124.00" r="13.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<line x1="224.00" y1="170.00" x2="224.00" y2="136.00" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<circle cx="224.00" cy="124.00" r="13.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<circle cx="224.00" cy="124.00" r="13.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<line x1="252.00" y1="170.00" x2="252.00" y2="136.00" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<circle cx="252.00" cy="124.00" r="13.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<circle cx="252.00" cy="124.00" r="13.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<path d="M262 100 q 12 -8 22 -2" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0" stroke-linecap="butt"/>
+<line x1="262.00" y1="96.00" x2="286.00" y2="90.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<path d="M286.00 90.00 L283.25 92.16 L282.55 89.39 Z" fill="var(--ok,#7AB87A)"/>
+<text x="230.00" y="98.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">FOLIAGE MOVES</text>
+<rect x="348.00" y="70.00" width="80.00" height="100.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="388.00" y="96.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PATIENT</text>
+<circle cx="388.00" cy="114.00" r="5.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<line x1="428.00" y1="70.00" x2="428.00" y2="170.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="424.00" y="184.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">WINDOW</text>
+<line x1="388.00" y1="114.00" x2="486.00" y2="114.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<line x1="472.00" y1="114.00" x2="486.00" y2="114.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<path d="M486.00 114.00 L482.35 115.63 L482.35 112.37 Z" fill="var(--ink,#ECEAE3)"/>
+<line x1="388.00" y1="198.00" x2="486.00" y2="198.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="388.00" y1="194.00" x2="388.00" y2="202.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="486.00" y1="194.00" x2="486.00" y2="202.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="437.00" y="214.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">SHORT SIGHTLINE</text>
+<rect x="486.00" y="98.00" width="22.00" height="72.00" fill="var(--hot,#C45C3E)" fill-opacity="0.22"/>
+<rect x="486.00" y="98.00" width="22.00" height="72.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<line x1="486.00" y1="98.00" x2="508.00" y2="98.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<line x1="486.00" y1="110.00" x2="508.00" y2="110.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<line x1="486.00" y1="122.00" x2="508.00" y2="122.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<line x1="486.00" y1="134.00" x2="508.00" y2="134.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<line x1="486.00" y1="146.00" x2="508.00" y2="146.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<line x1="486.00" y1="158.00" x2="508.00" y2="158.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<text x="516.00" y="130.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BRICK</text>
+<text x="516.00" y="142.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">WALL</text>
+<text x="464.00" y="86.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">NOTHING MOVES</text>
+<line x1="52.00" y1="290.00" x2="588.00" y2="290.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="308.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THREE VARIABLES CHANGED AT ONCE</text>
+<text x="52.00" y="330.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CONTENT</text>
+<text x="52.00" y="346.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em">NATURAL</text>
+<text x="144.00" y="346.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">BUILT</text>
+<text x="232.00" y="330.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DEPTH</text>
+<text x="232.00" y="346.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em">LONG</text>
+<text x="324.00" y="346.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">SHORT</text>
+<text x="412.00" y="330.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MOTION</text>
+<text x="412.00" y="346.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em">PRESENT</text>
+<text x="504.00" y="346.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">ABSENT</text>
+<text x="52.00" y="378.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ARCHITECTURE TOOK ITS INSTRUCTION FROM THE FIRST ONLY · AFTER NUTE AND CHEN 2026</text>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Three paired-bar panels comparing impervious cover, rainfall–runoff correlation and surface temperature for The Woodlands and two conventional Houston watersheds.">
+<text x="126.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">THE WOODLANDS</text>
+<line x1="56.00" y1="244.00" x2="196.00" y2="244.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="66.00" y="118.39" width="44.00" height="125.61" fill="var(--accent,#6A9CC4)" fill-opacity="0.3"/>
+<rect x="66.00" y="118.39" width="44.00" height="125.61" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="88.00" y="110.39" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">31.8</text>
+<text x="88.00" y="259.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">IMPERV.</text>
+<text x="88.00" y="270.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">% COVER</text>
+<rect x="132.00" y="130.87" width="44.00" height="113.13" fill="var(--accent,#6A9CC4)" fill-opacity="0.16"/>
+<rect x="132.00" y="130.87" width="44.00" height="113.13" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="154.00" y="122.87" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">0.716</text>
+<text x="154.00" y="259.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">P–Q CORR.</text>
+<text x="154.00" y="270.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">&gt; 35 mm</text>
+<text x="126.00" y="294.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2006 SURFACE TEMP.</text>
+<text x="126.00" y="310.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.04em" text-anchor="middle">23.8 °C</text>
+<text x="324.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">CONVENTIONAL A</text>
+<line x1="254.00" y1="244.00" x2="394.00" y2="244.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="264.00" y="182.38" width="44.00" height="61.62" fill="var(--dim,#B8B5AC)" fill-opacity="0.3"/>
+<rect x="264.00" y="182.38" width="44.00" height="61.62" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="286.00" y="174.38" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">15.6</text>
+<text x="286.00" y="259.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">IMPERV.</text>
+<text x="286.00" y="270.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">% COVER</text>
+<rect x="330.00" y="115.39" width="44.00" height="128.61" fill="var(--dim,#B8B5AC)" fill-opacity="0.16"/>
+<rect x="330.00" y="115.39" width="44.00" height="128.61" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="352.00" y="107.39" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">0.814</text>
+<text x="352.00" y="259.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">P–Q CORR.</text>
+<text x="352.00" y="270.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">&gt; 35 mm</text>
+<text x="324.00" y="294.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2006 SURFACE TEMP.</text>
+<text x="324.00" y="310.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">25.5 °C</text>
+<text x="522.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">CONVENTIONAL B</text>
+<line x1="452.00" y1="244.00" x2="592.00" y2="244.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="462.00" y="196.60" width="44.00" height="47.40" fill="var(--dim,#B8B5AC)" fill-opacity="0.3"/>
+<rect x="462.00" y="196.60" width="44.00" height="47.40" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="484.00" y="188.60" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">12.0</text>
+<text x="484.00" y="259.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">IMPERV.</text>
+<text x="484.00" y="270.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">% COVER</text>
+<rect x="528.00" y="122.97" width="44.00" height="121.03" fill="var(--dim,#B8B5AC)" fill-opacity="0.16"/>
+<rect x="528.00" y="122.97" width="44.00" height="121.03" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="550.00" y="114.97" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">0.766</text>
+<text x="550.00" y="259.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">P–Q CORR.</text>
+<text x="550.00" y="270.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">&gt; 35 mm</text>
+<text x="522.00" y="294.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2006 SURFACE TEMP.</text>
+<text x="522.00" y="310.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">25.0 °C</text>
+<text x="56.00" y="62.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BARS SHARE A HEIGHT, NOT A UNIT: LEFT 0–40 %, RIGHT 0–1.0 CORRELATION</text>
+<line x1="56.00" y1="326.00" x2="592.00" y2="326.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56.00" y="344.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The watershed with the most hard surface is the least rainfall-responsive and the coolest.</text>
+<text x="56.00" y="378.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DATA 2006–2010, IMAGERY 1999 AND 2006 · YANG, LI AND LI 2013</text>
+</svg>

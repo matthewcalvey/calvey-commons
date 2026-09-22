@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 468" role="img" aria-label="A world map with labelled points for the chapter's buildings and studies, shaded by climate zone.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE CHAPTER'S PLACES, BY LATITUDE AND LONGITUDE</text>
+<text x="58" y="38" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CLIMATE BANDS BY LATITUDE. THIS IS A GRATICULE, NOT A COASTLINE MAP.</text>
+<rect x="58" y="66" width="554" height="35.13" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="62" y="97.13" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">COLD</text>
+<rect x="58" y="101.13" width="554" height="35.13" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="62" y="132.26" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TEMPERATE</text>
+<rect x="58" y="136.26" width="554" height="20.2" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="62" y="152.46" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUBTROPICAL AND ARID</text>
+<rect x="58" y="156.46" width="554" height="82.56" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="62" y="235.02" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TROPICAL</text>
+<rect x="58" y="239.02" width="554" height="28.98" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="62" y="264" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUBTROPICAL</text>
+<line x1="58" y1="66" x2="58" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-180</text>
+<line x1="150.33" y1="66" x2="150.33" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="150.33" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-120</text>
+<line x1="242.67" y1="66" x2="242.67" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="242.67" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-60</text>
+<line x1="335" y1="66" x2="335" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="335" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="427.33" y1="66" x2="427.33" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="427.33" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">60</text>
+<line x1="519.67" y1="66" x2="519.67" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="519.67" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">120</text>
+<line x1="612" y1="66" x2="612" y2="268" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="612" y="283" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">180</text>
+<line x1="58" y1="197.74" x2="612" y2="197.74" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="62" y="193.74" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EQUATOR</text>
+<circle cx="371.93" cy="90.59" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="363.93" y="93.59" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">PAIMIO / VYBORG / NOORMARKKU</text>
+<circle cx="392.86" cy="99.73" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="400.86" y="102.73" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MOSCOW</text>
+<circle cx="354.39" cy="104.82" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="362.39" y="118.82" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BERLIN / POTSDAM / KLINGBERG</text>
+<circle cx="334.54" cy="107.1" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="334.54" cy="107.1" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<text x="326.54" y="110.1" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">LONDON / GARSTON</text>
+<circle cx="338.54" cy="111.85" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="330.54" y="125.85" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">PARIS</text>
+<circle cx="346.7" cy="114.3" r="3" fill="var(--ink,#ECEAE3)"/>
+<line x1="346.7" y1="114.3" x2="346.7" y2="137.3" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.5"/>
+<text x="346.7" y="140.3" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">DORNACH</text>
+<circle cx="197.27" cy="122.03" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="189.27" y="113.03" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">MIDDLETON</text>
+<circle cx="199.89" cy="122.74" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="199.89" cy="122.74" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="199.89" y1="122.74" x2="199.89" y2="145.74" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.5"/>
+<text x="199.89" y="148.74" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">RACINE</text>
+<circle cx="225.43" cy="123.44" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="225.43" cy="123.44" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="225.43" y1="123.44" x2="225.43" y2="165.44" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.5"/>
+<text x="225.43" y="168.44" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">CAMBRIDGE / DOVER</text>
+<circle cx="200.19" cy="124.14" r="3" fill="var(--ink,#ECEAE3)"/>
+<line x1="200.19" y1="124.14" x2="231.19" y2="124.14" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.5"/>
+<text x="234.19" y="127.14" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CHICAGO</text>
+<circle cx="221.12" cy="126.25" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="229.12" y="140.25" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">NEW YORK</text>
+<circle cx="220.04" cy="126.95" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="220.04" cy="126.95" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="220.04" y1="126.95" x2="220.04" y2="73.95" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.5"/>
+<text x="220.04" y="76.95" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">PRINCETON</text>
+<circle cx="181.11" cy="127.48" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="181.11" cy="127.48" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="181.11" y1="127.48" x2="181.11" y2="181.48" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.5"/>
+<text x="181.11" y="184.48" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">THE GREAT PLAINS</text>
+<circle cx="212.66" cy="127.65" r="3" fill="var(--ink,#ECEAE3)"/>
+<line x1="212.66" y1="127.65" x2="212.66" y2="60.65" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.5"/>
+<text x="212.66" y="63.65" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">BEAR RUN</text>
+<circle cx="196.19" cy="129.94" r="3" fill="var(--ink,#ECEAE3)"/>
+<line x1="196.19" y1="129.94" x2="139.19" y2="117.94" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.5"/>
+<text x="136.19" y="120.94" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">ST LOUIS</text>
+<circle cx="146.49" cy="130.46" r="3" fill="var(--ink,#ECEAE3)"/>
+<line x1="146.49" y1="130.46" x2="146.49" y2="162.46" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.5"/>
+<text x="146.49" y="165.46" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">SONOMA</text>
+<circle cx="204.96" cy="134.33" r="3" fill="var(--ink,#ECEAE3)"/>
+<line x1="204.96" y1="134.33" x2="204.96" y2="202.33" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.5"/>
+<text x="204.96" y="205.33" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">NORRIS / TVA</text>
+<circle cx="153.26" cy="137.84" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="153.26" cy="137.84" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="153.26" y1="137.84" x2="153.26" y2="96.84" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.5"/>
+<text x="153.26" y="99.84" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">PASADENA</text>
+<circle cx="162.64" cy="139.07" r="3" fill="var(--ink,#ECEAE3)"/>
+<line x1="162.64" y1="139.07" x2="219.64" y2="150.07" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.5"/>
+<text x="222.64" y="153.07" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SCOTTSDALE / PHOENIX</text>
+<circle cx="388.86" cy="140.13" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="388.86" cy="140.13" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<text x="396.86" y="143.13" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">HAIFA</text>
+<circle cx="454.88" cy="145.22" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="454.88" cy="145.22" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<text x="462.88" y="148.22" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ROORKEE</text>
+<circle cx="383.48" cy="152.95" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="375.48" y="166.95" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">LUXOR / KHARGA</text>
+<circle cx="446.72" cy="157.34" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="454.72" y="160.34" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AHMEDABAD</text>
+<circle cx="268.52" cy="237.96" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="276.52" y="240.96" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">RIO DE JANEIRO</text>
+<circle cx="553.37" cy="219.87" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="553.37" cy="219.87" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<text x="561.37" y="222.87" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WEIPA</text>
+<circle cx="459.03" cy="184.92" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="467.03" y="187.92" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">KANDY</text>
+<circle cx="332.54" cy="185.97" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="332.54" cy="185.97" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<text x="340.54" y="188.97" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">KUMASI</text>
+<circle cx="494.74" cy="195.37" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="494.74" cy="195.37" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<text x="502.74" y="198.37" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">SINGAPORE</text>
+<circle cx="63" cy="309" r="4.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="63" cy="309" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<text x="74" y="312" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">A MEASUREMENT EXISTS HERE</text>
+<circle cx="276" cy="309" r="3" fill="var(--ink,#ECEAE3)"/>
+<text x="286" y="312" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A BUILDING OR A TEXT, AND NO MEASUREMENT</text>
+<line x1="58" y1="330" x2="612" y2="330" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="350" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE INSTRUMENTS CLUSTER IN THE TEMPERATE BAND AND IN THE COLONIAL RESEARCH STATIONS.</text>
+<text x="58" y="368" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE MONUMENTS OF TROPICAL MODERNISM SIT IN THE TROPICAL BAND, AND ALMOST NONE OF THEM</text>
+<text x="58" y="380" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CARRIES A RING. THAT IS THE SAME FINDING AS THE TWO-COLUMN PLATE, DRAWN GEOGRAPHICALLY.</text>
+<text x="58" y="404" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLACES THAT SHARE A POINT ARE GROUPED IN ONE LABEL. COORDINATES ARE APPROXIMATE CENTRES.</text>
+</svg>

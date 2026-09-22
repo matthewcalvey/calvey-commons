@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 444" role="img" aria-label="A drawing of a hanging net of cords and weights above a mirror, with an inverted arch shape reflected below it.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CHAIN, MIRROR, PHOTOGRAPH · AT 1:10</text>
+<line x1="58" y1="50" x2="358" y2="50" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="58" y="42" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE FRAME</text>
+<path d="M58 50 L61.33 61.29 L64.67 72.23 L68 82.5 L71.33 91.78 L74.67 99.79 L78 106.29 L81.33 111.08 L84.67 114.01 L88 115 L91.33 114.01 L94.67 111.08 L98 106.29 L101.33 99.79 L104.67 91.78 L108 82.5 L111.33 72.23 L114.67 61.29 L118 50" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M118 50 L121.33 69.62 L124.67 88.65 L128 106.5 L131.33 122.63 L134.67 136.56 L138 147.86 L141.33 156.19 L144.67 161.28 L148 163 L151.33 161.28 L154.67 156.19 L158 147.86 L161.33 136.56 L164.67 122.63 L168 106.5 L171.33 88.65 L174.67 69.62 L178 50" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M178 50 L181.33 71.88 L184.67 93.09 L188 113 L191.33 130.99 L194.67 146.52 L198 159.12 L201.33 168.4 L204.67 174.09 L208 176 L211.33 174.09 L214.67 168.4 L218 159.12 L221.33 146.52 L224.67 130.99 L228 113 L231.33 93.09 L234.67 71.88 L238 50" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M238 50 L241.33 69.62 L244.67 88.65 L248 106.5 L251.33 122.63 L254.67 136.56 L258 147.86 L261.33 156.19 L264.67 161.28 L268 163 L271.33 161.28 L274.67 156.19 L278 147.86 L281.33 136.56 L284.67 122.63 L288 106.5 L291.33 88.65 L294.67 69.62 L298 50" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M298 50 L301.33 61.29 L304.67 72.23 L308 82.5 L311.33 91.78 L314.67 99.79 L318 106.29 L321.33 111.08 L324.67 114.01 L328 115 L331.33 114.01 L334.67 111.08 L338 106.29 L341.33 99.79 L344.67 91.78 L348 82.5 L351.33 72.23 L354.67 61.29 L358 50" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="118" y1="50" x2="118" y2="114" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M112 114 L124 114 L122 134 L114 134 Z" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="178" y1="50" x2="178" y2="140" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M172 140 L184 140 L182 160 L174 160 Z" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="238" y1="50" x2="238" y2="140" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M232 140 L244 140 L242 160 L234 160 Z" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="298" y1="50" x2="298" y2="114" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M292 114 L304 114 L302 134 L294 134 Z" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="62" y="178" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">LEAD SACKS</text>
+<text x="62" y="190" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SANDBAGS IN THE OTHER SOURCE — BOTH RECORDED</text>
+<line x1="58" y1="220" x2="358" y2="220" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="58" y="214" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">MIRROR</text>
+<path d="M58 390 L61.33 378.71 L64.67 367.77 L68 357.5 L71.33 348.22 L74.67 340.21 L78 333.71 L81.33 328.92 L84.67 325.99 L88 325 L91.33 325.99 L94.67 328.92 L98 333.71 L101.33 340.21 L104.67 348.22 L108 357.5 L111.33 367.77 L114.67 378.71 L118 390" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M118 390 L121.33 370.38 L124.67 351.35 L128 333.5 L131.33 317.37 L134.67 303.44 L138 292.14 L141.33 283.81 L144.67 278.72 L148 277 L151.33 278.72 L154.67 283.81 L158 292.14 L161.33 303.44 L164.67 317.37 L168 333.5 L171.33 351.35 L174.67 370.38 L178 390" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M178 390 L181.33 368.12 L184.67 346.91 L188 327 L191.33 309.01 L194.67 293.48 L198 280.88 L201.33 271.6 L204.67 265.91 L208 264 L211.33 265.91 L214.67 271.6 L218 280.88 L221.33 293.48 L224.67 309.01 L228 327 L231.33 346.91 L234.67 368.12 L238 390" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M238 390 L241.33 370.38 L244.67 351.35 L248 333.5 L251.33 317.37 L254.67 303.44 L258 292.14 L261.33 283.81 L264.67 278.72 L268 277 L271.33 278.72 L274.67 283.81 L278 292.14 L281.33 303.44 L284.67 317.37 L288 333.5 L291.33 351.35 L294.67 370.38 L298 390" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M298 390 L301.33 378.71 L304.67 367.77 L308 357.5 L311.33 348.22 L314.67 340.21 L318 333.71 L321.33 328.92 L324.67 325.99 L328 325 L331.33 325.99 L334.67 328.92 L338 333.71 L341.33 340.21 L344.67 348.22 L348 357.5 L351.33 367.77 L354.67 378.71 L358 390" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="58" y="342" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE COMPRESSION FORM, RETURNED THE RIGHT WAY UP</text>
+<line x1="370" y1="140" x2="370" y2="285.5" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M370 290 L368.11 285.5 L371.89 285.5 Z" fill="var(--mut,#8A8880)"/>
+<text x="376" y="180" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PHOTOGRAPH,</text>
+<text x="376" y="192" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">INVERT, DRAW OVER</text>
+<line x1="382" y1="40" x2="382" y2="300" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="400" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE MODERN QUANTIFICATION</text>
+<text x="400" y="40" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MINIMUM THICKNESS OVER SPAN</text>
+<text x="400" y="52" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MARTÍN-SÁIZ AND HERRERA</text>
+<text x="400" y="74" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RISE / SPAN  0.33</text>
+<rect x="400" y="80" width="50.65" height="14" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="458.65" y="92" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">0.130 a</text>
+<text x="400" y="118" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RISE / SPAN  0.50</text>
+<rect x="400" y="124" width="98.96" height="14" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="506.96" y="136" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">0.254 a</text>
+<text x="400" y="162" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RISE / SPAN  0.67</text>
+<rect x="400" y="168" width="150" height="14" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="558" y="180" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">0.385 a</text>
+<text x="400" y="210" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE FLATTER THE ARCH, THE THINNER IT</text>
+<text x="400" y="222" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MAY BE — A RELATION GAUDÍ'S MODEL</text>
+<text x="400" y="234" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FOUND BY HANGING, NOT BY ALGEBRA.</text>
+<line x1="58" y1="386" x2="612" y2="386" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="58" y="398" width="240" height="30" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="178" y="416" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MODEL LOST</text>
+<text x="310" y="410" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ITS WEIGHT RATIO IS UNVERIFIED AND ITS DESTRUCTION</text>
+<text x="310" y="422" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DATE IS NOT ESTABLISHED IN ANY OPENED SOURCE.</text>
+</svg>

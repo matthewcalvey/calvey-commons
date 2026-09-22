@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Comparative wall sections of a bolt-on nest box and an integral nest void in an insulated wall, with an elevation showing spaced rather than clustered units.">
+<defs><pattern id="ins0" patternUnits="userSpaceOnUse" width="5" height="5" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="5" stroke="var(--mut,#8A8880)" stroke-width="0.5" opacity="0.7"/></pattern><pattern id="ins1" patternUnits="userSpaceOnUse" width="5" height="5" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="5" stroke="var(--mut,#8A8880)" stroke-width="0.5" opacity="0.7"/></pattern></defs>
+<text x="52" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BOLT-ON</text>
+<rect x="52" y="84" width="28" height="168" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="54" y="266" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">STRUCTURE</text>
+<rect x="80" y="84" width="34" height="168" fill="url(#ins0)"/>
+<rect x="80" y="84" width="34" height="168" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="82" y="76" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">CONTINUOUS INSULATION</text>
+<rect x="114" y="84" width="8" height="168" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="79" y1="84" x2="79" y2="252" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="122" y="136" width="44" height="48" fill="var(--hot,#C45C3E)" opacity="0.3"/>
+<rect x="122" y="136" width="44" height="48" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<circle cx="144" cy="160" r="5.4" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="170" y="146" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BOX FIXED</text>
+<text x="170" y="156" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">OUTSIDE THE</text>
+<text x="170" y="166" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">INSULATION</text>
+<text x="170" y="180" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THERMALLY</text>
+<text x="170" y="190" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">DECOUPLED</text>
+<text x="170" y="200" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">FROM THE</text>
+<text x="170" y="210" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BUILDING</text>
+<text x="52" y="282" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE MECHANISM BEHIND</text>
+<text x="52" y="292" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE OVERHEATING RESULT</text>
+<text x="252" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">BUILT-IN</text>
+<rect x="252" y="84" width="28" height="168" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="254" y="266" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">STRUCTURE</text>
+<rect x="280" y="84" width="34" height="168" fill="url(#ins1)"/>
+<rect x="280" y="84" width="34" height="168" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="282" y="76" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">CONTINUOUS INSULATION</text>
+<rect x="314" y="84" width="8" height="168" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="279" y1="84" x2="279" y2="252" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="280" y="136" width="42" height="48" fill="var(--ok,#7AB87A)" opacity="0.3"/>
+<rect x="280" y="136" width="42" height="48" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="312" cy="160" r="5.4" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<path d="M 279 128 L 279 134 L 326 134 L 326 186 L 279 186 L 279 192" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="330" y="146" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">VOID WITHIN</text>
+<text x="330" y="156" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">THE CONSTRUCTION</text>
+<text x="330" y="174" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">AIR BARRIER</text>
+<text x="330" y="184" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">DETAILED AROUND IT</text>
+<text x="252" y="282" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">NO STUDY HAS MEASURED</text>
+<text x="252" y="292" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">THE DIFFERENCE DRAWN HERE</text>
+<line x1="462" y1="58" x2="462" y2="300" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="486" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SPACING</text>
+<rect x="486" y="84" width="104" height="62" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="494" y="106" width="12" height="16" fill="var(--hot,#C45C3E)" opacity="0.35"/>
+<rect x="494" y="106" width="12" height="16" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<rect x="509" y="106" width="12" height="16" fill="var(--hot,#C45C3E)" opacity="0.35"/>
+<rect x="509" y="106" width="12" height="16" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<rect x="524" y="106" width="12" height="16" fill="var(--hot,#C45C3E)" opacity="0.35"/>
+<rect x="524" y="106" width="12" height="16" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<rect x="539" y="106" width="12" height="16" fill="var(--hot,#C45C3E)" opacity="0.35"/>
+<rect x="539" y="106" width="12" height="16" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<rect x="554" y="106" width="12" height="16" fill="var(--hot,#C45C3E)" opacity="0.35"/>
+<rect x="554" y="106" width="12" height="16" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<rect x="569" y="106" width="12" height="16" fill="var(--hot,#C45C3E)" opacity="0.35"/>
+<rect x="569" y="106" width="12" height="16" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="486" y="160" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">A CONTINUOUS TERRACE</text>
+<rect x="486" y="184" width="104" height="62" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="496" y="206" width="12" height="16" fill="var(--ok,#7AB87A)" opacity="0.35"/>
+<rect x="496" y="206" width="12" height="16" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<rect x="532" y="206" width="12" height="16" fill="var(--ok,#7AB87A)" opacity="0.35"/>
+<rect x="532" y="206" width="12" height="16" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<rect x="568" y="206" width="12" height="16" fill="var(--ok,#7AB87A)" opacity="0.35"/>
+<rect x="568" y="206" width="12" height="16" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="486" y="260" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">SPACED A FEW METRES</text>
+<text x="486" y="280" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">OCCUPANCY FELL AS</text>
+<text x="486" y="290" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">NEIGHBOURS WITHIN A</text>
+<text x="486" y="300" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">METRE ROSE.</text>
+<text x="44" y="344" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Two details at the same scale, and one measured siting rule. The thermal mechanism is chapter 8&#x27;s bat-box</text>
+<text x="44" y="355" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">result carried across: a box fixed outside a continuous insulation layer is thermally decoupled from the building</text>
+<text x="44" y="366" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">and tracks the sun instead. This figure carries register item 17 and the note that no study has measured the</text>
+<text x="44" y="377" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">difference it draws. Siting rule from Schaub, Meffert &amp; Kerth 2016; thermal mechanism from Rueegger 2019.</text>
+</svg>

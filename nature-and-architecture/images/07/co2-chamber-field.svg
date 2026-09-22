@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Log-scaled comparison of cognitive effect sizes showing chamber studies one to two orders of magnitude above the same group&#x27;s six-country field study.">
+
+<line x1="150" y1="200" x2="520" y2="200" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="150" y1="200" x2="150" y2="205" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="150" y="218" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0.5</text>
+<line x1="192.8" y1="200" x2="192.8" y2="205" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="192.8" y="218" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1</text>
+<line x1="235.61" y1="200" x2="235.61" y2="205" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="235.61" y="218" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2</text>
+<line x1="292.2" y1="200" x2="292.2" y2="205" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="292.2" y="218" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">5</text>
+<line x1="335" y1="200" x2="335" y2="205" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="335" y="218" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10</text>
+<line x1="377.8" y1="200" x2="377.8" y2="205" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="377.8" y="218" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">20</text>
+<line x1="434.39" y1="200" x2="434.39" y2="205" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="434.39" y="218" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">50</text>
+<line x1="477.2" y1="200" x2="477.2" y2="205" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="477.2" y="218" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">100</text>
+<line x1="520" y1="200" x2="520" y2="205" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="520" y="218" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">200</text>
+<text x="150" y="234" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">EFFECT SIZE  ·  PER CENT  ·  LOG</text>
+<text x="52" y="54" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CHAMBER</text>
+<text x="52" y="66" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">Allen and colleagues 2015</text>
+<text x="150" y="90" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">61 %   COGNITIVE SCORES, GREEN DAY</text>
+<line x1="150" y1="100" x2="446.67" y2="100" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<circle cx="446.67" cy="100" r="4.2" fill="var(--hot,#C45C3E)"/>
+<line x1="446.67" y1="100" x2="446.67" y2="200" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.55"/>
+<text x="150" y="126" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">101 %   GREEN-PLUS DAY</text>
+<line x1="150" y1="136" x2="477.81" y2="136" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<circle cx="477.81" cy="136" r="4.2" fill="var(--hot,#C45C3E)"/>
+<line x1="477.81" y1="136" x2="477.81" y2="200" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.55"/>
+<text x="52" y="100" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">ONE CHAMBER</text>
+<text x="52" y="112" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SAMPLE SIZE TO</text>
+<text x="52" y="124" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">BE CONFIRMED</text>
+<rect x="52" y="158" width="544" height="24" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="62" y="174" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">A THIRD POSITION:  CHAPTER 6&#x27;S SUBMARINERS, NO EFFECT — OFF THE LOG AXIS AT ZERO.</text>
+<text x="52" y="252" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">FIELD</text>
+<text x="52" y="264" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">Cedeño Laurent and colleagues 2021</text>
+<text x="150" y="280" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">0.85 %   STROOP RESPONSE TIME</text>
+<line x1="150" y1="290" x2="182.77" y2="290" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="182.77" cy="290" r="4.2" fill="var(--accent,#6A9CC4)"/>
+<line x1="182.77" y1="200" x2="182.77" y2="290" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.55"/>
+<text x="150" y="310" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">7.88 %   STROOP INTERFERENCE</text>
+<line x1="150" y1="320" x2="320.29" y2="320" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="320.29" cy="320" r="4.2" fill="var(--accent,#6A9CC4)"/>
+<line x1="320.29" y1="200" x2="320.29" y2="320" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.55"/>
+<text x="52" y="292" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">302 PARTICIPANTS,</text>
+<text x="52" y="304" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">42 REAL BUILDINGS,</text>
+<text x="52" y="316" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SIX COUNTRIES</text>
+<text x="532" y="292" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">PER 315 PPM</text>
+<text x="532" y="303" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">INTERQUARTILE</text>
+<text x="532" y="314" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RISE</text>
+<text x="52" y="350" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Overlapping research groups; the same instrument, two orders of magnitude apart. The field authors state that</text>
+<text x="52" y="361" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">carbon dioxide is a tracer rather than necessarily an agent. The 2015 chamber sample was verified at abstract</text>
+<text x="52" y="372" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">level only and must be confirmed against the paper before printing.</text>
+</svg>

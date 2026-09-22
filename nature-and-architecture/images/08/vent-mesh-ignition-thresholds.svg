@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Matrix of vent mesh sizes against materials behind them showing ignition outcomes, with cotton igniting behind every mesh size tested down to one millimetre.">
+
+<text x="44" y="54" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">COTTON IGNITED BEHIND EVERY MESH SIZE TESTED, DOWN TO ONE MILLIMETRE.</text>
+<text x="44" y="68" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE SPECIFICATION QUESTION IS NOT THE MESH.  IT IS WHAT IS BEHIND THE VENT.</text>
+<text x="216" y="84" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MESH SIZE AND OPENING</text>
+<text x="206" y="84" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">WHAT LIES BEHIND</text>
+<text x="252" y="102" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">4 × 4</text>
+<text x="252" y="113" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">5.72 mm</text>
+<text x="324" y="102" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">8 × 8</text>
+<text x="396" y="102" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">10 × 10</text>
+<text x="396" y="113" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2.0 mm</text>
+<text x="468" y="102" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">16 × 16</text>
+<text x="468" y="113" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1.35 mm</text>
+<text x="540" y="102" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">20 × 20</text>
+<text x="540" y="113" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1.04 mm</text>
+<text x="206" y="151" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">COTTON</text>
+<rect x="216" y="128" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="217" y="129" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<text x="252" y="151" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">FLAMING</text>
+<rect x="288" y="128" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="289" y="129" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<text x="324" y="151" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">FLAMING</text>
+<rect x="360" y="128" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="361" y="129" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<text x="396" y="151" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">FLAMING</text>
+<rect x="432" y="128" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="433" y="129" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<text x="468" y="151" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">FLAMING</text>
+<rect x="504" y="128" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="505" y="129" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<text x="540" y="151" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">FLAMING</text>
+<text x="206" y="191" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">SHREDDED PAPER</text>
+<rect x="216" y="168" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="217" y="169" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<text x="252" y="191" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">FLAMING</text>
+<rect x="288" y="168" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="289" y="169" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<text x="324" y="191" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">FLAMING</text>
+<rect x="360" y="168" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="361" y="169" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<text x="396" y="191" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">FLAMING</text>
+<rect x="432" y="168" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="433" y="169" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<text x="468" y="191" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">FLAMING</text>
+<rect x="504" y="168" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="505" y="169" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.2"/>
+<text x="540" y="188" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">1 OF 3</text>
+<text x="540" y="198" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">TRIALS</text>
+<text x="206" y="231" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">WOOD CREVICE WITH PAPER</text>
+<rect x="216" y="208" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="217" y="209" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.2"/>
+<text x="252" y="231" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">SMOULDER</text>
+<rect x="288" y="208" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="289" y="209" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.2"/>
+<text x="324" y="231" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">SMOULDER</text>
+<rect x="360" y="208" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="361" y="209" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.2"/>
+<text x="396" y="231" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">SMOULDER</text>
+<rect x="432" y="208" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="468" y="231" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NONE</text>
+<rect x="504" y="208" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="540" y="231" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NONE</text>
+<text x="206" y="271" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">BARE WOOD CREVICE</text>
+<rect x="216" y="248" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="217" y="249" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.2"/>
+<text x="252" y="271" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">SMOULDER</text>
+<rect x="288" y="248" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="289" y="249" width="70" height="38" fill="var(--hot,#C45C3E)" opacity="0.2"/>
+<text x="324" y="271" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">SMOULDER</text>
+<rect x="360" y="248" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="396" y="271" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NONE</text>
+<rect x="432" y="248" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="468" y="271" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NONE</text>
+<rect x="504" y="248" width="72" height="40" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="540" y="271" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NONE</text>
+<line x1="216" y1="296" x2="576" y2="296" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="206" y="300" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">FINER  →</text>
+<rect x="44" y="316" width="552" height="30" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54" y="335" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">FIREBRANDS WERE NOT QUENCHED BY THE MESH.  THEY KEPT BURNING UNTIL THEY WERE</text>
+<text x="54" y="346" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SMALL ENOUGH TO PASS THROUGH IT.</text>
+<text x="44" y="368" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Manzello, Suzuki &amp; Hayashi 2011; outcomes exactly as the report gives them.</text>
+</svg>

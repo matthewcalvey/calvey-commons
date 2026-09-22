@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-label="Two side-by-side diagrams contrasting a daylight scale model, which is valid, with a thermal scale model, which is not.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHY LIGHT SCALES AND HEAT DOES NOT</text>
+<line x1="320" y1="40" x2="320" y2="348" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="46" font-family="&#39;Space Mono&#39;,monospace" font-size="11" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">DAYLIGHT</text>
+<text x="58" y="60" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE QUANTITY, AND IT IS A RATIO</text>
+<line x1="150" y1="86" x2="276" y2="86" stroke="var(--mut,#8A8880)" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="58" y="89" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ARTIFICIAL SKY</text>
+<text x="58" y="100" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE ROOM · FULL SIZE</text>
+<rect x="58" y="108" width="118" height="84" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="173" y="120" width="3" height="46" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="64" y1="170" x2="168" y2="170" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<circle cx="106" cy="170" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<text x="64" y="184" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A POINT ON THE WORKING PLANE</text>
+<rect x="208" y="138" width="60" height="40" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="208" y="194" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE MODEL · AT 1:50</text>
+<rect x="265" y="145" width="3" height="22" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="232" cy="166" r="2.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="206" y1="102" x2="181.34" y2="129.4" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M179 132 L180.25 128.42 L182.43 130.38 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="200" y1="107" x2="181.01" y2="134.13" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M179 137 L179.8 133.29 L182.21 134.98 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="194" y1="112" x2="180.57" y2="138.87" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M179 142 L179.25 138.21 L181.88 139.53 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="298" y1="124" x2="273.34" y2="151.4" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M271 154 L272.25 150.42 L274.43 152.38 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="292" y1="129" x2="273.01" y2="156.13" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M271 159 L271.8 155.29 L274.21 156.98 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="286" y1="134" x2="272.57" y2="160.87" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M271 164 L271.25 160.21 L273.88 161.53 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="190" y="168" font-family="&#39;Space Mono&#39;,monospace" font-size="20" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">=</text>
+<text x="58" y="214" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE DAYLIGHT FACTOR IN BOTH</text>
+<text x="58" y="234" font-family="&#39;Space Mono&#39;,monospace" font-size="13" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">THE SAME NUMBER</text>
+<text x="58" y="256" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">GEOMETRY, REFLECTANCE AND TRANSMITTANCE ARE</text>
+<text x="58" y="268" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ALL PRESERVED BY THE REDUCTION, AND THE FACTOR</text>
+<text x="58" y="280" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">IS A RATIO OF TWO ILLUMINANCES, SO IT IS</text>
+<text x="58" y="292" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">INDEPENDENT OF SKY BRIGHTNESS ALTOGETHER.</text>
+<text x="58" y="316" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">A MODEL UNDER A SKY OF THE RIGHT LUMINANCE</text>
+<text x="58" y="328" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">DISTRIBUTION YIELDS THE REAL NUMBER.</text>
+<text x="348" y="46" font-family="&#39;Space Mono&#39;,monospace" font-size="11" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">HEAT</text>
+<text x="348" y="60" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THREE COUPLED TRANSPORT PROCESSES</text>
+<text x="348" y="100" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE ROOM · FULL SIZE</text>
+<rect x="348" y="108" width="118" height="84" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="356" y1="130" x2="374" y2="130" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/><path d="M378 130 L374 131.68 L374 128.32 Z" fill="var(--hot,#C45C3E)"/>
+<text x="384" y="133" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">CONDUCTION</text>
+<line x1="356" y1="152" x2="374" y2="152" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="4 2"/><path d="M378 152 L374 153.68 L374 150.32 Z" fill="var(--hot,#C45C3E)"/>
+<text x="384" y="155" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">CONVECTION</text>
+<line x1="356" y1="174" x2="374" y2="174" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="1 2"/><path d="M378 174 L374 175.68 L374 172.32 Z" fill="var(--hot,#C45C3E)"/>
+<text x="384" y="177" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">RADIATION</text>
+<rect x="498" y="138" width="60" height="40" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="498" y="194" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE MODEL · AT 1:50</text>
+<text x="480" y="168" font-family="&#39;Space Mono&#39;,monospace" font-size="20" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">≠</text>
+<text x="348" y="206" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">EACH OBEYS A DIFFERENT SIMILARITY LAW.</text>
+<text x="348" y="214" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em"></text>
+<text x="348" y="234" font-family="&#39;Space Mono&#39;,monospace" font-size="13" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NOT THE SAME NUMBER</text>
+<text x="348" y="256" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THERMAL CAPACITY SCALES WITH VOLUME.</text>
+<text x="348" y="268" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SURFACE EXCHANGE SCALES WITH AREA.</text>
+<text x="348" y="280" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AT 1:50 THAT IS A DIVISION BY 125,000 AGAINST A</text>
+<text x="348" y="292" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DIVISION BY 2,500 — A FIFTY-FOLD MISMATCH IN</text>
+<text x="348" y="304" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE TIME CONSTANT ALONE.</text>
+<text x="348" y="328" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NO SINGLE REDUCTION PRESERVES ALL THREE.</text>
+<line x1="58" y1="362" x2="612" y2="362" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="380" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE EMPIRICAL CASE ON THE HEAT SIDE</text>
+<text x="58" y="396" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE THERMOHELIODON. ITS GRANT TO ESTABLISH</text>
+<text x="58" y="408" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">SIMILARITY CRITERIA WAS APPLIED FOR AND</text>
+<text x="58" y="420" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">REFUSED, SO IT CARRIES NO ERROR BAR.</text>
+<text x="348" y="380" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND THE HONEST GAP ON THE LIGHT SIDE</text>
+<text x="348" y="396" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NO PERIOD VALIDATION STUDY COMPARING</text>
+<text x="348" y="408" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MODEL-PREDICTED WITH FULL-SCALE MEASURED</text>
+<text x="348" y="420" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DAYLIGHT FACTORS WAS LOCATED.</text>
+<text x="58" y="444" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THIS IS WHY LIGHTING SCIENCE PRODUCED A CODE-GRADE NUMBER IN TWENTY YEARS AND THERMAL BUILDING</text>
+<text x="58" y="456" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SCIENCE HAD TO WAIT FOR THE DIGITAL COMPUTER.</text>
+</svg>

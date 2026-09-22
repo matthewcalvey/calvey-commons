@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Diagram contrasting reachable field evidence of bird-collision reduction against three inaccessible studies holding the pattern spacing, with the dimension left blank.">
+
+<text x="44" y="52" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">WHAT IS REACHABLE</text>
+<rect x="60" y="94.08" width="26" height="127.92" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="60" y="94.08" width="26" height="127.92" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="73" y="87.08" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">98.4</text>
+<text x="73" y="236" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">GUIDELINE-</text>
+<text x="73" y="246" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">COMPLIANT</text>
+<rect x="122" y="122.81" width="26" height="99.19" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="122" y="122.81" width="26" height="99.19" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="135" y="115.81" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">76.3</text>
+<text x="135" y="236" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NON-</text>
+<text x="135" y="246" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">COMPLIANT</text>
+<line x1="52" y1="92" x2="52" y2="222" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="48" y="96" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">100</text>
+<text x="48" y="222" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<text x="44" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">PER CENT COLLISION REDUCTION</text>
+<text x="44" y="278" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">233 COLLISIONS, 51 SPECIES</text>
+<text x="44" y="289" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em" opacity="0.8">Lysyk and colleagues 2026</text>
+<rect x="218" y="92" width="168" height="152" fill="none" stroke="var(--mut,#8A8880)" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="302" y="154" font-family="'Space Mono',monospace" font-size="10" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">THE SPACING</text>
+<text x="302" y="170" font-family="'Space Mono',monospace" font-size="10" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">DIMENSION</text>
+<text x="302" y="190" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">UNFILLED</text>
+<line x1="236" y1="116" x2="368" y2="116" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="236" y1="112" x2="236" y2="120" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="368" y1="112" x2="368" y2="120" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="302" y="108" font-family="'Space Mono',monospace" font-size="12" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">?</text>
+<text x="218" y="264" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THIS CHAPTER STATES NO</text>
+<text x="218" y="275" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">SPACING RULE IN ANY FORM.</text>
+<text x="418" y="52" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">WHAT HOLDS THE DIMENSION</text>
+<rect x="418" y="92" width="180" height="42" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="418" y1="92" x2="598" y2="134" stroke="var(--mut,#8A8880)" stroke-width="0.75" opacity="0.35"/>
+<line x1="598" y1="92" x2="418" y2="134" stroke="var(--mut,#8A8880)" stroke-width="0.75" opacity="0.35"/>
+<text x="424" y="107" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SHEPPARD 2019</text>
+<text x="424" y="117" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">GOLD OPEN ACCESS,</text>
+<text x="592" y="128" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">UNREACHABLE</text>
+<rect x="418" y="144" width="180" height="42" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="418" y1="144" x2="598" y2="186" stroke="var(--mut,#8A8880)" stroke-width="0.75" opacity="0.35"/>
+<line x1="598" y1="144" x2="418" y2="186" stroke="var(--mut,#8A8880)" stroke-width="0.75" opacity="0.35"/>
+<text x="424" y="159" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">RÖSSLER, NEMETH AND</text>
+<text x="424" y="169" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BRUCKNER 2015</text>
+<text x="592" y="180" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">CLOSED</text>
+<rect x="418" y="196" width="180" height="42" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="418" y1="196" x2="598" y2="238" stroke="var(--mut,#8A8880)" stroke-width="0.75" opacity="0.35"/>
+<line x1="598" y1="196" x2="418" y2="238" stroke="var(--mut,#8A8880)" stroke-width="0.75" opacity="0.35"/>
+<text x="424" y="211" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">KLEM AND SAENGER 2013</text>
+<text x="592" y="232" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">CLOSED</text>
+<text x="418" y="260" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em">FLIGHT-TUNNEL STUDIES.  EVERY MEASURED</text>
+<text x="418" y="271" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SOURCE HOLDING THE SPACING IS CLOSED.</text>
+<text x="44" y="334" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">The field outcome is decisive and reachable. The dimension an architect must draw — how far apart the</text>
+<text x="44" y="345" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">marks go — sits in three studies, one of them formally open access and practically unreadable. The pane</text>
+<text x="44" y="356" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">between the two is left blank because that is the true state of the evidence, not an omission in the drawing.</text>
+</svg>

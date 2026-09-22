@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Bar chart showing spatial daylight autonomy for one identical building ranging from 46 to 86 per cent across four simulation platforms, with the compliance band inside that range.">
+
+<text x="86" y="48" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ONE IDENTICAL 511 M² MODEL, EVERY USER INPUT HELD CONSTANT</text>
+<text x="86" y="60" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE TWO LIGHTSTANZA BARS DIFFER ONLY IN WHETHER THE LM-83 BLIND RULE IS ON</text>
+<line x1="92" y1="90" x2="92" y2="244" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="92" y1="244" x2="596" y2="244" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="92" y1="244" x2="596" y2="244" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="247" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="92" y1="207" x2="596" y2="207" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="210" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">25</text>
+<line x1="92" y1="170" x2="596" y2="170" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="173" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">50</text>
+<line x1="92" y1="133" x2="596" y2="133" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="136" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">75</text>
+<line x1="92" y1="96" x2="596" y2="96" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="99" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">100</text>
+<text x="86" y="80" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SPATIAL DAYLIGHT AUTONOMY  sDA 300 / 50 %</text>
+<rect x="92" y="133" width="504" height="29.6" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="592" y="145.8" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">THE RATING-SYSTEM THRESHOLD SITS IN HERE;</text>
+<text x="592" y="156.8" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">LM-83 AND LEED v4 WERE NOT OPENED HERE</text>
+<rect x="122" y="175.92" width="40" height="68.08" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="122" y="175.92" width="40" height="68.08" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="142" y="168.92" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">46</text>
+<text x="142" y="258" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">CLIMATE</text>
+<text x="142" y="268" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">STUDIO</text>
+<rect x="176" y="128.56" width="40" height="115.44" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="176" y="128.56" width="40" height="115.44" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="196" y="121.56" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">78</text>
+<text x="196" y="258" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">DIVA-FOR</text>
+<text x="196" y="268" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">RHINO</text>
+<rect x="230" y="146.32" width="40" height="97.68" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="230" y="146.32" width="40" height="97.68" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="250" y="139.32" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">66</text>
+<text x="250" y="258" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">LIGHT-</text>
+<text x="250" y="268" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">STANZA</text>
+<text x="250" y="279" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">NO RULE</text>
+<rect x="284" y="171.48" width="40" height="72.52" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="284" y="171.48" width="40" height="72.52" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="304" y="164.48" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">49</text>
+<text x="304" y="258" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">LIGHT-</text>
+<text x="304" y="268" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">STANZA</text>
+<text x="304" y="279" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">WITH RULE</text>
+<rect x="338" y="116.72" width="40" height="127.28" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="338" y="116.72" width="40" height="127.28" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="358" y="109.72" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">86</text>
+<text x="358" y="258" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">SEFAIRA</text>
+<line x1="110" y1="175.92" x2="110" y2="116.72" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="106" y1="175.92" x2="114" y2="175.92" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="106" y1="116.72" x2="114" y2="116.72" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="102" y="146.32" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.06em" transform="rotate(-90 102 146.32)">40 POINTS</text>
+<line x1="250" y1="126.32" x2="304" y2="126.32" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="250" y1="122.32" x2="250" y2="130.32" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="304" y1="122.32" x2="304" y2="130.32" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="277" y="120.32" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">17 POINTS</text>
+<text x="74" y="302" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BY ZONE, AS REPORTED</text>
+<rect x="74" y="312" width="98" height="28" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="123" y="325" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NORTH</text>
+<text x="123" y="336" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT REPORTED</text>
+<rect x="182" y="312" width="98" height="28" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="231" y="325" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">EAST</text>
+<text x="231" y="336" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT REPORTED</text>
+<rect x="290" y="312" width="98" height="28" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="339" y="325" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">SOUTH</text>
+<text x="339" y="336" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">SPREAD 59 POINTS</text>
+<rect x="398" y="312" width="98" height="28" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="447" y="325" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">WEST</text>
+<text x="447" y="336" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT REPORTED</text>
+<rect x="506" y="312" width="98" height="28" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="555" y="325" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">CORE</text>
+<text x="555" y="336" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">DIVA 100, OTHERS 0</text>
+<text x="74" y="358" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">CORRECTING THE CORE ANOMALY TOOK ITS SPREAD FROM 32 POINTS TO 3.</text>
+<text x="74" y="380" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Same grid height and spacing, transmittance, reflectance, bounce count, weather file and occupied hours.</text>
+<text x="74" y="390.5" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Sefaira could not accept custom reflectance, spacing, bounces or weather. The engine&#x27;s stated uncertainty</text>
+<text x="74" y="401" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">is plus 15 to 20 per cent. One author, one practice, one geometry; a reproducibility test, not an accuracy</text>
+<text x="74" y="411.5" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">test. No inter-laboratory round robin exists. Rockwell 2020, Denver TMY.</text>
+</svg>

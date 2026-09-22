@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Two-line chart of declining lichen pasture against flat reindeer numbers, with adaptations annotated.">
+<line x1="76.00" y1="250.00" x2="556.00" y2="250.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="76.00" y1="209.57" x2="556.00" y2="209.57" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="76.00" y1="169.13" x2="556.00" y2="169.13" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="76.00" y1="128.70" x2="556.00" y2="128.70" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="76.00" y1="88.26" x2="556.00" y2="88.26" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="91.26" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">HIGH</text>
+<text x="70.00" y="253.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">LOW</text>
+<line x1="76.00" y1="250.00" x2="556.00" y2="250.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="76.00" y1="250.00" x2="76.00" y2="64.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="110.29" y1="250.00" x2="110.29" y2="253.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="110.29" y="266.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1950</text>
+<line x1="178.86" y1="250.00" x2="178.86" y2="253.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="178.86" y="266.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1960</text>
+<line x1="247.43" y1="250.00" x2="247.43" y2="253.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="247.43" y="266.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1970</text>
+<line x1="316.00" y1="250.00" x2="316.00" y2="253.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="316.00" y="266.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1980</text>
+<line x1="384.57" y1="250.00" x2="384.57" y2="253.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="384.57" y="266.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1990</text>
+<line x1="453.14" y1="250.00" x2="453.14" y2="253.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="453.14" y="266.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2000</text>
+<line x1="521.71" y1="250.00" x2="521.71" y2="253.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="521.71" y="266.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2010</text>
+<text x="316.00" y="284.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">YEAR</text>
+<path d="M76.0 88.3 L130.9 94.7 L261.1 143.3 L268.0 144.9 L521.7 191.8 L556.0 199.9" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="butt"/>
+<circle cx="76.00" cy="88.26" r="2.80" fill="var(--hot,#C45C3E)"/>
+<circle cx="130.86" cy="94.73" r="2.80" fill="var(--hot,#C45C3E)"/>
+<circle cx="261.14" cy="143.25" r="2.80" fill="var(--hot,#C45C3E)"/>
+<circle cx="268.00" cy="144.87" r="2.80" fill="var(--hot,#C45C3E)"/>
+<circle cx="521.71" cy="191.77" r="2.80" fill="var(--hot,#C45C3E)"/>
+<circle cx="556.00" cy="199.86" r="2.80" fill="var(--hot,#C45C3E)"/>
+<text x="350.29" y="152.96" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">LICHEN-ABUNDANT FOREST PLOTS</text>
+<text x="350.29" y="165.90" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">β = −0.21 (1953–1972) · β = −0.16 (1973–2010)</text>
+<path d="M76.0 149.7 L178.9 156.2 L281.7 143.3 L384.6 153.0 L453.1 146.5 L556.0 151.3" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="butt"/>
+<circle cx="76.00" cy="149.72" r="2.80" fill="var(--accent,#6A9CC4)"/>
+<circle cx="178.86" cy="156.19" r="2.80" fill="var(--accent,#6A9CC4)"/>
+<circle cx="281.71" cy="143.25" r="2.80" fill="var(--accent,#6A9CC4)"/>
+<circle cx="384.57" cy="152.96" r="2.80" fill="var(--accent,#6A9CC4)"/>
+<circle cx="453.14" cy="146.49" r="2.80" fill="var(--accent,#6A9CC4)"/>
+<circle cx="556.00" cy="151.34" r="2.80" fill="var(--accent,#6A9CC4)"/>
+<text x="96.57" y="133.55" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">REINDEER NUMBERS — NO SIGNIFICANT TREND</text>
+<text x="76.00" y="52.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BOTH SERIES ARE PLOTTED ON A COMMON RELATIVE SCALE; ONLY THE TRENDS ARE THE REPORTED FACTS</text>
+<line x1="357.14" y1="98.00" x2="357.14" y2="250.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="362.14" y="96.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">1986 · FACTORY FEED BEGINS</text>
+<line x1="64.00" y1="300.00" x2="596.00" y2="300.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="320.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WHAT CLOSED THE GAP</text>
+<circle cx="70.00" cy="336.50" r="3.60" fill="var(--ok,#7AB87A)"/>
+<text x="84.00" y="340.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FACTORY FEED</text>
+<text x="232.00" y="340.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">31 kg per reindeer a year — about 10 % of winter energy need</text>
+<circle cx="70.00" cy="358.50" r="3.60" fill="var(--ok,#7AB87A)"/>
+<text x="84.00" y="362.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">HERD COMPOSITION</text>
+<text x="232.00" y="362.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">51 % female rising to 67 %</text>
+<circle cx="70.00" cy="380.50" r="3.60" fill="var(--ok,#7AB87A)"/>
+<text x="84.00" y="384.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ENERGY REQUIREMENT</text>
+<text x="232.00" y="384.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">a calculated 6.1 % reduction</text>
+<line x1="64.00" y1="414.00" x2="596.00" y2="414.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="432.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">The stability is produced by the herders’ labour, not by the land. UBONI, ÅHMAN &amp; MOEN 2020</text>
+</svg>

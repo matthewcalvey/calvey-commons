@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Line chart showing green wall cooling diminishing to nothing between 30 and 150 centimetres from the wall.">
+
+<line x1="104" y1="62" x2="104" y2="252" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="104" y1="234.48" x2="470" y2="234.48" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="237.48" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">-1</text>
+<line x1="104" y1="190.67" x2="470" y2="190.67" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="193.67" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="104" y1="146.86" x2="470" y2="146.86" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="149.86" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+1</text>
+<line x1="104" y1="103.05" x2="470" y2="103.05" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="106.05" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+2</text>
+<text x="98" y="48" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">AIR TEMPERATURE DIFFERENCE FROM AMBIENT  ·  K</text>
+<rect x="287" y="62" width="183" height="190" fill="var(--surface,#1F211E)" opacity="0.6"/>
+<text x="293.1" y="76" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">WHERE A PERSON STANDS</text>
+<rect x="104" y="172.27" width="366" height="36.8" fill="var(--dim,#B8B5AC)" opacity="0.16"/>
+<line x1="104" y1="190.67" x2="470" y2="190.67" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="110" y="183.67" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">UNVEGETATED CONTROL</text>
+<text x="110" y="203.81" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">NO SIGNIFICANT DIFFERENCE FROM IT</text>
+<line x1="104" y1="252" x2="470" y2="252" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="165" y1="252" x2="165" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="165" y="270" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">30</text>
+<line x1="287" y1="252" x2="287" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="287" y="270" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">90</text>
+<line x1="409" y1="252" x2="409" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="409" y="270" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">150</text>
+<text x="104" y="286" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SENSOR DISTANCE FROM THE WALL  ·  CM</text>
+<path d="M 165 224.84 L 287 190.67 L 409 190.67" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="165" cy="224.84" r="3.2" fill="var(--ok,#7AB87A)"/>
+<text x="165" y="240.84" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">COOLED</text>
+<circle cx="287" cy="190.67" r="3.2" fill="var(--ok,#7AB87A)"/>
+<circle cx="409" cy="190.67" r="3.2" fill="var(--ok,#7AB87A)"/>
+<path d="M 165 190.67 L 287 219.58 L 409 190.67" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="165" cy="190.67" r="3.2" fill="var(--accent,#6A9CC4)"/>
+<circle cx="287" cy="219.58" r="3.2" fill="var(--accent,#6A9CC4)"/>
+<text x="287" y="235.58" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.08em">COOLED</text>
+<circle cx="409" cy="190.67" r="3.2" fill="var(--accent,#6A9CC4)"/>
+<path d="M 165 183.66 L 287 181.03 L 409 190.67" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="165" cy="183.66" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<circle cx="287" cy="181.03" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<circle cx="409" cy="190.67" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<circle cx="409" cy="103.05" r="4.2" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="399" y="107.05" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.04em">+ 2 K</text>
+<text x="399" y="120.05" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">NORTH AND EAST</text>
+<text x="399" y="130.05" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">WALLS, HOTTER</text>
+<text x="399" y="140.05" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">THAN AMBIENT</text>
+<text x="496" y="72" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">PLANTING VARIANT</text>
+<line x1="496" y1="87" x2="518" y2="87" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="507" cy="87" r="3.2" fill="var(--ok,#7AB87A)"/>
+<text x="496" y="100" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">MEADOW</text>
+<line x1="496" y1="105" x2="518" y2="105" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="507" cy="105" r="3.2" fill="var(--accent,#6A9CC4)"/>
+<text x="496" y="118" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">CASCADE</text>
+<line x1="496" y1="123" x2="518" y2="123" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="507" cy="123" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="496" y="136" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">GROUND COVER</text>
+<text x="496" y="160" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">COOLING APPEARS AT</text>
+<text x="496" y="171" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ONE DISTANCE, FOR ONE</text>
+<text x="496" y="182" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">VARIANT, AND MOVES</text>
+<text x="496" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">VARIANT AT THE NEXT.</text>
+<text x="52" y="312" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Positions inside the band are the source&#x27;s significance categories, not reported magnitudes: the only air</text>
+<text x="52" y="322.5" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">magnitude the paper states is the roughly 2 K above ambient at 150 cm on the north and east walls.</text>
+<text x="52" y="333" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Vegetation surfaces averaged 0.6 K warmer than the air across the campaign and reached 3.6 K warmer.</text>
+<text x="52" y="343.5" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Four textile walls and a bare control at Hochschule Geisenheim, 49°59′ N. Stollberg and von Birgelen 2023.</text>
+<text x="52" y="354" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">The authors propose shading, not evapotranspiration, as the mechanism — a substitution, not a correction.</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 434" role="img" aria-label="Three side-by-side drawings of hospital ward cross-sections with beds and tall windows, labelled with dimensions.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SECTIONS AT ONE SCALE · 30 FEET IS 102 UNITS</text>
+<text x="58" y="48" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">PRESCRIBED</text>
+<line x1="58" y1="162" x2="160" y2="162" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="58" y1="162" x2="58" y2="107.6" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="160" y1="162" x2="160" y2="107.6" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="58" y1="107.6" x2="160" y2="107.6" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="61" y="111.6" width="8" height="45.3" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<rect x="149" y="111.6" width="8" height="45.3" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<rect x="73" y="151" width="32" height="11" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="113" y="151" width="32" height="11" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="52" y1="162" x2="52" y2="107.6" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<text x="49" y="137.8" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">16 FT</text>
+<line x1="58" y1="170" x2="160" y2="170" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="109" y="184" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">30 FT</text>
+<text x="250" y="48" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">PHILADELPHIA 1875</text>
+<line x1="250" y1="162" x2="352" y2="162" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="250" y1="162" x2="250" y2="111" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="352" y1="162" x2="352" y2="111" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="250" y1="111" x2="352" y2="111" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="253" y="115" width="8" height="41.9" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<rect x="341" y="115" width="8" height="41.9" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<rect x="265" y="151" width="32" height="11" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="305" y="151" width="32" height="11" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="244" y1="162" x2="244" y2="111" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<text x="241" y="139.5" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">15 FT</text>
+<line x1="250" y1="170" x2="352" y2="170" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="301" y="184" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">30 FT</text>
+<text x="442" y="48" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BRADFORD, MEASURED 2010</text>
+<line x1="442" y1="162" x2="522.92" y2="162" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="442" y1="162" x2="442" y2="114" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="522.92" y1="162" x2="522.92" y2="114" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="442" y1="114" x2="522.92" y2="114" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-dasharray="3 3"/>
+<rect x="445" y="118" width="8" height="38.9" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<rect x="511.92" y="118" width="8" height="38.9" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<rect x="457" y="151" width="32" height="11" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="475.92" y="151" width="32" height="11" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="442" y="108" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HEIGHT UNSTATED</text>
+<line x1="442" y1="170" x2="522.92" y2="170" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="482.46" y="184" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">7.25 M</text>
+<text x="58" y="204" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TWO BEDS PER WINDOW · WINDOWS 4 FT 8 IN WIDE, FROM 1–2 FT ABOVE THE FLOOR TO THE CEILING</text>
+<line x1="58" y1="218" x2="612" y2="218" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="234" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLANS AT ONE SCALE, DIFFERENT FROM THE SECTIONS · 1 FOOT = 1.2 UNITS</text>
+<text x="58" y="254" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">PRESCRIBED</text>
+<rect x="58" y="260" width="96" height="36" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="58" y="260" width="153.6" height="36" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="58" y="310" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">80 TO 128 FT · 20–32 BEDS</text>
+<text x="58" y="322" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">8 × 12 FT A BED</text>
+<text x="244" y="254" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">PHILADELPHIA 1875</text>
+<rect x="244" y="260" width="105.6" height="36" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="244" y="310" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">88 FT · 28 BEDS</text>
+<text x="244" y="322" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ABOUT 1,410 CU FT A BED — BELOW 1,500</text>
+<text x="430" y="254" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BRADFORD 2010</text>
+<rect x="430" y="260" width="96" height="28.56" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="430" y="310" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LENGTH NOT STATED · 14 BEDS</text>
+<text x="430" y="322" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">200 M³ · 3.4–6.5 AIR CHANGES AN HOUR</text>
+<line x1="58" y1="338" x2="612" y2="338" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="352" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PAIRS PRINTED SIDE BY SIDE, NOT RESOLVED</text>
+<text x="58" y="370" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">96 SQ FT</text>
+<text x="58" y="383" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A BED MODULE, 8 × 12 FT</text>
+<text x="190" y="370" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">100 SQ FT</text>
+<text x="190" y="383" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A BED ALLOWANCE, 9.3 M²</text>
+<line x1="340" y1="356" x2="340" y2="412" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="360" y="370" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">1,500 CU FT</text>
+<text x="360" y="383" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A STATIC VOLUME PER PATIENT</text>
+<text x="360" y="400" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">1,500–5,000 CU FT AN HOUR</text>
+<text x="360" y="413" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A SUPPLY RATE. ONE NUMBER, TWO QUANTITIES.</text>
+<text x="58" y="400" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EDITIONS UNSPECIFIED:</text>
+<text x="58" y="413" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EVERY FIGURE HERE IS SECONDARY.</text>
+</svg>

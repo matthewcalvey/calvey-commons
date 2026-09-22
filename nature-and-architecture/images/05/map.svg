@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 474" role="img" aria-label="A world map with marked sites of ecological-design experiments and measurement campaigns 1970–2026, and an arrow from Germany to Illinois.">
+<rect x="52.00" y="218.93" width="544.00" height="25.07" fill="var(--ok,#7AB87A)" fill-opacity="0.05"/>
+<line x1="52.00" y1="218.93" x2="596.00" y2="218.93" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="52.00" y="186.56" width="544.00" height="32.38" fill="var(--ok,#7AB87A)" fill-opacity="0.1"/>
+<line x1="52.00" y1="186.56" x2="596.00" y2="186.56" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="52.00" y="174.02" width="544.00" height="12.53" fill="var(--ok,#7AB87A)" fill-opacity="0.07"/>
+<line x1="52.00" y1="174.02" x2="596.00" y2="174.02" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="52.00" y="125.98" width="544.00" height="48.04" fill="var(--ok,#7AB87A)" fill-opacity="0.15"/>
+<line x1="52.00" y1="125.98" x2="596.00" y2="125.98" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="52.00" y="113.44" width="544.00" height="12.53" fill="var(--ok,#7AB87A)" fill-opacity="0.07"/>
+<line x1="52.00" y1="113.44" x2="596.00" y2="113.44" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="52.00" y="81.07" width="544.00" height="32.38" fill="var(--ok,#7AB87A)" fill-opacity="0.1"/>
+<line x1="52.00" y1="81.07" x2="596.00" y2="81.07" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="52.00" y="56.00" width="544.00" height="25.07" fill="var(--ok,#7AB87A)" fill-opacity="0.05"/>
+<line x1="52.00" y1="56.00" x2="596.00" y2="56.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="52.00" y="56.00" width="544.00" height="188.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="52.00" y1="81.07" x2="596.00" y2="81.07" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 5"/>
+<text x="46.00" y="84.07" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">66°N</text>
+<line x1="52.00" y1="113.44" x2="596.00" y2="113.44" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 5"/>
+<text x="46.00" y="116.44" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">35°N</text>
+<line x1="52.00" y1="125.98" x2="596.00" y2="125.98" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 5"/>
+<text x="46.00" y="128.98" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">23°N</text>
+<line x1="52.00" y1="150.00" x2="596.00" y2="150.00" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<text x="46.00" y="153.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">EQUATOR</text>
+<line x1="52.00" y1="174.02" x2="596.00" y2="174.02" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 5"/>
+<text x="46.00" y="177.02" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">23°S</text>
+<line x1="52.00" y1="186.56" x2="596.00" y2="186.56" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 5"/>
+<text x="46.00" y="189.56" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">35°S</text>
+<line x1="142.67" y1="56.00" x2="142.67" y2="244.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="142.67" y="258.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">120°W</text>
+<line x1="233.33" y1="56.00" x2="233.33" y2="244.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="233.33" y="258.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">60°W</text>
+<line x1="324.00" y1="56.00" x2="324.00" y2="244.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="324.00" y="258.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0°</text>
+<line x1="414.67" y1="56.00" x2="414.67" y2="244.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="414.67" y="258.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">60°E</text>
+<line x1="505.33" y1="56.00" x2="505.33" y2="244.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="505.33" y="258.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">120°E</text>
+<text x="52.00" y="276.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLATE CARRÉE GRATICULE · NO COASTLINE IS DRAWN; POSITIONS ARE APPROXIMATE</text>
+<circle cx="207.64" cy="109.27" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="207.64" y="112.47" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">1</text>
+<circle cx="188.00" cy="109.27" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="188.00" y="112.47" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">2</text>
+<circle cx="180.44" cy="118.67" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="180.44" y="121.87" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">3</text>
+<circle cx="201.60" cy="115.53" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="201.60" y="118.73" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">4</text>
+<circle cx="156.27" cy="116.58" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="156.27" y="119.78" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">5</text>
+<circle cx="228.80" cy="101.96" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="228.80" y="105.16" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">6</text>
+<circle cx="209.16" cy="108.22" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="209.16" y="111.42" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">7</text>
+<circle cx="340.64" cy="94.64" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="340.64" y="97.84" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">8</text>
+<circle cx="354.64" cy="100.69" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="354.64" y="103.89" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">9</text>
+<circle cx="331.56" cy="95.69" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="331.56" y="98.89" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">10</text>
+<circle cx="376.89" cy="115.53" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="376.89" y="118.73" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">11</text>
+<circle cx="432.80" cy="114.49" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="432.80" y="117.69" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">12</text>
+<circle cx="476.62" cy="135.38" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="476.62" y="138.58" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">13</text>
+<circle cx="506.84" cy="182.38" r="4.60" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="506.84" y="185.58" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">14</text>
+<path d="M337.6 90.6 Q 265.8 68.6 194.0 105.3" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="206.00" y1="99.27" x2="195.00" y2="104.27" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<path d="M195.00 104.27 L198.31 100.52 L200.00 104.23 Z" fill="var(--hot,#C45C3E)"/>
+<text x="265.82" y="62.64" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">THE GREEN ROOF: STANDARDISED IN WEST GERMANY, MEASURED IN ILLINOIS</text>
+<line x1="52.00" y1="288.00" x2="596.00" y2="288.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="308.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">1</text>
+<text x="70.00" y="308.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NBS, GAITHERSBURG</text>
+<text x="52.00" y="325.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">2</text>
+<text x="70.00" y="325.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EDWARDSVILLE, ILLINOIS</text>
+<text x="52.00" y="342.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">3</text>
+<text x="70.00" y="342.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE WOODLANDS, TEXAS</text>
+<text x="52.00" y="359.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">4</text>
+<text x="70.00" y="359.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SAVANNAH RIVER SITE</text>
+<text x="52.00" y="376.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">5</text>
+<text x="70.00" y="376.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ORACLE, ARIZONA</text>
+<text x="238.00" y="308.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">6</text>
+<text x="256.00" y="308.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PRINCE EDWARD ISLAND</text>
+<text x="238.00" y="325.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">7</text>
+<text x="256.00" y="325.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PAOLI, PENNSYLVANIA</text>
+<text x="238.00" y="342.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">8</text>
+<text x="256.00" y="342.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NEUBRANDENBURG</text>
+<text x="238.00" y="359.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">9</text>
+<text x="256.00" y="359.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BERLIN</text>
+<text x="238.00" y="376.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">10</text>
+<text x="256.00" y="376.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OOSTVAARDERSPLASSEN</text>
+<text x="424.00" y="308.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">11</text>
+<text x="442.00" y="308.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HAIFA</text>
+<text x="424.00" y="325.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">12</text>
+<text x="442.00" y="325.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PESHAWAR</text>
+<text x="424.00" y="342.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">13</text>
+<text x="442.00" y="342.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BANGKOK</text>
+<text x="424.00" y="359.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">14</text>
+<text x="442.00" y="359.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">KALGOORLIE</text>
+<line x1="52.00" y1="402.00" x2="596.00" y2="402.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="422.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">RP-884 field-study locations are shown for range: Bangkok, Kalgoorlie and Peshawar.</text>
+<text x="52.00" y="436.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Climate zones are schematic latitude bands, not a Köppen map.</text>
+<text x="52.00" y="462.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A SLICE OF THE MASTER MAP</text>
+</svg>

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 452" role="img" aria-label="Chart of sixteen twentieth-century buildings showing the mode each was claimed at and the mode it operates at, with most arrows pointing the same direction.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SIXTEEN BUILDINGS · CLAIMED MODE AND OPERATING MODE</text>
+<text x="58" y="38" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE MODES ARE KINDS, NOT RANKS. THIS IS NOT A LADDER.</text>
+<text x="216" y="62" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">IMAGE</text>
+<line x1="216" y1="68" x2="216" y2="396" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="279.33" y="62" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">FORM</text>
+<line x1="279.33" y1="68" x2="279.33" y2="396" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="342.67" y="62" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MODEL</text>
+<line x1="342.67" y1="68" x2="342.67" y2="396" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="406" y="62" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MATERIAL</text>
+<line x1="406" y1="68" x2="406" y2="396" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="469.33" y="62" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">CLIMATE</text>
+<line x1="469.33" y1="68" x2="469.33" y2="396" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="532.67" y="62" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SYSTEM</text>
+<line x1="532.67" y1="68" x2="532.67" y2="396" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="596" y="62" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PARTNER</text>
+<line x1="596" y1="68" x2="596" y2="396" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="206" y="89" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">FALLINGWATER</text>
+<circle cx="532.67" cy="86" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="216" cy="86" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="526.67" y1="86" x2="227" y2="86" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M222 86 L227 83.9 L227 88.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="109" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">ROBIE HOUSE</text>
+<circle cx="532.67" cy="106" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="216" cy="106" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="526.67" y1="106" x2="227" y2="106" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M222 106 L227 103.9 L227 108.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="129" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">TALIESIN</text>
+<circle cx="532.67" cy="126" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="406" cy="126" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="526.67" y1="126" x2="417" y2="126" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M412 126 L417 123.9 L417 128.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="149" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">TALIESIN WEST</text>
+<circle cx="469.33" cy="146" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="279.33" cy="146" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="463.33" y1="146" x2="290.33" y2="146" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M285.33 146 L290.33 143.9 L290.33 148.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="169" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">USONIAN HOUSES</text>
+<circle cx="469.33" cy="166" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="279.33" cy="166" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="463.33" y1="166" x2="290.33" y2="166" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M285.33 166 L290.33 163.9 L290.33 168.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="189" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">JACOBS II</text>
+<circle cx="469.33" cy="186" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="279.33" cy="186" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="463.33" y1="186" x2="290.33" y2="186" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M285.33 186 L290.33 183.9 L290.33 188.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="209" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="end">JOHNSON WAX</text>
+<circle cx="216" cy="206" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="342.67" cy="206" r="3.4" fill="var(--ok,#7AB87A)"/>
+<line x1="222" y1="206" x2="331.67" y2="206" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/><path d="M336.67 206 L331.67 208.1 L331.67 203.9 Z" fill="var(--ok,#7AB87A)"/>
+<text x="206" y="229" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">BROADACRE</text>
+<circle cx="532.67" cy="226" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="216" cy="226" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="526.67" y1="226" x2="227" y2="226" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M222 226 L227 223.9 L227 228.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="249" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">PAIMIO</text>
+<circle cx="532.67" cy="246" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="406" cy="246" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="526.67" y1="246" x2="417" y2="246" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M412 246 L417 243.9 L417 248.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="269" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">VIIPURI</text>
+<circle cx="342.67" cy="266" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="216" cy="266" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="336.67" y1="266" x2="227" y2="266" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M222 266 L227 263.9 L227 268.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="289" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="end">VILLA MAIREA</text>
+<circle cx="406" cy="286" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="406" cy="286" r="1.8" fill="var(--dim,#B8B5AC)"/>
+<text x="206" y="309" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">SÄYNÄTSALO</text>
+<circle cx="342.67" cy="306" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="279.33" cy="306" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="336.67" y1="306" x2="290.33" y2="306" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M285.33 306 L290.33 303.9 L290.33 308.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="329" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="end">GUT GARKAU</text>
+<circle cx="596" cy="326" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="596" cy="326" r="1.8" fill="var(--dim,#B8B5AC)"/>
+<text x="206" y="349" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="end">BERLIN PHILHARMONIE</text>
+<circle cx="216" cy="346" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="342.67" cy="346" r="3.4" fill="var(--ok,#7AB87A)"/>
+<line x1="222" y1="346" x2="331.67" y2="346" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/><path d="M336.67 346 L331.67 348.1 L331.67 343.9 Z" fill="var(--ok,#7AB87A)"/>
+<text x="206" y="369" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">EINSTEIN TOWER</text>
+<circle cx="406" cy="366" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="216" cy="366" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="400" y1="366" x2="227" y2="366" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M222 366 L227 363.9 L227 368.1 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="206" y="389" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">GOETHEANUM</text>
+<circle cx="342.67" cy="386" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="279.33" cy="386" r="3.4" fill="var(--accent,#6A9CC4)"/>
+<line x1="336.67" y1="386" x2="290.33" y2="386" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M285.33 386 L290.33 383.9 L290.33 388.1 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="58" y1="396" x2="612" y2="396" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="63" cy="406" r="3.6" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<text x="72" y="409" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CLAIMED</text>
+<circle cx="150" cy="406" r="3.4" fill="var(--mut,#8A8880)"/>
+<text x="159" y="409" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OPERATING</text>
+<text x="244" y="409" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TWELVE ARROWS · TWO WITH NO GAP · TWO INVERTED</text>
+<text x="58" y="430" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE ERROR RUNS ONE WAY ONLY, TOWARD THE FLATTERING END. NOBODY CLAIMED A BUILDING WAS MERELY</text>
+<text x="58" y="444" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BEAUTIFUL WHEN IT WAS IN FACT ECOLOGICALLY EMBEDDED.</text>
+</svg>

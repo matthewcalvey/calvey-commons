@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Column chart of nine annual carbon flux values for a Berlin green roof, negative for seven years then crossing into positive.">
+
+<line x1="96" y1="80" x2="96" y2="226" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96" y1="207.33" x2="510" y2="207.33" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="210.33" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">-150</text>
+<line x1="96" y1="176.22" x2="510" y2="176.22" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="179.22" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">-100</text>
+<line x1="96" y1="145.11" x2="510" y2="145.11" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="148.11" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">-50</text>
+<line x1="96" y1="114" x2="510" y2="114" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="117" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<text x="90" y="64" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">ANNUAL NET ECOSYSTEM EXCHANGE  ·  g C m⁻²</text>
+<line x1="96" y1="114" x2="510" y2="114" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="518" y="109" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">RELEASE ↑</text>
+<text x="518" y="126" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">UPTAKE ↓</text>
+<rect x="106" y="114" width="32" height="22" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="122" y="150" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT</text>
+<text x="122" y="159" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">REP.</text>
+<text x="122" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2015</text>
+<rect x="151" y="114" width="32" height="22" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="167" y="150" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT</text>
+<text x="167" y="159" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">REP.</text>
+<text x="167" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2016</text>
+<rect x="196" y="114" width="32" height="95.82" fill="var(--ok,#7AB87A)" opacity="0.42"/>
+<rect x="196" y="114" width="32" height="95.82" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="212" y="222.82" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">-154</text>
+<text x="212" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2017</text>
+<rect x="241" y="114" width="32" height="46.67" fill="var(--ok,#7AB87A)" opacity="0.42"/>
+<rect x="241" y="114" width="32" height="46.67" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="257" y="173.67" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">-75</text>
+<text x="257" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2018</text>
+<rect x="286" y="114" width="32" height="22" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="302" y="150" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT</text>
+<text x="302" y="159" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">REP.</text>
+<text x="302" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2019</text>
+<rect x="331" y="114" width="32" height="22" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="347" y="150" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT</text>
+<text x="347" y="159" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">REP.</text>
+<text x="347" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2020</text>
+<rect x="376" y="114" width="32" height="22" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="392" y="150" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT</text>
+<text x="392" y="159" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">REP.</text>
+<text x="392" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2021</text>
+<rect x="421" y="114" width="32" height="22" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="437" y="150" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT</text>
+<text x="437" y="159" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">REP.</text>
+<text x="437" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2022</text>
+<rect x="466" y="109.02" width="32" height="4.98" fill="var(--hot,#C45C3E)" opacity="0.5"/>
+<rect x="466" y="109.02" width="32" height="4.98" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="482" y="101.02" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">+ 8</text>
+<text x="482" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2023</text>
+<line x1="96" y1="171.24" x2="510" y2="171.24" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="518" y="174.24" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">MEAN − 92</text>
+<text x="376" y="88" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">THE SINK BECAME A SOURCE</text>
+<text x="44" y="268" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SUBSTRATE ORGANIC CARBON, AND THE DROUGHT YEAR</text>
+<line x1="96" y1="324" x2="510" y2="324" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="376" y="312.5" width="32" height="11.5" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="376" y="312.5" width="32" height="11.5" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="392" y="308.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">2.5 %</text>
+<text x="392" y="336" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2021</text>
+<rect x="421" y="287.66" width="32" height="36.34" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="421" y="287.66" width="32" height="36.34" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="437" y="283.66" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">7.9 %</text>
+<text x="437" y="336" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2022</text>
+<line x1="257" y1="324" x2="257" y2="294" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="257" cy="294" r="3.6" fill="var(--accent,#6A9CC4)"/>
+<text x="257" y="286" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">295 MM</text>
+<text x="245" y="310" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="end" letter-spacing="0.08em">2018 DROUGHT, LOWEST</text>
+<text x="245" y="320" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="end" letter-spacing="0.08em">IN THE RECORD</text>
+<text x="44" y="300" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">ATTRIBUTED BY</text>
+<text x="44" y="310" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">THE AUTHORS TO</text>
+<text x="44" y="320" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">FERTILISER OR</text>
+<text x="44" y="330" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">UNCLEARED</text>
+<text x="44" y="340" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">ARISINGS</text>
+<text x="44" y="358" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">8,600 m² of extensive roof at Berlin-Brandenburg Airport, built 2012 at 9 cm substrate, under an eddy-covariance</text>
+<text x="44" y="369" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">tower at 1.15 m, continuously from 2015 to 2023. The reversal is driven by rising respiration, not falling</text>
+<text x="44" y="380" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">photosynthesis, and coincides with the organic-carbon step. The mechanism is maintenance: a grounds team</text>
+<text x="44" y="391" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">leaving arisings was doing grounds work, and nobody had told them it was a carbon and dead-load decision.</text>
+<text x="44" y="402" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">One roof of a size only an airport provides; the carbon comparison is two points. Markolf and Weber 2026.</text>
+</svg>

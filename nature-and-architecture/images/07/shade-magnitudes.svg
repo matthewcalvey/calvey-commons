@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" role="img" aria-label="Four bars of shade cooling magnitude from over 15 to about 1 degree, each labelled with the quantity and method, showing the disagreement is definitional.">
+
+<line x1="244" y1="58" x2="244" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="244" y="250" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="342.24" y1="58" x2="342.24" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="342.24" y="250" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">5</text>
+<line x1="440.47" y1="58" x2="440.47" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="440.47" y="250" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10</text>
+<line x1="538.71" y1="58" x2="538.71" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="538.71" y="250" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">15</text>
+<text x="244" y="266" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">REPORTED COOLING  °C</text>
+<line x1="244" y1="58" x2="244" y2="236" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="244" y="55" width="294.71" height="30" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="244" y="55" width="294.71" height="30" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<path d="M 542.71 60 L 547.71 70 L 542.71 80" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 549.71 60 L 554.71 70 L 549.71 80" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 556.71 60 L 561.71 70 L 556.71 80" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="568.71" y="73.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">&gt; 15</text>
+<text x="234" y="66" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">PHYS. EQUIVALENT TEMPERATURE</text>
+<text x="234" y="78" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">MEASURED · SHADE POINT VS SUN POINT</text>
+<text x="234" y="89" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.72">PENG AND COLLEAGUES 2024</text>
+<rect x="244" y="99" width="225.94" height="30" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="244" y="99" width="225.94" height="30" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="477.94" y="117.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">11.5</text>
+<text x="234" y="110" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">MEAN RADIANT TEMPERATURE</text>
+<text x="234" y="122" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">SIMULATED</text>
+<text x="234" y="133" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.72">LIN AND COLLEAGUES 2025</text>
+<rect x="244" y="143" width="39.69" height="30" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="244" y="143" width="39.69" height="30" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="291.69" y="161.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">2.02</text>
+<text x="234" y="154" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">AIR TEMPERATURE</text>
+<text x="234" y="166" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">SIMULATED</text>
+<text x="234" y="177" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.72">ELKHATEEB AND COLLEAGUES 2025</text>
+<rect x="263.65" y="187" width="19.65" height="30" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="263.65" y="187" width="19.65" height="30" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="291.29" y="205.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">1 – 2</text>
+<text x="234" y="198" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">PHYS. EQUIV. TEMP., AREA MEAN</text>
+<text x="234" y="210" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">MODELLED · SPATIAL AVERAGE</text>
+<text x="234" y="221" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.72">PARK AND COLLEAGUES 2026</text>
+<text x="24" y="292" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">THE BARS DIFFER BECAUSE THEY MEASURE DIFFERENT THINGS.</text>
+<text x="24" y="303" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">A radiant quantity at one point, a radiant quantity in a model, an air temperature and an area average</text>
+<text x="24" y="314" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">are four different questions. None of the four is wrong; none of them answers another&#x27;s question.</text>
+</svg>

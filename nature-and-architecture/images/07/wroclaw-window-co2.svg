@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Scatter of indoor carbon dioxide against window-opening frequency for six Polish houses, the naturally ventilated houses opening windows least.">
+
+<line x1="96" y1="90" x2="96" y2="252" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96" y1="252" x2="448" y2="252" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96" y1="244.91" x2="448" y2="244.91" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="247.91" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">500</text>
+<line x1="96" y1="209.45" x2="448" y2="209.45" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="212.45" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">1,000</text>
+<line x1="96" y1="174" x2="448" y2="174" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="177" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">1,500</text>
+<line x1="96" y1="138.55" x2="448" y2="138.55" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="141.55" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">2,000</text>
+<line x1="96" y1="103.09" x2="448" y2="103.09" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="106.09" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">2,500</text>
+<text x="90" y="62" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MEAN BEDROOM CARBON DIOXIDE  ·  PPM</text>
+<line x1="96" y1="252" x2="96" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="96" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="166.4" y1="252" x2="166.4" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="166.4" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10</text>
+<line x1="236.8" y1="252" x2="236.8" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="236.8" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">20</text>
+<line x1="307.2" y1="252" x2="307.2" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="307.2" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">30</text>
+<line x1="377.6" y1="252" x2="377.6" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="377.6" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">40</text>
+<line x1="448" y1="252" x2="448" y2="257" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="448" y="269" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">50</text>
+<text x="90" y="285" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">WINDOW-OPENING FRACTION OF LOGGED CYCLES  ·  %</text>
+<rect x="328.32" y="223.28" width="84.48" height="19.29" fill="var(--accent,#6A9CC4)" opacity="0.22"/>
+<rect x="328.32" y="223.28" width="84.48" height="19.29" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="370.56" y="247.28" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.08em">FOUR MECHANICALLY VENTILATED</text>
+<text x="370.56" y="257.28" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.08em">HOUSES:  33 – 45 %,  533 – 805 PPM</text>
+<text x="370.56" y="269.28" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.04em">individual points not reported</text>
+<circle cx="124.16" cy="226.26" r="4.4" fill="var(--hot,#C45C3E)"/>
+<text x="134.16" y="230.26" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">NV1   763 PPM AT 4 %</text>
+<circle cx="110.08" cy="111.32" r="4.4" fill="var(--hot,#C45C3E)"/>
+<text x="120.08" y="115.32" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">NV2   2,384 PPM AT 2 %</text>
+<text x="106" y="142.09" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE TWO HOUSES THAT DEPENDED ON THE</text>
+<text x="106" y="153.09" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BEHAVIOUR DID NOT RECEIVE IT.</text>
+<text x="490" y="86" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">COLD SEASON,</text>
+<text x="490" y="96" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BEST CATEGORY</text>
+<rect x="490" y="228.8" width="32" height="9.2" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="490" y="228.8" width="32" height="9.2" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="506" y="224.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">8 %</text>
+<text x="506" y="252" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NV</text>
+<rect x="540" y="125.3" width="32" height="112.7" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="540" y="125.3" width="32" height="112.7" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="556" y="121.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">98 %</text>
+<text x="556" y="252" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">MV</text>
+<line x1="490" y1="238" x2="572" y2="238" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="44" y="316" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Six houses in Wrocław, logged 2021–22. The dwellings whose indoor air quality depended on somebody opening</text>
+<text x="44" y="327" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">a window opened windows least, and the dwellings that did not depend on it opened them most. The behaviour a</text>
+<text x="44" y="338" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">natural-ventilation strategy assumes is measured here, and it is not there.</text>
+<text x="44" y="349" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Baborska-Narożny and Kostka 2022.</text>
+</svg>

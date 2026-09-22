@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 452" role="img" aria-label="A labelled plan of a small reservoir with a tree strip above it, a filter meadow, a bund with a seepage strip below and fields beyond.">
+<defs><marker id="f19a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<polyline points="58.0,146.0 120.0,158.0 176.0,170.0 200.0,198.0 330.0,198.0 352.0,174.0 362.0,152.0 382.0,152.0 392.0,206.0 456.0,214.0 556.0,222.0 612.0,226.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M352,174 L362,152 L382,152 L392,206 Z" fill="var(--surface,#1F211E)"/>
+<path d="M352,174 L362,152 L382,152 L392,206" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M186,180 L352,180 L352,198 L200,198 Z" fill="var(--surface,#1F211E)"/>
+<line x1="186.0" y1="180.0" x2="352.0" y2="180.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="268.0" y="194.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">WATER</text>
+<line x1="68.0" y1="147.9" x2="68.0" y2="132.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M62.5,132.9 q5.5,-9.35 11.0,0 q-5.5,2.75 -11.0,0 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="84.0" y1="150.9" x2="84.0" y2="135.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M78.5,135.94 q5.5,-9.35 11.0,0 q-5.5,2.75 -11.0,0 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="100.0" y1="154.0" x2="100.0" y2="139.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M94.5,138.98 q5.5,-9.35 11.0,0 q-5.5,2.75 -11.0,0 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="114.0" y1="156.6" x2="114.0" y2="141.6" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M108.5,141.64 q5.5,-9.35 11.0,0 q-5.5,2.75 -11.0,0 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="402.0" y1="207.2" x2="402.0" y2="195.2" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M397.5,195.2 q4.5,-7.6499999999999995 9.0,0 q-4.5,2.25 -9.0,0 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="418.0" y1="209.1" x2="418.0" y2="197.1" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M413.5,197.12 q4.5,-7.6499999999999995 9.0,0 q-4.5,2.25 -9.0,0 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="434.0" y1="211.0" x2="434.0" y2="199.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M429.5,199.04 q4.5,-7.6499999999999995 9.0,0 q-4.5,2.25 -9.0,0 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="450.0" y1="213.0" x2="450.0" y2="201.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M445.5,200.96 q4.5,-7.6499999999999995 9.0,0 q-4.5,2.25 -9.0,0 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="464.0" y1="216.0" x2="464.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="473.0" y1="216.0" x2="473.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="482.0" y1="216.0" x2="482.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="491.0" y1="216.0" x2="491.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="500.0" y1="216.0" x2="500.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="509.0" y1="216.0" x2="509.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="518.0" y1="216.0" x2="518.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="527.0" y1="216.0" x2="527.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="536.0" y1="216.0" x2="536.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="545.0" y1="216.0" x2="545.0" y2="208.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M568,222 L568,208 L582,198 L596,208 L596,222" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M338,192 Q374,206 412,212" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f19a)" stroke-linecap="round" stroke-dasharray="4 3"/>
+<path d="M430,214 Q470,220 508,216" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f19a)" stroke-linecap="round"/>
+<text x="470.0" y="250.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">ABOUT 46 % OF SEEPAGE REACHES THE PADDY</text>
+<text x="470.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PERCOLATION LOSS 3.6 MM A DAY</text>
+<line x1="88.0" y1="158.0" x2="88.0" y2="274.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="88.0" y="286.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">GAS GOMMANA</text>
+<text x="88.0" y="298.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">FOREST STRIP ABOVE</text>
+<line x1="150.0" y1="170.0" x2="150.0" y2="304.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="150.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">PERAHANA</text>
+<text x="150.0" y="328.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">FILTER MEADOW</text>
+<line x1="268.0" y1="204.0" x2="268.0" y2="274.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="268.0" y="286.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">TANK</text>
+<text x="268.0" y="298.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE RESERVOIR</text>
+<line x1="372.0" y1="158.0" x2="372.0" y2="304.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="372.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">BUND</text>
+<text x="372.0" y="328.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE DAM</text>
+<line x1="424.0" y1="218.0" x2="424.0" y2="274.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="424.0" y="286.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">KATTAKADUWA</text>
+<text x="424.0" y="298.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SEEPAGE INTERCEPTOR</text>
+<line x1="506.0" y1="224.0" x2="506.0" y2="304.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="506.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">PADDY</text>
+<text x="506.0" y="328.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE FIELDS</text>
+<line x1="582.0" y1="228.0" x2="582.0" y2="274.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="582.0" y="286.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">THISBAMBE</text>
+<text x="582.0" y="298.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">HAMLET BUFFER</text>
+<line x1="58.0" y1="348.0" x2="612.0" y2="348.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.0" y="370.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE OVERFLOW OF ONE IS THE INFLOW OF THE NEXT</text>
+<path d="M68,400 L128,400 L136,382 L76,382 Z" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="140.0" y1="392.0" x2="168.0" y2="392.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f19a)" stroke-linecap="round"/>
+<path d="M190,400 L250,400 L258,382 L198,382 Z" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="262.0" y1="392.0" x2="290.0" y2="392.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f19a)" stroke-linecap="round"/>
+<path d="M312,400 L372,400 L380,382 L320,382 Z" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="384.0" y1="392.0" x2="412.0" y2="392.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f19a)" stroke-linecap="round"/>
+<path d="M434,400 L494,400 L502,382 L442,382 Z" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="58.0" y="428.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MATSUNO ET AL. 2003 · ONE YEAR IN ANURADHAPURA · THREE TANKS OF 31, 55 AND 55 HA COMMAND</text>
+<text x="58.0" y="442.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">INSTRUMENTS AND FREQUENCY NOT IN THE ABSTRACT · PART NAMES AND THE 226 SPECIES FROM FAO GIAHS</text>
+<text x="58.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ONE VILLAGE TANK IN A CASCADE, WITH ITS PARTS NAMED</text>
+</svg>

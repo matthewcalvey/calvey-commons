@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="Diagram of a city block with each surface labelled by its ecological weighting, and the weighted-average calculation set out alongside.">
+<text x="52.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A · A NOTIONAL BLOCK BY WEIGHTING</text>
+<rect x="52.00" y="48.00" width="250.00" height="170.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="62.00" y="58.00" width="100.00" height="70.00" fill="var(--surface,#1F211E)" fill-opacity="1.0"/>
+<rect x="62.00" y="58.00" width="100.00" height="70.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="112.00" y="90.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">BUILDING</text>
+<text x="112.00" y="104.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.04em" text-anchor="middle">0</text>
+<rect x="62.00" y="138.00" width="100.00" height="70.00" fill="var(--surface,#1F211E)" fill-opacity="0.6"/>
+<rect x="62.00" y="138.00" width="100.00" height="70.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="112.00" y="170.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PAVING</text>
+<text x="112.00" y="184.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.04em" text-anchor="middle">0</text>
+<rect x="172.00" y="58.00" width="120.00" height="70.00" fill="var(--ok,#7AB87A)" fill-opacity="0.28"/>
+<rect x="172.00" y="58.00" width="120.00" height="70.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<text x="232.00" y="90.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">GREEN ROOF</text>
+<text x="232.00" y="104.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.04em" text-anchor="middle">0.7</text>
+<rect x="172.00" y="138.00" width="120.00" height="70.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55"/>
+<rect x="172.00" y="138.00" width="120.00" height="70.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="232.00" y="170.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">OPEN GROUND</text>
+<text x="232.00" y="184.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.04em" text-anchor="middle">1.0</text>
+<text x="52.00" y="236.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONLY THE THREE VERIFIED WEIGHTING CLASSES ARE SHOWN.</text>
+<text x="52.00" y="248.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE FULL BERLIN TABLE IS UNFILLED IN THIS RESEARCH.</text>
+<text x="330.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE ARITHMETIC</text>
+<text x="330.00" y="60.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BUILDING</text>
+<text x="460.00" y="60.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.0em" text-anchor="end">0</text>
+<text x="470.00" y="60.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">× ITS AREA</text>
+<text x="330.00" y="80.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PAVING</text>
+<text x="460.00" y="80.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.0em" text-anchor="end">0</text>
+<text x="470.00" y="80.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">× ITS AREA</text>
+<text x="330.00" y="100.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GREEN ROOF</text>
+<text x="460.00" y="100.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="end">0.7</text>
+<text x="470.00" y="100.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">× ITS AREA</text>
+<text x="330.00" y="120.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OPEN GROUND</text>
+<text x="460.00" y="120.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="end">1.0</text>
+<text x="470.00" y="120.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">× ITS AREA</text>
+<line x1="330.00" y1="148.00" x2="570.00" y2="148.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="330.00" y="164.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUM ÷ TOTAL SITE AREA  =</text>
+<text x="498.00" y="164.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">BAF</text>
+<text x="330.00" y="182.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BINDING IN BERLIN SINCE 1994.</text>
+<text x="330.00" y="193.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DEVELOPED LATE 1980s.</text>
+<line x1="52.00" y1="258.00" x2="596.00" y2="258.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="278.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">B · PADUA, SAN LAZZARO — WHAT A SMALL MOVEMENT ON THE INDEX COSTS</text>
+<line x1="200.00" y1="320.00" x2="540.00" y2="320.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="200.00" y1="320.00" x2="200.00" y2="324.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="200.00" y="338.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.00</text>
+<line x1="285.00" y1="320.00" x2="285.00" y2="324.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="285.00" y="338.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.25</text>
+<line x1="370.00" y1="320.00" x2="370.00" y2="324.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="370.00" y="338.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.50</text>
+<line x1="455.00" y1="320.00" x2="455.00" y2="324.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="455.00" y="338.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.75</text>
+<line x1="540.00" y1="320.00" x2="540.00" y2="324.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="540.00" y="338.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1.00</text>
+<circle cx="319.00" cy="320.00" r="4.60" fill="var(--dim,#B8B5AC)"/>
+<circle cx="400.60" cy="320.00" r="4.60" fill="var(--accent,#6A9CC4)"/>
+<text x="319.00" y="310.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.04em" text-anchor="middle">0.35</text>
+<text x="400.60" y="310.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.04em" text-anchor="middle">0.59</text>
+<text x="319.00" y="296.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">AS BUILT</text>
+<line x1="325.80" y1="320.00" x2="393.80" y2="320.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M393.80 320.00 L389.69 321.83 L389.69 318.17 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="192.00" y="324.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">BAF</text>
+<text x="414.60" y="316.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">REQUIRES CONVERTING 21.3 % OF THE</text>
+<text x="414.60" y="327.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">NEIGHBOURHOOD TO GREEN ROOF</text>
+<line x1="52.00" y1="366.00" x2="596.00" y2="366.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="386.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The instrument is a weighted average and nothing more. A quarter of a point on it is a fifth of</text>
+<text x="52.00" y="400.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">a neighbourhood rebuilt.</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Stacked bar showing native bees as just over a quarter of all animals emerging from bee hotels, with native wasps the largest group and introduced bees almost equal to natives.">
+
+<rect x="200" y="112" width="99.36" height="52" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="200" y="112" width="99.36" height="52" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="249.68" y="142" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">27.6</text>
+<text x="249.68" y="180" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">NATIVE BEES</text>
+<rect x="299.36" y="112" width="88.56" height="52" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="299.36" y="112" width="88.56" height="52" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="343.64" y="142" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">24.6</text>
+<text x="343.64" y="180" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">INTRODUCED</text>
+<text x="343.64" y="190" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">BEES</text>
+<rect x="387.92" y="112" width="136.08" height="52" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="387.92" y="112" width="136.08" height="52" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="455.96" y="142" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">37.8</text>
+<text x="455.96" y="180" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">NATIVE</text>
+<text x="455.96" y="190" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.08em">WASPS</text>
+<rect x="524" y="112" width="36" height="52" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="542" y="142" font-family="'Space Mono',monospace" font-size="10" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.04em">≈ 10</text>
+<text x="542" y="180" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">UNALLOCATED</text>
+<text x="200" y="98" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">27,275 REARED EMERGENCES  ·  PER CENT</text>
+<text x="200" y="90" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">TORONTO, 2011–2013</text>
+<line x1="200" y1="78" x2="299.36" y2="78" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="200" y="60" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">THE INTENDED BENEFICIARY</text>
+<rect x="72" y="104" width="74" height="74" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M 66 104 L 109 84 L 152 104" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86" cy="120" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="102" cy="120" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="118" cy="120" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="134" cy="120" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="86" cy="142" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="102" cy="142" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="118" cy="142" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="134" cy="142" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="86" cy="164" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="102" cy="164" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="118" cy="164" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="134" cy="164" r="5.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="72" y="196" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SOLD AS A</text>
+<text x="72" y="207" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">‘BEE HOTEL’</text>
+<text x="44" y="236" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE INTENDED BENEFICIARY IS THE SMALLEST OF THE THREE NAMED GROUPS,</text>
+<text x="44" y="250" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">AND INTRODUCED BEES ARE VERY NEARLY ITS EQUAL.</text>
+<text x="44" y="284" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">The unallocated remainder is the part of the total this chapter&#x27;s reading did not resolve into a named group;</text>
+<text x="44" y="295" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">it is drawn open rather than assigned. What is measured here is emergence from the artefact, not whether the</text>
+<text x="44" y="306" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">provision changed the abundance of any bee population. MacIvor &amp; Packer 2015.</text>
+</svg>

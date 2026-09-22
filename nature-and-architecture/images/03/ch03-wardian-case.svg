@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 424" role="img" aria-label="A cross-section of a glazed box with a plant inside and water arrows cycling, next to a voyage timeline.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE CLOSED LOOP</text>
+<path d="M58 162 L58 76 L146 42 L234 76 L234 162 Z" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="62" y="144" width="168" height="18" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="66" y="157" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SOIL</text>
+<line x1="146" y1="144" x2="146" y2="92" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M 146 102 Q 122 88 114 106" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M 146 126 Q 120 114 110 134" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M 146 102 Q 170 88 178 106" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M 146 126 Q 172 114 182 134" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="156" y1="88" x2="156" y2="68.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M156 64 L157.89 68.5 L154.11 68.5 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="140" y="72" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">TRANSPIRES</text>
+<circle cx="69" cy="86" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<circle cx="223" cy="86" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<circle cx="73" cy="101" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<circle cx="219" cy="101" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<circle cx="77" cy="116" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<circle cx="215" cy="116" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<circle cx="81" cy="131" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<circle cx="211" cy="131" r="1.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="66" y1="96" x2="66" y2="135.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M66 140 L64.11 135.5 L67.89 135.5 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="226" y1="96" x2="226" y2="135.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M226 140 L224.11 135.5 L227.89 135.5 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="58" y="178" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">CONDENSES ON THE GLASS, RUNS BACK TO THE SOIL</text>
+<text x="58" y="191" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SEALED · NO WATERING FOR MONTHS</text>
+<text x="58" y="203" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WARD'S BOTTLE HELD ABOUT FOUR YEARS, 1829</text>
+<text x="58" y="220" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE CLIMATE, NOT THE STRUCTURE, WAS THE INVENTION.</text>
+<text x="300" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE 47-KELVIN VOYAGE</text>
+<line x1="300" y1="58" x2="612" y2="58" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="310" cy="58" r="3.2" fill="var(--ink,#ECEAE3)"/>
+<text x="310" y="49" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">JUL 1833</text>
+<text x="310" y="73" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LONDON → SYDNEY</text>
+<text x="310" y="85" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FERNS, IN GOOD CONDITION</text>
+<circle cx="516" cy="58" r="3.2" fill="var(--ink,#ECEAE3)"/>
+<text x="516" y="49" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">1834</text>
+<text x="516" y="73" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SYDNEY → LONDON</text>
+<text x="516" y="85" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AUSTRALIAN PLANTS</text>
+<line x1="300" y1="138" x2="566" y2="138" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="300" y1="138" x2="300" y2="142" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="300" y="153" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-10</text>
+<line x1="348.36" y1="138" x2="348.36" y2="142" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="348.36" y="153" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="396.73" y1="138" x2="396.73" y2="142" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="396.73" y="153" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10</text>
+<line x1="445.09" y1="138" x2="445.09" y2="142" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="445.09" y="153" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">20</text>
+<line x1="493.45" y1="138" x2="493.45" y2="142" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="493.45" y="153" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">30</text>
+<line x1="541.82" y1="138" x2="541.82" y2="142" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="541.82" y="153" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">40</text>
+<text x="566" y="153" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">DEG C</text>
+<rect x="314.51" y="120" width="227.31" height="14" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="310.51" y="131" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">−7</text>
+<text x="547.82" y="131" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">40</text>
+<text x="300" y="112" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE RANGE THE SEALED CASE CARRIED ITS PLANTS THROUGH</text>
+<text x="300" y="174" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">47 KELVIN, AND THEY LIVED</text>
+<line x1="58" y1="238" x2="612" y2="238" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="254" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BEFORE THE CASE · LIVINGSTONE, 1819 · CHINA TO LONDON</text>
+<rect x="58" y="266" width="524" height="22" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58" y1="266" x2="58" y2="288" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="132" y1="304" x2="64.92" y2="290.77" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M61 290 L65.25 289.13 L64.6 292.42 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="136" y="307" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ONE SURVIVOR</text>
+<text x="576" y="281" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">ONE THOUSAND PLANTS SHIPPED</text>
+<text x="58" y="324" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DRAWN TO SCALE, THE SURVIVOR IS A HAIRLINE. THAT IS THE FIGURE.</text>
+<text x="58" y="346" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AFTER THE CASE · HOOKER AT KEW</text>
+<rect x="58" y="356" width="252" height="32" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="184" y="375" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">NO COUNT PUBLISHED</text>
+<text x="326" y="369" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MORE PLANTS IN FIFTEEN YEARS THAN IN THE WHOLE</text>
+<text x="326" y="381" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">PRECEDING CENTURY — A RATIO, NOT A NUMBER.</text>
+<text x="58" y="404" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE SAME CLOSED CLIMATE MOVED THE PESTS.</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 336" role="img" aria-label="A horizontal timeline of five dated events in the history of daylight law, ending in a small percentage figure.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FROM DURATION TO NUMBER</text>
+<line x1="58" y1="150" x2="588" y2="150" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<line x1="111" y1="150" x2="111" y2="155" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="111" y="168" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1840</text>
+<line x1="217" y1="150" x2="217" y2="155" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="217" y="168" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1860</text>
+<line x1="323" y1="150" x2="323" y2="155" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="323" y="168" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1880</text>
+<line x1="429" y1="150" x2="429" y2="155" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="429" y="168" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1900</text>
+<line x1="535" y1="150" x2="535" y2="155" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="535" y="168" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1920</text>
+<line x1="68.6" y1="112" x2="545.6" y2="112" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="68.6" y1="107" x2="68.6" y2="117" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="545.6" y1="107" x2="545.6" y2="117" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="307.1" y="104" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="middle">NINETY YEARS IN WHICH THE LAW PROTECTED LIGHT AND COULD NOT SAY HOW MUCH</text>
+<circle cx="68.6" cy="150" r="3.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="68.6" y1="150" x2="68.6" y2="132" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="68.6" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">TWENTY YEARS' ENJOYMENT</text>
+<text x="68.6" y="136" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A DURATION, NOT A QUANTITY</text>
+<text x="68.6" y="112" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">1832</text>
+<circle cx="402.5" cy="150" r="3.6" fill="var(--ink,#ECEAE3)"/>
+<line x1="402.5" y1="150" x2="402.5" y2="132" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="402.5" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">THE DAYLIGHT-FACTOR IDEA</text>
+<text x="402.5" y="136" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ATTRIBUTED TO TROTTER</text>
+<text x="402.5" y="112" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">1895</text>
+<circle cx="450.2" cy="150" r="3.6" fill="var(--ink,#ECEAE3)"/>
+<line x1="450.2" y1="150" x2="450.2" y2="176" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="450.2" y="188" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">COLLS</text>
+<text x="450.2" y="200" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE ORDINARY NOTIONS OF MANKIND</text>
+<text x="450.2" y="212" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">1904</text>
+<circle cx="487.3" cy="150" r="3.6" fill="var(--mut,#8A8880)"/>
+<line x1="487.3" y1="150" x2="487.3" y2="132" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="487.3" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">TROTTER'S BOOK</text>
+<text x="487.3" y="136" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">CONTENT UNVERIFIED</text>
+<text x="487.3" y="112" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1911</text>
+<circle cx="545.6" cy="150" r="3.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="545.6" y1="150" x2="545.6" y2="176" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="545.6" y="188" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">WALDRAM</text>
+<text x="545.6" y="200" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.2 PER CENT SKY FACTOR</text>
+<text x="545.6" y="212" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">1922</text>
+<line x1="545.6" y1="176" x2="662.2" y2="176" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<circle cx="588" cy="176" r="3" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="594" y="179" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">1944</text>
+<text x="58" y="250" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WALDRAM'S PAPER IS DATED 1922 IN ONE PLACE AND 1944 IN ANOTHER. BOTH DATES ARE MARKED.</text>
+<line x1="58" y1="266" x2="588" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="286" font-family="&#39;Space Mono&#39;,monospace" font-size="13" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">0.2 PER CENT SKY FACTOR</text>
+<text x="58" y="302" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ABOUT ONE FOOT-CANDLE — THE FIRST NUMBER IN NINETY YEARS THAT SAYS WHAT AN OPENING DELIVERS,</text>
+<text x="58" y="314" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND IT WAS CALIBRATED ON WHEN OCCUPANTS GRUMBLE.</text>
+</svg>

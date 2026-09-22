@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" role="img" aria-label="A horizontal bar chart of four glass-area figures for one building, grouped into two clusters.">
+<text x="58" y="44" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PAXTON, REQUIRED</text>
+<rect x="58" y="51" width="264" height="16" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="330" y="63" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">900,000 SQ FT</text>
+<text x="58" y="90" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WIKIPEDIA</text>
+<rect x="58" y="97" width="264" height="16" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="330" y="109" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">900,000 SQ FT</text>
+<line x1="348.4" y1="94" x2="348.4" y2="116" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="348.4" y="90" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">990,000 NOTED</text>
+<text x="58" y="136" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CHANCE 2018, SHIPPED</text>
+<rect x="58" y="143" width="293.1" height="16" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="359.1" y="155" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">999,000 SQ FT, DERIVED</text>
+<text x="58" y="182" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REVOLUTIONARY PLAYERS</text>
+<rect x="58" y="189" width="293.33" height="16" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="353.33" y1="197" x2="362.83" y2="197" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M367.33 197 L362.83 198.89 L362.83 195.11 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="375.33" y="201" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">OVER 1,000,000</text>
+<line x1="58" y1="222" x2="366" y2="222" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58" y1="222" x2="58" y2="226" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="58" y="237" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="131.33" y1="222" x2="131.33" y2="226" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="131.33" y="237" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">250K</text>
+<line x1="204.67" y1="222" x2="204.67" y2="226" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="204.67" y="237" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">500K</text>
+<line x1="278" y1="222" x2="278" y2="226" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="278" y="237" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">750K</text>
+<line x1="351.33" y1="222" x2="351.33" y2="226" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="351.33" y="237" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1000K</text>
+<text x="58" y="252" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SQUARE FEET OF GLASS</text>
+<line x1="540" y1="51" x2="540" y2="113" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/><line x1="540" y1="51" x2="535" y2="51" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/><line x1="540" y1="113" x2="535" y2="113" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/><text x="548" y="81" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">900,000</text><text x="548" y="93" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REQUIRED</text>
+<line x1="540" y1="143" x2="540" y2="205" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><line x1="540" y1="143" x2="535" y2="143" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><line x1="540" y1="205" x2="535" y2="205" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><text x="548" y="173" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">999,000</text><text x="548" y="185" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SHIPPED</text>
+<line x1="58" y1="258" x2="612" y2="258" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="274" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE ARITHMETIC THAT GROUPS THEM</text>
+<text x="58" y="290" font-family="&#39;Space Mono&#39;,monospace" font-size="9.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">293,655 PANES × 3.40 SQ FT (49 × 10 IN)  =  999,000</text>
+<text x="58" y="305" font-family="&#39;Space Mono&#39;,monospace" font-size="9.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">92,830 SQUARE METRES SHIPPED × 10.764  =  999,000</text>
+<text x="58" y="324" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GLASS REQUIRED, GLASS SHIPPED AND GLASS MANUFACTURED ARE THREE DIFFERENT QUANTITIES.</text>
+<text x="58" y="336" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">NEITHER FAMILY IS CHOSEN HERE.</text>
+</svg>

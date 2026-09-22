@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 444" role="img" aria-label="A three-column diagram of ways nature becomes architectural form, with arrows crossing between the columns.">
+<rect x="58" y="48" width="164" height="112" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="68" y="68" font-family="&#39;Space Mono&#39;,monospace" font-size="12" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">IMAGE</text>
+<text x="68" y="82" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PATTERN COPIED</text>
+<text x="68" y="104" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">OWEN JONES</text>
+<text x="68" y="118" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WILLIAM MORRIS</text>
+<rect x="250" y="48" width="164" height="112" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="260" y="68" font-family="&#39;Space Mono&#39;,monospace" font-size="12" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FORM</text>
+<text x="260" y="82" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ABSTRACTED FROM GROWTH</text>
+<text x="260" y="104" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DRESSER</text>
+<text x="260" y="118" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SULLIVAN · ELEVEN STEPS</text>
+<text x="260" y="132" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ENDELL</text>
+<rect x="442" y="48" width="164" height="112" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="452" y="68" font-family="&#39;Space Mono&#39;,monospace" font-size="12" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MODEL</text>
+<text x="452" y="82" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">STRUCTURE COMPUTED</text>
+<text x="452" y="104" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">GAUDÍ · THE HANGING NET</text>
+<line x1="140" y1="160" x2="140" y2="194" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140" y1="194" x2="327" y2="194" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/><path d="M332 194 L327 196.1 L327 191.9 Z" fill="var(--hot,#C45C3E)"/>
+<line x1="332" y1="194" x2="332" y2="160" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="186" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">VIOLLET-LE-DUC · THIRTEENTH-CENTURY PATTERN ALREADY GOVERNED BY STONE</text>
+<line x1="140" y1="160" x2="140" y2="234" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140" y1="234" x2="327" y2="234" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/><path d="M332 234 L327 236.1 L327 231.9 Z" fill="var(--hot,#C45C3E)"/>
+<line x1="332" y1="234" x2="332" y2="160" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="226" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BINET · SITS BETWEEN THE FIRST TWO</text>
+<line x1="332" y1="160" x2="332" y2="274" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="332" y1="274" x2="519" y2="274" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/><path d="M524 274 L519 276.1 L519 271.9 Z" fill="var(--hot,#C45C3E)"/>
+<line x1="524" y1="274" x2="524" y2="160" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="266" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">SULLIVAN · RUNS PARALLEL TO STRUCTURE, NOT THROUGH IT</text>
+<line x1="332" y1="160" x2="332" y2="314" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="332" y1="314" x2="519" y2="314" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/><path d="M524 314 L519 316.1 L519 311.9 Z" fill="var(--hot,#C45C3E)"/>
+<line x1="524" y1="314" x2="524" y2="160" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="306" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">HORTA, MAISON DU PEUPLE · WHERE LINE AND STRUCTURE PART</text>
+<text x="58" y="346" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">RUSKIN · THE DISTANCE RULE MOVES ONE ORNAMENT BETWEEN COLUMNS</text>
+<line x1="140" y1="354" x2="327" y2="354" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="3 3"/><path d="M332 354 L327 356.1 L327 351.9 Z" fill="var(--hot,#C45C3E)"/>
+<line x1="58" y1="400" x2="612" y2="400" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="418" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND ONE CHAIN THE COLUMNS CANNOT HOLD:</text>
+<text x="268" y="418" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">NATURE</text>
+<line x1="306.68" y1="415" x2="346" y2="415" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M350 415 L346 416.68 L346 413.32 Z" fill="var(--mut,#8A8880)"/>
+<text x="358" y="418" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">OBSERVER</text>
+<line x1="408.24" y1="415" x2="436" y2="415" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M440 415 L436 416.68 L436 413.32 Z" fill="var(--mut,#8A8880)"/>
+<text x="448" y="418" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">PRINTER</text>
+<line x1="492.46" y1="415" x2="526" y2="415" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M530 415 L526 416.68 L526 413.32 Z" fill="var(--mut,#8A8880)"/>
+<text x="538" y="418" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ARCHITECT</text>
+<text x="58" y="434" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HAECKEL'S PLATES REACH THE BUILDING THROUGH THREE HANDS, EACH OF WHICH ABSTRACTED.</text>
+</svg>

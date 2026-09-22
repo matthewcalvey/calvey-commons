@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Log-log plot of specimen size against observation duration with measured studies clustered at small sizes and short durations and an empty region where building-scale long-duration claims sit.">
+
+<line x1="128" y1="78" x2="128" y2="290" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="128" y1="290" x2="560" y2="290" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="154.01" y1="78" x2="154.01" y2="294" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="154.01" y="308" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1 mm</text>
+<line x1="240.41" y1="78" x2="240.41" y2="294" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="240.41" y="308" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1 cm</text>
+<line x1="326.81" y1="78" x2="326.81" y2="294" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="326.81" y="308" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10 cm</text>
+<line x1="413.21" y1="78" x2="413.21" y2="294" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="413.21" y="308" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1 m</text>
+<line x1="499.61" y1="78" x2="499.61" y2="294" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="499.61" y="308" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10 m</text>
+<text x="122" y="324" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SPECIMEN SIZE  ·  LOG</text>
+<line x1="128" y1="290" x2="560" y2="290" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="122" y="293" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">MINUTE</text>
+<line x1="128" y1="240.6" x2="560" y2="240.6" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="122" y="243.6" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">HOUR</text>
+<line x1="128" y1="202.26" x2="560" y2="202.26" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="122" y="205.26" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">DAY</text>
+<line x1="128" y1="161.22" x2="560" y2="161.22" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="122" y="164.22" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">MONTH</text>
+<line x1="128" y1="131.07" x2="560" y2="131.07" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="122" y="134.07" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">YEAR</text>
+<line x1="128" y1="103.29" x2="560" y2="103.29" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="122" y="106.29" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">DECADE</text>
+<text x="122" y="62" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">OBSERVATION DURATION  ·  LOG</text>
+<rect x="413.21" y="78" width="146.79" height="53.07" fill="var(--hot,#C45C3E)" opacity="0.11"/>
+<rect x="413.21" y="78" width="146.79" height="53.07" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="486.6" y="94.54" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">NOTHING WAS</text>
+<text x="486.6" y="108.54" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">MEASURED HERE</text>
+<line x1="413.21" y1="90.01" x2="560" y2="90.01" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<text x="419.21" y="81.01" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE THIRTY-YEAR SERVICE LIFE CLAIMED</text>
+<circle cx="180.02" cy="276.74" r="4" fill="var(--accent,#6A9CC4)"/>
+<text x="189.02" y="279.74" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">PYROLYSIS CALORIMETRY</text>
+<circle cx="300.8" cy="262.22" r="4" fill="var(--accent,#6A9CC4)"/>
+<text x="309.8" y="265.22" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">ASTM C109 COMPRESSION</text>
+<circle cx="326.81" cy="253.86" r="4" fill="var(--accent,#6A9CC4)"/>
+<text x="335.81" y="256.86" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">CONE CALORIMETRY</text>
+<circle cx="307.64" cy="189" r="4" fill="var(--accent,#6A9CC4)"/>
+<text x="316.64" y="192" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">NORDTEST MOISTURE BUFFERING</text>
+<circle cx="460.22" cy="240.6" r="4" fill="var(--accent,#6A9CC4)"/>
+<text x="451.22" y="243.6" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="end" letter-spacing="0.08em">EDINBURGH COMPARTMENT</text>
+<circle cx="465.23" cy="139.56" r="4" fill="var(--accent,#6A9CC4)"/>
+<text x="456.23" y="142.56" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="end" letter-spacing="0.08em">GRUGLIASCO ARCH</text>
+<text x="456.23" y="153.56" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.04em">the closest anyone got</text>
+<rect x="44" y="337" width="16" height="12" fill="var(--hot,#C45C3E)" opacity="0.11"/>
+<rect x="44" y="337" width="16" height="12" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="68" y="347" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE CLAIMS THAT LIVE IN THAT REGION:  A THIRTY-YEAR REFERENCE SERVICE LIFE,</text>
+<text x="68" y="359" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BUILDING-SCALE STRUCTURAL USE, IN-SERVICE DURABILITY.</text>
+<text x="44" y="378" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">AND THAT REGION IS WHERE THE ARCHITECTURE IS.</text>
+<text x="44" y="400" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Every measured study in the materials lane sits at small specimen size, short duration, or both. The claims the</text>
+<text x="44" y="411" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">buildings carry sit in the empty region, and no line connects the two. This is the coupon-against-building gap:</text>
+<text x="44" y="422" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">not a dispute between studies but a gap between where the measuring was done and where the building is.</text>
+<text x="44" y="433" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Compiled from the fourteen sources read in full or at abstract in lane A, 2018–2026.</text>
+</svg>

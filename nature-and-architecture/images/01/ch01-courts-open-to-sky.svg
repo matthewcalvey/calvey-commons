@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 556" role="img" aria-label="Four line-drawn cross-sections of houses organised around a central open court, with rain and light arrows.">
+<defs><marker id="g31a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<line x1="38.0" y1="162.0" x2="308.0" y2="162.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="48.0" y="96.0" width="56.0" height="66.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="242.0" y="96.0" width="56.0" height="66.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="104.0" y1="162.0" x2="242.0" y2="162.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M104,162 L173.0,167 L242,162" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="173.0" cy="166.0" r="3.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M102,96 L244,96" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="173.0" y="88.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">OPEN, OR COVERED?</text>
+<line x1="124.0" y1="46.0" x2="117.0" y2="86.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="173.0" y1="46.0" x2="166.0" y2="86.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="222.0" y1="46.0" x2="215.0" y2="86.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="173.0" y="184.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PAVING FALLS TO A CENTRAL DRAIN</text>
+<text x="54.0" y="136.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROOMS</text>
+<path d="M334,180 L604,154" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M344,162 L594,152 L594,159 L344,178 Z" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="354.0" y="106.0" width="46.0" height="56.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="538.0" y="102.0" width="46.0" height="54.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="400.0" y1="159.0" x2="538.0" y2="154.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="404.0" y="132.0" width="8.0" height="27.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="416.0" y="142.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SCREEN WALL</text>
+<line x1="342.0" y1="178.0" x2="342.0" y2="196.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="596.0" y1="159.0" x2="596.0" y2="196.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="346.0" y="194.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">ABOUT 1 M</text>
+<text x="592.0" y="194.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="end">20 CM</text>
+<text x="469.0" y="86.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE SOUTH END RAISED ON SLOPING GROUND</text>
+<line x1="428.0" y1="50.0" x2="421.0" y2="96.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="469.0" y1="50.0" x2="462.0" y2="96.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="510.0" y1="50.0" x2="503.0" y2="96.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="38.0" y1="404.0" x2="308.0" y2="404.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M48,318 L118,348 L228,348 L298,318" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="48.0" y1="318.0" x2="48.0" y2="404.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="298.0" y1="318.0" x2="298.0" y2="404.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="173.0" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">COMPLUVIUM</text>
+<line x1="126.0" y1="300.0" x2="119.0" y2="342.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="173.0" y1="300.0" x2="166.0" y2="342.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="220.0" y1="300.0" x2="213.0" y2="342.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<rect x="118.0" y="394.0" width="110.0" height="10.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="173.0" y="426.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">IMPLUVIUM</text>
+<rect x="147.0" y="434.0" width="52.0" height="44.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="207.0" y="454.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CISTERN ABOUT 3.5 M</text>
+<text x="207.0" y="466.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OVERFLOW TO THE STREET</text>
+<line x1="173.0" y1="400.0" x2="173.0" y2="430.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#g31a)" stroke-linecap="round"/>
+<line x1="334.0" y1="404.0" x2="604.0" y2="404.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="344.0" y="350.0" width="64.0" height="54.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="530.0" y="350.0" width="64.0" height="54.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M408,404 L408,426 L530,426 L530,404" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="428.0" y1="308.0" x2="421.0" y2="398.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="469.0" y1="308.0" x2="462.0" y2="398.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="510.0" y1="308.0" x2="503.0" y2="398.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<rect x="410.0" y="438.0" width="118.0" height="9.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="469.0" y1="428.0" x2="469.0" y2="435.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#g31a)" stroke-linecap="round"/>
+<line x1="418.0" y1="442.5" x2="536.0" y2="442.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#g31a)" stroke-linecap="round"/>
+<text x="469.0" y="466.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">SUB-FLOOR DRAINS</text>
+<text x="350.0" y="370.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WINDOWLESS</text>
+<text x="350.0" y="382.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROOMS</text>
+<text x="469.0" y="418.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SUNKEN PATIO</text>
+<line x1="48.0" y1="228.0" x2="328.0" y2="228.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.0" y="244.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">UR, THE AH SITE</text>
+<text x="328.0" y="244.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">c. 2000–1750 BCE</text>
+<text x="48.0" y="259.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE TYPE-SITE OF THE COURTYARD HOUSE</text>
+<text x="48.0" y="271.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LEAVES OPEN WHETHER ITS COURT WAS OPEN.</text>
+<text x="48.0" y="283.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WOOLLEY READ IT OPEN; MARGUERON COVERED.</text>
+<line x1="344.0" y1="228.0" x2="624.0" y2="228.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="344.0" y="244.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FENGCHU</text>
+<text x="624.0" y="244.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">c. 12TH–11TH C. BCE</text>
+<text x="344.0" y="259.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE ONE EXCAVATED FACT WITH A CLIMATE</text>
+<text x="344.0" y="271.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IN IT: THE GROUND WAS HIGHER NORTH, SO</text>
+<text x="344.0" y="283.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SOUTH END WAS RAISED. THE REST IS</text>
+<text x="344.0" y="295.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RECONSTRUCTION.</text>
+<line x1="48.0" y1="484.0" x2="328.0" y2="484.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.0" y="500.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">POMPEII AND HERCULANEUM</text>
+<text x="328.0" y="500.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">3RD C. BCE – 79 CE</text>
+<text x="48.0" y="515.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROOF TO SPOUTS TO BASIN TO CISTERN, WITH THE</text>
+<text x="48.0" y="527.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OVERFLOW TO THE STREET — A RAIN MACHINE WITH</text>
+<text x="48.0" y="539.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A HOUSE BUILT AROUND IT.</text>
+<line x1="344.0" y1="484.0" x2="624.0" y2="484.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="344.0" y="500.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TEOTIHUACAN</text>
+<text x="624.0" y="500.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">c. 100 BCE – 550 CE</text>
+<text x="344.0" y="515.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MORE THAN TWO THOUSAND WALLED COMPOUNDS,</text>
+<text x="344.0" y="527.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LIT, AIRED AND RAINED ON THROUGH SUNKEN</text>
+<text x="344.0" y="539.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PATIOS DRAINED BY PIPES UNDER THE FLOOR.</text>
+<text x="28.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE COURT OPEN TO THE SKY, IN FOUR CULTURES</text>
+<text x="612.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">NONE HAS A MEASURED TEMPERATURE</text>
+</svg>

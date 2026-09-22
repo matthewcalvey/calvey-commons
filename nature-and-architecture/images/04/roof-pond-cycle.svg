@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Four diagrams of a roof pond with sliding insulation panels in the four day-night, summer-winter states.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MOVABLE INSULATION, OR HOW TO CLOSE AN APERTURE</text>
+<text x="58" y="58" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WINTER DAY</text>
+<rect x="58" y="110" width="128" height="34" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="64" y="132" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROOM</text>
+<rect x="58" y="98" width="128" height="12" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="64" y="108" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">POND</text>
+<rect x="52" y="84" width="64" height="11" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="128" y="84" width="64" height="11" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="92" y1="76" x2="58" y2="76" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M54 76 L58 74.32 L58 77.68 Z" fill="var(--mut,#8A8880)"/>
+<line x1="152" y1="76" x2="186" y2="76" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M190 76 L186 77.68 L186 74.32 Z" fill="var(--mut,#8A8880)"/>
+<line x1="122" y1="64" x2="122" y2="90" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M122 94 L120.32 90 L123.68 90 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="58" y="162" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">COLLECT</text>
+<rect x="58" y="170" width="128" height="24" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="122" y="185" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="204" y="58" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WINTER NIGHT</text>
+<rect x="204" y="110" width="128" height="34" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="210" y="132" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROOM</text>
+<rect x="204" y="98" width="128" height="12" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="210" y="108" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">POND</text>
+<rect x="204" y="84" width="128" height="11" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="212" y1="84" x2="218" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="232" y1="84" x2="238" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="252" y1="84" x2="258" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="272" y1="84" x2="278" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="292" y1="84" x2="298" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="312" y1="84" x2="318" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<text x="204" y="162" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">HOLD</text>
+<rect x="204" y="170" width="128" height="24" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="268" y="185" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="350" y="58" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SUMMER DAY</text>
+<rect x="350" y="110" width="128" height="34" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="356" y="132" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROOM</text>
+<rect x="350" y="98" width="128" height="12" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="356" y="108" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">POND</text>
+<rect x="350" y="84" width="128" height="11" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="358" y1="84" x2="364" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="378" y1="84" x2="384" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="398" y1="84" x2="404" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="418" y1="84" x2="424" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="438" y1="84" x2="444" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<line x1="458" y1="84" x2="464" y2="95" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.6"/>
+<text x="350" y="162" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">EXCLUDE</text>
+<rect x="350" y="170" width="128" height="24" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="414" y="185" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="496" y="58" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">SUMMER NIGHT</text>
+<rect x="496" y="110" width="128" height="34" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="502" y="132" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROOM</text>
+<rect x="496" y="98" width="128" height="12" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="502" y="108" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">POND</text>
+<rect x="490" y="84" width="64" height="11" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="566" y="84" width="64" height="11" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="530" y1="76" x2="496" y2="76" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M492 76 L496 74.32 L496 77.68 Z" fill="var(--mut,#8A8880)"/>
+<line x1="590" y1="76" x2="624" y2="76" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M628 76 L624 77.68 L624 74.32 Z" fill="var(--mut,#8A8880)"/>
+<line x1="560" y1="94" x2="560" y2="68" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M560 64 L561.68 68 L558.32 68 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="496" y="162" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">RADIATE</text>
+<rect x="496" y="170" width="128" height="24" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="560" y="185" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="58" y="214" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EVERY QUANTITY IS LEFT BLANK. NONE WAS OBTAINED: NOT A POND DEPTH, NOT A PANEL U-VALUE,</text>
+<text x="58" y="226" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NOT A ROOM TEMPERATURE, NOT A CLIMATE.</text>
+<line x1="58" y1="248" x2="612" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="264" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND WHAT IT ANSWERS, TWENTY YEARS LATE</text>
+<text x="58" y="288" font-family="&#39;Space Mono&#39;,monospace" font-size="13" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">1947</text>
+<text x="114" y="288" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">MIT SOLAR HOUSE II FINDS THAT WHAT IT COLLECTS BY DAY IT LOSES BY NIGHT</text>
+<text x="114" y="300" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THROUGH THE SAME APERTURE.</text>
+<line x1="78" y1="308" x2="78" y2="327.5" stroke="var(--mut,#8A8880)" stroke-width="1.5"/><path d="M78 332 L76.11 327.5 L79.89 327.5 Z" fill="var(--mut,#8A8880)"/>
+<text x="58" y="346" font-family="&#39;Space Mono&#39;,monospace" font-size="13" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">1969</text>
+<text x="114" y="346" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">HAY AND YELLOTT MAKE THE APERTURE CLOSEABLE. THE COLLECTOR BECOMES A</text>
+<text x="114" y="358" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">VALVE INSTEAD OF A HOLE.</text>
+<text x="58" y="382" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE PROBLEM WAS NAMED BY MEASUREMENT AND SOLVED BY GEOMETRY. NOBODY MEASURED THE SOLUTION.</text>
+</svg>

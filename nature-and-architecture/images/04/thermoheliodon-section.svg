@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 424" role="img" aria-label="Cutaway drawing of a domed laboratory apparatus containing an architectural model under an artificial sun on a curved rail.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE THERMOHELIODON IN SECTION · 1955–63</text>
+<path d="M 100 258 A 140 140 0 0 1 380 258" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="52" y1="258" x2="430" y2="258" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M 128 258 A 112 112 0 0 1 352 258" fill="none" stroke="var(--mut,#8A8880)" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="171.05" cy="169.74" r="9" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="182.05" y1="169.74" x2="187.05" y2="169.74" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="178.82" y1="177.52" x2="182.36" y2="181.06" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="171.05" y1="180.74" x2="171.05" y2="185.74" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="163.27" y1="177.52" x2="159.73" y2="181.06" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="160.05" y1="169.74" x2="155.05" y2="169.74" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="163.27" y1="161.96" x2="159.73" y2="158.43" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="171.05" y1="158.74" x2="171.05" y2="153.74" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="178.82" y1="161.96" x2="182.36" y2="158.43" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="58" y="116" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">A 5,000-WATT LAMP ON AN ARCING RAIL</text>
+<text x="58" y="128" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A SIMULATED DAY COMPRESSED TO UNDER AN HOUR</text>
+<rect x="206" y="228" width="68" height="30" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M206 228 L240 210 L274 228" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="188" y="258" width="104" height="12" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="240" cy="264" r="3" fill="var(--mut,#8A8880)"/>
+<line x1="300" y1="272" x2="298.22" y2="269.33" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M296 266 L299.62 268.4 L296.82 270.26 Z" fill="var(--mut,#8A8880)"/>
+<text x="304" y="275" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROTATING BASE</text>
+<circle cx="218" cy="244" r="2.4" fill="var(--accent,#6A9CC4)"/>
+<circle cx="214" cy="222" r="2.4" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<circle cx="240" cy="244" r="2.4" fill="var(--accent,#6A9CC4)"/>
+<circle cx="240" cy="222" r="2.4" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<circle cx="262" cy="244" r="2.4" fill="var(--accent,#6A9CC4)"/>
+<circle cx="266" cy="222" r="2.4" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="296" y1="200" x2="268.7" y2="236.4" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/><path d="M266 240 L267.19 235.27 L270.21 237.53 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="302" y="203" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THERMISTORS INSIDE</text>
+<line x1="296" y1="174" x2="272.29" y2="214.13" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/><path d="M270 218 L270.66 213.16 L273.92 215.09 Z" fill="var(--hot,#C45C3E)"/>
+<text x="302" y="177" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THERMOCOUPLES OUTSIDE</text>
+<rect x="58" y="184" width="44" height="42" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<line x1="104" y1="194" x2="108" y2="194" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M112 194 L108 195.68 L108 192.32 Z" fill="var(--mut,#8A8880)"/>
+<line x1="104" y1="208" x2="108" y2="208" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M112 208 L108 209.68 L108 206.32 Z" fill="var(--mut,#8A8880)"/>
+<line x1="104" y1="222" x2="108" y2="222" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M112 222 L108 223.68 L108 220.32 Z" fill="var(--mut,#8A8880)"/>
+<text x="58" y="176" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WIND TUNNEL</text>
+<rect x="388" y="218" width="38" height="40" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<text x="302" y="294" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HEATING COILS AND</text>
+<text x="302" y="306" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AIR-CONDITIONING UNITS</text>
+<line x1="420" y1="292" x2="411.35" y2="267.77" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M410 264 L412.93 267.2 L409.76 268.33 Z" fill="var(--mut,#8A8880)"/>
+<line x1="470" y1="56" x2="470" y2="300" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="486" y="74" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE CALIBRATION</text>
+<text x="486" y="96" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1955 · A NATIONAL SCIENCE</text>
+<text x="486" y="108" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FOUNDATION GRANT OF</text>
+<text x="486" y="126" font-family="&#39;Space Mono&#39;,monospace" font-size="13" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">$19,000</text>
+<text x="486" y="142" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FOR TWO YEARS</text>
+<text x="486" y="162" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1957 · IT EXPIRED. THE</text>
+<text x="486" y="174" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DEVICE WAS NEVER FINISHED.</text>
+<text x="486" y="192" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1963 · PUBLISHED AS AN</text>
+<text x="486" y="204" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">APPENDIX ANYWAY.</text>
+<rect x="486" y="220" width="120" height="34" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="546" y="240" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">NO ERROR BAR</text>
+<text x="486" y="272" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE FOLLOW-ON APPLICATION</text>
+<text x="486" y="284" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">TO ESTABLISH SIMILARITY</text>
+<text x="486" y="296" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">CRITERIA WAS DENIED.</text>
+<line x1="58" y1="344" x2="612" y2="344" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="364" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">IT SHOULD NOT BE CALLED A WORKING INSTRUMENT.</text>
+<text x="58" y="384" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE PHYSICAL CRITIQUE IS THERMAL SIMILITUDE, AND IT WAS NEVER ANSWERED: NO ERROR BAR EXISTS</text>
+<text x="58" y="396" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND NONE CAN NOW BE RECOVERED. THE NEXT FIGURE IS WHY.</text>
+</svg>

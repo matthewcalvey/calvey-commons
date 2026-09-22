@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Diagram of the six PROBE synthesis papers showing which are retrievable, the energy paper marked closed and the conclusions paper abstract-available.">
+
+<text x="44" y="54" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE SIX PROBE SYNTHESIS PAPERS  ·  2001</text>
+<rect x="44" y="76" width="84" height="128" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="44" y="76" width="84" height="128" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="86" y="96" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">PROBE 1</text>
+<text x="86" y="186" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT TESTED</text>
+<rect x="136" y="76" width="84" height="128" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="136" y="76" width="84" height="128" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="178" y="96" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">PROBE 2</text>
+<text x="178" y="186" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT TESTED</text>
+<rect x="228" y="76" width="84" height="128" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5" opacity="0.22"/>
+<text x="270" y="96" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">PROBE 3</text>
+<text x="270" y="114" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">ENERGY</text>
+<text x="270" y="125" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">PERFORMANCE</text>
+<text x="270" y="152" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">321</text>
+<text x="270" y="163" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">CITATIONS</text>
+<text x="270" y="186" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">ABSTRACT</text>
+<text x="270" y="196" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">ELIDED</text>
+<rect x="320" y="76" width="84" height="128" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="320" y="76" width="84" height="128" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="362" y="96" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">PROBE 4</text>
+<text x="362" y="186" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT TESTED</text>
+<rect x="412" y="76" width="84" height="128" fill="var(--ok,#7AB87A)" stroke="var(--ok,#7AB87A)" stroke-width="1.5" opacity="0.22"/>
+<text x="454" y="96" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">PROBE 5</text>
+<text x="454" y="114" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">CONCLUSIONS</text>
+<text x="454" y="152" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">224</text>
+<text x="454" y="163" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">CITATIONS</text>
+<text x="454" y="186" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">ABSTRACT</text>
+<text x="454" y="196" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">AVAILABLE</text>
+<rect x="504" y="76" width="84" height="128" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="504" y="76" width="84" height="128" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="546" y="96" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">PROBE 6</text>
+<text x="546" y="186" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOT TESTED</text>
+<line x1="228" y1="216" x2="312" y2="216" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="412" y1="216" x2="496" y2="216" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="44" y="244" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SAME JOURNAL, SAME ISSUE, OVERLAPPING AUTHORS, QUERIED IN THE SAME MINUTE.</text>
+<text x="44" y="262" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE CONCLUSIONS ARE READABLE AND THE ENERGY NUMBERS ARE NOT.</text>
+<text x="44" y="292" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">The enclosure is selective, and what it encloses is the measurements. All twelve PROBE papers were located to</text>
+<text x="44" y="303" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">page and DOI and none was openable by four routes. Semantic Scholar records for the Probe 3 and Probe 5</text>
+<text x="44" y="314" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">synthesis papers, queried 2026-09-21. The four untested blocks are marked as untested, not as closed.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" role="img" aria-label="Timeline showing three successive ways in which measured building performance has become unavailable: never taken, taken and paywalled, taken and published only as a live dashboard.">
+<line x1="56.00" y1="96.00" x2="592.00" y2="96.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="56.00" y1="92.00" x2="56.00" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="56.00" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1900</text>
+<line x1="179.69" y1="92.00" x2="179.69" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="179.69" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1930</text>
+<line x1="303.38" y1="92.00" x2="303.38" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="303.38" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1960</text>
+<line x1="427.08" y1="92.00" x2="427.08" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="427.08" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1990</text>
+<line x1="509.54" y1="92.00" x2="509.54" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="509.54" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2010</text>
+<line x1="592.00" y1="92.00" x2="592.00" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="592.00" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2030</text>
+<rect x="56.00" y="66.00" width="288.62" height="22.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.22"/>
+<rect x="56.00" y="66.00" width="288.62" height="22.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="64.00" y="81.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.0em">1</text>
+<rect x="427.08" y="66.00" width="103.08" height="22.00" fill="var(--hot,#C45C3E)" fill-opacity="0.22"/>
+<rect x="427.08" y="66.00" width="103.08" height="22.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="435.08" y="81.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">2</text>
+<rect x="521.91" y="40.00" width="70.09" height="22.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.22"/>
+<rect x="521.91" y="40.00" width="70.09" height="22.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="529.91" y="55.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">3</text>
+<line x1="521.91" y1="62.00" x2="521.91" y2="96.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="56.00" y1="138.00" x2="592.00" y2="138.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="64.00" cy="148.00" r="8.00" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="64.00" y="151.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.0em" text-anchor="middle">1</text>
+<text x="82.00" y="152.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">NEVER TAKEN</text>
+<text x="82.00" y="163.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TO ROUGHLY 1970</text>
+<text x="96.00" y="180.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· no published microclimate measurement of any Suzhou garden</text>
+<text x="96.00" y="193.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· none for the Pacific</text>
+<line x1="56.00" y1="208.00" x2="592.00" y2="208.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="64.00" cy="218.00" r="8.00" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="64.00" y="221.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">2</text>
+<text x="82.00" y="222.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">TAKEN AND SOLD</text>
+<text x="82.00" y="233.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ROUGHLY 1990 TO 2015</text>
+<text x="96.00" y="250.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· CEPHEUS closed, no repository copy twenty years on</text>
+<text x="96.00" y="263.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· the paper titled for this chapter’s central Passivhaus question: zero open locations</text>
+<text x="96.00" y="276.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· the national BPE programme’s synthesis: a paywalled chapter</text>
+<text x="96.00" y="289.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· two formally open biophilia syntheses: a 403 and a CAPTCHA</text>
+<text x="96.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· the Norgaard critique and the Costanza defence: unreadable</text>
+<line x1="56.00" y1="317.00" x2="592.00" y2="317.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="64.00" cy="327.00" r="8.00" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="64.00" y="330.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">3</text>
+<text x="82.00" y="331.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">TAKEN, GIVEN AWAY FREELY, AND STILL LOST</text>
+<text x="82.00" y="342.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2013 TO NOW</text>
+<text x="96.00" y="359.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· a continuously metered exemplar whose record is a live dashboard</text>
+<text x="96.00" y="372.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· a predicted-against-measured platform whose dataset has never been analysed</text>
+<text x="96.00" y="385.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· a design framework in a major city’s guidance that no scholarly route can reach</text>
+<line x1="56.00" y1="406.00" x2="592.00" y2="406.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="56.00" y="420.00" width="536.00" height="30.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.12"/>
+<rect x="56.00" y="420.00" width="536.00" height="30.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="66.00" y="438.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ENCLOSURE CHANGES FORM RATHER THAN ENDING. THE THIRD BAND IS THIS CHAPTER’S.</text>
+<text x="56.00" y="472.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FROM §02.5 AND §02.8, WITH CHAPTER 5’S FINDING</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="A line chart of temperature difference against hour of day dipping below zero in daytime and rising above zero at night.">
+<line x1="84.0" y1="271.6" x2="612.0" y2="271.6" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.0" y="274.6" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-4</text>
+<line x1="84.0" y1="243.1" x2="612.0" y2="243.1" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.0" y="246.1" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-3</text>
+<line x1="84.0" y1="214.7" x2="612.0" y2="214.7" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.0" y="217.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-2</text>
+<line x1="84.0" y1="186.2" x2="612.0" y2="186.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.0" y="189.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-1</text>
+<line x1="84.0" y1="157.8" x2="612.0" y2="157.8" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.0" y="160.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="84.0" y1="129.3" x2="612.0" y2="129.3" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.0" y="132.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">+1</text>
+<line x1="84.0" y1="100.9" x2="612.0" y2="100.9" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.0" y="103.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">+2</text>
+<line x1="84.0" y1="72.4" x2="612.0" y2="72.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.0" y="75.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">+3</text>
+<line x1="84.0" y1="44.0" x2="612.0" y2="44.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.0" y="47.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">+4</text>
+<rect x="260.0" y="172.0" width="176.0" height="113.8" fill="var(--surface,#1F211E)"/>
+<rect x="260.0" y="172.0" width="176.0" height="113.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="84.0" y="72.4" width="154.0" height="71.1" fill="var(--surface,#1F211E)"/>
+<rect x="84.0" y="72.4" width="154.0" height="71.1" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<rect x="458.0" y="72.4" width="154.0" height="71.1" fill="var(--surface,#1F211E)"/>
+<rect x="458.0" y="72.4" width="154.0" height="71.1" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="84.0" y1="157.8" x2="612.0" y2="157.8" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="348.0" y="149.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="middle">AMBIENT</text>
+<text x="94.0" y="100.9" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">+0.5 TO +3</text>
+<text x="94.0" y="113.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">AT NIGHT</text>
+<text x="270.0" y="200.4" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">−0.5 TO −4.5</text>
+<text x="270.0" y="213.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">08:00–16:00</text>
+<line x1="414.0" y1="186.2" x2="414.0" y2="285.8" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<circle cx="414.0" cy="285.8" r="2.6" fill="var(--accent,#6A9CC4)"/>
+<line x1="418.0" y1="285.8" x2="450.0" y2="285.8" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="454.0" y="288.8" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">MAXIMUM NEAR 15:00</text>
+<text x="94.0" y="62.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">WARMER THAN OUTSIDE — THE THERMAL BATTERY DISCHARGING</text>
+<line x1="84.0" y1="44.0" x2="84.0" y2="300.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="84.0" y1="300.0" x2="612.0" y2="300.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="84.0" y1="300.0" x2="84.0" y2="304.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="84.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">00</text>
+<line x1="150.0" y1="300.0" x2="150.0" y2="304.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="150.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">03</text>
+<line x1="216.0" y1="300.0" x2="216.0" y2="304.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="216.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">06</text>
+<line x1="282.0" y1="300.0" x2="282.0" y2="304.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="282.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">09</text>
+<line x1="348.0" y1="300.0" x2="348.0" y2="304.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="348.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">12</text>
+<line x1="414.0" y1="300.0" x2="414.0" y2="304.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="414.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">15</text>
+<line x1="480.0" y1="300.0" x2="480.0" y2="304.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="480.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">18</text>
+<line x1="546.0" y1="300.0" x2="546.0" y2="304.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="546.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">21</text>
+<line x1="612.0" y1="300.0" x2="612.0" y2="304.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="612.0" y="316.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">24</text>
+<text x="612.0" y="330.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">HOUR OF DAY</text>
+<text x="20.0" y="180.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90 20 180)">DELIVERED AIR MINUS AMBIENT  °C</text>
+<rect x="84.0" y="334.0" width="528.0" height="30.0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<text x="96.0" y="353.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUMMER · NO CAMPAIGN EXISTS</text>
+<text x="600.0" y="353.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THE 4.5 IS A WINTER NUMBER</text>
+<text x="84.0" y="386.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MORTAZ HOUSE, YAZD · 26 SENSORS · 3 NOV 2014 – 3 FEB 2015 · MEASURED RANGE, NOT ONE DAY</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Chart comparing reported cognitive effects per 400 ppm of carbon dioxide across four studies, showing a large laboratory effect, a small field effect and two null results.">
+<line x1="210.00" y1="72.00" x2="210.00" y2="272.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="210.00" y="62.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-24</text>
+<line x1="286.29" y1="72.00" x2="286.29" y2="272.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="286.29" y="62.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-18</text>
+<line x1="362.57" y1="72.00" x2="362.57" y2="272.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="362.57" y="62.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-12</text>
+<line x1="438.86" y1="72.00" x2="438.86" y2="272.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="438.86" y="62.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-6</text>
+<line x1="515.14" y1="72.00" x2="515.14" y2="272.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="515.14" y="62.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="515.14" y1="72.00" x2="515.14" y2="272.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="210.00" y="46.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CHANGE IN COGNITIVE SCORE PER 400 PPM CO₂  %</text>
+<text x="198.00" y="102.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">ALLEN ET AL. 2016</text>
+<text x="198.00" y="113.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">n = 24 · management simulation</text>
+<text x="198.00" y="124.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">LABORATORY CHAMBER</text>
+<circle cx="248.14" cy="106.00" r="5.00" fill="var(--hot,#C45C3E)"/>
+<text x="248.14" y="94.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">-21</text>
+<text x="198.00" y="150.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">SIX-COUNTRY FIELD STUDY 2021</text>
+<text x="198.00" y="161.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">n = 302 · 42 buildings</text>
+<text x="198.00" y="172.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">FIELD</text>
+<line x1="493.53" y1="154.00" x2="501.16" y2="154.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="493.53" y1="150.00" x2="493.53" y2="158.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="501.16" y1="150.00" x2="501.16" y2="158.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="497.34" cy="154.00" r="5.00" fill="var(--accent,#6A9CC4)"/>
+<text x="486.34" y="158.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="end">-1.4</text>
+<text x="198.00" y="198.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">RODEHEFFER ET AL. 2018</text>
+<text x="198.00" y="209.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">n = 36 · nine measures</text>
+<text x="198.00" y="220.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="end">SUBMARINE · 2,500 AND 15,000 ppm</text>
+<circle cx="515.14" cy="202.00" r="5.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="526.14" y="206.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em">NULL</text>
+<text x="198.00" y="246.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">CHEN ET AL. 2023</text>
+<text x="198.00" y="257.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">n = 69 · pure-CO₂ crossover</text>
+<text x="198.00" y="268.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="end">NO ACCURACY EFFECT</text>
+<circle cx="515.14" cy="250.00" r="5.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="526.14" y="254.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em">NULL</text>
+<line x1="248.14" y1="106.00" x2="248.14" y2="278.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="253.14" y="290.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE LARGEST EFFECT COMES FROM THE SMALLEST AND MOST CONTROLLED STUDY</text>
+<line x1="64.00" y1="306.00" x2="596.00" y2="306.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="326.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">One-twentieth of the effect, in the field, on the same pollutant. The disagreement is drawn as a</text>
+<text x="64.00" y="340.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">disagreement; nothing here is averaged.</text>
+<text x="64.00" y="378.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ALLEN ET AL. 2016 · SIX-COUNTRY FIELD STUDY 2021 · RODEHEFFER ET AL. 2018 · CHEN ET AL. 2023</text>
+</svg>

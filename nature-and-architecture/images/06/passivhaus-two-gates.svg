@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" role="img" aria-label="Diagram splitting the Passivhaus standard into a measured verification gate, where results closely matched prediction, and a calculated gate, where measured overheating was ten times predicted.">
+<line x1="320.00" y1="44.00" x2="320.00" y2="342.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">LEFT · MEASURED</text>
+<text x="340.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">RIGHT · CALCULATED</text>
+<text x="52.00" y="50.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AIRTIGHTNESS: 0.6 ACH AT 50 Pa, VERIFIED BY</text>
+<text x="52.00" y="61.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BLOWER-DOOR TEST ON THE FINISHED BUILDING</text>
+<line x1="76.00" y1="270.00" x2="296.00" y2="270.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="76.00" y1="270.00" x2="76.00" y2="86.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="273.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">30</text>
+<text x="76.00" y="285.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">30</text>
+<line x1="76.00" y1="226.19" x2="296.00" y2="226.19" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="128.38" y1="270.00" x2="128.38" y2="86.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="229.19" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">40</text>
+<text x="128.38" y="285.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">40</text>
+<line x1="76.00" y1="182.38" x2="296.00" y2="182.38" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="180.76" y1="270.00" x2="180.76" y2="86.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="185.38" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">50</text>
+<text x="180.76" y="285.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">50</text>
+<line x1="76.00" y1="138.57" x2="296.00" y2="138.57" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="233.14" y1="270.00" x2="233.14" y2="86.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="141.57" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">60</text>
+<text x="233.14" y="285.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">60</text>
+<line x1="76.00" y1="94.76" x2="296.00" y2="94.76" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="285.52" y1="270.00" x2="285.52" y2="86.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.00" y="97.76" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">70</text>
+<text x="285.52" y="285.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">70</text>
+<line x1="76.00" y1="270.00" x2="296.00" y2="270.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="76.00" y1="270.00" x2="76.00" y2="86.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="76.00" y1="270.00" x2="296.00" y2="86.00" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="292.00" y="98.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1 : 1</text>
+<text x="186.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PREDICTED HLC  W/K</text>
+<text x="36.00" y="178.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 36.00 178.00)">MEASURED HLC  W/K</text>
+<circle cx="129.95" cy="196.84" r="4.00" fill="var(--ok,#7AB87A)"/>
+<circle cx="106.38" cy="234.51" r="4.00" fill="var(--ok,#7AB87A)"/>
+<circle cx="128.38" cy="194.21" r="4.00" fill="var(--ok,#7AB87A)"/>
+<circle cx="220.57" cy="129.81" r="4.00" fill="var(--ok,#7AB87A)"/>
+<circle cx="113.71" cy="204.29" r="4.00" fill="var(--ok,#7AB87A)"/>
+<circle cx="157.71" cy="180.63" r="4.00" fill="var(--ok,#7AB87A)"/>
+<circle cx="264.57" cy="156.10" r="4.00" fill="var(--hot,#C45C3E)"/>
+<text x="82.00" y="100.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">SEVEN COHEATING TESTS</text>
+<text x="82.00" y="111.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SIX ABOVE THE LINE, ONE BELOW</text>
+<text x="82.00" y="122.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ALL WITHIN ABOUT 17 %</text>
+<text x="340.00" y="50.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OVERHEATING: 25 °C FOR NO MORE THAN 10 % OF</text>
+<text x="340.00" y="61.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HOURS, VERIFIED BY PHPP CALCULATION</text>
+<line x1="380.00" y1="236.00" x2="596.00" y2="236.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="374.00" y="239.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="380.00" y1="186.00" x2="596.00" y2="186.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="374.00" y="189.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">20</text>
+<line x1="380.00" y1="136.00" x2="596.00" y2="136.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="374.00" y="139.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">40</text>
+<line x1="380.00" y1="86.00" x2="596.00" y2="86.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="374.00" y="89.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">60</text>
+<line x1="380.00" y1="236.00" x2="596.00" y2="236.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="380.00" y1="236.00" x2="380.00" y2="86.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="340.00" y="161.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 340.00 161.00)">% OF HOURS OVER 25 °C</text>
+<rect x="406.00" y="223.50" width="44.00" height="12.50" fill="var(--accent,#6A9CC4)" fill-opacity="0.3"/>
+<rect x="406.00" y="223.50" width="44.00" height="12.50" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="428.00" y="203.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">5.0</text>
+<text x="428.00" y="251.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PREDICTED</text>
+<rect x="472.00" y="108.00" width="44.00" height="128.00" fill="var(--hot,#C45C3E)" fill-opacity="0.3"/>
+<rect x="472.00" y="108.00" width="44.00" height="128.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="494.00" y="100.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">51.2</text>
+<text x="494.00" y="251.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MEASURED</text>
+<text x="494.00" y="261.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">LOUNGE</text>
+<rect x="538.00" y="184.00" width="44.00" height="52.00" fill="var(--hot,#C45C3E)" fill-opacity="0.3"/>
+<rect x="538.00" y="184.00" width="44.00" height="52.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="560.00" y="176.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">20.8</text>
+<text x="560.00" y="251.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MEASURED</text>
+<text x="560.00" y="261.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">BEDROOM</text>
+<line x1="380.00" y1="211.00" x2="596.00" y2="211.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="384.00" y="206.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE 10 % LIMIT</text>
+<text x="380.00" y="278.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GONCALVES 2022 · PHPP UNDER-PREDICTS BY</text>
+<text x="380.00" y="294.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em">39 · 35.6 · 22.7 %</text>
+<text x="500.00" y="294.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BY CLIMATE</text>
+<line x1="52.00" y1="362.00" x2="596.00" y2="362.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="382.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The two halves of one standard performed completely differently. The half verified by measuring</text>
+<text x="52.00" y="396.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">the finished building held; the half verified by calculation was out by a factor of ten.</text>
+<text x="52.00" y="434.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">JOHNSTON ET AL. 2016 · FLETCHER ET AL. 2017 · GONCALVES ET AL. 2022</text>
+</svg>

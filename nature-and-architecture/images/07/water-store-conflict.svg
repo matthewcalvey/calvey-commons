@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Two panels showing green roof water capacity rising per unit volume while substrate depth falls with age, and a third empty panel labelled unmeasured.">
+
+<text x="44" y="54" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">CAPACITY PER UNIT VOLUME</text>
+<text x="44" y="66" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">twelve months, brick-based substrate</text>
+<line x1="64" y1="96" x2="64" y2="250" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="64" y1="250" x2="214" y2="250" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 64 211.5 L 76.5 203.64 L 89 195.78 L 101.5 187.92 L 114 180.06 L 126.5 172.2 L 139 164.34 L 151.5 156.48 L 164 148.62 L 176.5 140.76 L 189 132.9 L 201.5 125.04 L 214 117.18" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="211.5" r="3.2" fill="var(--ok,#7AB87A)"/>
+<circle cx="214" cy="117.18" r="3.2" fill="var(--ok,#7AB87A)"/>
+<text x="214" y="108.18" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="end" letter-spacing="0.04em">+ 9.8 %</text>
+<text x="64" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">0</text>
+<text x="214" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">12 MONTHS</text>
+<text x="44" y="284" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">RISING</text>
+<text x="44" y="300" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">The authors&#x27; caveat: the</text>
+<text x="44" y="310" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">change is small against</text>
+<text x="44" y="320" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">seasonal variation.</text>
+<text x="44" y="336" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em" opacity="0.8">De-Ville, Menon, Jia</text>
+<text x="44" y="346" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em" opacity="0.8">and Stovin 2018</text>
+<text x="234" y="54" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SUBSTRATE DEPTH</text>
+<text x="234" y="66" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">twenty to twenty-seven years</text>
+<line x1="254" y1="96" x2="254" y2="250" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="254" y1="250" x2="404" y2="250" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="274" cy="119.96" r="3.6" fill="var(--dim,#B8B5AC)"/>
+<text x="282" y="113.96" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">86 MM +</text>
+<rect x="346" y="193.02" width="36" height="23.27" fill="var(--hot,#C45C3E)" opacity="0.35"/>
+<rect x="346" y="193.02" width="36" height="23.27" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="342" y="208.51" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.04em">40 – 53</text>
+<line x1="278" y1="123.38" x2="346" y2="188.4" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<text x="254" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">20</text>
+<text x="404" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">27 YEARS</text>
+<text x="234" y="284" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">FALLING</text>
+<text x="234" y="300" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">No baseline: the original</text>
+<text x="234" y="310" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">specifications are lost.</text>
+<text x="234" y="336" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em" opacity="0.8">Thuring and Dunnett 2014</text>
+<text x="424" y="54" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">THEIR PRODUCT</text>
+<text x="424" y="66" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">absolute storage per square metre</text>
+<rect x="424" y="88" width="170" height="162" fill="none" stroke="var(--mut,#8A8880)" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="509" y="167" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">NOT MEASURED</text>
+<text x="509" y="183" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">ON ANY ROOF</text>
+<text x="424" y="284" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">UNKNOWN</text>
+<text x="424" y="300" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">The two panels are not</text>
+<text x="424" y="310" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">reconciled here, because</text>
+<text x="424" y="320" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">the literature does not</text>
+<text x="424" y="330" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">reconcile them.</text>
+<text x="44" y="372" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Capacity per unit volume rises; the volume falls. Nobody has multiplied the two on a real roof and weighed the</text>
+<text x="44" y="383" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">answer. This is exactly where the missing measurement is.</text>
+</svg>

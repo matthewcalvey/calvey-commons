@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" role="img" aria-label="A horizontal timeline of ecological-design cases 1969 to 2001, with a second row showing when each was measured, mostly after 2000.">
+<text x="60.00" y="30.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ROW ONE · THE CASES, 1969–2001</text>
+<line x1="60.00" y1="96.00" x2="596.00" y2="96.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="78.17" y1="92.00" x2="78.17" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="78.17" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1970</text>
+<line x1="169.02" y1="92.00" x2="169.02" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="169.02" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1980</text>
+<line x1="259.86" y1="92.00" x2="259.86" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="259.86" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1990</text>
+<line x1="350.71" y1="92.00" x2="350.71" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="350.71" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2000</text>
+<line x1="441.56" y1="92.00" x2="441.56" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="441.56" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2010</text>
+<line x1="532.41" y1="92.00" x2="532.41" y2="100.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="532.41" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2020</text>
+<circle cx="69.08" cy="96.00" r="3.60" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<line x1="69.08" y1="90.00" x2="69.08" y2="81.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="74.08" y="78.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">1</text>
+<rect x="129.08" y="92.40" width="7.20" height="7.20" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<line x1="132.68" y1="90.00" x2="132.68" y2="69.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="137.68" y="66.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">2</text>
+<rect x="147.25" y="92.40" width="7.20" height="7.20" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<line x1="150.85" y1="90.00" x2="150.85" y2="81.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="155.85" y="78.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">3</text>
+<circle cx="178.10" cy="96.00" r="3.60" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<line x1="178.10" y1="90.00" x2="178.10" y2="69.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="183.10" y="66.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">4</text>
+<rect x="192.67" y="92.40" width="7.20" height="7.20" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<line x1="196.27" y1="90.00" x2="196.27" y2="81.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="201.27" y="78.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">5</text>
+<circle cx="205.36" cy="96.00" r="3.60" fill="var(--dim,#B8B5AC)"/>
+<line x1="205.36" y1="90.00" x2="205.36" y2="69.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="210.36" y="66.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">6</text>
+<rect x="201.76" y="92.40" width="7.20" height="7.20" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<line x1="205.36" y1="90.00" x2="205.36" y2="81.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="210.36" y="78.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">7</text>
+<rect x="265.35" y="92.40" width="7.20" height="7.20" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<line x1="268.95" y1="90.00" x2="268.95" y2="69.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="273.95" y="66.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">8</text>
+<line x1="292.60" y1="92.40" x2="299.80" y2="99.60" stroke="var(--dim,#B8B5AC)" stroke-width="1.4"/>
+<line x1="292.60" y1="99.60" x2="299.80" y2="92.40" stroke="var(--dim,#B8B5AC)" stroke-width="1.4"/>
+<line x1="296.20" y1="90.00" x2="296.20" y2="81.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="301.20" y="78.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">9</text>
+<path d="M341.6 91.4 L346.2 96.0 L341.6 100.6 L337.0 96.0 Z" fill="var(--dim,#B8B5AC)"/>
+<line x1="341.63" y1="90.00" x2="341.63" y2="69.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="346.63" y="66.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">10</text>
+<circle cx="359.80" cy="96.00" r="3.60" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<line x1="359.80" y1="90.00" x2="359.80" y2="81.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.6"/>
+<text x="364.80" y="78.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">11</text>
+<text x="60.00" y="144.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ROW TWO · WHEN THE DECISIVE MEASUREMENT ARRIVED</text>
+<line x1="60.00" y1="180.00" x2="596.00" y2="180.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="78.17" y1="176.00" x2="78.17" y2="184.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="78.17" y="198.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1970</text>
+<line x1="169.02" y1="176.00" x2="169.02" y2="184.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="169.02" y="198.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1980</text>
+<line x1="259.86" y1="176.00" x2="259.86" y2="184.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="259.86" y="198.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1990</text>
+<line x1="350.71" y1="176.00" x2="350.71" y2="184.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="350.71" y="198.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2000</text>
+<line x1="441.56" y1="176.00" x2="441.56" y2="184.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="441.56" y="198.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2010</text>
+<line x1="532.41" y1="176.00" x2="532.41" y2="184.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="532.41" y="198.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2020</text>
+<circle cx="205.36" cy="180.00" r="3.60" fill="var(--hot,#C45C3E)"/>
+<line x1="205.36" y1="174.00" x2="205.36" y2="164.00" stroke="var(--hot,#C45C3E)" stroke-width="0.6"/>
+<text x="210.36" y="162.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">A</text>
+<circle cx="359.80" cy="180.00" r="3.60" fill="var(--hot,#C45C3E)"/>
+<line x1="359.80" y1="174.00" x2="359.80" y2="164.00" stroke="var(--hot,#C45C3E)" stroke-width="0.6"/>
+<text x="354.80" y="162.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="end">B</text>
+<circle cx="368.88" cy="180.00" r="3.60" fill="var(--hot,#C45C3E)"/>
+<line x1="368.88" y1="174.00" x2="368.88" y2="164.00" stroke="var(--hot,#C45C3E)" stroke-width="0.6"/>
+<text x="373.88" y="162.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">C</text>
+<circle cx="432.47" cy="180.00" r="3.60" fill="var(--hot,#C45C3E)"/>
+<line x1="432.47" y1="174.00" x2="432.47" y2="164.00" stroke="var(--hot,#C45C3E)" stroke-width="0.6"/>
+<text x="427.47" y="162.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="end">D</text>
+<circle cx="459.73" cy="180.00" r="3.60" fill="var(--hot,#C45C3E)"/>
+<line x1="459.73" y1="174.00" x2="459.73" y2="164.00" stroke="var(--hot,#C45C3E)" stroke-width="0.6"/>
+<text x="464.73" y="162.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">E</text>
+<circle cx="523.32" cy="180.00" r="3.60" fill="var(--hot,#C45C3E)"/>
+<line x1="523.32" y1="174.00" x2="523.32" y2="164.00" stroke="var(--hot,#C45C3E)" stroke-width="0.6"/>
+<text x="518.32" y="162.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="end">F</text>
+<circle cx="559.66" cy="180.00" r="3.60" fill="var(--hot,#C45C3E)"/>
+<line x1="559.66" y1="174.00" x2="559.66" y2="164.00" stroke="var(--hot,#C45C3E)" stroke-width="0.6"/>
+<text x="564.66" y="162.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">G</text>
+<circle cx="568.75" cy="180.00" r="3.60" fill="var(--hot,#C45C3E)"/>
+<line x1="568.75" y1="174.00" x2="568.75" y2="164.00" stroke="var(--hot,#C45C3E)" stroke-width="0.6"/>
+<text x="563.75" y="162.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="end">H</text>
+<circle cx="586.92" cy="180.00" r="3.60" fill="var(--hot,#C45C3E)"/>
+<line x1="586.92" y1="174.00" x2="586.92" y2="164.00" stroke="var(--hot,#C45C3E)" stroke-width="0.6"/>
+<text x="591.92" y="162.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">I</text>
+<rect x="69.08" y="210.00" width="290.71" height="16.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.16"/>
+<rect x="69.08" y="210.00" width="290.71" height="16.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="214.44" y="222.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">THE ADOPTION PERIOD</text>
+<rect x="359.80" y="210.00" width="236.20" height="16.00" fill="var(--hot,#C45C3E)" fill-opacity="0.16"/>
+<rect x="359.80" y="210.00" width="236.20" height="16.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="477.90" y="222.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">THE EVIDENCE PERIOD</text>
+<line x1="60.00" y1="244.00" x2="596.00" y2="244.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="60.00" y="264.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">1</text>
+<circle cx="80.00" cy="260.50" r="3.20" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="90.00" y="264.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1969 HAY</text>
+<text x="60.00" y="281.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">2</text>
+<rect x="76.80" y="274.30" width="6.40" height="6.40" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="90.00" y="281.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1976 PEI ARK</text>
+<text x="60.00" y="298.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">3</text>
+<rect x="76.80" y="291.30" width="6.40" height="6.40" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="90.00" y="298.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1978 PERMACULTURE</text>
+<text x="60.00" y="315.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">4</text>
+<circle cx="80.00" cy="311.50" r="3.20" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="90.00" y="315.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1981 NBS CELLS</text>
+<text x="246.00" y="264.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">5</text>
+<rect x="262.80" y="257.30" width="6.40" height="6.40" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="276.00" y="264.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1983 THE WOODLANDS</text>
+<text x="246.00" y="281.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">6</text>
+<circle cx="266.00" cy="277.50" r="3.20" fill="var(--dim,#B8B5AC)"/>
+<text x="276.00" y="281.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1984 ULRICH</text>
+<text x="246.00" y="298.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">7</text>
+<rect x="262.80" y="291.30" width="6.40" height="6.40" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="276.00" y="298.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1984 BERLIN BAF</text>
+<text x="246.00" y="315.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">8</text>
+<rect x="262.80" y="308.30" width="6.40" height="6.40" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="276.00" y="315.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1991 BIOSPHERE 2</text>
+<text x="432.00" y="264.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">9</text>
+<line x1="448.80" y1="257.30" x2="455.20" y2="263.70" stroke="var(--dim,#B8B5AC)" stroke-width="1.4"/>
+<line x1="448.80" y1="263.70" x2="455.20" y2="257.30" stroke="var(--dim,#B8B5AC)" stroke-width="1.4"/>
+<text x="462.00" y="264.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1994 OOSTVAARDERSPLASSEN</text>
+<text x="432.00" y="281.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">10</text>
+<path d="M452.0 273.3 L456.2 277.5 L452.0 281.7 L447.8 277.5 Z" fill="var(--dim,#B8B5AC)"/>
+<text x="462.00" y="281.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1999 NEUBRANDENBURG</text>
+<text x="432.00" y="298.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">11</text>
+<circle cx="452.00" cy="294.50" r="3.20" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="462.00" y="298.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2001 PROBE</text>
+<line x1="60.00" y1="338.00" x2="596.00" y2="338.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="60.00" y="358.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">A</text>
+<text x="78.00" y="358.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1984 NBS CELLS</text>
+<text x="60.00" y="375.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">B</text>
+<text x="78.00" y="375.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2001 WETLAND COMPLIANCE</text>
+<text x="60.00" y="392.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">C</text>
+<text x="78.00" y="392.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2002 ADAPTIVE COMFORT</text>
+<text x="246.00" y="358.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">D</text>
+<text x="264.00" y="358.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2009 LEED</text>
+<text x="246.00" y="375.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">E</text>
+<text x="264.00" y="375.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2012 WETLAND RECOVERY</text>
+<text x="246.00" y="392.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">F</text>
+<text x="264.00" y="392.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2019 TWENTY-YEAR ROOF</text>
+<text x="432.00" y="358.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">G</text>
+<text x="450.00" y="358.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2023 RETENTION COLLAPSE</text>
+<text x="432.00" y="375.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">H</text>
+<text x="450.00" y="375.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2024 PERMACULTURE SOILS</text>
+<text x="432.00" y="392.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">I</text>
+<text x="450.00" y="392.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">2026 ULRICH CONFOUND</text>
+<line x1="60.00" y1="414.00" x2="596.00" y2="414.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="60.00" y="430.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MODE</text>
+<circle cx="104.00" cy="426.50" r="3.20" fill="var(--dim,#B8B5AC)"/>
+<text x="113.00" y="430.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IMAGE</text>
+<path d="M155.0 422.3 L159.2 426.5 L155.0 430.7 L150.8 426.5 Z" fill="var(--dim,#B8B5AC)"/>
+<text x="164.00" y="430.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MATERIAL</text>
+<circle cx="222.20" cy="426.50" r="3.20" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="231.20" y="430.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CLIMATE</text>
+<rect x="280.80" y="423.30" width="6.40" height="6.40" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="293.00" y="430.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SYSTEM</text>
+<line x1="337.20" y1="423.30" x2="343.60" y2="429.70" stroke="var(--dim,#B8B5AC)" stroke-width="1.4"/>
+<line x1="337.20" y1="429.70" x2="343.60" y2="423.30" stroke="var(--dim,#B8B5AC)" stroke-width="1.4"/>
+<text x="349.40" y="430.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PARTNER</text>
+<text x="60.00" y="456.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A SLICE OF THE MASTER TIMELINE · THE PERIOD IS THE ADOPTION PERIOD; THE EVIDENCE RUNS TO THE PRESENT</text>
+</svg>

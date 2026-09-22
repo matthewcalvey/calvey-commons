@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 424" role="img" aria-label="A set of scaled blocks representing quantities of earth, rock, drainage and plants, next to a cross-section of a road passing beneath a park.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE SEASON'S WORK, FROM THE 1859 ANNUAL REPORT</text>
+<text x="58" y="38" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BLOCKS ARE PROPORTIONAL IN AREA TO CUBIC YARDS MOVED</text>
+<rect x="58" y="14" width="196" height="196" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="58" y="224" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">EARTH</text>
+<text x="58" y="237" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">1,144,800</text>
+<rect x="268" y="128.49" width="81.51" height="81.51" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="268" y="224" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ROCK</text>
+<text x="268" y="237" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">198,000</text>
+<rect x="363.51" y="161.9" width="48.1" height="48.1" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="363.51" y="224" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FILL</text>
+<text x="363.51" y="237" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">68,950</text>
+<rect x="425.61" y="175.07" width="34.93" height="34.93" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="425.61" y="224" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MASONRY</text>
+<text x="425.61" y="237" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">36,350</text>
+<text x="58" y="256" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CUBIC YARDS. THE EARTH BLOCK IS NOT AN EXAGGERATION — IT IS THE RATIO.</text>
+<line x1="58" y1="278" x2="612" y2="278" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="292" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DRAINAGE LAID</text>
+<text x="58" y="310" font-family="&#39;Space Mono&#39;,monospace" font-size="14" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">10.75</text>
+<text x="58" y="324" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MILES</text>
+<text x="244" y="292" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MEN A DAY, AVERAGE</text>
+<text x="244" y="310" font-family="&#39;Space Mono&#39;,monospace" font-size="14" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">3,027</text>
+<text x="244" y="324" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AT PEAK 3,666</text>
+<text x="430" y="292" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLANTS</text>
+<text x="430" y="310" font-family="&#39;Space Mono&#39;,monospace" font-size="14" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">11,365</text>
+<text x="430" y="324" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SMALLEST NUMBER ON THE SHEET</text>
+<text x="58" y="346" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DRAINAGE AND EARTHWORK DWARF THE PLANTING. THE PARK IS AN ENGINEERING WORK WITH TREES ON IT.</text>
+<text x="420" y="56" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SUNKEN TRANSVERSE</text>
+<path d="M420 140 L448 140 L460 188 L548 188 L560 140 L588 140" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="460" y="180" width="88" height="8" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="466" y="202" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TRAFFIC, OUT OF SIGHT</text>
+<path d="M448 140 L464 124 L544 124 L560 140" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="464" y1="124" x2="544" y2="124" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="420" y="114" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">A PARK PATH CROSSES OVER</text>
+</svg>

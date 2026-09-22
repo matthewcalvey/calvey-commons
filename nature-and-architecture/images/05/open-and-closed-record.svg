@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 450" role="img" aria-label="Three-column diagram of this chapter&#x27;s sources by how far they can be read, showing the most candid evidence is the least obtainable.">
+<text x="52.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">READABLE IN FULL</text>
+<line x1="52.00" y1="42.00" x2="228.00" y2="42.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<rect x="52.00" y="60.00" width="176.00" height="26.00" fill="var(--ok,#7AB87A)" fill-opacity="0.16"/>
+<rect x="52.00" y="60.00" width="176.00" height="26.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="60.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NATIONAL BUREAU OF</text>
+<text x="60.00" y="82.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">STANDARDS</text>
+<rect x="52.00" y="94.00" width="176.00" height="26.00" fill="var(--ok,#7AB87A)" fill-opacity="0.16"/>
+<rect x="52.00" y="94.00" width="176.00" height="26.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="60.00" y="106.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NBSIR SERIES</text>
+<rect x="52.00" y="128.00" width="176.00" height="26.00" fill="var(--ok,#7AB87A)" fill-opacity="0.16"/>
+<rect x="52.00" y="128.00" width="176.00" height="26.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="60.00" y="140.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">eSCHOLARSHIP</text>
+<rect x="52.00" y="162.00" width="176.00" height="26.00" fill="var(--ok,#7AB87A)" fill-opacity="0.16"/>
+<rect x="52.00" y="162.00" width="176.00" height="26.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="60.00" y="174.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NRC CANADA ARCHIVE</text>
+<rect x="52.00" y="196.00" width="176.00" height="26.00" fill="var(--ok,#7AB87A)" fill-opacity="0.16"/>
+<rect x="52.00" y="196.00" width="176.00" height="26.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="60.00" y="208.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE NATIONAL ACADEMIES</text>
+<text x="52.00" y="238.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FEDERAL AND NATIONAL</text>
+<text x="52.00" y="249.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RESEARCH BODIES</text>
+<text x="238.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">ABSTRACT ONLY</text>
+<line x1="238.00" y1="42.00" x2="414.00" y2="42.00" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<rect x="238.00" y="60.00" width="176.00" height="26.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.16"/>
+<rect x="238.00" y="60.00" width="176.00" height="26.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="246.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">UK UNIVERSITY</text>
+<text x="246.00" y="82.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REPOSITORIES</text>
+<rect x="238.00" y="94.00" width="176.00" height="26.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.16"/>
+<rect x="238.00" y="94.00" width="176.00" height="26.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="246.00" y="106.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE OPEN PUBLISHERS</text>
+<text x="238.00" y="136.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">UNIVERSITIES AND</text>
+<text x="238.00" y="147.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OPEN-ACCESS JOURNALS</text>
+<text x="424.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">UNREACHABLE</text>
+<line x1="424.00" y1="42.00" x2="600.00" y2="42.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<rect x="424.00" y="60.00" width="176.00" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.12"/>
+<rect x="424.00" y="60.00" width="176.00" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="432.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE PROBE SERIES</text>
+<rect x="424.00" y="94.00" width="176.00" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.12"/>
+<rect x="424.00" y="94.00" width="176.00" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="432.00" y="106.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DEPARTMENT OF ENERGY</text>
+<text x="432.00" y="116.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REPORTS</text>
+<rect x="424.00" y="128.00" width="176.00" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.12"/>
+<rect x="424.00" y="128.00" width="176.00" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="432.00" y="140.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE FLL GREEN ROOF</text>
+<text x="432.00" y="150.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GUIDELINE</text>
+<rect x="424.00" y="162.00" width="176.00" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.12"/>
+<rect x="424.00" y="162.00" width="176.00" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="432.00" y="174.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE BERLIN REGULATION</text>
+<rect x="424.00" y="196.00" width="176.00" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.12"/>
+<rect x="424.00" y="196.00" width="176.00" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="432.00" y="208.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">JOURNAL OF THE NEW</text>
+<text x="432.00" y="218.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ALCHEMISTS</text>
+<rect x="424.00" y="230.00" width="176.00" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.12"/>
+<rect x="424.00" y="230.00" width="176.00" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="432.00" y="242.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ELSEVIER ECOLOGY AND</text>
+<text x="432.00" y="252.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ENERGY</text>
+<text x="424.00" y="272.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">COMMERCIAL PUBLISHERS,</text>
+<text x="424.00" y="283.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">STANDARDS BODIES,</text>
+<text x="424.00" y="294.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BLOCKED SERVERS</text>
+<line x1="52.00" y1="306.00" x2="596.00" y2="306.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="424.00" y="316.00" width="172.00" height="64.00" fill="var(--hot,#C45C3E)" fill-opacity="0.1"/>
+<rect x="424.00" y="316.00" width="172.00" height="64.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="432.00" y="334.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.02em">THE PROFESSION’S MOST</text>
+<text x="432.00" y="345.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.02em">CANDID SELF-EXAMINATION</text>
+<text x="432.00" y="356.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.02em">AND THE TWO DOCUMENTS</text>
+<text x="432.00" y="367.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.02em">BY WHICH EUROPE MADE</text>
+<text x="432.00" y="378.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.02em">ECOLOGY BINDING</text>
+<text x="52.00" y="330.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">This is the chapter’s measurement-line figure: made and enclosed.</text>
+<text x="52.00" y="345.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The most useful record is the least obtainable, and the pattern is not</text>
+<text x="52.00" y="360.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">random — it follows who published, not what was found.</text>
+<text x="52.00" y="406.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ACCESS TESTS RECORDED ACROSS THE FIVE LANES AND SUMMARISED IN §02.9</text>
+</svg>

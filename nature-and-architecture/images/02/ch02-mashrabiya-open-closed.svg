@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Two charts, one of air-speed distributions for three spaces and one of daily temperature swings for rooms and courtyard.">
+<text x="40.0" y="48.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AIR SPEED AT 1.1 M  ·  m/s</text>
+<line x1="208.0" y1="58.0" x2="208.0" y2="148.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="208.0" y="164.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="294.2" y1="58.0" x2="294.2" y2="148.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="294.2" y="164.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2</text>
+<line x1="380.4" y1="58.0" x2="380.4" y2="148.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="380.4" y="164.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">4</text>
+<line x1="466.7" y1="58.0" x2="466.7" y2="148.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="466.7" y="164.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">6</text>
+<line x1="552.9" y1="58.0" x2="552.9" y2="148.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="552.9" y="164.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">8</text>
+<text x="196.0" y="79.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">OPEN SCREEN ROOM</text>
+<rect x="208.0" y="66.0" width="297.5" height="18.0" fill="var(--surface,#1F211E)"/>
+<rect x="208.0" y="66.0" width="297.5" height="18.0" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="513.5" y="79.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">0 TO 6.9</text>
+<text x="196.0" y="109.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">CLOSED SCREEN ROOM</text>
+<rect x="208.0" y="96.0" width="47.4" height="18.0" fill="var(--surface,#1F211E)"/>
+<rect x="208.0" y="96.0" width="47.4" height="18.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="263.4" y="109.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">0 TO 1.1</text>
+<text x="196.0" y="139.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">COURTYARD</text>
+<rect x="208.0" y="126.0" width="349.2" height="18.0" fill="var(--surface,#1F211E)"/>
+<rect x="208.0" y="126.0" width="349.2" height="18.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="565.2" y="139.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">0 TO 8.1</text>
+<line x1="294.2" y1="60.0" x2="294.2" y2="90.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="300.2" y="58.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MODE 2 m/s</text>
+<line x1="208.0" y1="58.0" x2="208.0" y2="148.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="40.0" y="190.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE SCREEN MULTIPLIED ROOM AIR SPEED ABOUT SIXFOLD.</text>
+<line x1="40.0" y1="212.0" x2="596.0" y2="212.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="40.0" y="244.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DAILY TEMPERATURE SWING  ·  DEGREES</text>
+<line x1="208.0" y1="254.0" x2="208.0" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="208.0" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="277.3" y1="254.0" x2="277.3" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="277.3" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">4</text>
+<line x1="346.7" y1="254.0" x2="346.7" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="346.7" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">8</text>
+<line x1="416.0" y1="254.0" x2="416.0" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="416.0" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">12</text>
+<line x1="485.3" y1="254.0" x2="485.3" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="485.3" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">16</text>
+<text x="196.0" y="275.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">ROOMS</text>
+<rect x="244.4" y="262.0" width="36.4" height="18.0" fill="var(--surface,#1F211E)"/>
+<rect x="244.4" y="262.0" width="36.4" height="18.0" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="288.8" y="275.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">2.1 TO 4.2</text>
+<text x="196.0" y="307.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">COURTYARD</text>
+<rect x="370.9" y="294.0" width="114.4" height="18.0" fill="var(--surface,#1F211E)"/>
+<rect x="370.9" y="294.0" width="114.4" height="18.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="493.3" y="307.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">9.4 TO 16</text>
+<line x1="208.0" y1="254.0" x2="208.0" y2="322.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="40.0" y="370.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BAESHEN HOUSE, OLD JEDDAH · TWO COMPARABLE ROOMS, 4 AUG – 1 SEPT 2018</text>
+<text x="40.0" y="386.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HOT-HUMID RED SEA COAST, NOT THE ARID INTERIOR · THE DAYLIGHT CLAIM IS UNMEASURED.</text>
+</svg>

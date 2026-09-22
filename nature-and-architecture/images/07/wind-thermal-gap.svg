@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 396" role="img" aria-label="Wind speed axis with comfort thresholds at 2.5, 5 and 8 metres per second above and the measured thermal benefit band of 0.5 to 2 below.">
+
+<line x1="70" y1="214" x2="600" y2="214" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="70" y1="214" x2="70" y2="220" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="70" y="233" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="123" y1="214" x2="123" y2="217" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="176" y1="214" x2="176" y2="220" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="176" y="233" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2</text>
+<line x1="229" y1="214" x2="229" y2="217" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="282" y1="214" x2="282" y2="220" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="282" y="233" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">4</text>
+<line x1="335" y1="214" x2="335" y2="217" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="388" y1="214" x2="388" y2="220" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="388" y="233" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">6</text>
+<line x1="441" y1="214" x2="441" y2="217" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="494" y1="214" x2="494" y2="220" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="494" y="233" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">8</text>
+<line x1="547" y1="214" x2="547" y2="217" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="600" y1="214" x2="600" y2="220" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="600" y="233" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10</text>
+<text x="70" y="249" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">WIND SPEED  M / S</text>
+<text x="70" y="48" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">LAWSON COMFORT THRESHOLDS AT 5 % EXCEEDANCE  ·  REGULATORY</text>
+<rect x="70" y="62" width="132.5" height="34" fill="var(--dim,#B8B5AC)" opacity="0.22"/>
+<rect x="70" y="62" width="132.5" height="34" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="136.25" y="83" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">SITTING</text>
+<rect x="202.5" y="62" width="132.5" height="34" fill="var(--dim,#B8B5AC)" opacity="0.32"/>
+<rect x="202.5" y="62" width="132.5" height="34" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="268.75" y="83" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">STANDING, STROLLING</text>
+<rect x="335" y="62" width="159" height="34" fill="var(--dim,#B8B5AC)" opacity="0.42"/>
+<rect x="335" y="62" width="159" height="34" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="414.5" y="83" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">WALKING</text>
+<rect x="494" y="62" width="106" height="34" fill="var(--hot,#C45C3E)" opacity="0.3"/>
+<rect x="494" y="62" width="106" height="34" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="547" y="83" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">UNCOMFORTABLE</text>
+<line x1="202.5" y1="96" x2="202.5" y2="214" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="210.5" y="111" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">2.5</text>
+<line x1="335" y1="96" x2="335" y2="214" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="343" y="111" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">5</text>
+<line x1="494" y1="96" x2="494" y2="214" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="502" y="111" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">8</text>
+<rect x="494" y="122" width="106" height="30" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="547" y="141" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">DANGER CRITERION</text>
+<text x="486" y="141" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">UNFILLED →</text>
+<line x1="176" y1="190" x2="335" y2="190" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="176" y1="186" x2="176" y2="194" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="335" y1="186" x2="335" y2="194" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="255.5" y="182" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">THE GAP</text>
+<text x="70" y="276" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">MEASURED THERMAL INTERACTION</text>
+<rect x="96.5" y="286" width="79.5" height="30" fill="var(--accent,#6A9CC4)" opacity="0.42"/>
+<rect x="96.5" y="286" width="79.5" height="30" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="96.5" y="332" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">0.5</text>
+<text x="176" y="332" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">2.0</text>
+<rect x="176" y="286" width="79.5" height="30" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="255.5" y="332" font-family="'Space Mono',monospace" font-size="10" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.04em">3.5</text>
+<line x1="176" y1="218" x2="176" y2="286" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4"/>
+<text x="269.5" y="299" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">SIGNIFICANT REDUCTION IN MEAN RADIANT AND</text>
+<text x="269.5" y="311" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">GLOBE TEMPERATURE BETWEEN 0.5 AND 2.0</text>
+<text x="269.5" y="326" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">2.0 – 3.5  NO SIGNIFICANT FURTHER EFFECT</text>
+<text x="70" y="356" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">The breeze doing the thermal work sits entirely below the standing threshold. Two regulatory traditions are</text>
+<text x="70" y="367" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">calibrated on one axis without reference to each other. Both authoritative wind papers sit inside a purchased</text>
+<text x="70" y="378" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">standard; the thresholds are recovered sideways from Gür and Karadag 2024. Thermal band: Sangkertadi 2017.</text>
+</svg>

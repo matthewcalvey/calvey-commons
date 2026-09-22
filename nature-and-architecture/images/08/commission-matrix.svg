@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Scatter plot of twenty-five proposed studies against consequence and cost, with the most consequential clustered among the cheapest.">
+
+<line x1="116" y1="82" x2="116" y2="292" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="116" y1="292" x2="560" y2="292" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="116" y1="292" x2="560" y2="292" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="116" y1="82" x2="116" y2="292" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="116" y1="241" x2="560" y2="241" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="227" y1="82" x2="227" y2="292" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="116" y1="190" x2="560" y2="190" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="338" y1="82" x2="338" y2="292" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="116" y1="139" x2="560" y2="139" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="449" y1="82" x2="449" y2="292" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="116" y1="88" x2="560" y2="88" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="560" y1="82" x2="560" y2="292" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="110" y="66" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">HOW MUCH IT WOULD CHANGE PRACTICE  ↑</text>
+<text x="110" y="295" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">LOW</text>
+<text x="110" y="91" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">HIGH</text>
+<text x="116" y="310" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">CHEAP</text>
+<text x="560" y="310" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">EXPENSIVE</text>
+<text x="266" y="310" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">WHAT IT WOULD TAKE  →</text>
+<rect x="133.76" y="94.12" width="155.4" height="57.12" fill="var(--ok,#7AB87A)" opacity="0.1"/>
+<rect x="133.76" y="94.12" width="155.4" height="57.12" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<circle cx="173.72" cy="102.28" r="4.2" fill="var(--ok,#7AB87A)"/>
+<text x="181.72" y="105.28" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C10</text>
+<circle cx="187.04" cy="122.68" r="4.2" fill="var(--ok,#7AB87A)"/>
+<text x="195.04" y="125.68" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C14</text>
+<circle cx="169.28" cy="136.96" r="4.2" fill="var(--ok,#7AB87A)"/>
+<text x="177.28" y="139.96" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C1</text>
+<circle cx="266.96" cy="108.4" r="4.2" fill="var(--ok,#7AB87A)"/>
+<text x="274.96" y="111.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C2</text>
+<circle cx="524.48" cy="100.24" r="4.2" fill="var(--accent,#6A9CC4)"/>
+<text x="516.48" y="103.24" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="end" letter-spacing="0.08em">C3</text>
+<circle cx="298.04" cy="130.84" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="306.04" y="133.84" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">C4</text>
+<circle cx="231.44" cy="165.52" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="239.44" y="168.52" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">C5</text>
+<circle cx="209.24" cy="202.24" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="217.24" y="205.24" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">C6</text>
+<circle cx="364.64" cy="157.36" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="372.64" y="160.36" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">C7</text>
+<circle cx="253.64" cy="116.56" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="245.64" y="119.56" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="end" letter-spacing="0.08em">C8</text>
+<circle cx="444.56" cy="173.68" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="452.56" y="176.68" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">C9</text>
+<circle cx="395.72" cy="190" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="403.72" y="193" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">C11</text>
+<circle cx="422.36" cy="169.6" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="414.36" y="172.6" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="end" letter-spacing="0.08em">C12</text>
+<circle cx="320.24" cy="149.2" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="312.24" y="152.2" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="end" letter-spacing="0.08em">C13</text>
+<circle cx="293.6" cy="181.84" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="301.6" y="184.84" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C15</text>
+<circle cx="213.68" cy="224.68" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="221.68" y="227.68" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C16</text>
+<circle cx="338" cy="161.44" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="330" y="164.44" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">C17</text>
+<circle cx="200.36" cy="153.28" r="4.2" fill="var(--ok,#7AB87A)"/>
+<text x="192.36" y="156.28" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="end" letter-spacing="0.08em">C18</text>
+<circle cx="377.96" cy="136.96" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="385.96" y="139.96" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C19</text>
+<circle cx="315.8" cy="206.32" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="323.8" y="209.32" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C20</text>
+<circle cx="275.84" cy="194.08" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="267.84" y="197.08" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">C21</text>
+<circle cx="475.64" cy="210.4" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="467.64" y="213.4" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">C22</text>
+<circle cx="409.04" cy="226.72" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="417.04" y="229.72" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C23</text>
+<circle cx="244.76" cy="177.76" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="236.76" y="180.76" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">C24</text>
+<circle cx="289.16" cy="238.96" r="3.2" fill="var(--mut,#8A8880)"/>
+<text x="297.16" y="241.96" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C25</text>
+<text x="138.2" y="77.8" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">TIER ONE AND TWO:  HIGH CONSEQUENCE, LOW COST</text>
+<text x="512.48" y="103.24" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="end" letter-spacing="0.08em">THE ONE EXPENSIVE ONE</text>
+<text x="44" y="344" font-family="'Space Mono',monospace" font-size="7" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C10  OVERRIDE RATE FOR AUTOMATED SHADING</text>
+<text x="234" y="344" font-family="'Space Mono',monospace" font-size="7" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C14  THE DEPTH OF THE CURE BALCONY</text>
+<text x="424" y="344" font-family="'Space Mono',monospace" font-size="7" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C1  INTERIOR PLANT MORTALITY</text>
+<text x="44" y="355" font-family="'Space Mono',monospace" font-size="7" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C2  THE SECOND VISIT</text>
+<text x="234" y="355" font-family="'Space Mono',monospace" font-size="7" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">C3  AN ADEQUATELY MEASURED ROOM</text>
+<text x="424" y="355" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C4  DAYLIGHT ROUND ROBIN</text>
+<text x="44" y="366" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C5  GREEN WALL AT A STANDARD DISTANCE</text>
+<text x="234" y="366" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C6  GUT GARKAU</text>
+<text x="424" y="366" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C7  ATTENTION VS STRESS</text>
+<text x="44" y="377" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C8  MODELS EVER COMPARED TO A METER</text>
+<text x="234" y="377" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C9  A REGENERATION CLAIM TESTED</text>
+<text x="424" y="377" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C11  BIOPHILIA AS A FRAMEWORK</text>
+<text x="44" y="388" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C12  ONE BIOMIMETIC BUILDING</text>
+<text x="234" y="388" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C13  DOES POE CHANGE ANYTHING</text>
+<text x="424" y="388" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C15  DISCLOSURE, BY DISCONTINUITY</text>
+<text x="44" y="399" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C16  LIVING-WALL WATER AND LABOUR</text>
+<text x="234" y="399" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C17  GREEN ROOF AT 0, 5 AND 10 YEARS</text>
+<text x="424" y="399" font-family="'Space Mono',monospace" font-size="7" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C18  MONITORING SURVIVAL AT YEAR FIVE</text>
+<text x="44" y="410" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C19  COMMUNITY DATA GOVERNANCE</text>
+<text x="234" y="410" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C20  VENTILATION BEFORE AND AFTER 2020</text>
+<text x="424" y="410" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C21  BIRD STRIKE BEFORE AND AFTER</text>
+<text x="44" y="421" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C22  A CORRIDOR IN AN INHABITED LANDSCAPE</text>
+<text x="234" y="421" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C23  SUITABILITY MAPPING, TESTED</text>
+<text x="424" y="421" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C24  WHO MAINTAINS IT, AND THE MEMBRANE</text>
+<text x="44" y="432" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">C25  ETHICS OF MEASURING OCCUPANTS</text>
+<text x="44" y="452" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">From §02.5.10. Positions are this drawing&#x27;s ranking of the twenty-five commissions on the two axes the</text>
+<text x="44" y="463" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">section names; they are the tiering made visible, not measured quantities. The profession&#x27;s most consequential</text>
+<text x="44" y="474" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">unknowns are mostly cheap.</text>
+</svg>

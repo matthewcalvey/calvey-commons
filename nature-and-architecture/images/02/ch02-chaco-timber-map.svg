@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-label="A regional map with a central canyon and arrows from mountain ranges tens of kilometres away, the western arrow heaviest.">
+<defs><marker id="f28a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="f28b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<circle cx="236.0" cy="194.0" r="50.0" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="200.7" y="161.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">40 KM</text>
+<circle cx="236.0" cy="194.0" r="100.0" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="165.3" y="126.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">80 KM</text>
+<circle cx="236.0" cy="194.0" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="226.0" y="224.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">CHACO CANYON</text>
+<text x="226.0" y="236.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">NO FOREST OF LONG STRAIGHT</text>
+<text x="226.0" y="248.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">CONIFERS GREW NEAR IT</text>
+<path d="M111.5,194.0 L122.83333333333333,179.0 L131.33333333333334,185.75 L139.83333333333334,177.5 L145.5,194.0 Z" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="154.5" y1="197.5" x2="228.0" y2="197.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f28a)" stroke-linecap="round"/>
+<line x1="154.5" y1="194.0" x2="228.0" y2="194.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f28a)" stroke-linecap="round"/>
+<line x1="154.5" y1="190.5" x2="228.0" y2="190.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f28a)" stroke-linecap="round"/>
+<text x="120.5" y="208.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">THE CHUSKAS</text>
+<text x="120.5" y="220.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">72 TO 96 KM</text>
+<path d="M201.60336237999178,70.21649140730372 L212.93669571332512,55.21649140730372 L221.43669571332512,61.96649140730372 L229.93669571332512,53.71649140730372 L235.60336237999178,70.21649140730372 Z" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="222.2" y1="96.0" x2="234.9" y2="186.1" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" marker-end="url(#f28b)" stroke-linecap="round"/>
+<text x="218.6" y="84.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="middle">LA PLATA</text>
+<text x="218.6" y="96.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">OVER 80 KM</text>
+<path d="M271.87576359985405,75.23909050646189 L283.20909693318737,60.23909050646189 L291.70909693318737,66.98909050646189 L300.20909693318737,58.73909050646189 L305.87576359985405,75.23909050646189 Z" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="278.3" y1="99.0" x2="239.3" y2="186.7" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" marker-end="url(#f28b)" stroke-linecap="round"/>
+<text x="296.9" y="89.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">SAN JUAN</text>
+<text x="296.9" y="101.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OVER 80 KM</text>
+<path d="M343.31523692103417,180.93394209154332 L354.6485702543675,165.93394209154332 L363.1485702543675,172.68394209154332 L371.6485702543675,164.43394209154332 L377.31523692103417,180.93394209154332 Z" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="334.5" y1="183.7" x2="244.0" y2="193.2" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" marker-end="url(#f28b)" stroke-linecap="round"/>
+<text x="352.3" y="194.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="end">THE JEMEZ</text>
+<text x="352.3" y="206.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">OVER 80 KM</text>
+<path d="M307.1191255414848,279.0956503812272 L318.4524588748181,264.0956503812272 L326.9524588748181,270.8456503812272 L335.4524588748181,262.5956503812272 L341.1191255414848,279.0956503812272 Z" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="305.4" y1="261.0" x2="241.8" y2="199.6" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" marker-end="url(#f28b)" stroke-linecap="round"/>
+<text x="332.1" y="293.1" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">MOUNT TAYLOR</text>
+<text x="332.1" y="305.1" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND SAN MATEO</text>
+<line x1="392.0" y1="60.0" x2="392.0" y2="300.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="414.0" y="60.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ONE LOG, TRACED</text>
+<rect x="414.0" y="76.0" width="180.0" height="16.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="444.0" y1="76.0" x2="444.0" y2="92.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="474.0" y1="76.0" x2="474.0" y2="92.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="504.0" y1="76.0" x2="504.0" y2="92.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="534.0" y1="76.0" x2="534.0" y2="92.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="564.0" y1="76.0" x2="564.0" y2="92.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="414.0" y1="100.0" x2="594.0" y2="100.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="414.0" y1="96.0" x2="414.0" y2="104.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="594.0" y1="96.0" x2="594.0" y2="104.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="414.0" y="116.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">ABOUT 4.6 M</text>
+<text x="414.0" y="130.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">20 TO 25 CM ACROSS · 85 TO 140 KG</text>
+<text x="414.0" y="156.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE PLAZA TREE OF PUEBLO BONITO</text>
+<text x="414.0" y="168.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SPECIMEN JPB-99, EXCAVATED 1924</text>
+<text x="414.0" y="180.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LONG ASSUMED TO BE LOCAL TIMBER</text>
+<circle cx="420.0" cy="200.0" r="2.6" fill="var(--ok,#7AB87A)"/>
+<text x="432.0" y="203.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DOCUMENTARY ANALYSIS</text>
+<circle cx="420.0" cy="215.0" r="2.6" fill="var(--ok,#7AB87A)"/>
+<text x="432.0" y="218.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">STRONTIUM RATIOS ACROSS THE LOG</text>
+<circle cx="420.0" cy="230.0" r="2.6" fill="var(--ok,#7AB87A)"/>
+<text x="432.0" y="233.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RING-WIDTH DENDROPROVENANCE</text>
+<text x="414.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ALL THREE PUT IT IN THE CHUSKAS,</text>
+<text x="414.0" y="274.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">MORE THAN 50 KM WEST · IT PROBABLY</text>
+<text x="414.0" y="286.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ARRIVED BETWEEN 1100 AND 1130</text>
+<line x1="28.0" y1="320.0" x2="612.0" y2="320.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="28.0" y="342.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WHERE THE WOOD CAME FROM, BY ABOUT 1020</text>
+<rect x="28.0" y="352.0" width="470.0" height="22.0" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="28.0" y="352.0" width="329.0" height="22.0" fill="var(--surface,#1F211E)"/>
+<rect x="28.0" y="352.0" width="329.0" height="22.0" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="38.0" y="367.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE CHUSKA MOUNTAINS · ABOUT 70 %</text>
+<text x="365.0" y="367.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ELSEWHERE</text>
+<text x="512.0" y="367.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em"></text>
+<text x="28.0" y="396.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">OVER 240,000 TREES ACROSS ROUGHLY THREE CENTURIES, MOVED WITHOUT DRAFT ANIMALS OR THE WHEEL.</text>
+<rect x="28.0" y="410.0" width="584.0" height="24.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<text x="40.0" y="426.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE PRIMARIES RETURNED 403 · THE 240,000 AND 70 % FIGURES ARE TO BE RE-VERIFIED</text>
+<text x="28.0" y="452.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GUITERMAN ET AL. 2020 FOR THE SINGLE LOG · THE TOTALS VIA A MAGAZINE SYNTHESIS, MARKED AS SUCH</text>
+<text x="28.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WHERE CHACO’S BEAMS CAME FROM</text>
+<text x="612.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THE FOREST MOVED TO THE SITE</text>
+</svg>

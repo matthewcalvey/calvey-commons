@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="A bar chart of three daily water volumes, the first small, the second about four times larger, the third larger again.">
+<line x1="150.0" y1="250.0" x2="604.0" y2="250.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="142.0" y="253.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="150.0" y1="209.2" x2="604.0" y2="209.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="142.0" y="212.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">5,000</text>
+<line x1="150.0" y1="168.3" x2="604.0" y2="168.3" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="142.0" y="171.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">10,000</text>
+<line x1="150.0" y1="127.5" x2="604.0" y2="127.5" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="142.0" y="130.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">15,000</text>
+<line x1="150.0" y1="86.7" x2="604.0" y2="86.7" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="142.0" y="89.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">20,000</text>
+<text x="30.0" y="150.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90 30 150)">CUBIC METRES A DAY</text>
+<rect x="186.0" y="223.9" width="88.0" height="26.1" fill="var(--surface,#1F211E)"/>
+<rect x="186.0" y="223.9" width="88.0" height="26.1" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="230.0" y="201.9" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">3,200</text>
+<text x="230.0" y="268.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">WHAT</text>
+<text x="230.0" y="280.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE MACHINE GAVE</text>
+<rect x="326.0" y="145.5" width="88.0" height="104.5" fill="var(--surface,#1F211E)"/>
+<rect x="326.0" y="145.5" width="88.0" height="104.5" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="326.0" y1="145.5" x2="414.0" y2="145.5" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="340.0" y1="139.5" x2="340.0" y2="129.5" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="370.0" y1="139.5" x2="370.0" y2="129.5" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="400.0" y1="139.5" x2="400.0" y2="129.5" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="370.0" y="123.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">AT LEAST 12,800</text>
+<text x="370.0" y="268.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">WHAT</text>
+<text x="370.0" y="280.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE FOUNTAINS WANTED</text>
+<rect x="466.0" y="86.7" width="88.0" height="163.3" fill="var(--surface,#1F211E)"/>
+<rect x="466.0" y="86.7" width="88.0" height="163.3" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="510.0" y="64.7" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">20,000</text>
+<text x="510.0" y="268.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE</text>
+<text x="510.0" y="280.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1859 REBUILD</text>
+<line x1="150.0" y1="250.0" x2="604.0" y2="250.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="150.0" y1="54.0" x2="150.0" y2="250.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="196.0" y1="290.0" x2="414.0" y2="290.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="305.0" y="306.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">FOUR TIMES, AT LEAST</text>
+<text x="30.0" y="336.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MACHINE DE MARLY · FOURTEEN WHEELS OF 11.9 M · OVER 250 PUMPS · A LIFT OF 162 M</text>
+<text x="30.0" y="352.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE MACHINE MET ROUGHLY A QUARTER OF THE DEMAND IT WAS BUILT FOR; THE FOUNTAINS</text>
+<text x="30.0" y="366.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WERE PLAYED IN ROTATION AS THE KING WALKED.</text>
+<text x="30.0" y="40.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE ONE GREAT EARLY-MODERN LANDSCAPE WHOSE AMBITION OUTRAN ITS WATER</text>
+<text x="604.0" y="366.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THOMPSON 2006 · DMITRIEVA 2016</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Three panels showing a shading device disabled in turn by the architect, the building manager and the occupant.">
+
+<text x="44" y="52" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE ARCHITECT</text>
+<text x="44" y="64" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RESTRICTS THE OCCUPANT</text>
+<rect x="44" y="84" width="168" height="132" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="44" y1="180" x2="212" y2="180" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="58" y="98" width="140" height="68" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="58" y1="115" x2="198" y2="115" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<line x1="58" y1="132" x2="198" y2="132" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<line x1="58" y1="149" x2="198" y2="149" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="194" y="172" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">3 POSITIONS</text>
+<text x="48" y="196" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BLINDS FIXED TO THREE POSITIONS</text>
+<text x="48" y="207" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">FOR THE SAKE OF THE ELEVATION</text>
+<text x="44" y="238" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em" opacity="0.8">Seagram, 1958</text>
+<line x1="44" y1="254" x2="212" y2="254" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="44" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">REMEDY:</text>
+<text x="96" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">DRAWING</text>
+<text x="234" y="52" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE FACILITIES MANAGER</text>
+<text x="234" y="64" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RESTRICTS THE BUILDING</text>
+<rect x="234" y="84" width="168" height="132" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="234" y1="180" x2="402" y2="180" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="248" y="98" width="140" height="68" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="248" y="98" width="140" height="22" fill="var(--hot,#C45C3E)" opacity="0.28"/>
+<text x="318" y="112" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">VENT LOCKED</text>
+<line x1="256" y1="130" x2="380" y2="130" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<text x="318" y="146" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NIGHT COOLING</text>
+<text x="318" y="156" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NEVER ENABLED</text>
+<text x="238" y="196" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">VENTILATION LOCKED OUT ON</text>
+<text x="238" y="207" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">RAIN AND LOW WIND; NIGHT</text>
+<text x="234" y="238" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em" opacity="0.8">Napier 2013</text>
+<line x1="234" y1="254" x2="402" y2="254" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="234" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">REMEDY:</text>
+<text x="286" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">HANDOVER AND RISK</text>
+<text x="424" y="52" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE OCCUPANT</text>
+<text x="424" y="64" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RESTRICTS THEMSELVES</text>
+<rect x="424" y="84" width="168" height="132" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="424" y1="180" x2="592" y2="180" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="438" y="98" width="140" height="68" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="438" y="98" width="140" height="54" fill="var(--hot,#C45C3E)" opacity="0.28"/>
+<line x1="438" y1="106" x2="578" y2="106" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="438" y1="115" x2="578" y2="115" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="438" y1="124" x2="578" y2="124" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="438" y1="133" x2="578" y2="133" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="438" y1="142" x2="578" y2="142" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="438" y1="151" x2="578" y2="151" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="508" y="162" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">AND LEFT</text>
+<text x="428" y="196" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">A SHADE LOWERED ONCE</text>
+<text x="428" y="207" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">AND NEVER TOUCHED AGAIN</text>
+<text x="424" y="238" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em" opacity="0.8">Talami and Jakubiec 2026</text>
+<line x1="424" y1="254" x2="592" y2="254" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="424" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">REMEDY:</text>
+<text x="476" y="270" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">DEFAULTS</text>
+<rect x="44" y="300" width="552" height="28" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56" y="318" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ONE OUTCOME IN ALL THREE:  A THRESHOLD THAT DOES NOT MOVE.</text>
+<text x="44" y="350" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Only one of the three disablements is architectural. Composed from chapter 4 on Seagram,</text>
+<text x="44" y="361" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Napier 2013 on a Manchester court building, and Talami and Jakubiec 2026 on 9,517 logged</text>
+<text x="44" y="372" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">shade events in tropical offices, where half the participants never touched their shades.</text>
+</svg>

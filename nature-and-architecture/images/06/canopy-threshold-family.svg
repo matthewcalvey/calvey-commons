@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Line chart of cooling benefit against tree canopy percentage showing a non-linear curve inflecting near forty per cent, a contradicting linear response, and a dashed line marking the thirty per cent policy target below both.">
+<line x1="76.00" y1="64.00" x2="76.00" y2="262.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="76.00" y="278.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="156.00" y1="64.00" x2="156.00" y2="262.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="156.00" y="278.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10</text>
+<line x1="236.00" y1="64.00" x2="236.00" y2="262.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="236.00" y="278.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">20</text>
+<line x1="316.00" y1="64.00" x2="316.00" y2="262.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="316.00" y="278.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">30</text>
+<line x1="396.00" y1="64.00" x2="396.00" y2="262.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="396.00" y="278.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">40</text>
+<line x1="476.00" y1="64.00" x2="476.00" y2="262.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="476.00" y="278.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">50</text>
+<line x1="556.00" y1="64.00" x2="556.00" y2="262.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="556.00" y="278.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">60</text>
+<line x1="76.00" y1="262.00" x2="556.00" y2="262.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="76.00" y1="262.00" x2="76.00" y2="64.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="316.00" y="296.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">TREE CANOPY COVER  %</text>
+<text x="36.00" y="163.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 36.00 163.00)">COOLING BENEFIT</text>
+<path d="M76.0 257.6 L84.0 257.6 L92.0 257.5 L100.0 257.4 L108.0 257.3 L116.0 257.2 L124.0 257.0 L132.0 256.9 L140.0 256.7 L148.0 256.5 L156.0 256.2 L164.0 255.9 L172.0 255.6 L180.0 255.2 L188.0 254.7 L196.0 254.1 L204.0 253.5 L212.0 252.8 L220.0 251.9 L228.0 251.0 L236.0 249.8 L244.0 248.5 L252.0 247.1 L260.0 245.4 L268.0 243.4 L276.0 241.2 L284.0 238.7 L292.0 235.9 L300.0 232.7 L308.0 229.1 L316.0 225.1 L324.0 220.8 L332.0 216.0 L340.0 210.7 L348.0 205.1 L356.0 199.1 L364.0 192.7 L372.0 186.1 L380.0 179.2 L388.0 172.1 L396.0 165.0 L404.0 157.8 L412.0 150.8 L420.0 143.9 L428.0 137.2 L436.0 130.9 L444.0 124.8 L452.0 119.2 L460.0 114.0 L468.0 109.2 L476.0 104.8 L484.0 100.9 L492.0 97.3 L500.0 94.1 L508.0 91.3 L516.0 88.8 L524.0 86.5 L532.0 84.6 L540.0 82.9 L548.0 81.4 L556.0 80.1" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="548.00" y="131.32" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">ZITER 2019</text>
+<text x="548.00" y="147.16" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">NON-LINEAR, MADISON</text>
+<path d="M76.0 254.1 L556.0 79.8" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="6 3"/>
+<text x="188.00" y="190.72" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">RALLS 2024</text>
+<text x="188.00" y="206.56" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LINEAR, PORTLAND</text>
+<line x1="396.00" y1="64.00" x2="396.00" y2="262.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="401.00" y="78.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">INFLECTION NEAR 40</text>
+<line x1="316.00" y1="64.00" x2="316.00" y2="262.00" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="311.00" y="78.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">3–30–300 TARGET</text>
+<text x="311.00" y="89.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">A COMPROMISE BELOW THE</text>
+<text x="311.00" y="100.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">MEASURED THRESHOLD, BY ITS</text>
+<text x="311.00" y="111.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">AUTHOR’S OWN STATEMENT</text>
+<rect x="164.00" y="314.00" width="56.00" height="24.00" fill="var(--ok,#7AB87A)" fill-opacity="0.26"/>
+<rect x="164.00" y="314.00" width="56.00" height="24.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<line x1="164.00" y1="310.00" x2="164.00" y2="342.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<line x1="220.00" y1="310.00" x2="220.00" y2="342.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="164.00" y="354.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">11</text>
+<text x="220.00" y="354.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">18</text>
+<text x="268.00" y="324.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">IBEBUCHI 2026, BALTIMORE — ONSET NEAR 11, SATURATION NEAR 18</text>
+<text x="268.00" y="336.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ON A DIFFERENT AXIS: COOLING ENERGY DEMAND, NOT TEMPERATURE</text>
+<text x="76.00" y="52.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">VERTICAL SCALE IS RELATIVE: THE THREE STUDIES DO NOT SHARE A UNIT</text>
+<line x1="64.00" y1="378.00" x2="596.00" y2="378.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="398.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Three measured responses to the same variable, and the adopted target sits below all of them.</text>
+<text x="64.00" y="430.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ZITER 2019 · KONIJNENDIJK 2022 · IBEBUCHI 2026 · RALLS 2024</text>
+</svg>

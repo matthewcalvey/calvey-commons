@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 536" role="img" aria-label="Four line-drawn cross-sections of ancient houses showing where light, air and smoke enter and leave.">
+<defs><marker id="g30a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="g30s" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<line x1="36.0" y1="176.0" x2="203.0" y2="176.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="48.0" y="119.0" width="95.0" height="57.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="48.0" y1="115.0" x2="78.0" y2="115.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="104.0" y1="115.0" x2="143.0" y2="115.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="84.0" y1="119.0" x2="98.0" y2="176.0" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="84.0" y1="119.0" x2="90.0" y2="119.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="86.3" y1="128.5" x2="92.3" y2="128.5" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="88.6" y1="138.0" x2="94.6" y2="138.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="90.9" y1="147.5" x2="96.9" y2="147.5" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="93.2" y1="157.0" x2="99.2" y2="157.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="95.5" y1="166.5" x2="101.5" y2="166.5" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="78.0" y="164.0" width="26.0" height="12.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="91.0" y1="160.0" x2="91.0" y2="107.0" stroke="var(--hot,#C45C3E)" stroke-width="1.5" marker-end="url(#g30s)" stroke-linecap="round"/>
+<text x="38.0" y="101.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">SMOKE, LIGHT AND PEOPLE</text>
+<rect x="109.0" y="166.0" width="34.0" height="10.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="126.0" cy="171.0" r="3.0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="149.0" y="160.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLATFORM,</text>
+<text x="149.0" y="171.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BURIALS UNDER</text>
+<line x1="137.0" y1="127.0" x2="137.0" y2="160.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="149.0" y="133.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">BUCRANIUM</text>
+<text x="91.0" y="192.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">HEARTH</text>
+<line x1="300.0" y1="176.0" x2="507.7" y2="176.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M300,176 q103.85,-60 207.7,0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="304.0" y1="132.0" x2="304.0" y2="132.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="317.0" y1="132.0" x2="304.0" y2="145.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="330.0" y1="132.0" x2="304.0" y2="158.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="343.0" y1="132.0" x2="304.0" y2="171.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="356.0" y1="132.0" x2="312.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="369.0" y1="132.0" x2="325.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="382.0" y1="132.0" x2="338.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="395.0" y1="132.0" x2="351.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="408.0" y1="132.0" x2="364.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="421.0" y1="132.0" x2="377.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="434.0" y1="132.0" x2="390.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="447.0" y1="132.0" x2="403.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="460.0" y1="132.0" x2="416.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="473.0" y1="132.0" x2="429.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="486.0" y1="132.0" x2="442.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="499.0" y1="132.0" x2="455.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="503.7" y1="140.3" x2="468.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="503.7" y1="153.3" x2="481.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="503.7" y1="166.3" x2="494.0" y2="176.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="344.0" y="130.4" width="119.7" height="45.6" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M340,130.4 q63.85,-34 127.7,0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="403.9" y="104.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">NO ROOF SURVIVES</text>
+<rect x="385.9" y="164.0" width="36.0" height="12.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="352.0" y="142.0" width="11.0" height="34.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="429.7" y="158.0" width="34.0" height="18.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="403.9" y="192.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">HEARTH</text>
+<text x="340.0" y="192.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">DRESSER</text>
+<text x="459.7" y="192.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">BOX BED</text>
+<text x="511.7" y="146.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MIDDEN</text>
+<line x1="36.0" y1="400.0" x2="230.4" y2="400.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="48.0" y="400.0" width="106.4" height="21.7" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M36,400 L101.19999999999999,381.0 L166.39999999999998,400" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="88.2" y="377.0" width="26.0" height="4.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="101.2" y1="403.7" x2="101.2" y2="371.0" stroke="var(--hot,#C45C3E)" stroke-width="1.5" marker-end="url(#g30s)" stroke-linecap="round"/>
+<text x="101.2" y="365.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">SMOKE HOLE AND ENTRY</text>
+<rect x="90.2" y="411.7" width="22.0" height="10.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="114.4" y="401.7" width="5.0" height="20.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="154.4" y="405.0" width="30.0" height="9.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="184.4" y="400.0" width="9.0" height="15.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<path d="M188.39999999999998,403 L188.39999999999998,410 L122.39999999999998,408.65999999999997" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#g30a)" stroke-linecap="round"/>
+<text x="198.4" y="409.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">VENTILATOR</text>
+<line x1="116.4" y1="421.7" x2="160.4" y2="425.7" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="164.4" y="428.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DEFLECTOR</text>
+<text x="101.2" y="436.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">FIRE PIT</text>
+<line x1="332.0" y1="400.0" x2="523.2" y2="400.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="420.0" y="350.6" width="91.2" height="49.4" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="454.2" y="301.2" width="57.0" height="49.4" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="454.2" y1="350.6" x2="454.2" y2="400.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="420.0" y1="347.6" x2="511.2" y2="347.6" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="382.0" y="416.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">COURT</text>
+<text x="437.1" y="416.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PASTAS</text>
+<text x="482.7" y="416.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ROOMS</text>
+<line x1="348.0" y1="312.0" x2="443.9" y2="356.6" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#g30a)" stroke-linecap="round"/>
+<text x="348.0" y="306.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WINTER SUN, ABOUT 19 % OF THE COURT</text>
+<line x1="375.9" y1="288.0" x2="391.1" y2="390.0" stroke="var(--hot,#C45C3E)" stroke-width="1.5" marker-end="url(#g30s)" stroke-linecap="round"/>
+<text x="375.9" y="282.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">SUMMER SUN</text>
+<text x="527.2" y="330.6" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">S</text>
+<line x1="452.0" y1="62.0" x2="547.0" y2="62.0" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<line x1="452.0" y1="58.0" x2="452.0" y2="66.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="471.0" y1="58.0" x2="471.0" y2="66.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="490.0" y1="58.0" x2="490.0" y2="66.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="509.0" y1="58.0" x2="509.0" y2="66.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="528.0" y1="58.0" x2="528.0" y2="66.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="547.0" y1="58.0" x2="547.0" y2="66.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="452.0" y="50.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<text x="547.0" y="50.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">5 M</text>
+<text x="557.0" y="65.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE SCALE</text>
+<line x1="48.0" y1="202.0" x2="328.0" y2="202.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.0" y="218.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ÇATALHÖYÜK</text>
+<text x="328.0" y="218.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">c. 7100–5950 BCE</text>
+<text x="48.0" y="233.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE OPENING IS DOOR, WINDOW AND CHIMNEY,</text>
+<text x="48.0" y="245.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND THE HEARTH SITS UNDER IT. CARBON IN THE</text>
+<text x="48.0" y="257.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RIBS OF THE ELDERLY IS THE BEST AIR-QUALITY</text>
+<text x="48.0" y="269.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EVIDENCE IN THE CHAPTER, AND IT IS SKELETAL.</text>
+<line x1="344.0" y1="202.0" x2="624.0" y2="202.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="344.0" y="218.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SKARA BRAE</text>
+<text x="624.0" y="218.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">c. 3180–2500 BCE</text>
+<text x="344.0" y="233.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE HOUSE SITS IN A MIDDEN THAT ACCUMULATED</text>
+<text x="344.0" y="245.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AROUND IT. THAT THE MIDDEN INSULATED IT IS AN</text>
+<text x="344.0" y="257.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">INFERENCE REPEATED SINCE CHILDE, AND NEVER</text>
+<text x="344.0" y="269.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MEASURED. NO ROOF SURVIVES TO TEST.</text>
+<line x1="48.0" y1="452.0" x2="328.0" y2="452.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.0" y="468.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TWIN TREES, MESA VERDE</text>
+<text x="328.0" y="468.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">CUTTING DATE AD 674</text>
+<text x="48.0" y="483.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DUCT IN, DEFLECTOR, FIRE PIT, SMOKE HOLE OUT:</text>
+<text x="48.0" y="495.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A DISPLACEMENT LOOP WITH ITS BAFFLE, COMPLETE</text>
+<text x="48.0" y="507.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IN PLAN AND NEVER INSTRUMENTED. IT ARRIVES</text>
+<text x="48.0" y="519.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">JUST AFTER THIS CHAPTER ENDS.</text>
+<line x1="344.0" y1="452.0" x2="624.0" y2="452.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="344.0" y="468.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">OLYNTHUS</text>
+<text x="624.0" y="468.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">432–348 BCE</text>
+<text x="344.0" y="483.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A 2025 SIMULATION RAN THE SUN THROUGH THE</text>
+<text x="344.0" y="495.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLAN. AT THE WINTER SOLSTICE ONLY SOUTH-</text>
+<text x="344.0" y="507.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FACING COURTS GOT DIRECT SUN AT ALL. THE</text>
+<text x="344.0" y="519.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MOTIVE WAS WINTER SUN, NOT SUMMER SHADE.</text>
+<text x="28.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FOUR EARLY INTERIORS IN SECTION · WHERE LIGHT, AIR AND SMOKE ENTER AND LEAVE</text>
+</svg>

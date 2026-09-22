@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" role="img" aria-label="Timeline of celebrated nature-and-architecture buildings showing that the quantity each is famous for was never measured in any of them.">
+
+<text x="44" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">WHAT WAS MEASURED, AND WHAT WAS CLAIMED</text>
+<line x1="241.58" y1="78" x2="241.58" y2="424" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="241.58" y="72" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1930</text>
+<line x1="295.89" y1="78" x2="295.89" y2="424" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="295.89" y="72" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1950</text>
+<line x1="350.21" y1="78" x2="350.21" y2="424" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="350.21" y="72" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1970</text>
+<line x1="404.53" y1="78" x2="404.53" y2="424" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="404.53" y="72" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1990</text>
+<line x1="458.84" y1="78" x2="458.84" y2="424" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="458.84" y="72" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2010</text>
+<text x="44" y="103" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">GUT GARKAU</text>
+<line x1="228" y1="100" x2="492" y2="100" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="230.72" cy="100" r="3.6" fill="var(--dim,#B8B5AC)"/>
+<text x="239.72" y="98" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">STOCKING RECORD</text>
+<circle cx="230.72" cy="109" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="239.72" y="111" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE BARN&#x27;S AIR</text>
+<path d="M 508 104 C 526 104 526 86 236.72 88" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="129" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">PAIMIO SANATORIUM</text>
+<line x1="228" y1="126" x2="492" y2="126" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="249.73" cy="126" r="3.6" fill="var(--dim,#B8B5AC)"/>
+<text x="258.73" y="124" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">BED COUNT</text>
+<circle cx="249.73" cy="135" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="258.73" y="137" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE HEALING LIGHT</text>
+<path d="M 508 130 C 526 130 526 112 255.73 114" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="155" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">VIIPURI LIBRARY</text>
+<line x1="228" y1="152" x2="492" y2="152" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="255.16" cy="152" r="3.6" fill="var(--dim,#B8B5AC)"/>
+<text x="264.16" y="150" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SEAT COUNT</text>
+<circle cx="255.16" cy="161" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="264.16" y="163" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE ACOUSTIC CEILING</text>
+<path d="M 508 156 C 526 156 526 138 261.16 140" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="181" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">FALLINGWATER</text>
+<line x1="228" y1="178" x2="492" y2="178" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="260.59" cy="178" r="3.6" fill="var(--dim,#B8B5AC)"/>
+<text x="269.59" y="176" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">STRUCTURAL DEFLECTION</text>
+<circle cx="260.59" cy="187" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="269.59" y="189" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE INTERIOR</text>
+<path d="M 508 182 C 526 182 526 164 266.59 166" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="207" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">JOHNSON WAX</text>
+<line x1="228" y1="204" x2="492" y2="204" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="266.02" cy="204" r="3.6" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="275.02" y="202" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">NOTHING PUBLISHED</text>
+<circle cx="266.02" cy="213" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="275.02" y="215" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE DAYLIT HALL</text>
+<path d="M 508 208 C 526 208 526 190 272.02 192" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="233" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE CLIMATRON</text>
+<line x1="228" y1="230" x2="492" y2="230" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="323.05" cy="230" r="3.6" fill="var(--dim,#B8B5AC)"/>
+<text x="332.05" y="228" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">PLANT COUNT</text>
+<circle cx="323.05" cy="239" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="332.05" y="241" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE CONTROLLED CLIMATE</text>
+<path d="M 508 234 C 526 234 526 216 329.05 218" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="259" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">FORD FOUNDATION ATRIUM</text>
+<line x1="228" y1="256" x2="492" y2="256" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="342.06" cy="256" r="3.6" fill="var(--dim,#B8B5AC)"/>
+<text x="351.06" y="254" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">PLANT COUNT</text>
+<circle cx="342.06" cy="265" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="351.06" y="267" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE ATRIUM CLIMATE</text>
+<path d="M 508 260 C 526 260 526 242 348.06 244" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="285" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">VILLAGE HOMES</text>
+<line x1="228" y1="282" x2="492" y2="282" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="363.79" cy="282" r="3.6" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="372.79" y="280" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">NOTHING PUBLISHED</text>
+<circle cx="363.79" cy="291" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="372.79" y="293" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE COOLER STREETS</text>
+<path d="M 508 286 C 526 286 526 268 369.79 270" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="311" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE QUEEN&#x27;S BUILDING</text>
+<line x1="228" y1="308" x2="492" y2="308" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="412.67" cy="308" r="3.6" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="403.67" y="306" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">NOTHING PUBLISHED</text>
+<circle cx="412.67" cy="317" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="403.67" y="319" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">THE STACK VENTILATION</text>
+<path d="M 508 312 C 526 312 526 294 418.67 296" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="337" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE EASTGATE CENTRE</text>
+<line x1="228" y1="334" x2="492" y2="334" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="420.82" cy="334" r="3.6" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="411.82" y="332" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">NOTHING PUBLISHED</text>
+<circle cx="420.82" cy="343" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="411.82" y="345" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">THE TERMITE ANALOGY</text>
+<path d="M 508 338 C 526 338 526 320 426.82 322" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="363" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE WATER CUBE</text>
+<line x1="228" y1="360" x2="492" y2="360" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="453.41" cy="360" r="3.6" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="444.41" y="358" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">NOTHING PUBLISHED</text>
+<circle cx="453.41" cy="369" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="444.41" y="371" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">THE ENVELOPE</text>
+<path d="M 508 364 C 526 364 526 346 459.41 348" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="389" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE BULLITT CENTER</text>
+<line x1="228" y1="386" x2="492" y2="386" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="466.99" cy="386" r="3.6" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="457.99" y="384" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">NOTHING PUBLISHED</text>
+<circle cx="466.99" cy="395" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="457.99" y="397" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">THE NET-POSITIVE YEAR</text>
+<path d="M 508 390 C 526 390 526 372 472.99 374" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="44" y="415" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE KENDEDA BUILDING</text>
+<line x1="228" y1="412" x2="492" y2="412" stroke="var(--line,#32352F)" stroke-width="0.75" opacity="0.4"/>
+<circle cx="483.28" cy="412" r="3.6" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="474.28" y="410" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">NOTHING PUBLISHED</text>
+<circle cx="483.28" cy="421" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="474.28" y="423" font-family="'Space Mono',monospace" font-size="7" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">THE REGENERATION CLAIM</text>
+<path d="M 508 416 C 526 416 526 398 489.28 400" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity="0.5"/>
+<text x="532" y="256" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">THE</text>
+<text x="532" y="266" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">SECOND</text>
+<text x="532" y="276" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">VISIT</text>
+<text x="532" y="288" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">C2</text>
+<circle cx="52" cy="446" r="3.6" fill="var(--dim,#B8B5AC)"/>
+<text x="66" y="449" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">WHAT WAS MEASURED</text>
+<circle cx="230" cy="446" r="3.6" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="244" y="449" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">WHAT WAS CLAIMED — NEVER MEASURED IN ANY OF THEM</text>
+<text x="44" y="478" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">IN ALMOST EVERY CASE THE MEASURED MARK IS A SEAT COUNT, A STOCKING RECORD,</text>
+<text x="44" y="490" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">A PLANT COUNT OR A STRUCTURAL DEFLECTION — AND NEVER THE ENVIRONMENTAL</text>
+<text x="44" y="502" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">QUANTITY THE BUILDING IS FAMOUS FOR.</text>
+<text x="44" y="526" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">From chapter 4 lanes A to D, chapter 5 lanes A and E, chapter 6 lanes B and E, chapter 7 lane E.</text>
+<text x="44" y="537" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Completion years are approximate placements on the timeline, not verified dates.</text>
+</svg>

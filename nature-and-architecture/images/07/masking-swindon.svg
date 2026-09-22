@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Slope chart across six masking conditions showing satisfaction and naturalness falling as water and bird sounds were introduced at constant level.">
+
+<line x1="106" y1="70" x2="106" y2="238" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="106" y1="238" x2="458" y2="238" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="100" y="241" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">-3</text>
+<line x1="106" y1="216.4" x2="458" y2="216.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="100" y="219.4" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">-2</text>
+<line x1="106" y1="194.8" x2="458" y2="194.8" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="100" y="197.8" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">-1</text>
+<line x1="106" y1="173.2" x2="458" y2="173.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="100" y="176.2" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="106" y1="151.6" x2="458" y2="151.6" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="100" y="154.6" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+1</text>
+<line x1="106" y1="130" x2="458" y2="130" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="100" y="133" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+2</text>
+<line x1="106" y1="108.4" x2="458" y2="108.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="100" y="111.4" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+3</text>
+<line x1="106" y1="86.8" x2="458" y2="86.8" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="100" y="89.8" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+4</text>
+<line x1="106" y1="173.2" x2="458" y2="173.2" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="122" y1="238" x2="122" y2="243" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="122" y="255" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">P1a</text>
+<text x="122" y="266" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">FAN-LIKE</text>
+<text x="122" y="275" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOISE</text>
+<line x1="188" y1="238" x2="188" y2="243" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="188" y="255" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">N1</text>
+<text x="188" y="266" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">WATER-</text>
+<text x="188" y="275" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">FALL</text>
+<line x1="254" y1="238" x2="254" y2="243" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="254" y="255" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">N2</text>
+<text x="254" y="266" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">RIVER</text>
+<line x1="320" y1="238" x2="320" y2="243" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="320" y="255" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">N3</text>
+<text x="320" y="266" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">BABBLING</text>
+<text x="320" y="275" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">RIVER</text>
+<line x1="386" y1="238" x2="386" y2="243" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="386" y="255" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">N4</text>
+<text x="386" y="266" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">RIVER +</text>
+<text x="386" y="275" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">BIRDS</text>
+<line x1="452" y1="238" x2="452" y2="243" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="452" y="255" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">P1b</text>
+<text x="452" y="266" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">FAN-LIKE</text>
+<text x="452" y="275" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">NOISE</text>
+<text x="100" y="54" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">SCALE VALUE  ·  SIX THREE-WEEK CONDITIONS OVER EIGHTEEN WEEKS</text>
+<path d="M 122 153.76 L 188 166.72 L 254 175.36 L 320 194.8 L 386 201.28 L 452 151.6" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="122" cy="153.76" r="3" fill="var(--accent,#6A9CC4)"/>
+<circle cx="188" cy="166.72" r="3" fill="var(--accent,#6A9CC4)"/>
+<circle cx="254" cy="175.36" r="3" fill="var(--accent,#6A9CC4)"/>
+<circle cx="320" cy="194.8" r="3" fill="var(--accent,#6A9CC4)"/>
+<circle cx="386" cy="201.28" r="3" fill="var(--accent,#6A9CC4)"/>
+<circle cx="452" cy="151.6" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="466" y="154.6" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">ACOUSTIC</text>
+<text x="466" y="165.6" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">SATISFACTION</text>
+<path d="M 122 132.16 L 386 84.64" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<circle cx="122" cy="132.16" r="3" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<circle cx="386" cy="84.64" r="3" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="396" y="87.64" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">MASKING-SOUND</text>
+<text x="396" y="98.64" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">DISTURBANCE</text>
+<path d="M 122 192.64 L 320 222.88" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<circle cx="122" cy="192.64" r="3" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<circle cx="320" cy="222.88" r="3" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="330" y="225.88" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">RATED</text>
+<text x="330" y="236.88" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">NATURALNESS</text>
+<path d="M 122 151.6 L 386 173.2 L 452 162.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<circle cx="122" cy="151.6" r="3" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="386" cy="173.2" r="3" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="452" cy="162.4" r="3" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="466" y="191.4" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">JOB</text>
+<text x="466" y="202.4" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">SATISFACTION</text>
+<text x="320" y="238.88" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">− 2.3</text>
+<text x="100" y="251.36" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE RIVER WITH BIRDSONG WAS RATED LESS NATURAL THAN A FAN.</text>
+<rect x="122" y="306" width="330" height="20" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="122" y1="316" x2="452" y2="316" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="100" y="320" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">LEVEL</text>
+<text x="466" y="320" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">43.0 – 44.6 dB</text>
+<text x="466" y="331" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">HELD CONSTANT</text>
+<text x="44" y="352" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">930 m², 77 employees, 54 workstations, at Royal Wootton Bassett. Dashed lines carry only the endpoints the paper</text>
+<text x="44" y="363" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">reports; the intermediate values for those three measures are not published. Every self-rated task worsened, and</text>
+<text x="44" y="374" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">the nature sounds masked speech worse than the plain noise did. The authors&#x27; explanation is the lesson: water with</text>
+<text x="44" y="385" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">no visible water element is heard as lavatories and running plumbing. Job satisfaction had not recovered when</text>
+<text x="44" y="396" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">the plain masker was restored. Hongisto, Varjo, Oliva, Haapakangas and Benway 2017.</text>
+</svg>

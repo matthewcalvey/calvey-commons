@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Section through a wound fibre component annotated with measured carbon and glass fibre temperatures and their thirty-three kelvin difference.">
+
+<text x="44" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ONE BUGA FIBRE PAVILION COMPONENT  ·  SCHEMATIC SECTION</text>
+<ellipse cx="198" cy="152" rx="100" ry="58" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<ellipse cx="198" cy="152" rx="74" ry="40" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="298" y1="152" x2="136.93" y2="129.41" stroke="var(--hot,#C45C3E)" stroke-width="1.0" opacity="0.7"/>
+<line x1="288.1" y1="177.17" x2="161.1" y2="117.33" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" opacity="0.7"/>
+<line x1="260.35" y1="197.35" x2="192.59" y2="112.11" stroke="var(--hot,#C45C3E)" stroke-width="1.0" opacity="0.7"/>
+<line x1="220.25" y1="208.55" x2="225.15" y2="114.79" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" opacity="0.7"/>
+<line x1="175.75" y1="208.55" x2="252.33" y2="124.84" stroke="var(--hot,#C45C3E)" stroke-width="1.0" opacity="0.7"/>
+<line x1="135.65" y1="197.35" x2="268.75" y2="140.27" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" opacity="0.7"/>
+<line x1="107.9" y1="177.17" x2="271.16" y2="158.03" stroke="var(--hot,#C45C3E)" stroke-width="1.0" opacity="0.7"/>
+<line x1="98" y1="152" x2="259.07" y2="174.59" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" opacity="0.7"/>
+<line x1="107.9" y1="126.83" x2="234.9" y2="186.67" stroke="var(--hot,#C45C3E)" stroke-width="1.0" opacity="0.7"/>
+<line x1="135.65" y1="106.65" x2="203.41" y2="191.89" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" opacity="0.7"/>
+<line x1="175.75" y1="95.45" x2="170.85" y2="189.21" stroke="var(--hot,#C45C3E)" stroke-width="1.0" opacity="0.7"/>
+<line x1="220.25" y1="95.45" x2="143.67" y2="179.16" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" opacity="0.7"/>
+<line x1="260.35" y1="106.65" x2="127.25" y2="163.73" stroke="var(--hot,#C45C3E)" stroke-width="1.0" opacity="0.7"/>
+<line x1="288.1" y1="126.83" x2="124.84" y2="145.97" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" opacity="0.7"/>
+<circle cx="140" cy="124" r="4.4" fill="var(--hot,#C45C3E)"/>
+<circle cx="252" cy="178" r="4.4" fill="var(--accent,#6A9CC4)"/>
+<text x="146" y="120" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CARBON</text>
+<text x="258" y="182" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">GLASS</text>
+<line x1="98" y1="238" x2="298" y2="238" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="98" y1="233" x2="98" y2="243" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="298" y1="233" x2="298" y2="243" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="198" y="230" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">33.1 K MAXIMUM DIFFERENTIAL</text>
+<text x="198" y="254" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">INSIDE ONE COMPONENT</text>
+<text x="44" y="274" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MEASURED RANGES, 23 MAY TO 31 OCTOBER 2019</text>
+<text x="44" y="294" font-family="'Space Mono',monospace" font-size="11" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">14.9 – 73.0 °C</text>
+<text x="170" y="294" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CARBON BUNDLES</text>
+<text x="44" y="314" font-family="'Space Mono',monospace" font-size="11" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">12.9 – 51.6 °C</text>
+<text x="170" y="314" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">GLASS BUNDLES, IN SHADE</text>
+<line x1="400" y1="86" x2="400" y2="252" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="400" y1="252" x2="596" y2="252" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="394" y="255" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="400" y1="200.8" x2="596" y2="200.8" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="394" y="203.8" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">40</text>
+<line x1="400" y1="149.6" x2="596" y2="149.6" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="394" y="152.6" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">80</text>
+<line x1="400" y1="98.4" x2="596" y2="98.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="394" y="101.4" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">120</text>
+<text x="394" y="70" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">°C  ·  CEILINGS AND THE MEASURED PEAK</text>
+<line x1="400" y1="116.32" x2="596" y2="116.32" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="404" y="110.32" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">106  RESIN GLASS TRANSITION</text>
+<line x1="400" y1="150.88" x2="596" y2="150.88" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="404" y="144.88" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">79  BLACK-FAÇADE GUIDELINE</text>
+<rect x="434" y="155.36" width="90" height="3.2" fill="var(--hot,#C45C3E)" opacity="0.55"/>
+<rect x="434" y="155.36" width="90" height="3.2" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="434" y="174.56" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">73 – 75.5  MEASURED PEAK</text>
+<text x="434" y="186.56" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">BETWEEN THE TWO LINES</text>
+<rect x="44" y="336" width="552" height="30" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54" y="354" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE MATERIAL:  CARBON AND GLASS FIBRE IN A POLYMER MATRIX.</text>
+<text x="54" y="366" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BIOLOGICALLY INFORMED, NOT BIOLOGICALLY DERIVED.</text>
+<text x="44" y="390" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Two fibre types in one wound component run thirty-three kelvin apart in service, which is a differential</text>
+<text x="44" y="401" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">movement and a durability question, not a comfort one. Mindermann et al. 2021.</text>
+</svg>

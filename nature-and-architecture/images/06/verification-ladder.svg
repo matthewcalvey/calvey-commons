@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 540" role="img" aria-label="Ladder diagram ranking nine kinds of building performance verification from instrumented measurement down to unmeasured normative claim.">
+<text x="48.00" y="44.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">STRONGEST FIRST · EACH RUNG STATES THE ACT OF VERIFICATION, WHO PERFORMS IT, AND ONE REAL EXAMPLE</text>
+<line x1="62.00" y1="66.00" x2="62.00" y2="464.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="590.00" y1="66.00" x2="590.00" y2="464.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="62.00" y1="76.00" x2="590.00" y2="76.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="62.00" cy="76.00" r="8.50" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="62.00" y="79.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="middle">1</text>
+<text x="80.00" y="92.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">INSTRUMENTED MEASUREMENT ON THE FINISHED BUILDING</text>
+<text x="80.00" y="103.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">independent investigator; method and numbers published</text>
+<text x="590.00" y="92.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="end">the coheating tests · the 302-worker field study</text>
+<line x1="62.00" y1="120.00" x2="590.00" y2="120.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="62.00" cy="120.00" r="8.50" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="62.00" y="123.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="middle">2</text>
+<text x="80.00" y="136.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A CONTROLLED LABORATORY EXPERIMENT</text>
+<text x="80.00" y="147.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">method and numbers published</text>
+<text x="590.00" y="136.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="end">Allen et al. 2016</text>
+<line x1="62.00" y1="164.00" x2="590.00" y2="164.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="62.00" cy="164.00" r="8.50" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="62.00" y="167.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="middle">3</text>
+<text x="80.00" y="180.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CERTIFICATION ON METERED PERFORMANCE</text>
+<text x="80.00" y="191.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">over a stated occupancy, by the certifying body</text>
+<text x="590.00" y="180.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="end">the Living Building Challenge Energy and Water Petals</text>
+<line x1="62.00" y1="208.00" x2="590.00" y2="208.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.9"/>
+<circle cx="62.00" cy="208.00" r="8.50" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="62.00" y="211.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">4</text>
+<text x="80.00" y="224.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CERTIFICATION ON MEASURED COMPLIANCE</text>
+<text x="80.00" y="235.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">with a single physical requirement</text>
+<text x="590.00" y="224.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">the blower-door test</text>
+<line x1="62.00" y1="252.00" x2="590.00" y2="252.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.9"/>
+<circle cx="62.00" cy="252.00" r="8.50" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="62.00" y="255.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">5</text>
+<text x="80.00" y="268.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CERTIFICATION ON CALCULATION</text>
+<text x="80.00" y="279.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">with standardised inputs</text>
+<text x="590.00" y="268.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">PHPP overheating · EPC bands via RdSAP</text>
+<line x1="62.00" y1="296.00" x2="590.00" y2="296.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.9"/>
+<circle cx="62.00" cy="296.00" r="8.50" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="62.00" y="299.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.0em" text-anchor="middle">6</text>
+<text x="80.00" y="312.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DESIGN-STAGE RATING ON CREDITS AND INTENT</text>
+<text x="590.00" y="312.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="end">the BREEAM and LEED family</text>
+<line x1="62.00" y1="340.00" x2="126.00" y2="340.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="526.00" y1="340.00" x2="590.00" y2="340.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="132.00" y1="335.00" x2="146.00" y2="345.00" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<line x1="506.00" y1="335.00" x2="520.00" y2="345.00" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<circle cx="62.00" cy="340.00" r="8.50" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="62.00" y="343.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">7</text>
+<text x="80.00" y="356.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CONTINUOUS PUBLIC DISPLAY OF LIVE DATA</text>
+<text x="80.00" y="367.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">with no durable record</text>
+<text x="590.00" y="356.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">the Bullitt Center dashboard</text>
+<line x1="62.00" y1="384.00" x2="126.00" y2="384.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="526.00" y1="384.00" x2="590.00" y2="384.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="132.00" y1="379.00" x2="146.00" y2="389.00" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<line x1="506.00" y1="379.00" x2="520.00" y2="389.00" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<circle cx="62.00" cy="384.00" r="8.50" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="62.00" y="387.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">8</text>
+<text x="80.00" y="400.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A DESIGN TARGET REPORTED IN THE PERFECT TENSE</text>
+<text x="590.00" y="400.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">the 73 kWh/m²·year figure</text>
+<line x1="62.00" y1="428.00" x2="590.00" y2="428.00" stroke="var(--hot,#C45C3E)" stroke-width="0.9"/>
+<circle cx="62.00" cy="428.00" r="8.50" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="62.00" y="431.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">9</text>
+<text x="80.00" y="444.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A NORMATIVE CLAIM WITH NO INSTRUMENT</text>
+<text x="590.00" y="444.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">ecological and social regeneration as asserted</text>
+<text x="590.00" y="482.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">RUNGS 7 AND 8 ARE DRAWN AS BROKEN RUNGS</text>
+<line x1="48.00" y1="500.00" x2="592.00" y2="500.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="520.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Ask what was measured, on the finished building, by whom, over how long, and where the data is</text>
+<text x="48.00" y="534.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">published. If any of the five has no answer, the certificate is a statement of intent.</text>
+</svg>

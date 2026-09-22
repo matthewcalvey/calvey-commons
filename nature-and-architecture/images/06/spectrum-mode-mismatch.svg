@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 536" role="img" aria-label="Diagram plotting biophilic design studies by the spectrum mode and position where their evidence was gathered, with arrows to the modes they are cited to justify; the largest studies have the longest arrows.">
+<text x="48.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">LEFT · WHERE THE EVIDENCE WAS GATHERED</text>
+<text x="592.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">RIGHT · WHAT IT IS CITED TO JUSTIFY</text>
+<text x="48.00" y="50.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EACH STUDY CARRIES ITS SAMPLE SIZE AND ITS POSITION</text>
+<text x="48.00" y="62.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OUT = OUTSIDE · THR = THRESHOLD · IN = INSIDE</text>
+<line x1="48.00" y1="104.00" x2="270.00" y2="104.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54.00" y="118.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IMAGE</text>
+<line x1="48.00" y1="148.00" x2="270.00" y2="148.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54.00" y="162.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FORM</text>
+<line x1="48.00" y1="192.00" x2="270.00" y2="192.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54.00" y="206.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MODEL</text>
+<line x1="48.00" y1="236.00" x2="270.00" y2="236.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54.00" y="250.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MATERIAL</text>
+<line x1="48.00" y1="280.00" x2="270.00" y2="280.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54.00" y="294.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CLIMATE</text>
+<line x1="48.00" y1="324.00" x2="270.00" y2="324.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54.00" y="338.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SYSTEM</text>
+<line x1="48.00" y1="368.00" x2="270.00" y2="368.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54.00" y="382.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PARTNER</text>
+<line x1="48.00" y1="412.00" x2="270.00" y2="412.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="48.00" y1="104.00" x2="48.00" y2="412.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="270.00" y1="104.00" x2="270.00" y2="412.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="370.00" y1="104.00" x2="592.00" y2="104.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="376.00" y="118.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IMAGE</text>
+<line x1="370.00" y1="148.00" x2="592.00" y2="148.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="376.00" y="162.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FORM</text>
+<line x1="370.00" y1="192.00" x2="592.00" y2="192.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="376.00" y="206.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MODEL</text>
+<line x1="370.00" y1="236.00" x2="592.00" y2="236.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="376.00" y="250.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MATERIAL</text>
+<line x1="370.00" y1="280.00" x2="592.00" y2="280.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="376.00" y="294.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CLIMATE</text>
+<line x1="370.00" y1="324.00" x2="592.00" y2="324.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="376.00" y="338.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SYSTEM</text>
+<line x1="370.00" y1="368.00" x2="592.00" y2="368.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="376.00" y="382.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PARTNER</text>
+<line x1="370.00" y1="412.00" x2="592.00" y2="412.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="370.00" y1="104.00" x2="370.00" y2="412.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="592.00" y1="104.00" x2="592.00" y2="412.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="262.00" cy="118.00" r="3.20" fill="var(--ink,#ECEAE3)"/>
+<text x="256.00" y="121.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">ULRICH · 23 PAIRS · IN</text>
+<path d="M274.0 118.0 C 310.0 118.0 330.0 250.0 364.0 250.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="356.00" y1="250.00" x2="365.00" y2="250.00" stroke="var(--hot,#C45C3E)" stroke-width="1.6"/>
+<path d="M365.00 250.00 L361.35 251.63 L361.35 248.37 Z" fill="var(--hot,#C45C3E)"/>
+<path d="M274.0 118.0 C 310.0 118.0 330.0 338.0 364.0 338.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="356.00" y1="338.00" x2="365.00" y2="338.00" stroke="var(--hot,#C45C3E)" stroke-width="1.6"/>
+<path d="M365.00 338.00 L361.35 339.63 L361.35 336.37 Z" fill="var(--hot,#C45C3E)"/>
+<path d="M274.0 118.0 C 310.0 118.0 330.0 382.0 364.0 382.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="356.00" y1="382.00" x2="365.00" y2="382.00" stroke="var(--hot,#C45C3E)" stroke-width="1.6"/>
+<path d="M365.00 382.00 L361.35 383.63 L361.35 380.37 Z" fill="var(--hot,#C45C3E)"/>
+<circle cx="262.00" cy="348.00" r="3.20" fill="var(--ink,#ECEAE3)"/>
+<text x="256.00" y="351.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">ROJAS-RUEDA · 8.3 M · OUT</text>
+<path d="M274.0 348.0 C 310.0 348.0 330.0 128.0 364.0 128.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="356.00" y1="128.00" x2="365.00" y2="128.00" stroke="var(--hot,#C45C3E)" stroke-width="1.6"/>
+<path d="M365.00 128.00 L361.35 129.63 L361.35 126.37 Z" fill="var(--hot,#C45C3E)"/>
+<path d="M274.0 348.0 C 310.0 348.0 330.0 260.0 364.0 260.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.8" stroke-linecap="butt"/>
+<line x1="356.00" y1="260.00" x2="365.00" y2="260.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.8"/>
+<path d="M365.00 260.00 L361.35 261.63 L361.35 258.37 Z" fill="var(--dim,#B8B5AC)"/>
+<path d="M274.0 348.0 C 310.0 348.0 330.0 304.0 364.0 304.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.8" stroke-linecap="butt"/>
+<line x1="356.00" y1="304.00" x2="365.00" y2="304.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.8"/>
+<path d="M365.00 304.00 L361.35 305.63 L361.35 302.37 Z" fill="var(--dim,#B8B5AC)"/>
+<circle cx="262.00" cy="358.00" r="3.20" fill="var(--ink,#ECEAE3)"/>
+<text x="256.00" y="361.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">WHITE · 19,806 · OUT</text>
+<path d="M274.0 358.0 C 310.0 358.0 330.0 138.0 364.0 138.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="356.00" y1="138.00" x2="365.00" y2="138.00" stroke="var(--hot,#C45C3E)" stroke-width="1.6"/>
+<path d="M365.00 138.00 L361.35 139.63 L361.35 136.37 Z" fill="var(--hot,#C45C3E)"/>
+<path d="M274.0 358.0 C 310.0 358.0 330.0 270.0 364.0 270.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.8" stroke-linecap="butt"/>
+<line x1="356.00" y1="270.00" x2="365.00" y2="270.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.8"/>
+<path d="M365.00 270.00 L361.35 271.63 L361.35 268.37 Z" fill="var(--dim,#B8B5AC)"/>
+<circle cx="262.00" cy="250.00" r="3.20" fill="var(--ink,#ECEAE3)"/>
+<text x="256.00" y="253.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">CUMMINGS · 196 RESULTS · IN</text>
+<path d="M274.0 250.0 C 310.0 250.0 330.0 294.0 364.0 294.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.8" stroke-linecap="butt"/>
+<line x1="356.00" y1="294.00" x2="365.00" y2="294.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.8"/>
+<path d="M365.00 294.00 L361.35 295.63 L361.35 292.37 Z" fill="var(--dim,#B8B5AC)"/>
+<path d="M274.0 250.0 C 310.0 250.0 330.0 338.0 364.0 338.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.8" stroke-linecap="butt"/>
+<line x1="356.00" y1="338.00" x2="365.00" y2="338.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.8"/>
+<path d="M365.00 338.00 L361.35 339.63 L361.35 336.37 Z" fill="var(--dim,#B8B5AC)"/>
+<circle cx="262.00" cy="128.00" r="3.20" fill="var(--ink,#ECEAE3)"/>
+<text x="256.00" y="131.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">HAN · 2–3 STUDIES · IN</text>
+<path d="M274.0 128.0 C 310.0 128.0 330.0 260.0 364.0 260.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="356.00" y1="260.00" x2="365.00" y2="260.00" stroke="var(--hot,#C45C3E)" stroke-width="1.6"/>
+<path d="M365.00 260.00 L361.35 261.63 L361.35 258.37 Z" fill="var(--hot,#C45C3E)"/>
+<path d="M274.0 128.0 C 310.0 128.0 330.0 304.0 364.0 304.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="356.00" y1="304.00" x2="365.00" y2="304.00" stroke="var(--hot,#C45C3E)" stroke-width="1.6"/>
+<path d="M365.00 304.00 L361.35 305.63 L361.35 302.37 Z" fill="var(--hot,#C45C3E)"/>
+<circle cx="262.00" cy="138.00" r="3.20" fill="var(--ink,#ECEAE3)"/>
+<text x="256.00" y="141.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">BROWNING · 89 · THR</text>
+<path d="M274.0 138.0 C 310.0 138.0 330.0 358.0 364.0 358.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="356.00" y1="358.00" x2="365.00" y2="358.00" stroke="var(--hot,#C45C3E)" stroke-width="1.6"/>
+<path d="M365.00 358.00 L361.35 359.63 L361.35 356.37 Z" fill="var(--hot,#C45C3E)"/>
+<circle cx="262.00" cy="294.00" r="3.20" fill="var(--ink,#ECEAE3)"/>
+<text x="256.00" y="297.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">BOUBEKRI · 30 · IN</text>
+<path d="M274.0 294.0 C 310.0 294.0 330.0 118.0 364.0 118.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="356.00" y1="118.00" x2="365.00" y2="118.00" stroke="var(--hot,#C45C3E)" stroke-width="1.6"/>
+<path d="M365.00 118.00 L361.35 119.63 L361.35 116.37 Z" fill="var(--hot,#C45C3E)"/>
+<path d="M274.0 294.0 C 310.0 294.0 330.0 338.0 364.0 338.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.8" stroke-linecap="butt"/>
+<line x1="356.00" y1="338.00" x2="365.00" y2="338.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.8"/>
+<path d="M365.00 338.00 L361.35 339.63 L361.35 336.37 Z" fill="var(--dim,#B8B5AC)"/>
+<rect x="48.00" y="430.00" width="250.00" height="32.00" fill="var(--hot,#C45C3E)" fill-opacity="0.1"/>
+<rect x="48.00" y="430.00" width="250.00" height="32.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="56.00" y="443.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">HEAVY LINE: THE CITATION CROSSES</text>
+<text x="56.00" y="454.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THREE OR MORE MODES</text>
+<text x="592.00" y="443.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THE ARROWS WITH THE LARGEST SAMPLES ARE THE LONGEST:</text>
+<text x="592.00" y="454.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THE BEST-EVIDENCED STUDIES ARE STRETCHED FURTHEST</text>
+<text x="592.00" y="465.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">FROM WHAT THEY MEASURED.</text>
+<line x1="48.00" y1="492.00" x2="592.00" y2="492.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="512.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The two curves cross at the window: the INSIDE studies are small, the OUTSIDE studies are vast,</text>
+<text x="48.00" y="526.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">and both are cited for the same interiors.</text>
+</svg>

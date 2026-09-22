@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 452" role="img" aria-label="Six sections through a shaded opening showing the separate jobs a veranda or brise-soleil performs and where those jobs conflict with air movement.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FIVE JOBS OF ONE THRESHOLD, AND WHERE THEY CONFLICT</text>
+<text x="58" y="60" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">1 · EXCLUDE BEAM RADIATION</text>
+<rect x="58" y="74" width="76" height="54" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58" y1="128" x2="208" y2="128" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="134" y1="74" x2="198" y2="74" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="134" y1="74" x2="134" y2="128" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="226" y1="52" x2="199.33" y2="69.78" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M196 72 L198.4 68.38 L200.26 71.18 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="196" y1="76" x2="176" y2="128" stroke="var(--line,#32352F)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<text x="244" y="60" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">2 · EXCLUDE DIFFUSE AND GROUND</text>
+<rect x="244" y="74" width="76" height="54" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="244" y1="128" x2="394" y2="128" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="320" y1="74" x2="384" y2="74" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="320" y1="74" x2="320" y2="128" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="340" y1="144" x2="336.35" y2="107.48" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 2"/><path d="M336 104 L337.81 107.34 L334.89 107.63 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="358" y1="144" x2="354.35" y2="107.48" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 2"/><path d="M354 104 L355.81 107.34 L352.89 107.63 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="376" y1="144" x2="372.35" y2="107.48" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 2"/><path d="M372 104 L373.81 107.34 L370.89 107.63 Z" fill="var(--accent,#6A9CC4)"/>
+<line x1="394" y1="144" x2="390.35" y2="107.48" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 2"/><path d="M390 104 L391.81 107.34 L388.89 107.63 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="430" y="60" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">3 · KEEP DRIVING RAIN OUT</text>
+<rect x="430" y="74" width="76" height="54" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="430" y1="128" x2="580" y2="128" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="506" y1="74" x2="570" y2="74" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="506" y1="74" x2="506" y2="128" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="572" y1="60" x2="566" y2="72" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="581" y1="60" x2="575" y2="72" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="590" y1="60" x2="584" y2="72" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="599" y1="60" x2="593" y2="72" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<rect x="502" y="84" width="6" height="34" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="58" y="200" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">4 · MAKE A SHADED OUTDOOR ROOM</text>
+<rect x="58" y="214" width="76" height="54" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58" y1="268" x2="208" y2="268" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="134" y1="214" x2="198" y2="214" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="134" y1="214" x2="134" y2="268" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="150" y="252" width="22" height="16" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<circle cx="180" cy="246" r="5" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="244" y="200" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">5 · CARRY DAYLIGHT DEEP IN</text>
+<rect x="244" y="214" width="76" height="54" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="244" y1="268" x2="394" y2="268" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="320" y1="214" x2="384" y2="214" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="320" y1="214" x2="320" y2="268" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="384" y1="222" x2="255.86" y2="256.95" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M252 258 L255.42 255.33 L256.3 258.57 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="430" y="200" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">6 · ALL FIVE AT ONCE</text>
+<rect x="430" y="214" width="76" height="54" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="430" y1="268" x2="580" y2="268" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="506" y1="214" x2="570" y2="214" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="506" y1="214" x2="506" y2="268" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="598" y1="192" x2="570.91" y2="210.06" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M568 212 L570.1 208.84 L571.73 211.28 Z" fill="var(--mut,#8A8880)"/>
+<line x1="570" y1="222" x2="441.38" y2="257.08" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M438 258 L440.99 255.66 L441.76 258.5 Z" fill="var(--mut,#8A8880)"/>
+<line x1="530" y1="282" x2="526.35" y2="250.98" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/><path d="M526 248 L527.6 250.83 L525.1 251.13 Z" fill="var(--mut,#8A8880)"/>
+<line x1="546" y1="282" x2="542.35" y2="250.98" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/><path d="M542 248 L543.6 250.83 L541.1 251.13 Z" fill="var(--mut,#8A8880)"/>
+<line x1="562" y1="282" x2="558.35" y2="250.98" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/><path d="M558 248 L559.6 250.83 L557.1 251.13 Z" fill="var(--mut,#8A8880)"/>
+<rect x="506" y="218" width="64" height="40" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="510" y="238" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">CONFLICT</text>
+<text x="58" y="352" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">WHERE THEY CONFLICT</text>
+<text x="58" y="372" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">SHADING DEPTH AND SCREEN POROSITY BOTH CUT THE AIR SPEED ACROSS THE OPENING — AND AIR SPEED IS</text>
+<text x="58" y="384" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE DOMINANT COMFORT LEVER IN WARM-HUMID CONDITIONS. DEEPER SHADE BUYS ONE JOB BY LOSING ANOTHER.</text>
+<line x1="58" y1="406" x2="612" y2="406" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="424" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE DECOMPOSITION IS ANALYSIS, NOT A MEASURED FINDING. NO STUDY LOCATED SEPARATES THESE FIVE</text>
+<text x="58" y="436" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">JOBS EXPERIMENTALLY FOR ANY BUILDING IN THE CHAPTER.</text>
+</svg>

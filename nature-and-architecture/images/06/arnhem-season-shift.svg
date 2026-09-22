@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Stacked bars showing a shift from late to early dry season burning with unchanged total burned area.">
+<rect x="140.00" y="72.00" width="100.00" height="53.76" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="140.00" y="72.00" width="100.00" height="53.76" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<rect x="140.00" y="125.76" width="100.00" height="138.24" fill="var(--hot,#C45C3E)" fill-opacity="0.3"/>
+<rect x="140.00" y="125.76" width="100.00" height="138.24" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="190.00" y="102.88" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.04em" text-anchor="middle">28 %</text>
+<text x="190.00" y="198.88" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em" text-anchor="middle">72 %</text>
+<text x="190.00" y="280.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">BEFORE</text>
+<rect x="320.00" y="72.00" width="100.00" height="142.08" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="320.00" y="72.00" width="100.00" height="142.08" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<rect x="320.00" y="214.08" width="100.00" height="49.92" fill="var(--hot,#C45C3E)" fill-opacity="0.3"/>
+<rect x="320.00" y="214.08" width="100.00" height="49.92" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="370.00" y="147.04" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.04em" text-anchor="middle">74 %</text>
+<text x="370.00" y="243.04" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em" text-anchor="middle">26 %</text>
+<text x="370.00" y="280.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">AFTER TWELVE YEARS</text>
+<text x="64.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">PROPORTION OF BURNED AREA BY SEASON</text>
+<text x="64.00" y="46.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WESTERN ARNHEM LAND · ACTIVE FIRE MANAGEMENT FROM 2006</text>
+<rect x="140.00" y="54.00" width="11.00" height="9.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<text x="156.00" y="62.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EARLY DRY SEASON</text>
+<rect x="270.00" y="54.00" width="11.00" height="9.00" fill="var(--hot,#C45C3E)" fill-opacity="0.3"/>
+<text x="286.00" y="62.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LATE DRY SEASON</text>
+<line x1="246.00" y1="72.00" x2="314.00" y2="72.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="246.00" y1="264.00" x2="314.00" y2="264.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="280.00" y="168.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 280.00 168.00)">TOTAL BURNED AREA UNCHANGED</text>
+<rect x="436.00" y="72.00" width="160.00" height="68.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="446.00" y="90.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE ONE THRESHOLD METRIC</text>
+<text x="446.00" y="102.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THAT DID NOT IMPROVE:</text>
+<text x="446.00" y="120.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MAINTENANCE OF</text>
+<text x="446.00" y="131.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">LONG-UNBURNT HABITAT</text>
+<text x="436.00" y="168.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FIRE-FREQUENCY GRADIENT</text>
+<text x="436.00" y="180.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">(WHITEHEAD ET AL. 2015)</text>
+<line x1="432.00" y1="212.00" x2="584.00" y2="212.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="448.00" y1="212.00" x2="448.00" y2="216.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="448.00" y="227.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="482.00" y1="212.00" x2="482.00" y2="216.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="482.00" y="227.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10</text>
+<line x1="516.00" y1="212.00" x2="516.00" y2="216.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="516.00" y="227.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">20</text>
+<line x1="550.00" y1="212.00" x2="550.00" y2="216.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="550.00" y="227.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">30</text>
+<line x1="584.00" y1="212.00" x2="584.00" y2="216.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="584.00" y="227.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">40</text>
+<circle cx="561.22" cy="212.00" r="4.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="482.00" cy="212.00" r="4.20" fill="var(--dim,#B8B5AC)"/>
+<text x="561.22" y="204.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">33.3 %</text>
+<text x="482.00" y="204.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="middle">~10 %</text>
+<text x="436.00" y="246.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ABOVE 1,000 mm RAINFALL · 33.3 %</text>
+<text x="436.00" y="258.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AT 300–700 mm · ABOUT 10 %</text>
+<line x1="64.00" y1="306.00" x2="596.00" y2="306.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="326.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The abatement is entirely a seasonality result. The same country burns; it burns earlier.</text>
+<text x="64.00" y="360.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EVANS ET AL. 2019 · WHITEHEAD ET AL. 2015 · PROPORTIONS ARE THE REPORTED INVERSION</text>
+</svg>

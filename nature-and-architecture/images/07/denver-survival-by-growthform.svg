@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Bar chart of twelve-year plant survival on a Denver roof, highest for woody shrubs and succulents and lowest for upright forbs.">
+
+<line x1="190" y1="74" x2="190" y2="252" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="190" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="272.5" y1="74" x2="272.5" y2="252" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="272.5" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">25</text>
+<line x1="355" y1="74" x2="355" y2="252" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="355" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">50</text>
+<line x1="437.5" y1="74" x2="437.5" y2="252" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="437.5" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">75</text>
+<line x1="520" y1="74" x2="520" y2="252" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="520" y="266" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">100</text>
+<text x="190" y="282" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">TWELVE-YEAR SURVIVAL  ·  %</text>
+<line x1="190" y1="74" x2="190" y2="252" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="198" y="66" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">TAXA SURVIVING OF TAXA PLANTED</text>
+<rect x="190" y="79" width="287.1" height="22" fill="var(--ok,#7AB87A)" opacity="0.42"/>
+<rect x="190" y="79" width="287.1" height="22" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="485.1" y="94" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.04em">87 %</text>
+<text x="180" y="94" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">WOODY SHRUBS</text>
+<text x="198" y="94" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">13 OF 15</text>
+<rect x="190" y="113" width="254.1" height="22" fill="var(--ok,#7AB87A)" opacity="0.42"/>
+<rect x="190" y="113" width="254.1" height="22" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="452.1" y="128" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.04em">77 %</text>
+<text x="180" y="128" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">SUCCULENTS</text>
+<text x="198" y="128" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">17 OF 22</text>
+<rect x="190" y="147" width="141.9" height="22" fill="var(--dim,#B8B5AC)" opacity="0.42"/>
+<rect x="190" y="147" width="141.9" height="22" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="339.9" y="162" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">43 %</text>
+<text x="180" y="162" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">GRAMINOIDS</text>
+<text x="198" y="162" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">3 OF 7</text>
+<rect x="190" y="181" width="118.8" height="22" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<rect x="190" y="181" width="118.8" height="22" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="316.8" y="196" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">36 %</text>
+<text x="180" y="196" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">CREEPING FORBS</text>
+<text x="198" y="196" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">17 OF 47</text>
+<rect x="190" y="215" width="72.6" height="22" fill="var(--hot,#C45C3E)" opacity="0.42"/>
+<rect x="190" y="215" width="72.6" height="22" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="270.6" y="230" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">22 %</text>
+<text x="180" y="230" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">UPRIGHT FORBS</text>
+<text x="198" y="230" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">5 OF 23</text>
+<text x="548" y="184" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE WORST-</text>
+<text x="548" y="194" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">PERFORMING</text>
+<text x="548" y="204" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CATEGORIES</text>
+<text x="548" y="214" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ARE ALSO THE</text>
+<text x="548" y="224" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">LARGEST.</text>
+<rect x="44" y="292" width="552" height="26" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56" y="309" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ALL DELOSPERMA TAXA FAILED.</text>
+<text x="44" y="338" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">The growth forms that give a roof its flowering appearance — the forbs — have the lowest measured longevity,</text>
+<text x="44" y="349" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">and they are the categories the planting schedule is longest in. Woody shrubs and succulents, the least showy</text>
+<text x="44" y="360" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">of the five, hold. Twelve years on one Denver roof, 2007–2019. Schneider, Landis and Bousselot 2021.</text>
+</svg>

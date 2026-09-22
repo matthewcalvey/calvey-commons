@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Diagram contrasting a commissioning credit, which showed no measured effect, with commissioning as sustained practice, which its practitioners credit with delivering performance.">
+<text x="56.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">LEFT · COMMISSIONING AS A RATING CREDIT</text>
+<text x="340.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">RIGHT · COMMISSIONING AS PRACTICE</text>
+<line x1="320.00" y1="52.00" x2="320.00" y2="286.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="56.00" y="60.00" width="232.00" height="42.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="68.00" y="78.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A CREDIT AWARDED</text>
+<text x="68.00" y="92.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AT CERTIFICATION</text>
+<line x1="172.00" y1="104.00" x2="172.00" y2="128.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M172.00 128.00 L170.37 124.35 L173.63 124.35 Z" fill="var(--mut,#8A8880)"/>
+<rect x="56.00" y="134.00" width="232.00" height="58.00" fill="var(--hot,#C45C3E)" fill-opacity="0.1"/>
+<rect x="56.00" y="134.00" width="232.00" height="58.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="68.00" y="154.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MEASURED EFFECT ON ENERGY</text>
+<text x="68.00" y="166.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">USE INTENSITY IN 100</text>
+<text x="68.00" y="178.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CERTIFIED BUILDINGS</text>
+<text x="276.00" y="168.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em" text-anchor="end">NONE</text>
+<text x="56.00" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE MEASUREMENT-AND-VERIFICATION</text>
+<text x="56.00" y="223.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CREDIT HAD NO EFFECT EITHER,</text>
+<text x="56.00" y="234.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SINGLY OR TOGETHER.</text>
+<rect x="344.00" y="60.00" width="240.00" height="42.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="356.00" y="78.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">EXTENDED POST-HANDOVER</text>
+<text x="356.00" y="92.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CONTROL-TUNING</text>
+<line x1="464.00" y1="104.00" x2="464.00" y2="128.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M464.00 128.00 L462.37 124.35 L465.63 124.35 Z" fill="var(--mut,#8A8880)"/>
+<rect x="344.00" y="134.00" width="240.00" height="58.00" fill="var(--ok,#7AB87A)" fill-opacity="0.1"/>
+<rect x="344.00" y="134.00" width="240.00" height="58.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="356.00" y="154.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PERFORMED BY THE DESIGN</text>
+<text x="356.00" y="166.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TEAM, MONTHS AFTER</text>
+<text x="356.00" y="178.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OCCUPATION</text>
+<text x="344.00" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REPORTED BY ITS PRACTITIONERS AS</text>
+<text x="344.00" y="223.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHAT DELIVERED THE STRATEGY IN A</text>
+<text x="344.00" y="234.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MONITORED BUILDING — A CLAIM, NOT</text>
+<text x="344.00" y="245.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A CONTROLLED COMPARISON.</text>
+<line x1="56.00" y1="302.00" x2="596.00" y2="302.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56.00" y="322.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">The same word names a box on a form and a season of work. One was measured; the other was not.</text>
+<text x="56.00" y="352.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NEWSHAM, MANCINI AND BIRT 2009 · SHORT, COOK AND LOMAS 2009 (ABSTRACT)</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 384" role="img" aria-label="A bar chart of ten plant species with maple and oak the tallest bars and rose and bryony the shortest.">
+<line x1="96.0" y1="250.0" x2="604.0" y2="250.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="88.0" y="253.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="96.0" y1="189.4" x2="604.0" y2="189.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="88.0" y="192.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">10</text>
+<line x1="96.0" y1="128.8" x2="604.0" y2="128.8" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="88.0" y="131.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">20</text>
+<line x1="96.0" y1="68.1" x2="604.0" y2="68.1" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="88.0" y="71.1" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">30</text>
+<text x="26.0" y="150.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90 26 150)">OCCURRENCES COUNTED</text>
+<rect x="111.0" y="68.1" width="34.0" height="181.9" fill="var(--surface,#1F211E)"/>
+<rect x="111.0" y="68.1" width="34.0" height="181.9" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="128.0" y="61.1" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">30</text>
+<text x="125.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 125 262)">MAPLE</text>
+<rect x="161.0" y="92.4" width="34.0" height="157.6" fill="var(--surface,#1F211E)"/>
+<rect x="161.0" y="92.4" width="34.0" height="157.6" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="178.0" y="85.4" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">26</text>
+<text x="175.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 175 262)">OAK</text>
+<rect x="211.0" y="134.8" width="34.0" height="115.2" fill="var(--surface,#1F211E)"/>
+<rect x="211.0" y="134.8" width="34.0" height="115.2" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="228.0" y="127.8" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">19</text>
+<text x="225.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 225 262)">HAWTHORN</text>
+<rect x="261.0" y="134.8" width="34.0" height="115.2" fill="var(--surface,#1F211E)"/>
+<rect x="261.0" y="134.8" width="34.0" height="115.2" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="278.0" y="127.8" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">19</text>
+<text x="275.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 275 262)">BUTTERCUP</text>
+<rect x="311.0" y="134.8" width="34.0" height="115.2" fill="var(--surface,#1F211E)"/>
+<rect x="311.0" y="134.8" width="34.0" height="115.2" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="328.0" y="127.8" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">19</text>
+<text x="325.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 325 262)">POTENTILLA</text>
+<rect x="361.0" y="140.9" width="34.0" height="109.1" fill="var(--surface,#1F211E)"/>
+<rect x="361.0" y="140.9" width="34.0" height="109.1" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="378.0" y="133.9" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">18</text>
+<text x="375.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 375 262)">VINE</text>
+<rect x="411.0" y="177.2" width="34.0" height="72.8" fill="var(--surface,#1F211E)"/>
+<rect x="411.0" y="177.2" width="34.0" height="72.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="428.0" y="170.2" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">12</text>
+<text x="425.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 425 262)">IVY</text>
+<rect x="461.0" y="201.5" width="34.0" height="48.5" fill="var(--surface,#1F211E)"/>
+<rect x="461.0" y="201.5" width="34.0" height="48.5" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="478.0" y="194.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">8</text>
+<text x="475.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 475 262)">HOP</text>
+<rect x="511.0" y="237.9" width="34.0" height="12.1" fill="var(--surface,#1F211E)"/>
+<rect x="511.0" y="237.9" width="34.0" height="12.1" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="528.0" y="230.9" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">2</text>
+<text x="525.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 525 262)">ROSE</text>
+<rect x="561.0" y="237.9" width="34.0" height="12.1" fill="var(--surface,#1F211E)"/>
+<rect x="561.0" y="237.9" width="34.0" height="12.1" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="578.0" y="230.9" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">2</text>
+<text x="575.0" y="262.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end" transform="rotate(-55 575 262)">BRYONY</text>
+<line x1="96.0" y1="250.0" x2="604.0" y2="250.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96.0" y1="56.0" x2="96.0" y2="250.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="96.0" y="344.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TEN SPECIES · 155 IDENTIFIED OCCURRENCES BY THE PUBLISHED COUNTS</text>
+<text x="96.0" y="362.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SOUTHWELL MINSTER CHAPTER HOUSE, 1288 – c. 1300 · HALL 2001</text>
+<text x="96.0" y="40.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BOTANICAL DETERMINATION FROM CARVED FORM — NOT A MEASUREMENT.</text>
+<text x="604.0" y="344.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">LOCAL HEDGEROW AND WOODLAND-EDGE PLANTS</text>
+</svg>

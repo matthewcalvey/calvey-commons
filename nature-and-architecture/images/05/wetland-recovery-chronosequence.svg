@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="Two recovery curves for restored wetlands over a hundred years, both remaining about a quarter below reference, with the five-year monitoring period marked as a narrow band near the origin.">
+<line x1="64.00" y1="256.00" x2="494.00" y2="256.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="259.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="64.00" y1="213.73" x2="494.00" y2="213.73" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="216.73" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">25</text>
+<line x1="64.00" y1="171.45" x2="494.00" y2="171.45" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="174.45" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">50</text>
+<line x1="64.00" y1="129.18" x2="494.00" y2="129.18" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="132.18" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">75</text>
+<line x1="64.00" y1="86.91" x2="494.00" y2="86.91" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="89.91" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">100</text>
+<line x1="64.00" y1="256.00" x2="494.00" y2="256.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="64.00" y1="256.00" x2="64.00" y2="70.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="64.00" y1="256.00" x2="64.00" y2="259.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="64.00" y="272.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1</text>
+<line x1="128.72" y1="256.00" x2="128.72" y2="259.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="128.72" y="272.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2</text>
+<line x1="214.28" y1="256.00" x2="214.28" y2="259.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="214.28" y="272.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">5</text>
+<line x1="279.00" y1="256.00" x2="279.00" y2="259.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="279.00" y="272.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10</text>
+<line x1="343.72" y1="256.00" x2="343.72" y2="259.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="343.72" y="272.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">20</text>
+<line x1="429.28" y1="256.00" x2="429.28" y2="259.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="429.28" y="272.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">50</text>
+<line x1="494.00" y1="256.00" x2="494.00" y2="259.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="494.00" y="272.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">100</text>
+<text x="279.00" y="288.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">YEARS SINCE RESTORATION  (LOG SCALE)</text>
+<text x="24.00" y="163.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 24.00 163.00)">% OF REFERENCE</text>
+<line x1="64.00" y1="86.91" x2="538.00" y2="86.91" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="538.00" y="79.91" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="end">REFERENCE</text>
+<path d="M64.0 197.4 L68.3 196.6 L72.6 195.9 L76.9 195.2 L81.2 194.4 L85.5 193.7 L89.8 193.0 L94.1 192.2 L98.4 191.5 L102.7 190.8 L107.0 190.0 L111.3 189.3 L115.6 188.6 L119.9 187.9 L124.2 187.1 L128.5 186.4 L132.8 185.7 L137.1 185.0 L141.4 184.3 L145.7 183.5 L150.0 182.8 L154.3 182.1 L158.6 181.4 L162.9 180.7 L167.2 180.0 L171.5 179.3 L175.8 178.6 L180.1 177.9 L184.4 177.2 L188.7 176.5 L193.0 175.8 L197.3 175.1 L201.6 174.4 L205.9 173.7 L210.2 173.0 L214.5 172.3 L218.8 171.6 L223.1 170.9 L227.4 170.2 L231.7 169.6 L236.0 168.9 L240.3 168.2 L244.6 167.5 L248.9 166.8 L253.2 166.2 L257.5 165.5 L261.8 164.8 L266.1 164.2 L270.4 163.5 L274.7 162.8 L279.0 162.2 L283.3 161.5 L287.6 160.8 L291.9 160.2 L296.2 159.5 L300.5 158.9 L304.8 158.2 L309.1 157.6 L313.4 156.9 L317.7 156.3 L322.0 155.6 L326.3 155.0 L330.6 154.3 L334.9 153.7 L339.2 153.0 L343.5 152.4 L347.8 151.7 L352.1 151.1 L356.4 150.5 L360.7 149.8 L365.0 149.2 L369.3 148.6 L373.6 147.9 L377.9 147.3 L382.2 146.7 L386.5 146.1 L390.8 145.4 L395.1 144.8 L399.4 144.2 L403.7 143.6 L408.0 143.0 L412.3 142.3 L416.6 141.7 L420.9 141.1 L425.2 140.5 L429.5 139.9 L433.8 139.3 L438.1 138.7 L442.4 138.1 L446.7 137.5 L451.0 136.9 L455.3 136.3 L459.6 135.6 L463.9 135.0 L468.2 134.4 L472.5 133.8 L476.8 133.3 L481.1 132.7 L485.4 132.1 L489.7 131.5 L494.0 130.9" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="butt"/>
+<path d="M64.0 214.3 L68.3 213.5 L72.6 212.7 L76.9 211.9 L81.2 211.1 L85.5 210.3 L89.8 209.5 L94.1 208.6 L98.4 207.8 L102.7 207.0 L107.0 206.2 L111.3 205.3 L115.6 204.5 L119.9 203.7 L124.2 202.8 L128.5 202.0 L132.8 201.2 L137.1 200.3 L141.4 199.5 L145.7 198.6 L150.0 197.8 L154.3 196.9 L158.6 196.1 L162.9 195.2 L167.2 194.3 L171.5 193.5 L175.8 192.6 L180.1 191.8 L184.4 190.9 L188.7 190.0 L193.0 189.1 L197.3 188.3 L201.6 187.4 L205.9 186.5 L210.2 185.6 L214.5 184.8 L218.8 183.9 L223.1 183.0 L227.4 182.1 L231.7 181.2 L236.0 180.3 L240.3 179.5 L244.6 178.6 L248.9 177.7 L253.2 176.8 L257.5 175.9 L261.8 175.0 L266.1 174.1 L270.4 173.2 L274.7 172.3 L279.0 171.4 L283.3 170.5 L287.6 169.6 L291.9 168.7 L296.2 167.8 L300.5 166.9 L304.8 166.0 L309.1 165.1 L313.4 164.2 L317.7 163.3 L322.0 162.4 L326.3 161.5 L330.6 160.6 L334.9 159.7 L339.2 158.8 L343.5 157.9 L347.8 157.0 L352.1 156.1 L356.4 155.2 L360.7 154.3 L365.0 153.3 L369.3 152.4 L373.6 151.5 L377.9 150.6 L382.2 149.7 L386.5 148.8 L390.8 147.9 L395.1 147.0 L399.4 146.0 L403.7 145.1 L408.0 144.2 L412.3 143.3 L416.6 142.4 L420.9 141.5 L425.2 140.5 L429.5 139.6 L433.8 138.7 L438.1 137.8 L442.4 136.9 L446.7 135.9 L451.0 135.0 L455.3 134.1 L459.6 133.2 L463.9 132.3 L468.2 131.3 L472.5 130.4 L476.8 129.5 L481.1 128.6 L485.4 127.6 L489.7 126.7 L494.0 125.8" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linecap="butt" stroke-dasharray="6 3"/>
+<circle cx="494.00" cy="130.87" r="4.20" fill="var(--accent,#6A9CC4)"/>
+<circle cx="494.00" cy="125.80" r="4.20" fill="var(--dim,#B8B5AC)"/>
+<line x1="494.00" y1="130.87" x2="528.00" y2="137.64" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="532.00" y="138.64" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">BIOLOGICAL</text>
+<text x="532.00" y="149.64" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">STRUCTURE</text>
+<line x1="494.00" y1="125.80" x2="528.00" y2="103.82" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="532.00" y="104.82" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">BIOGEOCHEM.</text>
+<text x="532.00" y="115.82" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">FUNCTION</text>
+<line x1="501.00" y1="130.87" x2="501.00" y2="86.91" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="486.00" y="113.96" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">26 %</text>
+<text x="486.00" y="98.75" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">23 %</text>
+<text x="228.14" y="78.45" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NEITHER REACHES REFERENCE IN A CENTURY</text>
+<rect x="64.00" y="70.00" width="150.28" height="186.00" fill="var(--hot,#C45C3E)" fill-opacity="0.1"/>
+<line x1="214.28" y1="70.00" x2="214.28" y2="256.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="68.56" y="84.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE FIVE-YEAR REGULATORY</text>
+<text x="68.56" y="95.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">MONITORING WINDOW</text>
+<text x="64.00" y="58.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CURVE SHAPE SCHEMATIC · THE HUNDRED-YEAR ENDPOINTS ARE THE REPORTED FIGURES</text>
+<text x="64.00" y="312.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SAME WINDOW ON A LINEAR SCALE</text>
+<rect x="64.00" y="326.00" width="464.00" height="14.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="64.00" y="326.00" width="23.20" height="14.00" fill="var(--hot,#C45C3E)" fill-opacity="0.55"/>
+<line x1="64.00" y1="340.00" x2="64.00" y2="344.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="64.00" y="356.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="180.00" y1="340.00" x2="180.00" y2="344.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="180.00" y="356.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">25</text>
+<line x1="296.00" y1="340.00" x2="296.00" y2="344.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="296.00" y="356.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">50</text>
+<line x1="412.00" y1="340.00" x2="412.00" y2="344.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="412.00" y="356.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">75</text>
+<line x1="528.00" y1="340.00" x2="528.00" y2="344.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="528.00" y="356.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">100</text>
+<line x1="166.08" y1="333.00" x2="93.70" y2="333.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<path d="M93.70 333.00 L96.89 331.57 L96.89 334.43 Z" fill="var(--hot,#C45C3E)"/>
+<text x="175.36" y="336.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">FIVE YEARS OF A HUNDRED</text>
+<line x1="56.00" y1="374.00" x2="596.00" y2="374.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56.00" y="394.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">The monitoring window sits inside the first twentieth of the phenomenon.</text>
+<text x="56.00" y="416.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CHRONOSEQUENCES · MORENO-MATEOS, POWER, COMÍN AND YOCKTENG 2012</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Bar chart falling from seventy to eighteen per cent across four measures of wetland mitigation performance, with a separate bar at one hundred and seventy-eight per cent for the acreage required on paper.">
+<line x1="210.00" y1="56.00" x2="210.00" y2="312.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="210.00" y="46.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="307.50" y1="56.00" x2="307.50" y2="312.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="307.50" y="46.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">50</text>
+<line x1="405.00" y1="56.00" x2="405.00" y2="312.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="405.00" y="46.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">100</text>
+<line x1="502.50" y1="56.00" x2="502.50" y2="312.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="502.50" y="46.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">150</text>
+<line x1="600.00" y1="56.00" x2="600.00" y2="312.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="600.00" y="46.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">200</text>
+<text x="210.00" y="30.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PER CENT</text>
+<rect x="210.00" y="68.00" width="136.50" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.26"/>
+<rect x="210.00" y="68.00" width="136.50" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="354.50" y="85.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em">70 %</text>
+<text x="200.00" y="79.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">MITIGATION ATTEMPTED WHERE</text>
+<text x="200.00" y="90.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">REQUIRED</text>
+<rect x="210.00" y="110.00" width="103.35" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.26"/>
+<rect x="210.00" y="110.00" width="103.35" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="321.35" y="127.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em">53 %</text>
+<text x="200.00" y="127.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">PERMIT COMPLIANCE</text>
+<rect x="210.00" y="152.00" width="120.90" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.26"/>
+<rect x="210.00" y="152.00" width="120.90" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="338.90" y="169.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em">62 %</text>
+<text x="200.00" y="163.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">RATIO REQUIRED AGAINST</text>
+<text x="200.00" y="174.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">RATIO MET</text>
+<rect x="210.00" y="194.00" width="35.10" height="26.00" fill="var(--hot,#C45C3E)" fill-opacity="0.26"/>
+<rect x="210.00" y="194.00" width="35.10" height="26.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="253.10" y="211.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em">18 %</text>
+<text x="200.00" y="211.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">FUNCTIONAL EQUIVALENCY</text>
+<rect x="210.00" y="278.00" width="347.10" height="26.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.14"/>
+<rect x="210.00" y="278.00" width="347.10" height="26.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="5 3"/>
+<text x="565.10" y="295.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.04em">178 %</text>
+<text x="200.00" y="290.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">NATIONAL NOMINAL RATIO</text>
+<text x="200.00" y="301.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.8 ACRES REQUIRED PER ACRE FILLED</text>
+<line x1="405.00" y1="56.00" x2="405.00" y2="312.00" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="410.00" y="65.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">PARITY</text>
+<line x1="58.00" y1="318.00" x2="600.00" y2="318.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.00" y="336.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The ledger and the outcome on one axis. The only number that looks like success is the one written</text>
+<text x="58.00" y="350.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">on paper before any wetland was built.</text>
+<text x="58.00" y="382.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MEDIANS OF COMPILED STUDIES 1981–2000 · NATIONAL RESEARCH COUNCIL 2001, CH. 6, TABLE 6-16</text>
+</svg>

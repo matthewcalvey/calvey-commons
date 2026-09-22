@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Number line of wood displacement factors showing a meta-analytic range from minus 2.3 to 15 with a mean of 2.1, a second average of 1.2, and an arrow representing a proposed reduction of two to four units reaching below zero.">
+
+<line x1="116" y1="206" x2="584" y2="206" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="116" y1="206" x2="116" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="116" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">-4</text>
+<line x1="162.8" y1="206" x2="162.8" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="162.8" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">-2</text>
+<line x1="209.6" y1="206" x2="209.6" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="209.6" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="256.4" y1="206" x2="256.4" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="256.4" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2</text>
+<line x1="303.2" y1="206" x2="303.2" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="303.2" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">4</text>
+<line x1="350" y1="206" x2="350" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="350" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">6</text>
+<line x1="396.8" y1="206" x2="396.8" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="396.8" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">8</text>
+<line x1="443.6" y1="206" x2="443.6" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="443.6" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">10</text>
+<line x1="490.4" y1="206" x2="490.4" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="490.4" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">12</text>
+<line x1="537.2" y1="206" x2="537.2" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="537.2" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">14</text>
+<line x1="584" y1="206" x2="584" y2="211" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="584" y="224" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">16</text>
+<text x="96" y="240" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">TONNES OF CARBON AVOIDED PER TONNE OF CARBON IN PRODUCT</text>
+<line x1="209.6" y1="84" x2="209.6" y2="252" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="213.6" y="78" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ZERO</text>
+<text x="96" y="60" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">SATHRE AND O&#x27;CONNOR 2010 META-ANALYSIS  ·  FULL RANGE</text>
+<rect x="155.78" y="96" width="404.82" height="36" fill="var(--dim,#B8B5AC)" opacity="0.22"/>
+<rect x="155.78" y="96" width="404.82" height="36" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="155.78" y="90" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">− 2.3</text>
+<text x="560.6" y="90" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">15</text>
+<line x1="258.74" y1="92" x2="258.74" y2="136" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="258.74" y="148" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">2.1</text>
+<text x="268.74" y="160" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">UNWEIGHTED MEAN</text>
+<line x1="258.74" y1="178" x2="165.14" y2="178" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<path d="M 179.18 174 L 165.14 178 L 179.18 182" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="265.76" y="170" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">LETURCQ 2020:  REDUCE BY TWO TO FOUR UNITS</text>
+<text x="120.68" y="194" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE ARROW HEAD LANDS AT OR BELOW ZERO</text>
+<line x1="237.68" y1="206" x2="237.68" y2="240" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="237.68" y="252" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">1.2</text>
+<text x="251.68" y="252" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">LESKINEN AVERAGE, AS REPORTED BY HOWARD AND COLLEAGUES</text>
+<rect x="44" y="276" width="280" height="66" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54" y="294" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">HARMON:  THE OVERESTIMATE</text>
+<line x1="54" y1="324" x2="302" y2="324" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="58.96" y="310" width="243.04" height="14" fill="var(--hot,#C45C3E)" opacity="0.32"/>
+<text x="54" y="337" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">2 %</text>
+<text x="302" y="337" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">100 %</text>
+<text x="140" y="321" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">RANGE OF OVERESTIMATE</text>
+<text x="344" y="296" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE MEAN AND THE ARROW HEAD</text>
+<text x="344" y="308" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ARE LEFT VISIBLY INCOMPATIBLE.</text>
+<text x="344" y="326" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">This figure carries register item 4</text>
+<text x="344" y="336" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">and does not resolve it.</text>
+<text x="44" y="368" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Values as reported in Leturcq 2020 and Howard et al. 2021; the 2010 meta-analysis is cited through them. A</text>
+<text x="44" y="379" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">displacement factor is the number that converts a tonne of wood into a claim about avoided emissions, and the</text>
+<text x="44" y="390" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">profession uses a single value drawn from a distribution that includes negative numbers.</text>
+</svg>

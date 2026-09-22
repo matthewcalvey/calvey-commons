@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Section sequence showing firebrands igniting a mulch bed beside a wall, the fire transitioning to flame, melting vinyl cladding and igniting the sheathing behind, with a fire-retardant-treated alternative surviving.">
+
+<rect x="44" y="94" width="88" height="132" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="52" y="102" width="12" height="86" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="64" y="102" width="9" height="86" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="75" y1="102" x2="75" y2="188" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="77" y="102" width="7" height="86" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="48" y1="188" x2="128" y2="188" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="84" y="180" width="40" height="8" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="84" y="180" width="40" height="8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<circle cx="90" cy="122" r="1.8" fill="var(--hot,#C45C3E)"/>
+<line x1="90" y1="122" x2="86" y2="130" stroke="var(--hot,#C45C3E)" stroke-width="0.5" opacity="0.7"/>
+<circle cx="98" cy="134" r="1.8" fill="var(--hot,#C45C3E)"/>
+<line x1="98" y1="134" x2="94" y2="142" stroke="var(--hot,#C45C3E)" stroke-width="0.5" opacity="0.7"/>
+<circle cx="106" cy="146" r="1.8" fill="var(--hot,#C45C3E)"/>
+<line x1="106" y1="146" x2="102" y2="154" stroke="var(--hot,#C45C3E)" stroke-width="0.5" opacity="0.7"/>
+<circle cx="114" cy="122" r="1.8" fill="var(--hot,#C45C3E)"/>
+<line x1="114" y1="122" x2="110" y2="130" stroke="var(--hot,#C45C3E)" stroke-width="0.5" opacity="0.7"/>
+<circle cx="122" cy="134" r="1.8" fill="var(--hot,#C45C3E)"/>
+<line x1="122" y1="134" x2="118" y2="142" stroke="var(--hot,#C45C3E)" stroke-width="0.5" opacity="0.7"/>
+<text x="44" y="84" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">1</text>
+<text x="44" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">EMBERS ARRIVE</text>
+<rect x="140" y="94" width="88" height="132" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="148" y="102" width="12" height="86" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="160" y="102" width="9" height="86" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="171" y1="102" x2="171" y2="188" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="173" y="102" width="7" height="86" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="144" y1="188" x2="224" y2="188" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="180" y="180" width="40" height="8" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="180" y="180" width="40" height="8" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<path d="M 186 178 C 184 170 188 168 186 162" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 195 178 C 193 170 197 168 195 162" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 204 178 C 202 170 206 168 204 162" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 213 178 C 211 170 215 168 213 162" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="140" y="84" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">2</text>
+<text x="140" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">SMOULDERING</text>
+<rect x="236" y="94" width="88" height="132" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="244" y="102" width="12" height="86" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="256" y="102" width="9" height="86" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="267" y1="102" x2="267" y2="188" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="269" y="102" width="7" height="86" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="240" y1="188" x2="320" y2="188" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="276" y="180" width="40" height="8" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="276" y="180" width="40" height="8" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<path d="M 280 180 C 274 164 284 154 280 140 C 278 154 287 164 280 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M 292 180 C 286 164 296 154 292 140 C 290 154 299 164 292 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M 304 180 C 298 164 308 154 304 140 C 302 154 311 164 304 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<text x="236" y="84" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">3</text>
+<text x="236" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">FLAMING</text>
+<rect x="332" y="94" width="88" height="132" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="340" y="102" width="12" height="86" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="352" y="102" width="9" height="86" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="363" y1="102" x2="363" y2="188" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="365" y="102" width="7" height="86" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="336" y1="188" x2="416" y2="188" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="372" y="180" width="40" height="8" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="372" y="180" width="40" height="8" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<path d="M 376 180 C 370 164 380 154 376 140 C 374 154 383 164 376 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M 388 180 C 382 164 392 154 388 140 C 386 154 395 164 388 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M 400 180 C 394 164 404 154 400 140 C 398 154 407 164 400 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M 372 136 C 366 144 372 152 366 160" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="332" y="84" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">4</text>
+<text x="332" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">VINYL MELTS</text>
+<rect x="428" y="94" width="88" height="132" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="436" y="102" width="12" height="86" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="448" y="102" width="9" height="86" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="459" y1="102" x2="459" y2="188" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="461" y="102" width="7" height="86" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="432" y1="188" x2="512" y2="188" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="468" y="180" width="40" height="8" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="468" y="180" width="40" height="8" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<path d="M 472 180 C 466 164 476 154 472 140 C 470 154 479 164 472 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M 484 180 C 478 164 488 154 484 140 C 482 154 491 164 484 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M 496 180 C 490 164 500 154 496 140 C 494 154 503 164 496 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<rect x="448" y="102" width="9" height="86" fill="var(--hot,#C45C3E)" opacity="0.4"/>
+<rect x="448" y="102" width="9" height="86" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="428" y="84" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">5</text>
+<text x="428" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">OSB SMOULDERS</text>
+<rect x="524" y="94" width="88" height="132" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="532" y="102" width="12" height="86" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="544" y="102" width="9" height="86" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="555" y1="102" x2="555" y2="188" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="557" y="102" width="7" height="86" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<line x1="528" y1="188" x2="608" y2="188" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="564" y="180" width="40" height="8" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="564" y="180" width="40" height="8" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M 568 180 C 562 164 572 154 568 140 C 566 154 575 164 568 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M 580 180 C 574 164 584 154 580 140 C 578 154 587 164 580 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<path d="M 592 180 C 586 164 596 154 592 140 C 590 154 599 164 592 180" fill="var(--hot,#C45C3E)" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" opacity="0.35"/>
+<rect x="557" y="102" width="7" height="86" fill="var(--ok,#7AB87A)" opacity="0.3"/>
+<rect x="557" y="102" width="7" height="86" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="568" y="124" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">NO</text>
+<text x="568" y="134" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">IGNITION</text>
+<text x="524" y="84" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">6</text>
+<text x="524" y="242" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">FRT CEDAR</text>
+<text x="44" y="72" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SECTION THROUGH THE BASE OF A WALL</text>
+<rect x="44" y="259" width="12" height="10" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="60" y="268" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">STUDS</text>
+<rect x="156" y="259" width="12" height="10" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="172" y="268" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">OSB SHEATHING</text>
+<rect x="268" y="259" width="12" height="10" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="284" y="268" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MOISTURE BARRIER</text>
+<rect x="380" y="259" width="12" height="10" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="396" y="268" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">VINYL SIDING</text>
+<rect x="492" y="259" width="12" height="10" fill="var(--accent,#6A9CC4)" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.45"/>
+<text x="508" y="268" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">PINE-NEEDLE MULCH BED</text>
+<text x="44" y="296" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE MULCH BED, NOT THE EMBER, IS THE MECHANISM — AND THE CLADDING</text>
+<text x="44" y="308" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">DECIDES THE OUTCOME.</text>
+<text x="44" y="332" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Firebrands arrive in the pine-needle bed; the bed ignites by smouldering; it transitions to flaming; the flames</text>
+<text x="44" y="343" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">melt the vinyl and open the moisture barrier; the OSB behind goes on smouldering by itself, including OSB that</text>
+<text x="44" y="354" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">had not been pre-dried. Replacing the vinyl with fire-retardant-treated cedar shingles gave no ignition in the</text>
+<text x="44" y="365" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">same test. The first five metres of landscape are a fire detail. Manzello, Suzuki &amp; Hayashi 2011.</text>
+</svg>

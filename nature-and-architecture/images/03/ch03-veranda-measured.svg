@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 436" role="img" aria-label="Two separate charts of veranda and house thermal results from different studies, with a note that they are not directly comparable.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TWO HOT-HUMID RESULTS. DELIBERATELY NOT ON ONE AXIS.</text>
+<rect x="58" y="38" width="262" height="232" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="68" y="56" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">HAINAN · SIMULATED</text>
+<text x="68" y="68" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CFD ON SEVEN TRADITIONAL DWELLINGS</text>
+<text x="68" y="96" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OVERHANG 1.5 → 3.0 M</text>
+<text x="68" y="116" font-family="&#39;Space Mono&#39;,monospace" font-size="14" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">+9.3%</text>
+<text x="68" y="129" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">COMFORT, FIRST FLOOR</text>
+<text x="68" y="154" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE → FOUR SIDES</text>
+<text x="68" y="174" font-family="&#39;Space Mono&#39;,monospace" font-size="14" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">−0.26</text>
+<text x="68" y="187" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PREDICTED MEAN VOTE</text>
+<text x="68" y="212" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AIR TEMPERATURE</text>
+<text x="68" y="232" font-family="&#39;Space Mono&#39;,monospace" font-size="14" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">0.2–0.85</text>
+<text x="68" y="245" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DEGREES COOLER</text>
+<text x="68" y="262" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">REAL, BUT SMALL IN AIR-TEMPERATURE TERMS.</text>
+<rect x="340" y="38" width="272" height="232" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="350" y="56" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">MALAYSIA · FIELD-MEASURED</text>
+<text x="350" y="68" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HOURS ABOVE THE ADAPTIVE COMFORT LIMIT</text>
+<text x="350" y="92" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MALAY HOUSE, VERANDA TYPE</text>
+<rect x="350" y="98" width="87.42" height="13" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="443.42" y="109" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">47%</text>
+<text x="350" y="132" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">COURTYARD SHOPHOUSE</text>
+<rect x="350" y="138" width="14.88" height="13" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="370.88" y="149" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">8%</text>
+<text x="350" y="172" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MODERN TERRACE, DAY VENT</text>
+<rect x="350" y="178" width="169.26" height="13" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="525.26" y="189" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">91%</text>
+<text x="350" y="212" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MODERN TERRACE, NIGHT VENT</text>
+<rect x="350" y="218" width="78.12" height="13" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="434.12" y="229" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">42%</text>
+<text x="350" y="254" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE VERANDA TYPE RAN 1–2 DEG C</text>
+<text x="350" y="265" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WARMER INSIDE THAN OUT.</text>
+<line x1="58" y1="282" x2="612" y2="282" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="296" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND THE VARIABLE THAT ACTUALLY BINDS · MALAYSIA 2026, TEN DAYS, THREE HOUSES</text>
+<text x="58" y="314" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AIR SPEED</text>
+<text x="58" y="332" font-family="&#39;Space Mono&#39;,monospace" font-size="12" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">UNDER 0.10</text>
+<text x="58" y="345" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">METRES PER SECOND</text>
+<text x="244" y="314" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MEAN RADIANT TEMP</text>
+<text x="244" y="332" font-family="&#39;Space Mono&#39;,monospace" font-size="12" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ABOVE 30</text>
+<text x="244" y="345" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DEGREES CELSIUS</text>
+<text x="430" y="314" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AIR TEMPERATURE</text>
+<text x="430" y="332" font-family="&#39;Space Mono&#39;,monospace" font-size="12" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NOT BINDING</text>
+<text x="430" y="345" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE VARIABLE EVERYONE PLOTS</text>
+<text x="58" y="368" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE COLONIAL REPERTOIRE — TALL ROOMS, SHADED OPENINGS, CROSS-VENTILATION, THE PUNKAH —</text>
+<text x="58" y="380" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WAS AIMED AT THE BINDING VARIABLE. THAT IS A JUDGEMENT ABOUT THE DEVICES, NOT ABOUT THE SYSTEM</text>
+<text x="58" y="392" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THAT OPERATED THEM. SIMULATION AND FIELD MEASUREMENT ARE NOT THE SAME GRADE OF EVIDENCE.</text>
+</svg>

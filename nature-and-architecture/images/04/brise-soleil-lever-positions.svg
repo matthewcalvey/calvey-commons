@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 436" role="img" aria-label="Section of an office window with an adjustable horizontal louvre shown at three angles, a hand lever inside, and seasonal sun paths overlaid.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE BAY OF THE NORTH-NORTH-WEST FAÇADE, RIO, ABOUT 22.9 DEG SOUTH</text>
+<rect x="58" y="92" width="222" height="122" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="66" y="110" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OFFICE, NINE METRES DEEP</text>
+<line x1="280" y1="92" x2="280" y2="214" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="292" y1="109" x2="324.53" y2="76.47" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="292" cy="109" r="2.4" fill="var(--dim,#B8B5AC)"/>
+<text x="354" y="112" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">+45 DEG</text>
+<line x1="292" y1="153" x2="338" y2="153" stroke="var(--accent,#6A9CC4)" stroke-width="2"/>
+<circle cx="292" cy="153" r="2.4" fill="var(--accent,#6A9CC4)"/>
+<text x="354" y="156" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">HORIZONTAL</text>
+<line x1="292" y1="197" x2="324.53" y2="229.53" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="292" cy="197" r="2.4" fill="var(--dim,#B8B5AC)"/>
+<text x="354" y="200" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">−45 DEG</text>
+<text x="292" y="82" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ONE BLADE, THREE POSITIONS</text>
+<line x1="288" y1="157" x2="260" y2="179" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="258" cy="180" r="3" fill="var(--ok,#7AB87A)"/>
+<line x1="200" y1="238" x2="250.79" y2="188.15" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/><path d="M254 185 L252.11 189.5 L249.46 186.8 Z" fill="var(--ok,#7AB87A)"/>
+<text x="58" y="236" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">A HAND LEVER, INSIDE · THE OCCUPANT MOVES IT</text>
+<line x1="452" y1="158" x2="600" y2="158" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="452" y="172" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUN ALTITUDE, 22.9 DEG SOUTH</text>
+<line x1="495.19" y1="76.77" x2="461.69" y2="148.38" stroke="var(--mut,#8A8880)" stroke-width="1.5" stroke-dasharray="3 3"/><path d="M460 152 L460.17 147.66 L463.22 149.09 Z" fill="var(--mut,#8A8880)"/>
+<text x="503.07" y="73.24" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUMMER · 62</text>
+<line x1="533.23" y1="114.81" x2="463.57" y2="150.19" stroke="var(--mut,#8A8880)" stroke-width="1.5" stroke-dasharray="3 3"/><path d="M460 152 L462.81 148.69 L464.33 151.69 Z" fill="var(--mut,#8A8880)"/>
+<text x="542.76" y="112.93" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WINTER · 28</text>
+<circle cx="452" cy="158" r="3" fill="var(--mut,#8A8880)"/>
+<line x1="58" y1="254" x2="612" y2="254" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="268" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHAT THE ONLY TECHNICAL STUDY FOUND</text>
+<text x="58" y="292" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THROUGH MUCH OF THE SUMMER THESE BLADES RECEIVE NO DIRECT SUN.</text>
+<text x="58" y="306" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE DEVICE THAT DEFINES THE BUILDING IS, FOR MUCH OF THE YEAR, SHADING NOTHING.</text>
+<text x="58" y="330" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND THE COLOUR MATTERS MORE THAN THE ANGLE</text>
+<text x="58" y="352" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">WHITE</text>
+<rect x="118" y="342" width="112" height="13" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="238" y="352" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">0.8</text>
+<text x="308" y="352" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">OUTPERFORMS AN OPEN WINDOW</text>
+<text x="308" y="363" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REFLECTANCE</text>
+<text x="58" y="386" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BLUE</text>
+<rect x="118" y="376" width="91" height="13" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="217" y="386" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">0.65</text>
+<text x="308" y="386" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">WORSE THAN AN OPEN WINDOW</text>
+<text x="308" y="397" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REFLECTANCE</text>
+<text x="58" y="424" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NO PUBLISHED FIELD-MONITORING STUDY OF THE BRISE-SOLEIL EXISTS ON ANY CANONICAL BUILDING.</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Process diagram of a blind twenty-one-team building simulation validation exercise, with an empty panel marking the unpublished spread between teams.">
+
+<text x="44" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE METHOD</text>
+<rect x="44" y="80" width="150" height="34" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="119" y="95" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">THE TWIN HOUSES</text>
+<text x="119" y="106" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">at Holzkirchen</text>
+<line x1="119" y1="114" x2="119" y2="122" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 116 117 L 119 122 L 122 117" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="44" y="122" width="150" height="34" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="119" y="137" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">SPECIFICATION AND</text>
+<text x="119" y="148" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">BOUNDARY DATA</text>
+<line x1="119" y1="156" x2="119" y2="164" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 116 159 L 119 164 L 122 159" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="44" y="164" width="150" height="34" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="119" y="179" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">21 INDEPENDENT TEAMS</text>
+<text x="119" y="190" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">predictions submitted</text>
+<line x1="119" y1="198" x2="119" y2="206" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 116 201 L 119 206 L 122 201" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="44" y="206" width="150" height="34" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="119" y="221" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">MEASURED INTERIOR</text>
+<text x="119" y="232" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">CONDITIONS RELEASED</text>
+<line x1="119" y1="240" x2="119" y2="248" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 116 243 L 119 248 L 122 243" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="44" y="248" width="150" height="34" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="119" y="263" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">RESUBMISSION</text>
+<text x="119" y="274" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">user error vs model error</text>
+<text x="44" y="300" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">TEN-MINUTE AND HOURLY</text>
+<text x="44" y="310" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RESOLUTION; BLIND.</text>
+<text x="226" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE FOUR REGIMES, AS A TEMPERATURE TRACE</text>
+<line x1="226" y1="90" x2="226" y2="236" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="226" y1="236" x2="446" y2="236" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="226" y1="216.91" x2="446" y2="216.91" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="220" y="219.91" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">15</text>
+<line x1="226" y1="185.09" x2="446" y2="185.09" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="220" y="188.09" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">20</text>
+<line x1="226" y1="153.27" x2="446" y2="153.27" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="220" y="156.27" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">25</text>
+<line x1="226" y1="121.45" x2="446" y2="121.45" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="220" y="124.45" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">30</text>
+<text x="220" y="76" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">°C</text>
+<path d="M 226 121.45 L 228.2 121.45 L 230.4 121.45 L 232.6 121.45 L 234.8 121.45 L 237 121.45 L 239.2 121.45 L 241.4 121.45 L 243.6 121.45 L 245.8 121.45 L 248 121.45 L 250.2 121.45 L 252.4 121.45 L 254.6 121.45 L 256.8 121.45 L 259 121.45 L 261.2 121.45 L 263.4 121.45 L 265.6 121.45 L 267.8 121.45 L 270 121.45 L 272.2 121.45 L 274.4 121.45 L 276.6 121.45 L 278.8 121.45 L 281 121.45 L 283.2 121.45 L 285.4 121.45 L 287.6 121.45 L 289.8 121.45 L 292 121.45 L 294.2 121.45 L 296.4 121.45 L 298.6 121.45 L 300.8 121.45 L 303 121.45 L 305.2 121.45 L 307.4 121.45 L 309.6 121.45 L 311.8 121.45 L 314 121.45 L 316.2 121.45 L 318.4 142.89 L 320.6 123.53 L 322.8 112.04 L 325 109.72 L 327.2 123.38 L 329.4 138.1 L 331.6 170.07 L 333.8 176.15 L 336 171.58 L 338.2 167.81 L 340.4 147.6 L 342.6 140.89 L 344.8 120.88 L 347 118.96 L 349.2 120.22 L 351.4 134.64 L 353.6 161.99 L 355.8 174.98 L 358 181.83 L 360.2 168.89 L 362.4 158.08 L 364.6 148.9 L 366.8 121.85 L 369 121.76 L 371.2 153.27 L 373.4 153.27 L 375.6 153.27 L 377.8 153.27 L 380 153.27 L 382.2 153.27 L 384.4 153.27 L 386.6 153.27 L 388.8 156.18 L 391 161.49 L 393.2 166.2 L 395.4 170.01 L 397.6 172.69 L 399.8 174.14 L 402 174.35 L 404.2 173.43 L 406.4 171.58 L 408.6 169.1 L 410.8 166.33 L 413 163.65 L 415.2 161.41 L 417.4 159.95 L 419.6 159.51 L 421.8 160.27 L 424 162.28 L 426.2 165.49 L 428.4 169.73 L 430.6 174.75 L 432.8 180.23 L 435 185.81 L 437.2 191.1 L 439.4 195.76 L 441.6 199.51 L 443.8 202.13 L 446 203.51" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="265.6" y1="90" x2="265.6" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="245.8" y="250" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">INIT 30</text>
+<line x1="318.4" y1="90" x2="318.4" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="292" y="250" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">CONSTANT</text>
+<line x1="371.2" y1="90" x2="371.2" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="340.8" y="250" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">INJECTION</text>
+<line x1="388.8" y1="90" x2="388.8" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="380" y="250" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">RE-INIT 25</text>
+<line x1="446" y1="90" x2="446" y2="236" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="417.4" y="250" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">FREE-FLOAT</text>
+<text x="226" y="266" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BANDS OVERLAP UNDER CONSTANT CONTROL;</text>
+<text x="226" y="276" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THEY DIVERGE UNDER THE PSEUDO-RANDOM</text>
+<text x="226" y="286" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">INJECTION.  MODELS UNDER-ESTIMATE</text>
+<text x="226" y="296" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">MID-EXPERIMENT.</text>
+<rect x="470" y="96" width="126" height="140" fill="none" stroke="var(--mut,#8A8880)" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="533" y="154" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">THE SPREAD</text>
+<text x="533" y="167" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">BETWEEN THE</text>
+<text x="533" y="180" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">TWENTY-ONE</text>
+<text x="533" y="193" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.08em">TEAMS</text>
+<text x="470" y="76" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">WHAT THE PAPER</text>
+<text x="470" y="85" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">DOES NOT REPORT</text>
+<text x="470" y="252" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">NOT PUBLISHED.</text>
+<rect x="44" y="336" width="552" height="28" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54" y="355" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE METHOD EXISTS, IT WORKS, AND IT STOPPED ONE STEP SHORT.</text>
+<text x="44" y="384" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">A blind inter-team validation exercise with a resubmission stage designed to separate user error from model</text>
+<text x="44" y="395" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">error — exactly the round robin daylight simulation still lacks. The trace is drawn to the four regimes the paper</text>
+<text x="44" y="406" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">describes, not to published readings. Strachan, Monari, Kersken &amp; Heusler 2015.</text>
+</svg>

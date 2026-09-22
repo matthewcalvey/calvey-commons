@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="A stepped section descending to water with temperature differences marked at each landing.">
+<line x1="58.0" y1="66.0" x2="600.0" y2="66.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="50.0" y="69.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0 M</text>
+<line x1="58.0" y1="142.0" x2="600.0" y2="142.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="50.0" y="145.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">10 M</text>
+<line x1="58.0" y1="218.0" x2="600.0" y2="218.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="50.0" y="221.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">20 M</text>
+<line x1="58.0" y1="294.0" x2="600.0" y2="294.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="50.0" y="297.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">30 M</text>
+<polyline points="128.0,66.0 135.0,66.0 135.0,72.2 142.0,72.2 142.0,78.5 149.0,78.5 149.0,84.7 156.0,84.7 156.0,91.0 171.0,91.0 178.0,91.0 178.0,97.2 185.0,97.2 185.0,103.5 192.0,103.5 192.0,109.7 199.0,109.7 199.0,115.9 214.0,115.9 221.0,115.9 221.0,122.2 228.0,122.2 228.0,128.4 235.0,128.4 235.0,134.7 242.0,134.7 242.0,140.9 257.0,140.9 264.0,140.9 264.0,147.2 271.0,147.2 271.0,153.4 278.0,153.4 278.0,159.6 285.0,159.6 285.0,165.9 300.0,165.9 307.0,165.9 307.0,172.1 314.0,172.1 314.0,178.4 321.0,178.4 321.0,184.6 328.0,184.6 328.0,190.9 343.0,190.9 350.0,190.9 350.0,197.1 357.0,197.1 357.0,203.3 364.0,203.3 364.0,209.6 371.0,209.6 371.0,215.8 386.0,215.8 393.0,215.8 393.0,222.1 400.0,222.1 400.0,228.3 407.0,228.3 407.0,234.6 414.0,234.6 414.0,240.8 429.0,240.8" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="58.0" y1="66.0" x2="128.0" y2="66.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="159.0" y1="91.0" x2="159.0" y2="74.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="168.0" y1="91.0" x2="168.0" y2="74.0" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="157.0" y1="74.0" x2="170.0" y2="74.0" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="202.0" y1="115.9" x2="202.0" y2="98.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="211.0" y1="115.9" x2="211.0" y2="98.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="200.0" y1="98.9" x2="213.0" y2="98.9" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="245.0" y1="140.9" x2="245.0" y2="123.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="254.0" y1="140.9" x2="254.0" y2="123.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="243.0" y1="123.9" x2="256.0" y2="123.9" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="288.0" y1="165.9" x2="288.0" y2="148.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="297.0" y1="165.9" x2="297.0" y2="148.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="286.0" y1="148.9" x2="299.0" y2="148.9" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="331.0" y1="190.9" x2="331.0" y2="173.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="340.0" y1="190.9" x2="340.0" y2="173.9" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="329.0" y1="173.9" x2="342.0" y2="173.9" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="374.0" y1="215.8" x2="374.0" y2="198.8" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="383.0" y1="215.8" x2="383.0" y2="198.8" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="372.0" y1="198.8" x2="385.0" y2="198.8" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="417.0" y1="240.8" x2="417.0" y2="223.8" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="426.0" y1="240.8" x2="426.0" y2="223.8" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="415.0" y1="223.8" x2="428.0" y2="223.8" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<rect x="429.0" y="240.8" width="62.0" height="24.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="429.0" y1="240.8" x2="491.0" y2="240.8" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="460.0" y="280.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">TANK AT 23 M</text>
+<rect x="505.0" y="66.0" width="46.0" height="228.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="505.0" y1="240.8" x2="551.0" y2="240.8" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="495.0" y="268.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">WELL SHAFT</text>
+<text x="495.0" y="278.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">10 M ACROSS, 30 M DEEP</text>
+<line x1="499.0" y1="271.2" x2="507.0" y2="271.2" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="116.0" y1="81.2" x2="116.0" y2="218.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="111.0" y1="81.2" x2="121.0" y2="81.2" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="111.0" y1="218.0" x2="121.0" y2="218.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="124.0" y="224.1" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">4 TO 6 DEGREES BELOW AMBIENT</text>
+<text x="124.0" y="234.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">AT THE PAVILION FLOORS</text>
+<rect x="138.0" y="44.0" width="24.0" height="5.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="181.0" y="44.0" width="21.0" height="5.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="224.0" y="44.0" width="18.0" height="5.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="267.0" y="44.0" width="15.0" height="5.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="310.0" y="44.0" width="12.0" height="5.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="353.0" y="44.0" width="9.0" height="5.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="396.0" y="44.0" width="6.0" height="5.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="600.0" y="36.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THE SKY, SHRINKING WITH EVERY LEVEL</text>
+<line x1="58.0" y1="324.0" x2="600.0" y2="324.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.0" y="344.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AND ONE READING, SET APART BECAUSE OF HOW IT WAS TAKEN</text>
+<rect x="58.0" y="354.0" width="268.0" height="40.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<text x="70.0" y="372.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.04em">BHAMMARIYO KUVO</text>
+<text x="70.0" y="386.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">43 °C OUTSIDE, 20 INSIDE · A 23-DEGREE GAP</text>
+<text x="342.0" y="366.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE THERMOMETER · 12:30 · HELD FIVE MINUTES</text>
+<text x="342.0" y="380.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NO LOGGING, NO HUMIDITY, NO SAMPLE SIZE</text>
+<text x="342.0" y="394.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IT SHOULD NOT TRAVEL AS A DESIGN FIGURE</text>
+<text x="58.0" y="422.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RANI-KI-VAV, PATAN · SEVENTEEN STEPWELLS, APRIL TO JUNE · PARMAR &amp; MISHRA 2024</text>
+<text x="58.0" y="32.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A BUILDING ENTERED BY DESCENDING · SEVEN LEVELS</text>
+</svg>

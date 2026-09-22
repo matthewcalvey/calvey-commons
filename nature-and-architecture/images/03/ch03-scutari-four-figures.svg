@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 408" role="img" aria-label="A chart of several percentage bars for one hospital, each labelled with a different source and scope.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FOUR FIGURES FOR ONE HOSPITAL</text>
+<text x="58" y="46" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NATIONAL MUSEUM OF CIVIL WAR MEDICINE</text>
+<text x="58" y="57" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">BEFORE REFORM</text>
+<rect x="58" y="62" width="343.38" height="14" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="409.38" y="73" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">60 PER CENT</text>
+<text x="58" y="92" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SMITHSONIAN</text>
+<text x="58" y="103" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE PEAK</text>
+<rect x="58" y="108" width="244.38" height="14" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="310.38" y="119" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">42.7 PER CENT</text>
+<text x="58" y="138" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NATIONAL ARMY MUSEUM</text>
+<text x="58" y="149" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FEBRUARY 1855</text>
+<rect x="58" y="154" width="240.37" height="14" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="306.37" y="165" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">42 PER CENT</text>
+<text x="58" y="184" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NATIONAL ARMY MUSEUM</text>
+<text x="58" y="195" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">OVERALL</text>
+<rect x="58" y="200" width="214.62" height="14" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="280.62" y="211" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">37.5 PER CENT</text>
+<text x="58" y="230" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NATIONAL ARMY MUSEUM</text>
+<text x="58" y="241" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">AT THE FRONT, NOT THE HOSPITAL</text>
+<rect x="58" y="246" width="71.54" height="14" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="137.54" y="257" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">12.5 PER CENT</text>
+<text x="58" y="276" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SMITHSONIAN</text>
+<text x="58" y="287" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">AFTER</text>
+<rect x="58" y="292" width="12.59" height="14" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="78.59" y="303" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">2.2 PER CENT</text>
+<line x1="58" y1="314" x2="430" y2="314" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58" y1="314" x2="58" y2="318" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="58" y="329" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="172.46" y1="314" x2="172.46" y2="318" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="172.46" y="329" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">20</text>
+<line x1="286.92" y1="314" x2="286.92" y2="318" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="286.92" y="329" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">40</text>
+<line x1="401.38" y1="314" x2="401.38" y2="318" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="401.38" y="329" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">60</text>
+<text x="58" y="344" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PER CENT MORTALITY</text>
+<line x1="52" y1="270" x2="470" y2="270" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="474" y="273" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">SANITARY COMMISSION</text>
+<text x="474" y="285" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ARRIVES, MARCH 1855</text>
+<line x1="58" y1="352" x2="612" y2="352" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="366" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THESE SIX NUMBERS DO NOT MEASURE THE SAME THING.</text>
+<text x="58" y="382" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE IS A PEAK MONTH, ONE A WHOLE-WAR AVERAGE, ONE A DIFFERENT PLACE ALTOGETHER,</text>
+<text x="58" y="394" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND THE BEFORE-AND-AFTER PAIR HAS NO STATED DENOMINATOR. THEY ARE NOT RECONCILED HERE.</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="A long jagged line chart of a drought index over seven centuries with two shaded periods and one deep spike marked.">
+<line x1="78.0" y1="60.0" x2="606.0" y2="60.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.0" y="63.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">+4</text>
+<line x1="78.0" y1="93.7" x2="606.0" y2="93.7" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.0" y="96.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">+2</text>
+<line x1="78.0" y1="127.3" x2="606.0" y2="127.3" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.0" y="130.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="78.0" y1="161.0" x2="606.0" y2="161.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.0" y="164.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-2</text>
+<line x1="78.0" y1="194.7" x2="606.0" y2="194.7" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.0" y="197.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-4</text>
+<line x1="78.0" y1="228.3" x2="606.0" y2="228.3" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.0" y="231.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-6</text>
+<line x1="78.0" y1="262.0" x2="606.0" y2="262.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="70.0" y="265.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">-8</text>
+<text x="24.0" y="160.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90 24 160)">DROUGHT INDEX  PDSI</text>
+<rect x="140.7" y="60.0" width="40.4" height="202.0" fill="var(--surface,#1F211E)"/>
+<rect x="140.7" y="60.0" width="40.4" height="202.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="140.7" y1="73.5" x2="181.1" y2="73.5" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="140.7" y1="69.5" x2="140.7" y2="77.5" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="181.1" y1="69.5" x2="181.1" y2="77.5" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="181.1" y1="73.5" x2="229.9" y2="73.5" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="234.0" y="76.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">MID-TO-LATE 14TH C. — THE MOST SUSTAINED DROUGHT</text>
+<rect x="183.9" y="60.0" width="26.5" height="202.0" fill="var(--surface,#1F211E)"/>
+<rect x="183.9" y="60.0" width="26.5" height="202.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="183.9" y1="97.0" x2="210.3" y2="97.0" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="183.9" y1="93.0" x2="183.9" y2="101.0" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="210.3" y1="93.0" x2="210.3" y2="101.0" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="210.3" y1="97.0" x2="229.9" y2="97.0" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="234.0" y="100.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">EARLY 15TH C. — SHORTER BUT MORE SEVERE</text>
+<line x1="184.6" y1="127.3" x2="184.6" y2="248.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="184.6" cy="248.5" r="3.2" fill="var(--accent,#6A9CC4)"/>
+<line x1="189.6" y1="248.5" x2="229.9" y2="248.5" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="234.0" y="251.5" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">1403  ·  −7.20  ·  THE DRIEST YEAR</text>
+<line x1="78.0" y1="127.3" x2="606.0" y2="127.3" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="266.1" y="171.1" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE 759-YEAR SERIES IS NOT REPRODUCED HERE.</text>
+<text x="266.1" y="184.1" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONLY WHAT THE SOURCE STATES IS DRAWN.</text>
+<line x1="78.0" y1="60.0" x2="78.0" y2="262.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="78.0" y1="262.0" x2="606.0" y2="262.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="78.0" y1="262.0" x2="78.0" y2="266.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="78.0" y="279.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1250</text>
+<line x1="182.5" y1="262.0" x2="182.5" y2="266.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="182.5" y="279.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1400</text>
+<line x1="287.0" y1="262.0" x2="287.0" y2="266.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="287.0" y="279.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1550</text>
+<line x1="391.5" y1="262.0" x2="391.5" y2="266.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="391.5" y="279.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1700</text>
+<line x1="495.9" y1="262.0" x2="495.9" y2="266.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="495.9" y="279.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1850</text>
+<line x1="606.0" y1="262.0" x2="606.0" y2="266.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="606.0" y="279.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2008</text>
+<text x="78.0" y="296.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MARCH–MAY RECONSTRUCTION FROM FOKIENIA HODGINSII, BIDOUP NUI BA</text>
+<text x="78.0" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BUCKLEY ET AL. 2010 · 759 YEARS, EXPLAINING NEARLY 35 PER CENT OF INSTRUMENTAL VARIANCE</text>
+<text x="78.0" y="358.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE AUTHORS’ OWN CAVEAT: CLIMATE WAS AN ADDITIONAL, IMPORTANT STRESSOR</text>
+<text x="78.0" y="372.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BESIDE CONFLICT AND ECONOMIC CHANGE — NOT THE SOLE CAUSE.</text>
+<text x="78.0" y="392.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND AT LONGVEK THE LIDAR FOUND NO RELOCATED POPULATION.</text>
+</svg>

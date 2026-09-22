@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 450" role="img" aria-label="Horizontal bar chart of avoidable-death estimates for the same city under four different greening targets, ranging from twenty-five to eight hundred and seventy-seven, with confidence intervals from two other studies shown below.">
+<line x1="252.00" y1="52.00" x2="252.00" y2="296.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="252.00" y="46.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="356.67" y1="52.00" x2="356.67" y2="296.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="356.67" y="46.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1,000</text>
+<line x1="461.33" y1="52.00" x2="461.33" y2="296.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="461.33" y="46.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2,000</text>
+<line x1="566.00" y1="52.00" x2="566.00" y2="296.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="566.00" y="46.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">3,000</text>
+<text x="566.00" y="30.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">AVOIDABLE DEATHS PER YEAR</text>
+<text x="64.00" y="30.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ONE CITY, ONE EXPOSURE–RESPONSE FUNCTION</text>
+<text x="64.00" y="44.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE FLORENTINE PLAIN · BACCINI ET AL. 2026</text>
+<rect x="252.00" y="72.00" width="4.92" height="18.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.34"/>
+<rect x="252.00" y="72.00" width="4.92" height="18.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="242.00" y="85.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">WHO GREENNESS TARGET</text>
+<text x="264.92" y="86.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">47</text>
+<rect x="252.00" y="102.00" width="2.62" height="18.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.34"/>
+<rect x="252.00" y="102.00" width="2.62" height="18.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="242.00" y="115.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">A RELATIVE 20 % INCREASE</text>
+<text x="262.62" y="116.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">25</text>
+<rect x="252.00" y="132.00" width="36.21" height="18.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.34"/>
+<rect x="252.00" y="132.00" width="36.21" height="18.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="242.00" y="145.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">NDVI AT OR ABOVE 0.5</text>
+<text x="296.21" y="146.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">346</text>
+<rect x="252.00" y="162.00" width="91.79" height="18.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.34"/>
+<rect x="252.00" y="162.00" width="91.79" height="18.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="242.00" y="175.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">NDVI AT OR ABOVE 0.7</text>
+<text x="351.79" y="176.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em">877</text>
+<text x="242.00" y="204.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">ONLY THE COUNTERFACTUAL CHANGED</text>
+<line x1="64.00" y1="216.00" x2="596.00" y2="216.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="236.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">OTHER STUDIES, OTHER CITIES, WITH INTERVALS</text>
+<line x1="507.81" y1="263.00" x2="547.58" y2="263.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="507.81" y1="257.00" x2="507.81" y2="269.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="547.58" y1="257.00" x2="547.58" y2="269.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="528.74" cy="263.00" r="4.40" fill="var(--ok,#7AB87A)"/>
+<text x="242.00" y="266.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">IUNGMAN 2023</text>
+<text x="538.74" y="257.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em">2,644</text>
+<text x="538.74" y="269.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">(2,444 – 2,824)</text>
+<line x1="276.60" y1="297.00" x2="366.92" y2="297.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="276.60" y1="291.00" x2="276.60" y2="303.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<line x1="366.92" y1="291.00" x2="366.92" y2="303.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<circle cx="321.81" cy="297.00" r="4.40" fill="var(--ok,#7AB87A)"/>
+<text x="242.00" y="300.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">MUELLER 2020</text>
+<text x="331.81" y="291.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em">667</text>
+<text x="331.81" y="303.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">(235 – 1,098)</text>
+<rect x="252.00" y="322.00" width="87.71" height="18.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="252.00" y1="322.00" x2="252.00" y2="340.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="242.00" y="335.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">AIR-POLLUTION COMPONENT</text>
+<text x="349.71" y="336.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">0 – 838</text>
+<text x="349.71" y="348.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE INTERVAL REACHES ZERO</text>
+<line x1="64.00" y1="368.00" x2="596.00" y2="368.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="388.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.02em">A preventable-deaths headline is mostly a statement about the target chosen. Same city, same</text>
+<text x="64.00" y="402.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.02em">function, four counterfactuals, and a thirty-five-fold spread.</text>
+<text x="64.00" y="434.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BACCINI ET AL. 2026 · IUNGMAN ET AL. 2023 · MUELLER ET AL. 2020</text>
+</svg>

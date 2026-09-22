@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Diverging bar chart of energy model prediction errors by end use, thermal end uses under-predicted and appliance and lighting end uses over-predicted.">
+
+<line x1="202.25" y1="78" x2="202.25" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="202.25" y="282" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">-2,000</text>
+<line x1="267.88" y1="78" x2="267.88" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="267.88" y="282" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">-1,500</text>
+<line x1="333.5" y1="78" x2="333.5" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="333.5" y="282" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">-1,000</text>
+<line x1="399.12" y1="78" x2="399.12" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="399.12" y="282" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">-500</text>
+<line x1="464.75" y1="78" x2="464.75" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="464.75" y="282" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="530.38" y1="78" x2="530.38" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="530.38" y="282" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">500</text>
+<line x1="596" y1="78" x2="596" y2="266" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="596" y="282" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">1,000</text>
+<line x1="464.75" y1="78" x2="464.75" y2="266" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="176" y="298" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">PREDICTION ERROR  ·  kWh  ·  NEGATIVE = UNDER-PREDICTED</text>
+<rect x="207.5" y="82.5" width="257.25" height="19" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="207.5" y="82.5" width="257.25" height="19" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="215.5" y="96" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">-1,960</text>
+<text x="472.75" y="96" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">HEATING AND COOLING</text>
+<rect x="386.26" y="112.5" width="78.49" height="19" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="386.26" y="112.5" width="78.49" height="19" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="394.26" y="126" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">-598</text>
+<text x="472.75" y="126" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">HOT WATER</text>
+<rect x="432.86" y="142.5" width="31.89" height="19" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="432.86" y="142.5" width="31.89" height="19" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="440.86" y="156" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">-243</text>
+<text x="472.75" y="156" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SOLAR LOOP PUMPS</text>
+<rect x="464.75" y="172.5" width="5.77" height="19" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="464.75" y="172.5" width="5.77" height="19" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="478.52" y="186" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">+44</text>
+<text x="456.75" y="186" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">HEAT RECOVERY VENTILATOR</text>
+<rect x="464.75" y="202.5" width="28.48" height="19" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="464.75" y="202.5" width="28.48" height="19" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="501.23" y="216" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">+217</text>
+<text x="456.75" y="216" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">LIGHTING</text>
+<rect x="464.75" y="232.5" width="94.24" height="19" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="464.75" y="232.5" width="94.24" height="19" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="566.99" y="246" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">+718</text>
+<text x="456.75" y="246" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">APPLIANCES AND MISC.</text>
+<line x1="52" y1="78" x2="52" y2="162" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="58" y="94" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ENVELOPE AND</text>
+<text x="58" y="105" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">PLANT — WHERE</text>
+<text x="58" y="116" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE ARCHITECT&#x27;S</text>
+<text x="58" y="127" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">DECISIONS SIT</text>
+<line x1="52" y1="172" x2="52" y2="266" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="58" y="186" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">PLUG AND</text>
+<text x="58" y="197" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">SWITCH</text>
+<rect x="44" y="296" width="552" height="28" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56" y="314" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">ABOUT 810 TO 860 kWh OF THE TOTAL IS UNACCOUNTED FOR IN THIS EXTRACTION.</text>
+<text x="44" y="346" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">The largest single error is in heating and cooling — exactly the end use an architect&#x27;s envelope decisions govern.</text>
+<text x="44" y="357" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">The three under-predicted end uses are envelope and plant; the three over-predicted are plug and switch, where</text>
+<text x="44" y="368" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">the design team has least control and the occupant has most. NIST Special Publication 1182.</text>
+</svg>

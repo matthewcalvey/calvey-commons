@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="A section through a narrow deep house with temperature values rising up a stair and small arrows showing air moving upward.">
+<defs><marker id="f15a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<line x1="70.0" y1="300.0" x2="600.0" y2="300.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M140,300 L140,176 L250,124 L520,192 L520,300" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="104.0" y="200.0" width="36.0" height="100.0" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="104.0" y1="200.0" x2="104.0" y2="200.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="115.0" y1="200.0" x2="104.0" y2="211.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="126.0" y1="200.0" x2="104.0" y2="222.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="137.0" y1="200.0" x2="104.0" y2="233.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140.0" y1="208.0" x2="104.0" y2="244.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140.0" y1="219.0" x2="104.0" y2="255.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140.0" y1="230.0" x2="104.0" y2="266.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140.0" y1="241.0" x2="104.0" y2="277.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140.0" y1="252.0" x2="104.0" y2="288.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140.0" y1="263.0" x2="104.0" y2="299.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140.0" y1="274.0" x2="114.0" y2="300.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140.0" y1="285.0" x2="125.0" y2="300.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="140.0" y1="296.0" x2="136.0" y2="300.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="104.0" y="200.0" width="36.0" height="100.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="520.0" y="200.0" width="36.0" height="100.0" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="520.0" y1="200.0" x2="520.0" y2="200.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="531.0" y1="200.0" x2="520.0" y2="211.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="542.0" y1="200.0" x2="520.0" y2="222.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="553.0" y1="200.0" x2="520.0" y2="233.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="556.0" y1="208.0" x2="520.0" y2="244.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="556.0" y1="219.0" x2="520.0" y2="255.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="556.0" y1="230.0" x2="520.0" y2="266.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="556.0" y1="241.0" x2="520.0" y2="277.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="556.0" y1="252.0" x2="520.0" y2="288.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="556.0" y1="263.0" x2="520.0" y2="299.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="556.0" y1="274.0" x2="530.0" y2="300.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="556.0" y1="285.0" x2="541.0" y2="300.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="556.0" y1="296.0" x2="552.0" y2="300.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="520.0" y="200.0" width="36.0" height="100.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="122.0" y="317.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">NEIGHBOUR</text>
+<text x="538.0" y="317.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">NEIGHBOUR</text>
+<line x1="198.0" y1="216.0" x2="520.0" y2="216.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="198.0" y1="216.0" x2="198.0" y2="300.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M140,176 L198,148.6 L198,300 L140,300 Z" fill="var(--surface,#1F211E)"/>
+<line x1="142.0" y1="288.0" x2="142.0" y2="288.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="149.0" y1="288.0" x2="142.0" y2="295.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="156.0" y1="288.0" x2="146.0" y2="298.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="163.0" y1="288.0" x2="153.0" y2="298.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="170.0" y1="288.0" x2="160.0" y2="298.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="177.0" y1="288.0" x2="167.0" y2="298.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="184.0" y1="288.0" x2="174.0" y2="298.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="191.0" y1="288.0" x2="181.0" y2="298.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="196.0" y1="290.0" x2="188.0" y2="298.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="196.0" y1="297.0" x2="195.0" y2="298.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="348.0" y="238.0" width="84.0" height="62.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="390.0" y="264.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">HEATED</text>
+<text x="390.0" y="276.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">25 °C</text>
+<text x="448.0" y="276.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GROUND-FLOOR ROOMS</text>
+<text x="338.0" y="200.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">UPPER ROOMS</text>
+<polyline points="232.0,300.0 232.0,300.0 246.0,300.0 246.0,283.0 260.0,283.0 260.0,266.0 274.0,266.0 274.0,249.0 288.0,249.0 288.0,232.0 302.0,232.0 302.0,216.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="308.0" y="238.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">STAIR</text>
+<line x1="160.0" y1="276.0" x2="160.0" y2="236.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f15a)" stroke-linecap="round"/>
+<line x1="160.0" y1="226.0" x2="160.0" y2="186.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f15a)" stroke-linecap="round"/>
+<line x1="160.0" y1="176.0" x2="160.0" y2="136.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f15a)" stroke-linecap="round"/>
+<line x1="166.0" y1="142.0" x2="296.0" y2="157.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="300.0" y="158.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">0.2 TO 0.5 m/s, NO FAN</text>
+<line x1="178.0" y1="286.0" x2="178.0" y2="162.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="173.0" y1="286.0" x2="183.0" y2="286.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="173.0" y1="162.0" x2="183.0" y2="162.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="186.0" y="165.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">29 °C</text>
+<text x="186.0" y="289.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">19 °C</text>
+<text x="186.0" y="179.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A 10 K SPREAD</text>
+<text x="186.0" y="191.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">UP THE HEIGHT</text>
+<text x="140.0" y="110.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">TŌRINIWA · AN EARTH PASSAGE OPEN TO THE ROOF</text>
+<text x="70.0" y="44.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A MACHIYA IN WINTER · A FAN-LESS VERTICAL AIR PATH</text>
+<text x="70.0" y="62.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IBA &amp; HOKOI 2022 · A WINTER CAMPAIGN AND 8 SEPTEMBER 2014</text>
+<text x="70.0" y="344.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE PLAN CANNOT VENTILATE ACROSS, BECAUSE IT HAS NEIGHBOURS ON BOTH SIDES.</text>
+<text x="70.0" y="358.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SO IT VENTILATES UPWARD.</text>
+<text x="70.0" y="386.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE SUMMER NIGHT-VENTILATION FIGURES OF 2.5 AND 1.7 K COULD NOT BE ATTRIBUTED</text>
+<text x="70.0" y="400.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">TO MEASUREMENT RATHER THAN CALCULATION, AND ARE NOT DRAWN HERE.</text>
+</svg>

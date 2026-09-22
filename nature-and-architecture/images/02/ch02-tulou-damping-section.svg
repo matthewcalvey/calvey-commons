@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 452" role="img" aria-label="A cross-section of a circular earthen building with numbered sensor points and the daily temperature swing written at each.">
+<line x1="52.0" y1="258.0" x2="616.0" y2="258.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="80.0" y="106.0" width="22.0" height="152.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="578.0" y="106.0" width="22.0" height="152.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="102.0" y="106.0" width="34.0" height="152.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="544.0" y="106.0" width="34.0" height="152.0" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="136.0" y="106.0" width="6.0" height="152.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="538.0" y="106.0" width="6.0" height="152.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="80.0" y1="220.0" x2="142.0" y2="220.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="538.0" y1="220.0" x2="600.0" y2="220.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="80.0" y1="182.0" x2="142.0" y2="182.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="538.0" y1="182.0" x2="600.0" y2="182.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="80.0" y1="144.0" x2="142.0" y2="144.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="538.0" y1="144.0" x2="600.0" y2="144.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="85.0" y="158.0" width="12.0" height="13.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="583.0" y="158.0" width="12.0" height="13.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="85.0" y="120.0" width="12.0" height="13.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="583.0" y="120.0" width="12.0" height="13.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M64,100 L158,72" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M616,100 L522,72" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="340.0" y="62.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE OPEN COURT · THE BUILDING’S ONLY OPENING</text>
+<line x1="80.0" y1="278.0" x2="600.0" y2="278.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="80.0" y1="274.0" x2="80.0" y2="282.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="600.0" y1="274.0" x2="600.0" y2="282.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="340.0" y="296.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">61 M ACROSS · FOUR STOREYS</text>
+<text x="340.0" y="310.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">VERTICAL SCALE EXAGGERATED</text>
+<circle cx="56.0" cy="182.0" r="7.5" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="56.0" y="185.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">1</text>
+<circle cx="124.0" cy="242.0" r="7.5" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="124.0" y="245.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">2</text>
+<circle cx="91.0" cy="204.0" r="7.5" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="91.0" y="207.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">3</text>
+<text x="56.0" y="168.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">OUTSIDE</text>
+<line x1="52.0" y1="332.0" x2="600.0" y2="332.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="59.0" cy="348.5" r="7.0" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="59.0" y="352.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">1</text>
+<text x="74.0" y="352.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EXTERIOR AIR</text>
+<text x="344.0" y="352.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">6.5 K</text>
+<text x="396.0" y="352.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em"></text>
+<circle cx="59.0" cy="364.5" r="7.0" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="59.0" y="368.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">2</text>
+<text x="74.0" y="368.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FIRST-FLOOR DINING, ON THE COURT</text>
+<text x="344.0" y="368.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">5.5 K</text>
+<text x="396.0" y="368.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">15 % DAMPED</text>
+<circle cx="59.0" cy="380.5" r="7.0" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="59.0" y="384.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">3</text>
+<text x="74.0" y="384.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SECOND-FLOOR STORE, INSIDE THE MASS</text>
+<text x="344.0" y="384.0" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">1.7 K</text>
+<text x="396.0" y="384.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">74 % DAMPED</text>
+<rect x="52.0" y="404.0" width="470.0" height="20.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<text x="62.0" y="418.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">TWO FURTHER LOGGERS · NEITHER POSITION NOR VALUE IS PUBLISHED</text>
+<text x="52.0" y="32.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CHENG QI LOU · FIVE LOGGERS · 28 JUNE – 6 JULY 2009</text>
+<text x="52.0" y="48.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">UEDA 2012 · THE INSTRUMENT IS THE GRADIENT FROM THE COURT INWARD</text>
+<text x="52.0" y="444.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A SECOND TULOU, IN GUANGXI, GAINED ABOUT 2 °C AND LOST 13.5 POINTS OF HUMIDITY.</text>
+</svg>

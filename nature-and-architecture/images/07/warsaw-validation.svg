@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Diagram of a lecture hall with a chart showing simulated daylight deviating from measurement by up to plus 204 and minus 53 per cent, error increasing away from the window.">
+
+<rect x="52" y="80" width="172" height="118" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="52" y1="80" x2="52" y2="198" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="52" y="70" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">WINDOW WALL</text>
+<line x1="86" y1="96" x2="86" y2="182" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="81" y="102" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="81" y="120" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="81" y="138" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="81" y="156" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="81" y="174" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="86" y="212" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">ROW 1</text>
+<line x1="130" y1="96" x2="130" y2="182" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="125" y="102" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="125" y="120" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="125" y="138" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="125" y="156" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="125" y="174" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="130" y="212" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">ROW 2</text>
+<line x1="174" y1="96" x2="174" y2="182" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="169" y="102" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="169" y="120" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="169" y="138" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="169" y="156" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="169" y="174" width="10" height="9" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="174" y="212" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">ROW 3</text>
+<text x="52" y="230" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">LECTURE HALL 210</text>
+<text x="52" y="241" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">319 MEASUREMENT POINTS</text>
+<path d="M 58 138 L 200 138" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3"/>
+<path d="M 195 134 L 202 138 L 195 142" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="290" y1="74" x2="290" y2="248" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="290" y1="231.2" x2="566" y2="231.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="284" y="234.2" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">-50</text>
+<line x1="290" y1="203.2" x2="566" y2="203.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="284" y="206.2" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="290" y1="175.2" x2="566" y2="175.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="284" y="178.2" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+50</text>
+<line x1="290" y1="147.2" x2="566" y2="147.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="284" y="150.2" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+100</text>
+<line x1="290" y1="119.2" x2="566" y2="119.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="284" y="122.2" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+150</text>
+<line x1="290" y1="91.2" x2="566" y2="91.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="284" y="94.2" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">+200</text>
+<text x="284" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">DEVIATION FROM MEASURED ILLUMINANCE  ·  %</text>
+<line x1="290" y1="203.2" x2="566" y2="203.2" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="294" y="197.2" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">MEASURED  =  ZERO</text>
+<line x1="330" y1="248" x2="330" y2="253" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="330" y="265" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">ROW 1</text>
+<line x1="428" y1="248" x2="428" y2="253" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="428" y="265" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">ROW 2</text>
+<line x1="526" y1="248" x2="526" y2="253" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="526" y="265" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">ROW 3</text>
+<line x1="290" y1="248" x2="566" y2="248" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="290" y="281" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">→  FURTHER FROM THE WINDOW</text>
+<path d="M 330 169.6 L 428 146.08 L 526 88.96" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="330" cy="169.6" r="2.8" fill="var(--hot,#C45C3E)"/>
+<circle cx="428" cy="146.08" r="2.8" fill="var(--hot,#C45C3E)"/>
+<circle cx="526" cy="88.96" r="2.8" fill="var(--hot,#C45C3E)"/>
+<text x="534" y="92.96" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">+204</text>
+<path d="M 330 190.32 L 428 192.56 L 526 147.2" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<circle cx="330" cy="190.32" r="2.8" fill="var(--hot,#C45C3E)"/>
+<circle cx="428" cy="192.56" r="2.8" fill="var(--hot,#C45C3E)"/>
+<circle cx="526" cy="147.2" r="2.8" fill="var(--hot,#C45C3E)"/>
+<text x="534" y="151.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">+100</text>
+<path d="M 330 210.48 L 428 211.6 L 526 195.92" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="330" cy="210.48" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<circle cx="428" cy="211.6" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<circle cx="526" cy="195.92" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<text x="534" y="183.92" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">+13</text>
+<path d="M 330 210.48 L 428 232.88 L 526 227.28" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<circle cx="330" cy="210.48" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<circle cx="428" cy="232.88" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<circle cx="526" cy="227.28" r="2.8" fill="var(--accent,#6A9CC4)"/>
+<text x="534" y="239.28" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">-43</text>
+<line x1="290" y1="297" x2="312" y2="297" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="320" y="300" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ENERGYPLUS  OVERCAST</text>
+<line x1="290" y1="313" x2="312" y2="313" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="320" y="316" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ENERGYPLUS  CLEAR</text>
+<line x1="290" y1="329" x2="312" y2="329" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="320" y="332" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">RADIANCE  OVERCAST</text>
+<line x1="290" y1="345" x2="312" y2="345" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="320" y="348" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">RADIANCE  CLEAR</text>
+<text x="52" y="300" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ERROR GROWS WITH DISTANCE FROM</text>
+<text x="52" y="314" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE WINDOW IN EVERY CASE, AND</text>
+<text x="52" y="328" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE SIGN FLIPS WITH THE SKY.</text>
+<text x="52" y="374" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">One engine predicted 204 per cent brighter than measured in the back row under overcast sky; another predicted</text>
+<text x="52" y="385" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">53 per cent darker under clear sky. The measurement was made, published openly, and the metric was</text>
+<text x="52" y="396" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">standardised without it. Rucińska and Trząski 2020, Warsaw, 2018–19.</text>
+</svg>

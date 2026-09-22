@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Timeline of simulated passive survivability durations against a seventy-two hour target, with all values marked as simulated and the target marked as borrowed from another discipline.">
+<defs><pattern id="sim16" patternUnits="userSpaceOnUse" width="4.5" height="4.5" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="4.5" stroke="var(--mut,#8A8880)" stroke-width="0.55" opacity="0.85"/></pattern></defs>
+<line x1="96" y1="208" x2="470" y2="208" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96" y1="208" x2="96" y2="213" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="96" y="226" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="189.5" y1="208" x2="189.5" y2="213" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="189.5" y="226" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">24</text>
+<line x1="283" y1="208" x2="283" y2="213" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="283" y="226" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">48</text>
+<line x1="376.5" y1="208" x2="376.5" y2="213" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="376.5" y="226" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">72</text>
+<line x1="470" y1="208" x2="470" y2="213" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="470" y="226" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">96</text>
+<text x="96" y="242" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">HOURS</text>
+<line x1="376.5" y1="74" x2="376.5" y2="208" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="376.5" y="66" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">72 HOURS</text>
+<text x="384.5" y="88" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BORROWED FROM EMERGENCY-MANAGEMENT</text>
+<text x="384.5" y="99" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">PLANNING.  NOT DERIVED FROM BUILDING</text>
+<text x="384.5" y="110" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">PHYSICS, AND NOT FROM MORTALITY DATA.</text>
+<rect x="96" y="134" width="307.77" height="24" fill="url(#sim16)"/>
+<rect x="96" y="134" width="307.77" height="24" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="411.77" y="150" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">79 h</text>
+<text x="102" y="150" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SAFE ROOM, WINTER STORM</text>
+<rect x="96" y="168" width="288.29" height="24" fill="url(#sim16)"/>
+<rect x="96" y="168" width="288.29" height="24" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="392.29" y="184" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">74 h</text>
+<text x="102" y="184" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SAFE ROOM, HEAT WAVE</text>
+<rect x="44" y="250" width="268" height="92" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54" y="268" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">DAYS OF SAFETY</text>
+<text x="54" y="284" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">HIGH-PERFORMANCE ENVELOPES CUT</text>
+<text x="54" y="295" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">CUMULATIVE EXPOSURE BY MORE THAN 90 %</text>
+<text x="54" y="306" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">IN SEVERAL LOCATIONS, AND RAISED DAYS</text>
+<text x="54" y="317" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">OF SAFETY BY AS MUCH AS</text>
+<text x="54" y="334" font-family="'Space Mono',monospace" font-size="12" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">523 %</text>
+<text x="112" y="334" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">— BASE OF THE RATIO UNSTATED</text>
+<rect x="332" y="250" width="264" height="92" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<rect x="342" y="262" width="16" height="12" fill="url(#sim16)"/>
+<rect x="342" y="262" width="16" height="12" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="366" y="272" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">SIMULATED</text>
+<text x="342" y="294" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">NO MONITORED RESULT FROM AN</text>
+<text x="342" y="305" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">OCCUPIED BUILDING WAS REACHABLE.</text>
+<text x="342" y="324" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">Both sources are 2026 preprints,</text>
+<text x="342" y="334" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">read at abstract only.</text>
+<text x="44" y="56" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">PASSIVE SURVIVABILITY  ·  MADE ONLY IN THE FUTURE TENSE</text>
+<text x="44" y="366" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Wijesuriya, Kishore &amp; Booten 2026; Hotchkiss, Sandoval &amp; Bazilian 2026. Three years old, unvalidated,</text>
+<text x="44" y="377" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">unstandardised, and measured against a target borrowed from another discipline.</text>
+</svg>

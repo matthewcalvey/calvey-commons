@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 504" role="img" aria-label="The seven Living Building Challenge Petals sorted into those verified by metering, those verified by documentation, and those asserted.">
+<text x="56.00" y="66.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">VERIFIED BY METER</text>
+<line x1="56.00" y1="72.00" x2="596.00" y2="72.00" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<rect x="56.00" y="84.00" width="540.00" height="34.00" fill="var(--ok,#7AB87A)" fill-opacity="0.12"/>
+<rect x="56.00" y="84.00" width="540.00" height="34.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="68.00" y="98.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ENERGY</text>
+<text x="210.00" y="98.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">105 % of annual use from on-site renewables · 70 % below</text>
+<text x="210.00" y="109.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">baseline intensity · twelve months under full certification</text>
+<rect x="56.00" y="124.00" width="540.00" height="34.00" fill="var(--ok,#7AB87A)" fill-opacity="0.12"/>
+<rect x="56.00" y="124.00" width="540.00" height="34.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="68.00" y="138.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WATER</text>
+<text x="210.00" y="138.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">on-site sourced water for twelve months at monthly</text>
+<text x="210.00" y="149.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">metering · footprint 50 % below regional baseline</text>
+<text x="56.00" y="180.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">VERIFIED BY DOCUMENT</text>
+<line x1="56.00" y1="186.00" x2="596.00" y2="186.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<rect x="56.00" y="198.00" width="540.00" height="22.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.12"/>
+<rect x="56.00" y="198.00" width="540.00" height="22.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="68.00" y="212.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MATERIALS</text>
+<rect x="56.00" y="226.00" width="540.00" height="22.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.12"/>
+<rect x="56.00" y="226.00" width="540.00" height="22.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="68.00" y="240.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">PLACE</text>
+<text x="56.00" y="270.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ASSERTED</text>
+<line x1="56.00" y1="276.00" x2="596.00" y2="276.00" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<rect x="56.00" y="288.00" width="540.00" height="22.00" fill="var(--hot,#C45C3E)" fill-opacity="0.12"/>
+<rect x="56.00" y="288.00" width="540.00" height="22.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="68.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">HEALTH AND HAPPINESS</text>
+<text x="210.00" y="302.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">in part</text>
+<rect x="56.00" y="316.00" width="540.00" height="22.00" fill="var(--hot,#C45C3E)" fill-opacity="0.12"/>
+<rect x="56.00" y="316.00" width="540.00" height="22.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="68.00" y="330.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">EQUITY</text>
+<rect x="56.00" y="344.00" width="540.00" height="22.00" fill="var(--hot,#C45C3E)" fill-opacity="0.12"/>
+<rect x="56.00" y="344.00" width="540.00" height="22.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="68.00" y="358.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BEAUTY</text>
+<rect x="56.00" y="382.00" width="540.00" height="30.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="66.00" y="396.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ALL IMPERATIVES ARE MANDATORY, SO ONE CERTIFICATE SPANS ALL THREE BANDS.</text>
+<line x1="56.00" y1="428.00" x2="596.00" y2="428.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56.00" y="448.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">One certificate makes three different kinds of claim, and only one band can fail on evidence.</text>
+<text x="56.00" y="480.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REQUIREMENTS AS REPORTED IN FORSBERG ET AL. 2021</text>
+</svg>

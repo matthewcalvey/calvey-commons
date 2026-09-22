@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 452" role="img" aria-label="A cutaway drawing of a conical earth dome over a pit beside a shallow pond, with arrows from the pond to the night sky.">
+<defs><marker id="f8a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="f8b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<line x1="44.0" y1="272.0" x2="612.0" y2="272.0" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<rect x="126.0" y="272.0" width="162.0" height="16.0" fill="var(--surface,#1F211E)"/>
+<path d="M126,272 L126,288 L288,288 L288,272" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="126.0" y1="272.0" x2="288.0" y2="272.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="207.0" y="306.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">SHADED POND · ABOUT 400 M²</text>
+<rect x="110.0" y="218.0" width="10.0" height="54.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="106.0" y1="245.0" x2="88.0" y2="245.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="44.0" y="248.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SHADING</text>
+<text x="44.0" y="260.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WALL</text>
+<line x1="152.0" y1="266.0" x2="152.0" y2="78.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f8a)" stroke-linecap="round"/>
+<line x1="190.0" y1="266.0" x2="190.0" y2="78.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f8a)" stroke-linecap="round"/>
+<line x1="228.0" y1="266.0" x2="228.0" y2="78.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f8a)" stroke-linecap="round"/>
+<line x1="266.0" y1="266.0" x2="266.0" y2="78.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f8a)" stroke-linecap="round"/>
+<text x="207.0" y="62.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">RADIATIVE LOSS TO A CLEAR NIGHT SKY</text>
+<text x="207.0" y="50.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">THE DOMINANT TERM</text>
+<path d="M136,264 q-14,-34 2,-58" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5" marker-end="url(#f8b)" stroke-linecap="round" stroke-dasharray="4 3"/>
+<text x="44.0" y="168.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">EVAPORATION</text>
+<text x="44.0" y="180.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">SECONDARY</text>
+<path d="M346,272 L374,191.0 L410,137.0 L450,137.0 L486,191.0 L514,272" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M364,272 L386,191.0 L416,146.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<path d="M496,272 L474,191.0 L444,146.0" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="423.0" y="122.6" width="14.0" height="14.4" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="438.0" y1="128.0" x2="464.0" y2="128.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="468.0" y="131.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">VENT 0.8 M²</text>
+<rect x="380.0" y="272.0" width="100.0" height="45.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="388.0" y1="282.0" x2="388.0" y2="309.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="413.0" y1="282.0" x2="413.0" y2="309.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="438.0" y1="282.0" x2="438.0" y2="309.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="463.0" y1="282.0" x2="463.0" y2="309.0" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="430.0" y="335.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">PIT ABOUT 5 M</text>
+<text x="430.0" y="349.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ABOUT 50 M³ OF ICE A WINTER</text>
+<text x="430.0" y="361.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ROUGHLY 20 % OF CAPACITY</text>
+<line x1="450.0" y1="137.0" x2="534.0" y2="137.0" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="528.0" y1="137.0" x2="528.0" y2="272.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="524.0" y1="137.0" x2="532.0" y2="137.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="524.0" y1="272.0" x2="532.0" y2="272.0" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="538.0" y="194.6" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em">ABOUT 15 M</text>
+<text x="538.0" y="207.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WALLS 2 M AT THE</text>
+<text x="538.0" y="219.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BASE TO 0.5 M</text>
+<text x="538.0" y="236.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">U 0.1 W/m²K</text>
+<rect x="44.0" y="374.0" width="552.0" height="28.0" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 4"/>
+<text x="56.0" y="392.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NO INSTRUMENT HAS EVER BEEN PUT IN A YAKHCHAL. EVERY NUMBER HERE IS A MODEL.</text>
+<text x="44.0" y="426.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">POCHEE 2018 · TRANSIENT HEAT-TRANSFER AND DYNAMIC THERMAL MODELLING</text>
+<text x="44.0" y="440.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AN ENGINEERING-PRACTICE PUBLICATION, NOT PEER-REVIEWED</text>
+</svg>

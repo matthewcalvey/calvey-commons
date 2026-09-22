@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" role="img" aria-label="A scale from nanometres to city blocks with biomimicry cases plotted; measured evidence covers the small end and stops abruptly at building scale, where simulation takes over.">
+<line x1="70.00" y1="160.00" x2="588.00" y2="160.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="70.00" y1="156.00" x2="70.00" y2="164.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="70.00" y="178.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">10 nm</text>
+<line x1="170.57" y1="156.00" x2="170.57" y2="164.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="170.57" y="178.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1 µm</text>
+<line x1="321.43" y1="156.00" x2="321.43" y2="164.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="321.43" y="178.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1 mm</text>
+<line x1="472.29" y1="156.00" x2="472.29" y2="164.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="472.29" y="178.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1 m</text>
+<line x1="572.86" y1="156.00" x2="572.86" y2="164.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="572.86" y="178.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">100 m</text>
+<text x="70.00" y="196.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PHYSICAL SIZE  (LOG)</text>
+<circle cx="122.37" cy="160.00" r="4.20" fill="var(--ink,#ECEAE3)"/>
+<line x1="122.37" y1="154.00" x2="122.37" y2="147.00" stroke="var(--mut,#8A8880)" stroke-width="0.6"/>
+<text x="122.37" y="144.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">1</text>
+<circle cx="155.43" cy="160.00" r="4.20" fill="var(--ink,#ECEAE3)"/>
+<line x1="155.43" y1="154.00" x2="155.43" y2="133.00" stroke="var(--mut,#8A8880)" stroke-width="0.6"/>
+<text x="155.43" y="130.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">2</text>
+<circle cx="205.72" cy="160.00" r="4.20" fill="var(--ink,#ECEAE3)"/>
+<line x1="205.72" y1="154.00" x2="205.72" y2="147.00" stroke="var(--mut,#8A8880)" stroke-width="0.6"/>
+<text x="205.72" y="144.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">3</text>
+<circle cx="303.99" cy="160.00" r="4.20" fill="var(--ink,#ECEAE3)"/>
+<line x1="303.99" y1="154.00" x2="303.99" y2="133.00" stroke="var(--mut,#8A8880)" stroke-width="0.6"/>
+<text x="303.99" y="130.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">4</text>
+<circle cx="461.13" cy="160.00" r="4.20" fill="var(--ink,#ECEAE3)"/>
+<line x1="461.13" y1="154.00" x2="461.13" y2="147.00" stroke="var(--mut,#8A8880)" stroke-width="0.6"/>
+<text x="461.13" y="144.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">5</text>
+<circle cx="526.56" cy="160.00" r="4.20" fill="var(--ink,#ECEAE3)"/>
+<line x1="526.56" y1="154.00" x2="526.56" y2="133.00" stroke="var(--mut,#8A8880)" stroke-width="0.6"/>
+<text x="526.56" y="130.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">6</text>
+<circle cx="552.85" cy="160.00" r="4.20" fill="var(--ink,#ECEAE3)"/>
+<line x1="552.85" y1="154.00" x2="552.85" y2="147.00" stroke="var(--mut,#8A8880)" stroke-width="0.6"/>
+<text x="552.85" y="144.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">7</text>
+<circle cx="581.72" cy="160.00" r="4.20" fill="var(--ink,#ECEAE3)"/>
+<line x1="581.72" y1="154.00" x2="581.72" y2="133.00" stroke="var(--mut,#8A8880)" stroke-width="0.6"/>
+<text x="581.72" y="130.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">8</text>
+<rect x="70.00" y="84.00" width="406.27" height="20.00" fill="var(--ok,#7AB87A)" fill-opacity="0.26"/>
+<rect x="70.00" y="84.00" width="406.27" height="20.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="80.00" y="98.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">INSTRUMENTED MEASUREMENT EXISTS</text>
+<rect x="476.27" y="212.00" width="111.73" height="20.00" fill="var(--hot,#C45C3E)" fill-opacity="0.22"/>
+<rect x="476.27" y="212.00" width="111.73" height="20.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="484.27" y="226.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ONLY SIMULATION</text>
+<line x1="476.27" y1="80.00" x2="476.27" y2="236.00" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="470.27" y="70.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">THE DISCONTINUITY, AROUND THE COMPONENT</text>
+<line x1="64.00" y1="266.00" x2="588.00" y2="266.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="286.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">1</text>
+<text x="80.00" y="286.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WAX TUBULES</text>
+<text x="80.00" y="295.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">110 nm</text>
+<text x="64.00" y="305.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">2</text>
+<text x="80.00" y="305.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NACRE FILMS</text>
+<text x="80.00" y="314.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">sub-micrometre</text>
+<text x="64.00" y="324.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">3</text>
+<text x="80.00" y="324.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PAPILLAE</text>
+<text x="80.00" y="333.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">micrometres</text>
+<text x="244.00" y="286.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">4</text>
+<text x="260.00" y="286.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HEALED CRACK WIDTH</text>
+<text x="260.00" y="295.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">0.4–0.5 mm</text>
+<text x="244.00" y="305.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">5</text>
+<text x="260.00" y="305.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A COMPLIANT FIN</text>
+<text x="260.00" y="314.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">under a metre</text>
+<text x="244.00" y="324.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">6</text>
+<text x="260.00" y="324.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A PAVILION</text>
+<text x="260.00" y="333.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">tens of metres</text>
+<text x="424.00" y="286.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">7</text>
+<text x="440.00" y="286.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A BUILDING</text>
+<text x="440.00" y="295.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">tens of metres</text>
+<text x="424.00" y="305.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">8</text>
+<text x="440.00" y="305.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A CATCHMENT</text>
+<text x="440.00" y="314.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">kilometres</text>
+<line x1="64.00" y1="352.00" x2="588.00" y2="352.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="372.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">One clean discontinuity, and you can point at it. Everything the lane measured is smaller than</text>
+<text x="64.00" y="386.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">a component; everything at building scale is modelled.</text>
+<text x="64.00" y="418.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FROM §02.2</text>
+</svg>

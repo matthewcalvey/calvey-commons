@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Diagram comparing the representative bodies created by four rights-of-nature instruments, from two guardians to about fifteen members.">
+
+<text x="96" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ECUADOR</text>
+<text x="96" y="70" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">2008</text>
+<rect x="88" y="96" width="116" height="92" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="104" y="118" width="72" height="48" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="140" y="146" font-family="'Space Mono',monospace" font-size="10" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">—</text>
+<text x="96" y="204" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">A CONSTITUTIONAL</text>
+<text x="96" y="214" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">PROVISION, NO</text>
+<text x="96" y="224" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">NAMED BODY</text>
+<text x="232" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">WHANGANUI</text>
+<text x="232" y="70" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">2017</text>
+<rect x="224" y="96" width="116" height="92" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="244" cy="120" r="6.4" fill="var(--accent,#6A9CC4)" opacity="0.55"/>
+<circle cx="244" cy="120" r="6.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<circle cx="262" cy="120" r="6.4" fill="var(--accent,#6A9CC4)" opacity="0.55"/>
+<circle cx="262" cy="120" r="6.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="232" y="204" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">TWO GUARDIANS</text>
+<text x="368" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ATRATO</text>
+<text x="368" y="70" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">2016–17</text>
+<rect x="360" y="96" width="116" height="92" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="380" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="380" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="398" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="398" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="416" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="416" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="434" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="434" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="452" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="452" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="380" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="380" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="398" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="398" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="416" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="416" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="434" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="434" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="452" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="452" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="380" cy="160" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="380" cy="160" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="398" cy="160" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="398" cy="160" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="416" cy="160" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="416" cy="160" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="434" cy="160" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="434" cy="160" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="368" y="204" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">FOURTEEN</text>
+<text x="368" y="214" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">GUARDIANS</text>
+<text x="504" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">MAR MENOR</text>
+<text x="504" y="70" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">2022</text>
+<rect x="496" y="96" width="116" height="92" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<circle cx="516" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="516" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="534" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="534" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="552" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="552" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="570" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="570" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="588" cy="120" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="588" cy="120" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="516" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="516" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="534" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="534" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="552" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="552" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="570" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="570" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="588" cy="140" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="588" cy="140" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="516" cy="160" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="516" cy="160" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="534" cy="160" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="534" cy="160" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="552" cy="160" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="552" cy="160" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="570" cy="160" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="570" cy="160" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<circle cx="588" cy="160" r="6.4" fill="var(--dim,#B8B5AC)" opacity="0.55"/>
+<circle cx="588" cy="160" r="6.4" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="504" y="204" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ABOUT FIFTEEN</text>
+<text x="504" y="214" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">MEMBERS</text>
+<text x="44" y="250" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE FOUR POWERS PERSONHOOD CONFERS</text>
+<rect x="88" y="262" width="116" height="24" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="146" y="272" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">STANDING</text>
+<rect x="224" y="262" width="116" height="24" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="282" y="272" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">COGNISABLE</text>
+<text x="282" y="282" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">INJURY</text>
+<rect x="360" y="262" width="116" height="24" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="418" y="272" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">RELIEF TO THE</text>
+<text x="418" y="282" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">ENTITY</text>
+<rect x="496" y="262" width="116" height="24" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="554" y="272" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">PROPERTY AND</text>
+<text x="554" y="282" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">CONTRACT</text>
+<rect x="44" y="302" width="552" height="26" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="54" y="319" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ON THE RHÔNE, NO GOVERNANCE CHANGE WAS OBSERVED.</text>
+<text x="44" y="346" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Bodies drawn to scale by membership. The instrument creates a body and four powers; whether the body</text>
+<text x="44" y="357" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">changes anything is a separate measurement, and on the one river where it was looked for it did not.</text>
+<text x="44" y="368" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Vallet, Bréthaut &amp; Lussault 2024.</text>
+</svg>

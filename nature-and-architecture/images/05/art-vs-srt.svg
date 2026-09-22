@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Two-column diagram separating stress reduction theory from attention restoration theory by mechanism, timescale, prediction and design implication.">
+<text x="178.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">STRESS REDUCTION THEORY</text>
+<text x="178.00" y="47.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">ULRICH</text>
+<text x="452.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">ATTENTION RESTORATION THEORY</text>
+<text x="452.00" y="47.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE KAPLANS</text>
+<line x1="316.00" y1="58.00" x2="316.00" y2="318.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="48.00" y1="62.00" x2="596.00" y2="62.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="76.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MECHANISM</text>
+<text x="196.00" y="76.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">affective and autonomic</text>
+<text x="400.00" y="76.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">cognitive — replenishment of</text>
+<text x="400.00" y="88.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">directed attention</text>
+<line x1="48.00" y1="106.00" x2="596.00" y2="106.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="120.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TIMESCALE</text>
+<text x="196.00" y="120.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">seconds to minutes</text>
+<text x="400.00" y="120.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">minutes to hours</text>
+<line x1="48.00" y1="150.00" x2="596.00" y2="150.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="164.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PREDICTED OUTCOME</text>
+<text x="196.00" y="164.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">recovery from arousal</text>
+<text x="400.00" y="164.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">improved performance on</text>
+<text x="400.00" y="176.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">attention tasks</text>
+<line x1="48.00" y1="194.00" x2="596.00" y2="194.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="208.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DESIGN IMPLICATION</text>
+<text x="196.00" y="208.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">a visible view at the</text>
+<text x="196.00" y="220.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">moment of stress</text>
+<text x="400.00" y="208.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">a place to go and remain</text>
+<line x1="48.00" y1="238.00" x2="596.00" y2="238.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="252.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">POSITION</text>
+<text x="196.00" y="252.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">INSIDE, LOOKING OUT</text>
+<text x="400.00" y="252.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">THRESHOLD OR OUTSIDE</text>
+<line x1="48.00" y1="282.00" x2="596.00" y2="282.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="48.00" y="296.00" width="548.00" height="30.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="58.00" y="309.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE FOUR COMPONENTS USUALLY LISTED FOR ATTENTION RESTORATION</text>
+<text x="58.00" y="320.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">ARE NOT SHOWN: NO SOURCE FOR THEM WAS OPENED FOR THIS BOOK.</text>
+<text x="48.00" y="350.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BOTH REST ON AN EVOLUTIONARY PREMISE CRITICISED IN BOTH LITERATURES.</text>
+</svg>

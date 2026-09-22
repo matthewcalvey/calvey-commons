@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 468" role="img" aria-label="Cutaway section of the Prince Edward Island Ark showing solar, thermal, nutrient and food loops as a single circuit, with quantities marked unfilled.">
+<line x1="52.00" y1="250.00" x2="600.00" y2="250.00" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<rect x="60.00" y="132.00" width="220.00" height="118.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0"/>
+<line x1="60.00" y1="196.00" x2="280.00" y2="196.00" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="170.00" y="162.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">LIVING SPACE</text>
+<text x="170.00" y="226.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">STORE AND SERVICES</text>
+<path d="M280 250 L280 108 L470 190 L470 250 Z" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="280.00" y1="108.00" x2="280.00" y2="250.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.45"/>
+<line x1="311.67" y1="121.67" x2="311.67" y2="250.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.45"/>
+<line x1="343.33" y1="135.33" x2="343.33" y2="250.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.45"/>
+<line x1="375.00" y1="149.00" x2="375.00" y2="250.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.45"/>
+<line x1="406.67" y1="162.67" x2="406.67" y2="250.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.45"/>
+<line x1="438.33" y1="176.33" x2="438.33" y2="250.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.45"/>
+<line x1="470.00" y1="190.00" x2="470.00" y2="250.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.45"/>
+<text x="392.00" y="100.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">GLAZED SOUTH FACE</text>
+<rect x="292.00" y="172.00" width="96.00" height="20.00" fill="var(--ok,#7AB87A)" fill-opacity="0.22"/>
+<rect x="292.00" y="172.00" width="96.00" height="20.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<text x="340.00" y="186.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">PLANT BEDS</text>
+<rect x="296.00" y="206.00" width="44.00" height="40.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.24"/>
+<rect x="296.00" y="206.00" width="44.00" height="40.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<rect x="344.00" y="206.00" width="44.00" height="40.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.24"/>
+<rect x="344.00" y="206.00" width="44.00" height="40.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<rect x="392.00" y="206.00" width="44.00" height="40.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.24"/>
+<rect x="392.00" y="206.00" width="44.00" height="40.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="478.00" y="232.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">AQUACULTURE</text>
+<text x="478.00" y="243.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">TANKS</text>
+<line x1="440.00" y1="230.00" x2="474.00" y2="230.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<circle cx="548.00" cy="62.00" r="13.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<line x1="565.00" y1="62.00" x2="571.00" y2="62.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="560.02" y1="74.02" x2="564.26" y2="78.26" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="548.00" y1="79.00" x2="548.00" y2="85.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="535.98" y1="74.02" x2="531.74" y2="78.26" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="531.00" y1="62.00" x2="525.00" y2="62.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="535.98" y1="49.98" x2="531.74" y2="45.74" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="548.00" y1="45.00" x2="548.00" y2="39.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="560.02" y1="49.98" x2="564.26" y2="45.74" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="532.00" y1="78.00" x2="460.00" y2="148.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<path d="M460.00 148.00 L461.67 143.82 L464.23 146.45 Z" fill="var(--accent,#6A9CC4)"/>
+<circle cx="506.00" cy="122.00" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="506.00" y="125.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">1</text>
+<line x1="430.00" y1="168.00" x2="406.00" y2="202.00" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<path d="M406.00 202.00 L406.87 197.58 L409.87 199.70 Z" fill="var(--accent,#6A9CC4)"/>
+<circle cx="428.00" cy="196.00" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="428.00" y="199.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">2</text>
+<line x1="292.00" y1="224.00" x2="266.00" y2="224.00" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<path d="M266.00 224.00 L270.11 222.17 L270.11 225.83 Z" fill="var(--hot,#C45C3E)"/>
+<circle cx="276.00" cy="208.00" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<text x="276.00" y="211.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">3</text>
+<line x1="340.00" y1="204.00" x2="340.00" y2="196.00" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<path d="M340.00 196.00 L341.83 200.11 L338.17 200.11 Z" fill="var(--ok,#7AB87A)"/>
+<circle cx="356.00" cy="198.00" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<text x="356.00" y="201.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="middle">4</text>
+<line x1="390.00" y1="180.00" x2="424.00" y2="164.00" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<path d="M424.00 164.00 L421.06 167.41 L419.50 164.09 Z" fill="var(--ok,#7AB87A)"/>
+<circle cx="432.00" cy="152.00" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<text x="432.00" y="155.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="middle">5</text>
+<line x1="52.00" y1="276.00" x2="600.00" y2="276.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="294.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ONE CIRCUIT</text>
+<circle cx="58.00" cy="310.50" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="58.00" y="314.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">1</text>
+<text x="72.00" y="314.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SOLAR GAIN THROUGH THE GLAZING</text>
+<circle cx="358.00" cy="310.50" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.0"/>
+<text x="358.00" y="314.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">2</text>
+<text x="372.00" y="314.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HEAT STORED IN THE WATER OF THE TANKS</text>
+<circle cx="58.00" cy="332.50" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<text x="58.00" y="336.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em" text-anchor="middle">3</text>
+<text x="72.00" y="336.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TANK HEAT WARMS THE LIVING SPACE</text>
+<circle cx="358.00" cy="332.50" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<text x="358.00" y="336.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="middle">4</text>
+<text x="372.00" y="336.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FISH WASTE TO THE PLANT BEDS</text>
+<circle cx="58.00" cy="354.50" r="7.40" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<text x="58.00" y="358.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em" text-anchor="middle">5</text>
+<text x="72.00" y="358.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLANT MATTER TO THE FISH AND TO THE PEOPLE</text>
+<line x1="52.00" y1="382.00" x2="600.00" y2="382.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="52.00" y="400.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">EVERY QUANTITY ON THIS CIRCUIT</text>
+<text x="52.00" y="414.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SOLAR GAIN</text>
+<rect x="52.00" y="420.00" width="98.00" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="101.00" y="431.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="162.00" y="414.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TANK HEAT STORE</text>
+<rect x="162.00" y="420.00" width="98.00" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="211.00" y="431.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="272.00" y="414.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FISH YIELD</text>
+<rect x="272.00" y="420.00" width="98.00" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="321.00" y="431.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="382.00" y="414.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLANT YIELD</text>
+<rect x="382.00" y="420.00" width="98.00" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="431.00" y="431.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="492.00" y="414.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SPACE-HEAT SHARE</text>
+<rect x="492.00" y="420.00" width="98.00" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="541.00" y="431.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">UNFILLED</text>
+<text x="52.00" y="450.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE SOURCE THAT WOULD SUPPLY THEM — MACKAY AND BERGMARK 1979 — WAS NOT OPENED. LOOPS PER §02.4.</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Stacked bar chart showing simulation dominating measurement across nine façade device literatures, three with no measured data of the kind sought.">
+
+<text x="258" y="67" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">DOUBLE-SKIN FAÇADE</text>
+<text x="258" y="77" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.85">GENERAL SWEEP</text>
+<rect x="268" y="62" width="71" height="17" fill="var(--accent,#6A9CC4)" opacity="0.85"/>
+<rect x="339" y="62" width="198.8" height="17" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="537.8" y="62" width="14.2" height="17" fill="var(--dim,#B8B5AC)" opacity="0.3"/>
+<text x="303.5" y="75" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">5</text>
+<text x="438.4" y="75" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">14</text>
+<text x="560" y="75" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.8">of 20</text>
+<text x="258" y="97" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">DOUBLE-SKIN FAÇADE</text>
+<text x="258" y="107" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.85">OPEN-ACCESS ONLY</text>
+<rect x="268" y="92" width="42.6" height="17" fill="var(--accent,#6A9CC4)" opacity="0.85"/>
+<rect x="310.6" y="92" width="241.4" height="17" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="289.3" y="105" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">3</text>
+<text x="431.3" y="105" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">17</text>
+<text x="560" y="105" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.8">of 20</text>
+<text x="258" y="127" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">WINDCATCHERS</text>
+<text x="258" y="137" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.85">GENERAL SWEEP</text>
+<rect x="268" y="122" width="28.4" height="17" fill="var(--accent,#6A9CC4)" opacity="0.85"/>
+<rect x="296.4" y="122" width="255.6" height="17" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="282.2" y="135" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">2</text>
+<text x="424.2" y="135" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">18</text>
+<text x="560" y="135" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.8">of 20</text>
+<text x="258" y="157" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">WINDCATCHERS</text>
+<text x="258" y="167" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.85">SCHOOLS, OFFICES, ACH OR CO₂</text>
+<rect x="268" y="152" width="284" height="17" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="276" y="165" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">0</text>
+<text x="292" y="165" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">NONE CARRIED THE QUANTITY</text>
+<text x="258" y="187" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">COURTYARDS</text>
+<text x="258" y="197" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.85">HOT-ARID CLIMATES</text>
+<rect x="268" y="182" width="14.2" height="17" fill="var(--accent,#6A9CC4)" opacity="0.85"/>
+<rect x="282.2" y="182" width="269.8" height="17" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="275.1" y="195" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">1</text>
+<text x="417.1" y="195" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">19</text>
+<text x="560" y="195" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.8">of 20</text>
+<text x="258" y="217" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">ELECTROCHROMIC GLAZING</text>
+<text x="258" y="227" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.85">ALL RELEVANT RECORDS</text>
+<rect x="268" y="212" width="14.2" height="17" fill="var(--accent,#6A9CC4)" opacity="0.85"/>
+<rect x="282.2" y="212" width="42.6" height="17" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="324.8" y="212" width="14.2" height="17" fill="var(--dim,#B8B5AC)" opacity="0.3"/>
+<text x="275.1" y="225" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">1</text>
+<text x="303.5" y="225" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">3</text>
+<text x="347" y="225" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.8">of 5 relevant</text>
+<text x="258" y="247" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">LIVING WALLS</text>
+<text x="258" y="257" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.85">WATER AND MORTALITY</text>
+<rect x="268" y="242" width="14.2" height="17" fill="var(--accent,#6A9CC4)" opacity="0.85"/>
+<rect x="282.2" y="242" width="0" height="17" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="275.1" y="255" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.04em">1</text>
+<text x="296" y="255" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em" opacity="0.8">1 measured; rest unclassified</text>
+<text x="258" y="277" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">BALCONY DAYLIGHT</text>
+<text x="258" y="287" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.85">OPEN-ACCESS SWEEP</text>
+<rect x="268" y="272" width="284" height="17" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="276" y="285" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">0</text>
+<text x="292" y="285" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">NONE CARRIED THE QUANTITY</text>
+<text x="258" y="307" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">AUTOMATED SHADING</text>
+<text x="258" y="317" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em" opacity="0.85">OVERRIDE RATE, TWO SWEEPS</text>
+<rect x="268" y="302" width="284" height="17" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="276" y="315" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">0</text>
+<text x="292" y="315" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">NONE OF 40 RECORDS</text>
+<rect x="268" y="348" width="22" height="11" fill="var(--accent,#6A9CC4)" opacity="0.85"/>
+<text x="296" y="357" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">INSTRUMENTED ON A REAL BUILDING</text>
+<rect x="268" y="366" width="22" height="11" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="296" y="375" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">SIMULATION OR LABORATORY</text>
+<rect x="268" y="384" width="22" height="11" fill="var(--dim,#B8B5AC)" opacity="0.3"/>
+<text x="296" y="393" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">REVIEW OR REPORT</text>
+<text x="44" y="357" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THREE SWEEPS RETURNED NO</text>
+<text x="44" y="369" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">RECORD CARRYING THE QUANTITY</text>
+<text x="44" y="381" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">A DESIGNER NEEDS.</text>
+<text x="44" y="392" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Lane B classified every record in nine bibliographic sweeps of up to twenty records each, September 2026.</text>
+<text x="44" y="403" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Elsevier abstracts are null in the index and the building-science journals most likely to hold the measurements</text>
+<text x="44" y="414" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">are Elsevier, so these bars understate the measured record by an unknown amount. The honest form of the</text>
+<text x="44" y="425" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">finding is not that the measurements do not exist but that they are not retrievable by any route an architect uses.</text>
+</svg>

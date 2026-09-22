@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" role="img" aria-label="Dumbbell chart of eleven impact indicators comparing mycelium insulation with conventional insulation, favourable only on climate change and unfavourable on the rest.">
+
+<text x="44" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ONE INDICATOR BETTER, TEN WORSE</text>
+<line x1="386" y1="86" x2="386" y2="380" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="386" y="80" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">PARITY</text>
+<text x="212" y="80" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">←  MYCELIUM BETTER</text>
+<text x="560" y="80" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">MYCELIUM WORSE  →</text>
+<text x="202" y="111" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">CLIMATE CHANGE</text>
+<line x1="386" y1="108" x2="278.12" y2="108" stroke="var(--ok,#7AB87A)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="333.8" cy="108" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="278.12" cy="108" r="4" fill="var(--ok,#7AB87A)"/>
+<text x="202" y="137" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">ACIDIFICATION</text>
+<line x1="386" y1="134" x2="479.96" y2="134" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="525.2" cy="134" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="479.96" cy="134" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="202" y="163" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">EUTROPHICATION</text>
+<line x1="386" y1="160" x2="469.52" y2="160" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="518.24" cy="160" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="469.52" cy="160" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="202" y="189" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">TERRESTRIAL ECOTOXICITY</text>
+<line x1="386" y1="186" x2="493.88" y2="186" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="535.64" cy="186" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="493.88" cy="186" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="202" y="215" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">FRESHWATER ECOTOXICITY</text>
+<line x1="386" y1="212" x2="448.64" y2="212" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="497.36" cy="212" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="448.64" cy="212" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="202" y="241" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">HUMAN TOXICITY</text>
+<line x1="386" y1="238" x2="438.2" y2="238" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="486.92" cy="238" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="438.2" cy="238" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="202" y="267" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">OZONE DEPLETION</text>
+<line x1="386" y1="264" x2="431.24" y2="264" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="476.48" cy="264" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="431.24" cy="264" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="202" y="293" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">PHOTOCHEMICAL OZONE</text>
+<line x1="386" y1="290" x2="445.16" y2="290" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="490.4" cy="290" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="445.16" cy="290" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="202" y="319" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">PARTICULATE MATTER</text>
+<line x1="386" y1="316" x2="434.72" y2="316" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="479.96" cy="316" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="434.72" cy="316" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="202" y="345" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">LAND USE</text>
+<line x1="386" y1="342" x2="462.56" y2="342" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="507.8" cy="342" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="462.56" cy="342" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="202" y="371" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">RESOURCE USE</text>
+<line x1="386" y1="368" x2="424.28" y2="368" stroke="var(--hot,#C45C3E)" stroke-width="0.75" opacity="0.6"/>
+<circle cx="469.52" cy="368" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="424.28" cy="368" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="278.12" y="96" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.08em">HALF PU AND XPS, UNDER ROCK WOOL</text>
+<text x="568" y="184" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">TEN ROWS</text>
+<text x="568" y="195" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ON THE</text>
+<text x="568" y="206" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">UNFAVOUR-</text>
+<text x="568" y="217" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">ABLE SIDE</text>
+<circle cx="212" cy="401" r="4" fill="var(--dim,#B8B5AC)"/>
+<text x="224" y="404" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THIRTY-YEAR REFERENCE SERVICE LIFE</text>
+<circle cx="212" cy="421" r="3.4" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="224" y="424" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">FIFTEEN-YEAR SERVICE LIFE</text>
+<text x="224" y="435" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MYCELIUM BECOMES WORST ON MOST ROWS</text>
+<text x="44" y="464" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">A prospective model on a modelled 2035 energy background, not a measurement. The single favourable row is</text>
+<text x="44" y="474.5" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">the one the material is marketed on. Halving the assumed service life moves mycelium to worst on most rows,</text>
+<text x="44" y="485" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">and the service life is an assumption, not an observation. The paper carries a May 2025 correction that this</text>
+<text x="44" y="495.5" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">chapter did not read. Marker positions are drawn to the direction and rank the source reports, normalised so</text>
+<text x="44" y="506" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">that parity is the centre line; they are not the source&#x27;s numeric values. Alaux et al. 2023.</text>
+</svg>

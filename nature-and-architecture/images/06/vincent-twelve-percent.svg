@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Two mostly separate sets labelled biology and technology overlapping by about a tenth, biology weighted to structure and information, technology to energy.">
+<circle cx="250.00" cy="152.00" r="104.00" fill="var(--ok,#7AB87A)" fill-opacity="0.14"/>
+<circle cx="250.00" cy="152.00" r="104.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<circle cx="412.00" cy="152.00" r="104.00" fill="var(--accent,#6A9CC4)" fill-opacity="0.14"/>
+<circle cx="412.00" cy="152.00" r="104.00" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.2"/>
+<text x="192.00" y="88.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">BIOLOGY</text>
+<text x="470.00" y="88.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">TECHNOLOGY</text>
+<text x="331.00" y="148.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">12 %</text>
+<text x="331.00" y="162.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">OVERLAP</text>
+<text x="331.00" y="280.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">THE LENS IS DRAWN AT TWELVE PER CENT</text>
+<text x="331.00" y="290.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">OF EACH DISC’S AREA</text>
+<text x="188.00" y="174.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">STRUCTURE</text>
+<text x="188.00" y="188.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">INFORMATION</text>
+<text x="474.00" y="174.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">ENERGY</text>
+<line x1="180.00" y1="224.00" x2="180.00" y2="192.00" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<path d="M180.00 192.00 L181.63 195.65 L178.37 195.65 Z" fill="var(--ok,#7AB87A)"/>
+<text x="180.00" y="238.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">WHERE BIOLOGY SOLVES</text>
+<line x1="486.00" y1="224.00" x2="486.00" y2="192.00" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<path d="M486.00 192.00 L487.63 195.65 L484.37 195.65 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="486.00" y="238.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">WHERE TECHNOLOGY SOLVES</text>
+<text x="64.00" y="290.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">FORM-COPYING REACHES INTO THE NON-OVERLAPPING REGION, WHICH IS MOST OF BOTH SETS.</text>
+<line x1="64.00" y1="312.00" x2="596.00" y2="312.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="332.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">The overlap is drawn at twelve per cent of the area, not at the conventional half. The method</text>
+<text x="64.00" y="346.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">behind the figure could not be read for this book: the number is a strong hypothesis.</text>
+<text x="64.00" y="378.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">VINCENT, BOGATYREVA, BOGATYREV, BOWYER &amp; PAHL 2006 · ABSTRACT LEVEL</text>
+</svg>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Four open or mandatory building datasets compared by size and access, each annotated with the question it cannot answer.">
+
+<text x="44" y="58" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE THERMAL</text>
+<text x="44" y="69" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">COMFORT DATABASE</text>
+<rect x="44" y="88" width="130" height="150" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54" y="114" font-family="'Space Mono',monospace" font-size="12" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">107,463</text>
+<text x="54" y="126" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RECORDS</text>
+<text x="54" y="148" font-family="'Space Mono',monospace" font-size="12" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">23</text>
+<text x="54" y="160" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">COUNTRIES</text>
+<text x="54" y="182" font-family="'Space Mono',monospace" font-size="12" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">16</text>
+<text x="54" y="194" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">CLIMATE ZONES</text>
+<line x1="44" y1="248" x2="174" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="44" y="262" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">OPEN DATABASE LICENCE</text>
+<text x="44" y="274" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">67 % of new records</text>
+<text x="44" y="283" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">are offices</text>
+<text x="44" y="306" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CANNOT ANSWER:</text>
+<text x="44" y="318" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">WHAT ANY OF IT</text>
+<text x="44" y="328" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">MEANS OUTSIDE</text>
+<text x="44" y="338" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">AN OFFICE</text>
+<text x="186" y="58" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE BUILDING DATA</text>
+<text x="186" y="69" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">GENOME PROJECT</text>
+<rect x="186" y="88" width="130" height="150" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="196" y="114" font-family="'Space Mono',monospace" font-size="12" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">3,053</text>
+<text x="196" y="126" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">METERS</text>
+<text x="196" y="148" font-family="'Space Mono',monospace" font-size="12" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">1,636</text>
+<text x="196" y="160" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">BUILDINGS</text>
+<text x="196" y="182" font-family="'Space Mono',monospace" font-size="12" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.04em">2 YEARS</text>
+<text x="196" y="194" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">HOURLY</text>
+<line x1="186" y1="248" x2="316" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="186" y="262" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">CC-BY</text>
+<text x="186" y="274" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">net-exporting</text>
+<text x="186" y="283" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">buildings were cleaned</text>
+<text x="186" y="292" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">out</text>
+<text x="186" y="306" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CANNOT ANSWER:</text>
+<text x="186" y="318" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">WHAT ANY</text>
+<text x="186" y="328" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BUILDING WAS</text>
+<text x="186" y="338" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">FOR</text>
+<text x="328" y="58" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE CBE OCCUPANT</text>
+<text x="328" y="69" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">SURVEY</text>
+<rect x="328" y="88" width="130" height="150" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="338" y="114" font-family="'Space Mono',monospace" font-size="12" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">70+</text>
+<text x="338" y="126" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">BUILDINGS</text>
+<text x="338" y="148" font-family="'Space Mono',monospace" font-size="12" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">7</text>
+<text x="338" y="160" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">CATEGORIES</text>
+<line x1="328" y1="248" x2="458" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="328" y="262" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">RAW DATA TO CLIENTS ONLY</text>
+<text x="328" y="274" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">aggregated for the</text>
+<text x="328" y="283" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">public</text>
+<text x="328" y="306" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CANNOT ANSWER:</text>
+<text x="328" y="318" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">WHICH BUILDING</text>
+<text x="328" y="328" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE ANSWER</text>
+<text x="328" y="338" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CAME FROM</text>
+<text x="470" y="58" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">NABERS</text>
+<rect x="470" y="88" width="130" height="150" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="480" y="114" font-family="'Space Mono',monospace" font-size="12" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">4,200+</text>
+<text x="480" y="126" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">OFFICES</text>
+<text x="480" y="148" font-family="'Space Mono',monospace" font-size="12" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">METERED</text>
+<text x="480" y="160" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">BILLS</text>
+<line x1="470" y1="248" x2="600" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="470" y="262" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">STATUTORY</text>
+<text x="470" y="274" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">supporting data</text>
+<text x="470" y="283" font-family="'Space Mono',monospace" font-size="7" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">confidential</text>
+<text x="470" y="306" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">CANNOT ANSWER:</text>
+<text x="470" y="318" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">WHY ANY</text>
+<text x="470" y="328" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BUILDING SCORES</text>
+<text x="470" y="338" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">WHAT IT DOES</text>
+<rect x="44" y="348" width="552" height="28" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="54" y="366" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">AND NONE OF THEM CAN SAY WHAT A VIEW OF VEGETATION DOES TO A PERSON.</text>
+<text x="44" y="396" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Földváry Ličina et al. 2018; Miller et al. 2020; Zagreus et al. 2004; Bannister 2025.</text>
+<text x="44" y="407" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Four datasets that exist, are large, and answer a question next to the one the book is asking.</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="The textbook single-large-or-several-small diagram set against the empirical finding that several small patches hold more species, with an intermediate-optimum curve between them.">
+<text x="48.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LEFT · THE TEXTBOOK DIAGRAM</text>
+<text x="232.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CENTRE · THE INTERMEDIATE OPTIMUM</text>
+<text x="468.00" y="32.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RIGHT · THE EMPIRICAL RESULT</text>
+<circle cx="96.00" cy="96.00" r="30.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="96.00" y="142.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SINGLE LARGE</text>
+<circle cx="130.00" cy="200.00" r="15.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="96.00" cy="222.00" r="15.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="62.00" cy="200.00" r="15.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<circle cx="96.00" cy="178.00" r="15.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="96.00" y="250.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SEVERAL SMALL</text>
+<text x="96.00" y="266.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">EQUAL TOTAL AREA</text>
+<line x1="48.00" y1="280.00" x2="182.00" y2="280.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="96.00" y="296.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PRESENTED AS A CHOICE</text>
+<text x="96.00" y="308.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">SINCE THE 1970s</text>
+<line x1="250.00" y1="240.00" x2="414.00" y2="240.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="250.00" y1="240.00" x2="250.00" y2="80.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M250.0 252.6 L254.1 237.9 L258.2 224.0 L262.3 210.7 L266.4 198.2 L270.5 186.3 L274.6 175.0 L278.7 164.5 L282.8 154.6 L286.9 145.5 L291.0 137.0 L295.1 129.1 L299.2 122.0 L303.3 115.5 L307.4 109.8 L311.5 104.7 L315.6 100.2 L319.7 96.5 L323.8 93.4 L327.9 91.1 L332.0 89.4 L336.1 88.3 L340.2 88.0 L344.3 88.3 L348.4 89.4 L352.5 91.1 L356.6 93.4 L360.7 96.5 L364.8 100.2 L368.9 104.7 L373.0 109.8 L377.1 115.5 L381.2 122.0 L385.3 129.1 L389.4 137.0 L393.5 145.5 L397.6 154.6 L401.7 164.5 L405.8 175.0 L409.9 186.3 L414.0 198.2" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="332.00" y="258.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PATCH SUBDIVISION</text>
+<text x="242.00" y="160.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 242.00 160.00)">SPECIES</text>
+<circle cx="340.20" cy="88.00" r="4.00" fill="var(--accent,#6A9CC4)"/>
+<text x="332.00" y="70.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="middle">MARSH-ISLAND STUDY</text>
+<text x="332.00" y="282.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">AN OPTIMUM IN THE MIDDLE,</text>
+<text x="332.00" y="294.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">NOT AT EITHER END</text>
+<text x="468.00" y="62.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">SEVERAL SMALL HOLD</text>
+<text x="468.00" y="73.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">MORE SPECIES</text>
+<text x="468.00" y="92.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PLANTS</text>
+<rect x="468.00" y="98.00" width="44.00" height="14.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.25"/>
+<rect x="468.00" y="98.00" width="44.00" height="14.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="520.00" y="98.00" width="74.00" height="14.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="520.00" y="98.00" width="74.00" height="14.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="468.00" y="134.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">INVERTEBRATES</text>
+<rect x="468.00" y="140.00" width="44.00" height="14.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.25"/>
+<rect x="468.00" y="140.00" width="44.00" height="14.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="520.00" y="140.00" width="74.00" height="14.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="520.00" y="140.00" width="74.00" height="14.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="468.00" y="176.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">VERTEBRATES</text>
+<rect x="468.00" y="182.00" width="44.00" height="14.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.25"/>
+<rect x="468.00" y="182.00" width="44.00" height="14.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="520.00" y="182.00" width="74.00" height="14.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="520.00" y="182.00" width="74.00" height="14.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<rect x="468.00" y="232.00" width="10.00" height="9.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.25"/>
+<rect x="468.00" y="232.00" width="10.00" height="9.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<text x="483.00" y="240.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE LARGE</text>
+<rect x="468.00" y="248.00" width="10.00" height="9.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="468.00" y="248.00" width="10.00" height="9.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.0"/>
+<text x="483.00" y="256.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SEVERAL SMALL</text>
+<text x="468.00" y="276.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BAR LENGTHS INDICATE</text>
+<text x="468.00" y="287.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DIRECTION ONLY — NO COMMON</text>
+<text x="468.00" y="298.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EFFECT SIZE WAS REPORTED</text>
+<line x1="48.00" y1="330.00" x2="608.00" y2="330.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="48.00" y="350.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FAHRIG 2020 · DEANE 2020 · ZIEGLER ET AL. 2021 · FERRANTE ET AL. 2026 — POSITIONS HELD,</text>
+<text x="48.00" y="364.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NOT AVERAGED. THE QUESTION IS FIFTY YEARS OLD AND UNRESOLVED.</text>
+</svg>

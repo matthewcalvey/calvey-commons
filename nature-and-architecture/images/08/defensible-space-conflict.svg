@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" role="img" aria-label="Two distance scales compared, a Californian study finding defensible-space benefit saturating by twenty metres and absent past thirty, against an Australian study finding continued benefit to one hundred metres and beyond.">
+
+<text x="44" y="54" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">CALIFORNIA  ·  2,000 STRUCTURES, SAN DIEGO COUNTY 2001–2010</text>
+<rect x="126" y="96" width="54" height="34" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="126" y="96" width="54" height="34" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="180" y="96" width="36" height="34" fill="var(--accent,#6A9CC4)" opacity="0.18"/>
+<rect x="180" y="96" width="36" height="34" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="126" y="88" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">5</text>
+<text x="180" y="88" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">20</text>
+<text x="216" y="88" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">30</text>
+<text x="153" y="117" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">BENEFIT</text>
+<text x="198" y="117" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.08em">TAIL</text>
+<rect x="216" y="96" width="252" height="34" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="342" y="117" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">FLAT NOTHING</text>
+<rect x="496" y="96" width="80" height="34" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="536" y="117" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">—</text>
+<text x="223.2" y="148" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">NO ADDITIONAL PROTECTION PAST THIRTY METRES, INCLUDING ON STEEP SLOPES</text>
+<line x1="108" y1="214" x2="468" y2="214" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="496" y1="214" x2="576" y2="214" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="472" y1="208" x2="480" y2="220" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="480" y1="208" x2="488" y2="220" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="108" y1="214" x2="108" y2="219" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="108" y="232" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="180" y1="214" x2="180" y2="219" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="180" y="232" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">20</text>
+<line x1="252" y1="214" x2="252" y2="219" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="252" y="232" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">40</text>
+<line x1="324" y1="214" x2="324" y2="219" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="324" y="232" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">60</text>
+<line x1="396" y1="214" x2="396" y2="219" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="396" y="232" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">80</text>
+<line x1="468" y1="214" x2="468" y2="219" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="468" y="232" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">100</text>
+<line x1="536" y1="214" x2="536" y2="219" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="536" y="232" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2 km</text>
+<text x="44" y="232" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">DISTANCE FROM THE STRUCTURE  ·  M</text>
+<text x="44" y="258" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">VICTORIA  ·  499 HOUSES, 7 FEBRUARY 2009</text>
+<rect x="108" y="268" width="144" height="26" fill="var(--hot,#C45C3E)" opacity="0.32"/>
+<rect x="108" y="268" width="144" height="26" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="116" y="285" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">43 %</text>
+<text x="260" y="279" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">LOSS REDUCTION FROM CLEARING</text>
+<text x="260" y="289" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">REMNANT NATIVE COVER WITHIN 40 M</text>
+<rect x="108" y="322" width="360" height="26" fill="var(--hot,#C45C3E)" opacity="0.32"/>
+<rect x="108" y="322" width="360" height="26" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="116" y="339" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">26 %</text>
+<text x="476" y="333" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">FEWER LOSSES AT 100 M FROM</text>
+<text x="476" y="343" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">UPWIND TREES</text>
+<rect x="496" y="376" width="80" height="26" fill="var(--hot,#C45C3E)" opacity="0.32"/>
+<rect x="496" y="376" width="80" height="26" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="504" y="393" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">26 %</text>
+<text x="108" y="393" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">FEWER LOSSES AT 2 KM FROM PUBLIC FOREST</text>
+<line x1="216" y1="96" x2="216" y2="402" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 4"/>
+<text x="219.6" y="188" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE TWO AGREE ABOUT THE FIRST METRES AND DISAGREE</text>
+<text x="219.6" y="199" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ABOUT EVERYTHING PAST THIRTY.</text>
+<text x="44" y="420" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">Drawn at the same scale and deliberately not reconciled. Neither study is drawn as the correction of the other;</text>
+<text x="44" y="431" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">this figure carries register item 7. Syphard, Brennan &amp; Keeley 2014; Gibbons et al. 2012.</text>
+</svg>

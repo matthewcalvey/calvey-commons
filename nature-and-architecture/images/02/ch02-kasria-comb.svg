@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="A plan of a small triangular basin fed by a tunnel and emptied through a comb of slots into several channels.">
+<defs><marker id="f26a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="58.0" y="150.0" width="96.0" height="26.0" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="58.0" y1="163.0" x2="154.0" y2="163.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="58.0" y="140.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">FOGGARA GALLERY</text>
+<line x1="70.0" y1="163.0" x2="140.0" y2="163.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f26a)" stroke-linecap="round"/>
+<path d="M154,150 L154,176 L318,238 L318,88 Z" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="214.0" y="168.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">KASRIA</text>
+<text x="214.0" y="180.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE BASIN</text>
+<line x1="318.0" y1="88.0" x2="318.0" y2="247.0" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="315.0" y="96.0" width="6.0" height="9.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="321.0" y="96.0" width="150.0" height="9.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="321.0" y1="100.5" x2="471.0" y2="100.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="438.0" y1="100.5" x2="486.0" y2="100.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f26a)" stroke-linecap="round"/>
+<rect x="315.0" y="118.0" width="6.0" height="14.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="321.0" y="118.0" width="150.0" height="14.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="321.0" y1="125.0" x2="471.0" y2="125.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="438.0" y1="125.0" x2="486.0" y2="125.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f26a)" stroke-linecap="round"/>
+<rect x="315.0" y="146.0" width="6.0" height="20.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="321.0" y="146.0" width="150.0" height="20.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="321.0" y1="156.0" x2="471.0" y2="156.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="438.0" y1="156.0" x2="486.0" y2="156.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f26a)" stroke-linecap="round"/>
+<rect x="315.0" y="180.0" width="6.0" height="11.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="321.0" y="180.0" width="150.0" height="11.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="321.0" y1="185.5" x2="471.0" y2="185.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="438.0" y1="185.5" x2="486.0" y2="185.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f26a)" stroke-linecap="round"/>
+<rect x="315.0" y="204.0" width="6.0" height="26.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="321.0" y="204.0" width="150.0" height="26.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="321.0" y1="217.0" x2="471.0" y2="217.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="438.0" y1="217.0" x2="486.0" y2="217.0" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f26a)" stroke-linecap="round"/>
+<rect x="315.0" y="238.0" width="6.0" height="9.0" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="321.0" y="238.0" width="150.0" height="9.0" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="321.0" y1="242.5" x2="471.0" y2="242.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="438.0" y1="242.5" x2="486.0" y2="242.5" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#f26a)" stroke-linecap="round"/>
+<text x="318.0" y="76.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">THE COMB · FIXED APERTURES CUT IN STONE</text>
+<text x="494.0" y="104.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ONE SHARE</text>
+<text x="494.0" y="116.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TO EACH GARDEN</text>
+<text x="494.0" y="236.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE WIDTH OF THE</text>
+<text x="494.0" y="248.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SLOT IS THE SIZE</text>
+<text x="494.0" y="260.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OF THE RIGHT</text>
+<line x1="58.0" y1="288.0" x2="612.0" y2="288.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58.0" y="310.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A LEGAL ACT PERFORMED AS A GEOMETRIC OPERATION</text>
+<text x="58.0" y="332.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">KIAL EL MA</text>
+<text x="148.0" y="332.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE WATER MEASURER — THE OFFICE</text>
+<text x="58.0" y="347.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">LOUH</text>
+<text x="148.0" y="347.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A COPPER FLOWMETER — THE INSTRUMENT</text>
+<text x="58.0" y="362.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">ZEMMAM</text>
+<text x="148.0" y="362.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE REGISTER — THE RECORD</text>
+<text x="58.0" y="396.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">REMINI, ACHOUR &amp; ALBERGEL 2015 · TOUAT, GOURARA AND TIDIKELT, ALGERIA</text>
+<text x="58.0" y="410.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ABOUT 907 OPERATIONAL FOGGARAS IN 2001, ABOUT 880 BY 2012 · A CENSUS PARTLY FROM INTERVIEWS</text>
+<text x="58.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE KASRIA AND ITS COMB, SEEN FROM ABOVE</text>
+<text x="612.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">GALLERY LENGTHS, DEPTHS AND DISCHARGES ARE NOT PUBLISHED</text>
+</svg>

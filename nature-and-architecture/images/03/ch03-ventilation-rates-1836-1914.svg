@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 408" role="img" aria-label="A scatter of ventilation rates by year, rising across the century, with a shaded band marking a change in medical theory.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CUBIC FEET A MINUTE PER PERSON, ON A LOGARITHMIC SCALE</text>
+<line x1="58" y1="258" x2="574" y2="258" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="51" y="261" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">3</text>
+<line x1="58" y1="204.67" x2="574" y2="204.67" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="51" y="207.67" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">10</text>
+<line x1="58" y1="156" x2="574" y2="156" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="51" y="159" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">30</text>
+<line x1="58" y1="102.67" x2="574" y2="102.67" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="51" y="105.67" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">100</text>
+<line x1="58" y1="54" x2="574" y2="54" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="51" y="57" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">300</text>
+<line x1="58" y1="54" x2="58" y2="258" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="58" y1="258" x2="574" y2="258" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="115.33" y1="258" x2="115.33" y2="262" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="115.33" y="274" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1840</text>
+<line x1="230" y1="258" x2="230" y2="262" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="230" y="274" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1860</text>
+<line x1="344.67" y1="258" x2="344.67" y2="262" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="344.67" y="274" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1880</text>
+<line x1="459.33" y1="258" x2="459.33" y2="262" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="459.33" y="274" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1900</text>
+<line x1="574" y1="258" x2="574" y2="262" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="574" y="274" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1920</text>
+<rect x="230" y="54" width="143.33" height="204" fill="var(--surface,#1F211E)" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="301.67" y="242" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="middle">MIASMA GIVES WAY</text>
+<text x="301.67" y="253" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em" text-anchor="middle">TO GERM THEORY</text>
+<path d="M92.4 245.26 L344.67 133.37 L367.6 125.29" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<circle cx="92.4" cy="245.26" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="99.4" y="237.26" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TREDGOLD</text>
+<text x="99.4" y="259.26" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">4</text>
+<circle cx="344.67" cy="133.37" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="337.67" y="125.37" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">GALTON</text>
+<text x="337.67" y="147.37" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="end">50</text>
+<circle cx="367.6" cy="125.29" r="3.4" fill="var(--ink,#ECEAE3)"/>
+<text x="374.6" y="117.29" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BILLINGS</text>
+<text x="374.6" y="139.29" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">60</text>
+<circle cx="430.67" cy="156" r="3.4" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="437.67" y="148" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ASHVE MINIMUM</text>
+<text x="437.67" y="170" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">30</text>
+<line x1="430.67" y1="156" x2="539.6" y2="156" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="539.6" cy="156" r="3" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="545.6" y="159" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MODEL</text>
+<text x="545.6" y="170" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">LEGISLATION</text>
+<text x="545.6" y="181" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">BY 1914</text>
+<circle cx="396.27" cy="63.88" r="3.8" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="388.27" y="66.88" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">HOPKINS, ISOLATION WARDS · 240</text>
+<text x="388.27" y="78.88" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">THE SAME SOURCE'S 60 IS FOUR TIMES LOWER</text>
+<line x1="224.27" y1="164.08" x2="224.27" y2="110.92" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="220.27" y1="164.08" x2="228.27" y2="164.08" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="220.27" y1="110.92" x2="228.27" y2="110.92" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="216.27" y="102.92" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">NIGHTINGALE</text>
+<text x="216.27" y="114.92" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">1,500–5,000 CU FT AN HOUR,</text>
+<text x="216.27" y="125.92" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em" text-anchor="end">CONVERTED: 25–83</text>
+<line x1="58" y1="290" x2="612" y2="290" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="306" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE RATIONALE COLLAPSED AND THE QUANTITY ROSE.</text>
+<text x="58" y="324" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THIRTY CUBIC FEET A MINUTE CANNOT BE HAD RELIABLY FROM AN OPENABLE WINDOW,</text>
+<text x="58" y="336" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SO THE AIR LOGIC OF THE OPEN WARD MIGRATED INTO DUCTS WHILE THE PLAN SURVIVED</text>
+<text x="58" y="348" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ON DAYLIGHT, NURSING SIGHTLINES AND HABIT.</text>
+</svg>

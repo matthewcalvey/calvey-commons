@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 456" role="img" aria-label="Section through a curved earth-bermed house with a tall south-facing glass wall and a sunken garden, sun angles marked, with a note that no measurements were ever taken.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE SOLAR HEMICYCLE IN SECTION · 43.07 DEG NORTH</text>
+<path d="M 52 246 Q 88 142 110 134 L 110 246 Z" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="1.5"/>
+<text x="64" y="218" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">EARTH BERM, NORTH</text>
+<rect x="110" y="120" width="220" height="126" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="110" y1="246" x2="336" y2="246" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="110" y="246" width="220" height="10" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<circle cx="134" cy="251" r="2.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="168" cy="251" r="2.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="202" cy="251" r="2.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="236" cy="251" r="2.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="270" cy="251" r="2.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<circle cx="304" cy="251" r="2.4" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="58" y="280" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">3.5-IN SLAB ON 8 IN OF GRAVEL, RADIANT PIPES</text>
+<line x1="330" y1="134" x2="330" y2="246" stroke="var(--accent,#6A9CC4)" stroke-width="2"/>
+<line x1="326" y1="134" x2="334" y2="134" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="326" y1="155" x2="334" y2="155" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="326" y1="176" x2="334" y2="176" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="326" y1="197" x2="334" y2="197" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="326" y1="218" x2="334" y2="218" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="326" y1="239" x2="334" y2="239" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<line x1="324" y1="120" x2="380" y2="120" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="330" y1="126" x2="380" y2="126" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 2"/>
+<text x="384" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">5-FT EAVE</text>
+<text x="338" y="152" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">GLASS WALL</text>
+<text x="338" y="166" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">48 × 14 FT</text>
+<text x="338" y="180" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ON A 28-FT INNER RADIUS</text>
+<path d="M330 246 L336 246 L336 272 L426 272 L426 242" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="344" y="290" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SUNKEN GARDEN</text>
+<text x="344" y="302" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">4 FT BELOW FLOOR · 8-FT TERRACE</text>
+<line x1="365.67" y1="31" x2="327.37" y2="136.24" stroke="var(--mut,#8A8880)" stroke-width="1.5" stroke-dasharray="3 3"/><path d="M326 140 L325.79 135.67 L328.95 136.82 Z" fill="var(--mut,#8A8880)"/>
+<text x="371.73" y="21.36" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUMMER NOON · 70 DEG</text>
+<line x1="432.78" y1="94.68" x2="329.68" y2="138.44" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-dasharray="3 3"/><path d="M326 140 L329.03 136.89 L330.34 139.98 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="442.3" y="88.33" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WINTER NOON · 23 DEG</text>
+<line x1="58" y1="324" x2="612" y2="324" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<rect x="58" y="338" width="226" height="34" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="171" y="358" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">NO INTERIOR LOG</text>
+<text x="58" y="386" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NO INTERIOR TEMPERATURE HAS EVER BEEN</text>
+<text x="58" y="398" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">LOGGED IN THIS BUILDING.</text>
+<text x="58" y="416" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUN ALTITUDES ARE GEOMETRY FOR THE LATITUDE, NOT A MEASUREMENT. AND WRIGHT'S AEROFOIL CLAIM FOR THE</text>
+<text x="58" y="428" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SUNKEN GARDEN HAS NEVER BEEN WIND-TESTED IN EIGHTY YEARS.</text>
+<text x="300" y="338" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE ONE OPERATING FIGURE THAT EXISTS</text>
+<text x="300" y="358" font-family="&#39;Space Mono&#39;,monospace" font-size="13" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ABOUT 3,500 GALLONS</text>
+<text x="300" y="372" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OF HEATING OIL A YEAR, IN THE 1980s,</text>
+<text x="300" y="384" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ON A LATER OWNER'S ACCOUNT — AGAINST THE</text>
+<text x="300" y="396" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FAMILY'S ACCOUNT OF THE HEATING OFF FROM</text>
+<text x="300" y="408" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NINE UNTIL LATE AFTERNOON. BOTH STAND.</text>
+<text x="58" y="450" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">PRIORITY ON THE AMERICAN SOLAR HOUSE BELONGS TO GEORGE FRED KECK, BY FIVE TO ELEVEN YEARS.</text>
+</svg>

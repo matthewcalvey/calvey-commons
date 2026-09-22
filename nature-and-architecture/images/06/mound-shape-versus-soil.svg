@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="One termite mound with two arrows: one to an office building labelled shape with no measurement, one to an earth block labelled soil with measured properties.">
+<path d="M248 196 C 262 150 284 120 300 106 C 316 120 338 150 352 196 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2" stroke-linecap="butt"/>
+<line x1="228.00" y1="196.00" x2="372.00" y2="196.00" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="300.00" y="214.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">ONE TERMITE MOUND</text>
+<line x1="244.00" y1="134.00" x2="160.00" y2="96.00" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<path d="M160.00 96.00 L165.00 96.02 L163.32 99.74 Z" fill="var(--hot,#C45C3E)"/>
+<text x="200.00" y="82.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">SHAPE</text>
+<rect x="64.00" y="40.00" width="96.00" height="110.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<line x1="64.00" y1="58.00" x2="160.00" y2="58.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<line x1="64.00" y1="76.00" x2="160.00" y2="76.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<line x1="64.00" y1="94.00" x2="160.00" y2="94.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<line x1="64.00" y1="112.00" x2="160.00" y2="112.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<line x1="64.00" y1="130.00" x2="160.00" y2="130.00" stroke="var(--hot,#C45C3E)" stroke-width="0.5"/>
+<rect x="81.00" y="26.00" width="10.00" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<rect x="109.00" y="26.00" width="10.00" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<rect x="137.00" y="26.00" width="10.00" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.0"/>
+<text x="112.00" y="20.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">STACKS</text>
+<text x="64.00" y="166.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">CITED WORLDWIDE</text>
+<rect x="64.00" y="174.00" width="158.00" height="30.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="72.00" y="188.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NO PUBLISHED MEASUREMENT</text>
+<text x="72.00" y="199.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">OF THE TRANSFER</text>
+<line x1="356.00" y1="166.00" x2="430.00" y2="206.00" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<path d="M430.00 206.00 L425.01 205.62 L426.95 202.04 Z" fill="var(--ok,#7AB87A)"/>
+<text x="400.00" y="166.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" letter-spacing="0.08em" text-anchor="middle">SOIL</text>
+<path d="M444 196 L540 196 L540 242 L444 242 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2" stroke-linecap="butt"/>
+<path d="M444 196 L462 182 L558 182 L540 196 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2" stroke-linecap="butt"/>
+<path d="M540 196 L558 182 L558 228 L540 242 Z" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2" stroke-linecap="butt"/>
+<text x="444.00" y="260.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">COMPRESSED EARTH BLOCK</text>
+<text x="420.00" y="280.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· CLAY SELECTED AND BOUND BY TERMITES</text>
+<text x="420.00" y="292.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· WITH SALIVA AND EXCRETA</text>
+<text x="420.00" y="304.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· SUITABILITY SET BY CLAY MINERALOGY</text>
+<text x="420.00" y="316.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· STRENGTH FALLS WITH REPLACEMENT RATIO</text>
+<text x="420.00" y="328.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">· IN USE ACROSS WEST AND CENTRAL AFRICA</text>
+<line x1="64.00" y1="356.00" x2="596.00" y2="356.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="376.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">One arrow carries evidence. It is not the one in the lecture.</text>
+<text x="64.00" y="412.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FROM §02.2</text>
+</svg>

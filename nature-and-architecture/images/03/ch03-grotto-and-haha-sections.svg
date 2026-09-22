@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 372" role="img" aria-label="Two line-drawn cross-sections, one of a rocky chamber lit from above over water, one of a sunken ditch and wall between lawn and pasture.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TWO SECTIONS AT ONE SCALE</text>
+<text x="58" y="46" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE PAINSHILL GROTTO</text>
+<path d="M 58 200 C 82 104 254 104 278 200" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M 74 126 q 6 -7 12 0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 98 130 q 6 -7 12 0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 122 134 q 6 -7 12 0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 146 138 q 6 -7 12 0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 170 142 q 6 -7 12 0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 194 138 q 6 -7 12 0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 218 134 q 6 -7 12 0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 242 130 q 6 -7 12 0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<path d="M 266 126 q 6 -7 12 0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="127" y="108" width="18" height="7" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="130" y1="115" x2="116.8" y2="174" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="136" y1="115" x2="136" y2="174" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="142" y1="115" x2="155.2" y2="174" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<rect x="189" y="108" width="18" height="7" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="192" y1="115" x2="178.8" y2="174" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="198" y1="115" x2="198" y2="174" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="204" y1="115" x2="217.2" y2="174" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<text x="174" y="78" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">CEILING OPENINGS</text>
+<rect x="58" y="176" width="220" height="24" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="64" y="191" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WATER</text>
+<line x1="98" y1="174" x2="88" y2="138" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.8"/>
+<line x1="132" y1="174" x2="122" y2="138" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.8"/>
+<line x1="166" y1="174" x2="156" y2="138" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.8"/>
+<line x1="200" y1="174" x2="190" y2="138" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.8"/>
+<line x1="234" y1="174" x2="224" y2="138" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" stroke-dasharray="2 4" opacity="0.8"/>
+<text x="58" y="216" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">LIGHT DOWN THROUGH THE ROOF, ONTO WATER AND CRYSTAL,</text>
+<text x="58" y="228" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND BACK UP OFF THE LAKE.</text>
+<rect x="58" y="240" width="220" height="28" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="168" y="257" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">NO INSTRUMENTED STUDY</text>
+<text x="58" y="284" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NOT ILLUMINANCE, NOT TEMPERATURE,</text>
+<text x="58" y="296" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NOT REVERBERATION.</text>
+<text x="330" y="46" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THE HA-HA</text>
+<line x1="330" y1="142" x2="414" y2="142" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="414" y1="142" x2="414" y2="200" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="414" y1="200" x2="448" y2="200" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M448 200 L516 142 L598 142" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<rect x="412" y="142" width="4" height="58" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="0.75"/>
+<text x="334" y="134" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GARDEN</text>
+<text x="420" y="194" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">DRY DITCH</text>
+<text x="526" y="134" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PASTURE</text>
+<text x="370" y="216" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">INNER RETAINING WALL</text>
+<line x1="406" y1="212" x2="412.68" y2="190.3" stroke="var(--mut,#8A8880)" stroke-width="0.75"/><path d="M414 186 L414.48 190.86 L410.87 189.75 Z" fill="var(--mut,#8A8880)"/>
+<line x1="340" y1="98" x2="598" y2="98" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<circle cx="340" cy="98" r="3" fill="var(--accent,#6A9CC4)"/>
+<text x="344" y="92" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">EYE LINE — THE DITCH IS INVISIBLE FROM THE GARDEN</text>
+<rect x="530" y="129" width="17" height="8" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="533" y1="137" x2="533" y2="142" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="544" y1="137" x2="544" y2="142" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="547" y1="130" x2="552" y2="128" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="562" y="129" width="17" height="8" fill="var(--surface,#1F211E)" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<line x1="565" y1="137" x2="565" y2="142" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="576" y1="137" x2="576" y2="142" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<line x1="579" y1="130" x2="584" y2="128" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="330" y="240" width="268" height="28" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="464" y="257" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">NO INSTRUMENTED STUDY</text>
+<text x="330" y="284" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NO WIND, NO SOUND, NO MICROCLIMATE</text>
+<text x="330" y="296" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MEASUREMENT OF ANY ENGLISH LANDSCAPE</text>
+<text x="330" y="308" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GARDEN, GROTTO, ICE HOUSE OR HERMITAGE.</text>
+</svg>

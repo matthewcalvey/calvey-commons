@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Bar chart showing climate-optimal annual sunlight exposure from 24 to 61 per cent against a rating-system cap of 10 to 20.">
+
+<line x1="104" y1="78" x2="104" y2="258" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="104" y1="258" x2="466" y2="258" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="104" y1="258" x2="466" y2="258" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="261" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="104" y1="214.5" x2="466" y2="214.5" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="217.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">20</text>
+<line x1="104" y1="171" x2="466" y2="171" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="174" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">40</text>
+<line x1="104" y1="127.5" x2="466" y2="127.5" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="130.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">60</text>
+<line x1="104" y1="84" x2="466" y2="84" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="98" y="87" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">80</text>
+<text x="52" y="60" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MULTICRITERIA OPTIMAL ANNUAL SUNLIGHT EXPOSURE  ·  %</text>
+<rect x="104" y="214.5" width="362" height="21.75" fill="var(--hot,#C45C3E)" opacity="0.3"/>
+<rect x="104" y="214.5" width="362" height="21.75" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="98" y="221.03" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">LEED v4</text>
+<text x="98" y="232.03" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.08em">CAP 10–20</text>
+<rect x="120" y="205.8" width="44" height="52.2" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="120" y="205.8" width="44" height="52.2" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="142" y="198.8" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">24</text>
+<text x="142" y="273" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">SEATTLE</text>
+<text x="142" y="292" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">+1.5</text>
+<text x="142" y="308" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">≈ 0</text>
+<rect x="190" y="192.75" width="44" height="65.25" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="190" y="192.75" width="44" height="65.25" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="212" y="185.75" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">30</text>
+<text x="212" y="273" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">PHOENIX</text>
+<text x="212" y="292" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">+4.5</text>
+<text x="212" y="308" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">− 0.09</text>
+<rect x="260" y="155.78" width="44" height="102.22" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="260" y="155.78" width="44" height="102.22" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="282" y="148.78" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">47</text>
+<text x="282" y="273" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">BOULDER</text>
+<text x="282" y="292" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">+12.5</text>
+<text x="282" y="308" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">− 1.67</text>
+<rect x="330" y="149.25" width="44" height="108.75" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="330" y="149.25" width="44" height="108.75" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="352" y="142.25" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">50</text>
+<text x="352" y="273" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">CHICAGO</text>
+<text x="352" y="292" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">+15.0</text>
+<text x="352" y="308" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">− 1.78</text>
+<rect x="400" y="125.32" width="44" height="132.68" fill="var(--accent,#6A9CC4)" opacity="0.45"/>
+<rect x="400" y="125.32" width="44" height="132.68" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="422" y="118.32" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" text-anchor="middle" letter-spacing="0.04em">61</text>
+<text x="422" y="273" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">HELENA</text>
+<text x="422" y="292" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">+20.5</text>
+<text x="422" y="308" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">− 3.63</text>
+<text x="98" y="292" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="end" letter-spacing="0.08em">COMFORT GAIN</text>
+<text x="98" y="308" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="end" letter-spacing="0.08em">kBtu / sf · yr</text>
+<text x="52" y="326" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">←  ORDERED BY HEATING DEMAND  →</text>
+<text x="422" y="95.32" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">THREE TIMES</text>
+<text x="422" y="105.32" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">THE CAP</text>
+<rect x="492" y="84" width="106" height="174" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="502" y="102" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">IN FOUR OF</text>
+<text x="502" y="113" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">FIVE CITIES</text>
+<text x="502" y="124" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE OPTIMUM</text>
+<text x="502" y="135" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">LIES ABOVE</text>
+<text x="502" y="146" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE CAP, WITH</text>
+<text x="502" y="157" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ENERGY AND</text>
+<text x="502" y="168" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">COMFORT BOTH</text>
+<text x="502" y="179" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">IMPROVING.</text>
+<text x="502" y="204" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE CAP</text>
+<text x="502" y="215" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">DESCENDS</text>
+<text x="502" y="226" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">FROM A SINGLE</text>
+<text x="502" y="237" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">SURVEY</text>
+<text x="502" y="248" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">QUESTION.</text>
+<text x="52" y="358" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">The survey behind the cap asked whether daylight was ever too bright, in Sacramento, Seattle and Albany, and</text>
+<text x="52" y="369" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">addressed neither climate, thermal comfort nor energy. The optima combine visual comfort, thermal comfort and</text>
+<text x="52" y="380" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">energy. At the New York Times building 42 per cent of occupants who overrode automated shades chose to reduce</text>
+<text x="52" y="391" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.03em" opacity="0.92">sunlight further, while other research found most participants admitting direct sun when available; both behaviours</text>
+<text x="52" y="402" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">are real and opposite. Abboushi 2020; all values simulated.</text>
+</svg>

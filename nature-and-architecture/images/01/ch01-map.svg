@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 486" role="img" aria-label="A world map with marked ancient sites and two arrows showing the spread of ideas.">
+<defs><marker id="g33a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="g33b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0.5,1.2 L9.2,5 L0.5,8.8" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<line x1="112.0" y1="129.4" x2="612.0" y2="129.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="104.0" y="113.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">COLD</text>
+<line x1="112.0" y1="182.9" x2="612.0" y2="182.9" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="104.0" y="159.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">TEMPERATE</text>
+<line x1="112.0" y1="223.0" x2="612.0" y2="223.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="104.0" y="206.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THE ARID BELT</text>
+<line x1="112.0" y1="303.3" x2="612.0" y2="303.3" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="104.0" y="266.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THE TROPICS</text>
+<line x1="112.0" y1="322.0" x2="612.0" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="104.0" y="315.6" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">ARID</text>
+<rect x="112.0" y="92.0" width="500.0" height="230.0" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="112.0" y1="263.2" x2="612.0" y2="263.2" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/>
+<text x="118.0" y="257.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">EQUATOR</text>
+<line x1="160.1" y1="92.0" x2="160.1" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="160.1" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-90°</text>
+<line x1="217.8" y1="92.0" x2="217.8" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="217.8" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-60°</text>
+<line x1="275.5" y1="92.0" x2="275.5" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="275.5" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">-30°</text>
+<line x1="333.2" y1="92.0" x2="333.2" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="333.2" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0°</text>
+<line x1="390.8" y1="92.0" x2="390.8" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="390.8" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">30°</text>
+<line x1="448.5" y1="92.0" x2="448.5" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="448.5" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">60°</text>
+<line x1="506.2" y1="92.0" x2="506.2" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="506.2" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">90°</text>
+<line x1="563.9" y1="92.0" x2="563.9" y2="322.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="563.9" y="338.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">120°</text>
+<circle cx="341.6" cy="144.4" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="344.6" y1="144.4" x2="348.6" y2="133.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="348.6" y="139.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">CHAUVET</text>
+<circle cx="326.7" cy="105.2" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="333.7" y="108.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SKARA BRAE</text>
+<circle cx="361.1" cy="167.2" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="358.1" y1="167.2" x2="354.1" y2="173.2" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="354.1" y="179.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">ĦAL SAFLIENI</text>
+<circle cx="378.2" cy="155.4" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="385.2" y="158.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">OLYNTHUS</text>
+<circle cx="396.2" cy="162.3" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="399.2" y1="162.3" x2="403.2" y2="150.3" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="403.2" y="156.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">ÇATALHÖYÜK</text>
+<circle cx="396.0" cy="194.4" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="389.0" y="197.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">KARNAK</text>
+<circle cx="416.1" cy="165.9" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="413.1" y1="165.9" x2="409.1" y2="171.9" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="409.1" y="177.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">NINEVEH</text>
+<circle cx="435.5" cy="182.4" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="438.5" y1="182.4" x2="442.5" y2="170.4" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="442.5" y="176.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PASARGADAE</text>
+<circle cx="440.6" cy="196.3" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="443.6" y1="196.3" x2="447.6" y2="204.3" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="447.6" y="210.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AL-MADAM</text>
+<circle cx="464.2" cy="190.1" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="467.2" y1="190.1" x2="471.2" y2="180.1" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="471.2" y="186.1" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MOHENJO-DARO</text>
+<circle cx="488.5" cy="241.9" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="495.5" y="244.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SIGIRIYA</text>
+<circle cx="496.7" cy="196.3" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="499.7" y1="196.3" x2="503.7" y2="202.3" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="503.7" y="208.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">BARABAR</text>
+<circle cx="540.1" cy="170.9" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="547.1" y="173.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FENGCHU</text>
+<circle cx="586.8" cy="147.9" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="583.8" y1="147.9" x2="579.8" y2="135.9" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="579.8" y="141.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">THE PRIMORYE</text>
+<circle cx="603.7" cy="154.0" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<line x1="600.7" y1="154.0" x2="596.7" y2="160.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="596.7" y="166.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">SANNAI-MARUYAMA</text>
+<circle cx="124.5" cy="163.7" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="131.5" y="166.7" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">MESA VERDE</text>
+<circle cx="157.4" cy="175.9" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="164.4" y="178.9" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">POVERTY POINT</text>
+<circle cx="174.6" cy="156.0" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="181.6" y="159.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NEWARK</text>
+<circle cx="143.1" cy="210.5" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="150.1" y="213.5" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TEOTIHUACAN</text>
+<circle cx="160.8" cy="217.1" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="167.8" y="220.1" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">TIKAL</text>
+<circle cx="184.1" cy="292.3" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="177.1" y="295.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">CARAL</text>
+<circle cx="189.1" cy="302.8" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="196.1" y="305.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NAZCA</text>
+<circle cx="231.2" cy="295.3" r="2.8" fill="var(--dim,#B8B5AC)"/>
+<text x="238.2" y="298.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE UPPER XINGU</text>
+<path d="M431.46153846153845,177.3953488372093 Q410.0769230769231,140.13953488372093 380.46153846153845,162.6046511627907" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" marker-end="url(#g33a)" stroke-linecap="round"/>
+<line x1="375.5" y1="158.9" x2="290.8" y2="129.4" stroke="var(--accent,#6A9CC4)" stroke-width="0.75"/>
+<text x="198.5" y="126.8" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">PAIRIDAEZA → PARADEISOS → PARADISE</text>
+<path d="M440.65384615384613,203.30232558139534 Q448.53846153846155,207.0 456.2307692307692,196.30232558139534" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" marker-end="url(#g33b)" stroke-linecap="round"/>
+<path d="M456.2307692307692,185.6046511627907 Q448.53846153846155,174.90697674418607 440.84615384615387,184.2674418604651" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" marker-end="url(#g33b)" stroke-linecap="round"/>
+<line x1="452.4" y1="209.7" x2="452.4" y2="273.9" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<line x1="425.5" y1="273.9" x2="452.4" y2="273.9" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="398.5" y="284.6" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE QANAT — POLYCENTRIC</text>
+<text x="398.5" y="299.3" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SEVERAL INVENTIONS, NOT ONE ROUTE</text>
+<text x="28.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">CHAPTER 1 IN PLACE · THE CASES, BY LATITUDE BAND</text>
+<text x="612.0" y="34.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">LATITUDE BANDS, NOT A CLIMATE CLASSIFICATION</text>
+<text x="28.0" y="372.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TWO IDEAS THAT TRAVELLED, AND THE DIFFERENCE BETWEEN THEM</text>
+<line x1="28.0" y1="384.0" x2="612.0" y2="384.0" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="28.0" y="406.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE WORD</text>
+<text x="116.0" y="406.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PAIRIDAEZA, THE PERSIAN WALLED PARK, PASSES THROUGH GREEK AS</text>
+<text x="116.0" y="418.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PARADEISOS AND BECOMES PARADISE. THE WORD’S ROUTE IS DOCUMENTED;</text>
+<text x="116.0" y="430.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHETHER THE FOURFOLD GARDEN WAS BORN AT PASARGADAE IS NOT.</text>
+<text x="28.0" y="454.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE TUNNEL</text>
+<text x="116.0" y="454.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE EARLIEST EXCAVATED GALLERIES ARE ARABIAN AND SHALLOW; THE DEEP</text>
+<text x="116.0" y="466.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">IRANIAN FORM IS LATER. BOUCHARLAT’S MODEL IS POLYCENTRIC — SEVERAL</text>
+<text x="116.0" y="478.0" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">INVENTIONS IN SEVERAL PLACES, NOT A SINGLE LINE OF DESCENT.</text>
+</svg>

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Matrix showing that wetland mitigation permits set vegetation standards almost exclusively while hydrology, the main cause of failure, was rarely required or monitored.">
+<text x="56.00" y="34.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">LEFT · EIGHT REAL MITIGATION PERMITS, 1985–1998</text>
+<text x="56.00" y="48.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A FILLED CELL IS A STANDARD THE PERMIT ACTUALLY SET</text>
+<text x="155.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1</text>
+<text x="185.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2</text>
+<text x="215.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">3</text>
+<text x="245.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">4</text>
+<text x="275.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">5</text>
+<text x="305.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">6</text>
+<text x="335.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">7</text>
+<text x="365.00" y="72.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">8</text>
+<text x="260.00" y="58.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">PERMIT</text>
+<text x="130.00" y="94.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">VEGETATION</text>
+<rect x="142.00" y="82.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<rect x="172.00" y="82.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<rect x="202.00" y="82.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<rect x="232.00" y="82.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<rect x="262.00" y="82.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<rect x="292.00" y="82.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<rect x="322.00" y="82.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<rect x="352.00" y="82.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<text x="390.00" y="94.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em">8 / 8</text>
+<text x="130.00" y="114.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">HYDROLOGY</text>
+<rect x="142.00" y="102.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="172.00" y="102.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="202.00" y="102.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="232.00" y="102.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<rect x="262.00" y="102.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="292.00" y="102.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="322.00" y="102.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="352.00" y="102.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="390.00" y="114.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">1 / 8</text>
+<text x="130.00" y="134.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">SOIL</text>
+<rect x="142.00" y="122.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="172.00" y="122.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="202.00" y="122.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="232.00" y="122.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="262.00" y="122.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="292.00" y="122.00" width="26.00" height="16.00" fill="var(--ok,#7AB87A)" fill-opacity="0.55" stroke="none" stroke-width="0.75"/>
+<rect x="322.00" y="122.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="352.00" y="122.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="390.00" y="134.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">1 / 8</text>
+<text x="130.00" y="154.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">BIOGEOCHEMISTRY</text>
+<rect x="142.00" y="142.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="172.00" y="142.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="202.00" y="142.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="232.00" y="142.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="262.00" y="142.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="292.00" y="142.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="322.00" y="142.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="352.00" y="142.00" width="26.00" height="16.00" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="390.00" y="154.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">0 / 8</text>
+<line x1="56.00" y1="192.00" x2="600.00" y2="192.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56.00" y="214.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">RIGHT · SHARE OF CALIFORNIAN MITIGATION SITES AT WHICH EACH CATEGORY WAS MONITORED</text>
+<line x1="200.00" y1="228.00" x2="200.00" y2="356.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="200.00" y="224.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0</text>
+<line x1="290.00" y1="228.00" x2="290.00" y2="356.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="290.00" y="224.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">25</text>
+<line x1="380.00" y1="228.00" x2="380.00" y2="356.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="380.00" y="224.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">50</text>
+<line x1="470.00" y1="228.00" x2="470.00" y2="356.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="470.00" y="224.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">75</text>
+<line x1="560.00" y1="228.00" x2="560.00" y2="356.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="560.00" y="224.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">100</text>
+<rect x="200.00" y="234.00" width="259.20" height="14.00" fill="var(--ok,#7AB87A)" fill-opacity="0.3"/>
+<rect x="200.00" y="234.00" width="259.20" height="14.00" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.2"/>
+<text x="190.00" y="245.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">VEGETATION</text>
+<text x="466.20" y="245.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.0em">72 %</text>
+<rect x="200.00" y="254.00" width="136.80" height="14.00" fill="var(--dim,#B8B5AC)" fill-opacity="0.3"/>
+<rect x="200.00" y="254.00" width="136.80" height="14.00" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.2"/>
+<text x="190.00" y="265.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">WILDLIFE</text>
+<text x="343.80" y="265.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.0em">38 %</text>
+<rect x="200.00" y="274.00" width="79.20" height="14.00" fill="var(--hot,#C45C3E)" fill-opacity="0.3"/>
+<rect x="200.00" y="274.00" width="79.20" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="190.00" y="285.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">HYDROLOGY</text>
+<text x="286.20" y="285.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">22 %</text>
+<rect x="200.00" y="294.00" width="25.20" height="14.00" fill="var(--hot,#C45C3E)" fill-opacity="0.3"/>
+<rect x="200.00" y="294.00" width="25.20" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="190.00" y="305.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">WATER QUALITY</text>
+<text x="232.20" y="305.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">7 %</text>
+<rect x="200.00" y="314.00" width="10.80" height="14.00" fill="var(--hot,#C45C3E)" fill-opacity="0.3"/>
+<rect x="200.00" y="314.00" width="10.80" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="190.00" y="325.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">SOILS</text>
+<text x="217.80" y="325.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">3 %</text>
+<rect x="200.00" y="334.00" width="10.80" height="14.00" fill="var(--hot,#C45C3E)" fill-opacity="0.3"/>
+<rect x="200.00" y="334.00" width="10.80" height="14.00" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.2"/>
+<text x="190.00" y="345.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">INVERTEBRATES</text>
+<text x="217.80" y="345.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">3 %</text>
+<line x1="56.00" y1="372.00" x2="600.00" y2="372.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="56.00" y="390.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.02em">Insufficient hydrology is the most cited cause of mitigation failure. One permit in eight set a standard</text>
+<text x="56.00" y="404.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.02em">for it and twenty-two per cent of sites ever measured it.</text>
+</svg>

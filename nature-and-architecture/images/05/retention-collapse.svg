@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Chart showing green roof rainfall retention falling from 94 per cent in small storms to 46 per cent in large storms, with the design-storm range beyond marked as unmeasured.">
+<line x1="58.00" y1="318.00" x2="614.00" y2="318.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="58.00" y1="260.40" x2="614.00" y2="260.40" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="58.00" y1="202.80" x2="614.00" y2="202.80" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="58.00" y1="145.20" x2="614.00" y2="145.20" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="58.00" y1="87.60" x2="614.00" y2="87.60" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="58.00" y1="30.00" x2="614.00" y2="30.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<line x1="58.00" y1="318.00" x2="58.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="55.00" y1="318.00" x2="58.00" y2="318.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="52.00" y="321.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0</text>
+<line x1="55.00" y1="260.40" x2="58.00" y2="260.40" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="52.00" y="263.40" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">20</text>
+<line x1="55.00" y1="202.80" x2="58.00" y2="202.80" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="52.00" y="205.80" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">40</text>
+<line x1="55.00" y1="145.20" x2="58.00" y2="145.20" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="52.00" y="148.20" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">60</text>
+<line x1="55.00" y1="87.60" x2="58.00" y2="87.60" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="52.00" y="90.60" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">80</text>
+<line x1="55.00" y1="30.00" x2="58.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="52.00" y="33.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">100</text>
+<text x="22.00" y="174.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 22.00 174.00)">RETENTION  %</text>
+<line x1="58.00" y1="318.00" x2="614.00" y2="318.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<defs><clipPath id="clip749d52-21"><rect x="390.00" y="30.00" width="224.00" height="288.00"/></clipPath></defs>
+<g clip-path="url(#clip749d52-21)" opacity="0.2">
+<line x1="102.00" y1="318.00" x2="390.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="110.00" y1="318.00" x2="398.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="118.00" y1="318.00" x2="406.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="126.00" y1="318.00" x2="414.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="134.00" y1="318.00" x2="422.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="142.00" y1="318.00" x2="430.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="150.00" y1="318.00" x2="438.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="158.00" y1="318.00" x2="446.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="166.00" y1="318.00" x2="454.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="174.00" y1="318.00" x2="462.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="182.00" y1="318.00" x2="470.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="190.00" y1="318.00" x2="478.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="198.00" y1="318.00" x2="486.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="206.00" y1="318.00" x2="494.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="214.00" y1="318.00" x2="502.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="222.00" y1="318.00" x2="510.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="230.00" y1="318.00" x2="518.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="238.00" y1="318.00" x2="526.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="246.00" y1="318.00" x2="534.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="254.00" y1="318.00" x2="542.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="262.00" y1="318.00" x2="550.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="270.00" y1="318.00" x2="558.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="278.00" y1="318.00" x2="566.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="286.00" y1="318.00" x2="574.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="294.00" y1="318.00" x2="582.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="302.00" y1="318.00" x2="590.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="310.00" y1="318.00" x2="598.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="318.00" y1="318.00" x2="606.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="326.00" y1="318.00" x2="614.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="334.00" y1="318.00" x2="622.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="342.00" y1="318.00" x2="630.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="350.00" y1="318.00" x2="638.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="358.00" y1="318.00" x2="646.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="366.00" y1="318.00" x2="654.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="374.00" y1="318.00" x2="662.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="382.00" y1="318.00" x2="670.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="390.00" y1="318.00" x2="678.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="398.00" y1="318.00" x2="686.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="406.00" y1="318.00" x2="694.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="414.00" y1="318.00" x2="702.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="422.00" y1="318.00" x2="710.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="430.00" y1="318.00" x2="718.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="438.00" y1="318.00" x2="726.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="446.00" y1="318.00" x2="734.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="454.00" y1="318.00" x2="742.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="462.00" y1="318.00" x2="750.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="470.00" y1="318.00" x2="758.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="478.00" y1="318.00" x2="766.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="486.00" y1="318.00" x2="774.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="494.00" y1="318.00" x2="782.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="502.00" y1="318.00" x2="790.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="510.00" y1="318.00" x2="798.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="518.00" y1="318.00" x2="806.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="526.00" y1="318.00" x2="814.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="534.00" y1="318.00" x2="822.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="542.00" y1="318.00" x2="830.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="550.00" y1="318.00" x2="838.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="558.00" y1="318.00" x2="846.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="566.00" y1="318.00" x2="854.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="574.00" y1="318.00" x2="862.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="582.00" y1="318.00" x2="870.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="590.00" y1="318.00" x2="878.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="598.00" y1="318.00" x2="886.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="606.00" y1="318.00" x2="894.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="614.00" y1="318.00" x2="902.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+<line x1="622.00" y1="318.00" x2="910.00" y2="30.00" stroke="var(--mut,#8A8880)" stroke-width="0.5"/>
+</g>
+<line x1="390.00" y1="30.00" x2="390.00" y2="318.00" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<rect x="80.00" y="47.28" width="68.00" height="270.72" fill="var(--accent,#6A9CC4)" fill-opacity="0.34"/>
+<rect x="80.00" y="47.28" width="68.00" height="270.72" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="284.00" y="185.52" width="68.00" height="132.48" fill="var(--accent,#6A9CC4)" fill-opacity="0.34"/>
+<rect x="284.00" y="185.52" width="68.00" height="132.48" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="114.00" y="38.28" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">94 %</text>
+<text x="318.00" y="176.52" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.04em" text-anchor="middle">46 %</text>
+<rect x="182.00" y="64.56" width="68.00" height="253.44" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="216.00" y="86.56" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.02em" text-anchor="middle">PER CENT</text>
+<text x="216.00" y="98.56" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.02em" text-anchor="middle">NOT</text>
+<text x="216.00" y="110.56" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.02em" text-anchor="middle">REPORTED</text>
+<text x="216.00" y="126.56" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">RETAINED</text>
+<text x="216.00" y="140.56" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" letter-spacing="0.04em" text-anchor="middle">1.3 CM</text>
+<text x="114.00" y="334.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">LOW</text>
+<text x="114.00" y="346.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">&lt; 0.64 CM</text>
+<text x="216.00" y="334.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">MEDIUM</text>
+<text x="216.00" y="346.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">0.64–2.54 CM</text>
+<text x="318.00" y="334.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">HIGH</text>
+<text x="318.00" y="346.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">&gt; 2.54 CM</text>
+<line x1="148.00" y1="47.28" x2="368.00" y2="47.28" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="352.00" y1="185.52" x2="368.00" y2="185.52" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="3 3"/>
+<line x1="368.00" y1="47.28" x2="368.00" y2="185.52" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<line x1="368.00" y1="168.24" x2="368.00" y2="184.37" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<path d="M368.00 184.37 L366.17 180.26 L369.83 180.26 Z" fill="var(--hot,#C45C3E)"/>
+<text x="362.00" y="116.40" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 362.00 116.40)">−48 POINTS</text>
+<text x="502.00" y="64.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.02em" text-anchor="middle">WHERE DRAINAGE</text>
+<text x="502.00" y="76.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.02em" text-anchor="middle">DESIGN STORMS SIT</text>
+<text x="502.00" y="108.00" font-family="'Space Mono',monospace" font-size="11" fill="var(--hot,#C45C3E)" letter-spacing="0.16em" text-anchor="middle">NO DATA</text>
+<line x1="462.00" y1="116.00" x2="542.00" y2="116.00" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="502.00" y="138.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.02em" text-anchor="middle">THE TOP MEASURED</text>
+<text x="502.00" y="150.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.02em" text-anchor="middle">CLASS IS ABOUT</text>
+<text x="502.00" y="162.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.02em" text-anchor="middle">ONE INCH</text>
+<text x="58.00" y="370.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">RAINFALL EVENT CLASS · 15 CM MEDIA, PLANTED · ASHITEY ET AL. 2023</text>
+<text x="58.00" y="386.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">24 roof models, 61 × 61 cm, Southern Illinois, Sept 2005 – June 2008. Models, not a building.</text>
+</svg>

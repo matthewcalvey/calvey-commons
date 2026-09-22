@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Temperature traces showing a black bat box exceeding forty degrees Celsius while its white counterpart and its inner chambers stay below.">
+
+<line x1="96" y1="74" x2="96" y2="250" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96" y1="250" x2="470" y2="250" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96" y1="218.12" x2="470" y2="218.12" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="221.12" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">20</text>
+<line x1="96" y1="165" x2="470" y2="165" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="168" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">30</text>
+<line x1="96" y1="111.88" x2="470" y2="111.88" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="114.88" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">40</text>
+<text x="90" y="58" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">TEMPERATURE  ·  °C  ·  ONE SUMMER DAY</text>
+<line x1="96" y1="250" x2="96" y2="255" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="96" y="267" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">06:00</text>
+<line x1="176.14" y1="250" x2="176.14" y2="255" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="176.14" y="267" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">09:00</text>
+<line x1="256.29" y1="250" x2="256.29" y2="255" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="256.29" y="267" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">12:00</text>
+<line x1="336.43" y1="250" x2="336.43" y2="255" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="336.43" y="267" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">15:00</text>
+<line x1="416.57" y1="250" x2="416.57" y2="255" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="416.57" y="267" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">18:00</text>
+<text x="96" y="283" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">TIME OF DAY</text>
+<line x1="96" y1="111.88" x2="470" y2="111.88" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="476" y="114.88" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">40 °C</text>
+<text x="476" y="126.88" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">ASSUMED</text>
+<text x="476" y="136.88" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">TOLERANCE</text>
+<path d="M 96 234.06 L 109.36 231.12 L 122.71 225.23 L 136.07 217.45 L 149.43 208.36 L 162.79 198.45 L 176.14 188.16 L 189.5 177.92 L 202.86 168.13 L 216.21 159.16 L 229.57 151.33 L 242.93 144.94 L 256.29 140.2 L 269.64 137.29 L 283 136.31 L 296.36 137.29 L 309.71 140.2 L 323.07 144.94 L 336.43 151.33 L 349.79 159.16 L 363.14 168.13 L 376.5 177.92 L 389.86 188.16 L 403.21 198.45 L 416.57 208.36 L 429.93 217.45 L 443.29 225.23 L 456.64 231.12 L 470 234.06" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<path d="M 96 228.75 L 109.36 223.33 L 122.71 214.08 L 136.07 202.74 L 149.43 190.12 L 162.79 176.83 L 176.14 163.41 L 189.5 150.33 L 202.86 138.03 L 216.21 126.91 L 229.57 117.32 L 242.93 109.54 L 256.29 103.81 L 269.64 100.31 L 283 99.12 L 296.36 100.31 L 309.71 103.81 L 323.07 109.54 L 336.43 117.32 L 349.79 126.91 L 363.14 138.03 L 376.5 150.33 L 389.86 163.41 L 403.21 176.83 L 416.57 190.12 L 429.93 202.74 L 443.29 214.08 L 456.64 223.33 L 470 228.75" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 96 234.06 L 109.36 231.62 L 122.71 226.22 L 136.07 218.71 L 149.43 209.65 L 162.79 199.54 L 176.14 188.85 L 189.5 178.06 L 202.86 167.64 L 216.21 157.99 L 229.57 149.52 L 242.93 142.56 L 256.29 137.39 L 269.64 134.2 L 283 133.12 L 296.36 134.2 L 309.71 137.39 L 323.07 142.56 L 336.43 149.52 L 349.79 157.99 L 363.14 167.64 L 376.5 178.06 L 389.86 188.85 L 403.21 199.54 L 416.57 209.65 L 429.93 218.71 L 443.29 226.22 L 456.64 231.62 L 470 234.06" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 96 231.41 L 109.36 229.55 L 122.71 224.78 L 136.07 217.65 L 149.43 208.62 L 162.79 198.18 L 176.14 186.85 L 189.5 175.17 L 202.86 163.68 L 216.21 152.92 L 229.57 143.36 L 242.93 135.45 L 256.29 129.53 L 269.64 125.86 L 283 124.62 L 296.36 125.86 L 309.71 129.53 L 323.07 135.45 L 336.43 143.36 L 349.79 152.92 L 363.14 163.68 L 376.5 175.17 L 389.86 186.85 L 403.21 198.18 L 416.57 208.62 L 429.93 217.65 L 443.29 224.78 L 456.64 229.55 L 470 231.41" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3"/>
+<path d="M 96 231.41 L 109.36 230.23 L 122.71 226.75 L 136.07 221.15 L 149.43 213.7 L 162.79 204.79 L 176.14 194.85 L 189.5 184.39 L 202.86 173.93 L 216.21 163.99 L 229.57 155.08 L 242.93 147.63 L 256.29 142.03 L 269.64 138.55 L 283 137.38 L 296.36 138.55 L 309.71 142.03 L 323.07 147.63 L 336.43 155.08 L 349.79 163.99 L 363.14 173.93 L 376.5 184.39 L 389.86 194.85 L 403.21 204.79 L 416.57 213.7 L 429.93 221.15 L 443.29 226.75 L 456.64 230.23 L 470 231.41" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 3"/>
+<circle cx="288.34" cy="99.12" r="4.2" fill="var(--hot,#C45C3E)"/>
+<text x="288.34" y="90.12" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">42.4 °C</text>
+<text x="298.34" y="103.12" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">AT 35.4 AMBIENT</text>
+<line x1="44" y1="291" x2="66" y2="291" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text x="74" y="294" font-family="'Space Mono',monospace" font-size="8" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">AMBIENT</text>
+<line x1="44" y1="305" x2="66" y2="305" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="74" y="308" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BLACK PLYWOOD, CHAMBER 1</text>
+<line x1="44" y1="319" x2="66" y2="319" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="74" y="322" font-family="'Space Mono',monospace" font-size="8" fill="var(--accent,#6A9CC4)" text-anchor="start" letter-spacing="0.08em">WHITE WOOD-CEMENT, CHAMBER 1</text>
+<line x1="44" y1="333" x2="66" y2="333" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<text x="74" y="336" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BLACK PLYWOOD, CHAMBER 3</text>
+<line x1="44" y1="347" x2="66" y2="347" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="1 3"/>
+<text x="74" y="350" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">BLACK PLYWOOD, CHAMBER 4</text>
+<text x="316" y="286" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE THIRD AND FOURTH CHAMBERS</text>
+<text x="316" y="298" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">STAY BELOW THE LINE: THE BOX IS</text>
+<text x="316" y="310" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">NOT ONE THERMAL OBJECT BUT FOUR.</text>
+<text x="316" y="328" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">THE BOXES WERE UNOCCUPIED</text>
+<text x="316" y="340" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">DURING LOGGING.</text>
+<text x="44" y="360" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Traces are drawn to the diurnal shape and to the peak and ambient values the source states; intermediate</text>
+<text x="44" y="371" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">readings are not published as a series. Rueegger 2019, 2015–2016.</text>
+</svg>

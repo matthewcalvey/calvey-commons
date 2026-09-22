@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 448" role="img" aria-label="Three space-filling cell arrangements compared on surface area, with the true minimum marked as unproven below all of them.">
+<line x1="210.00" y1="201.50" x2="556.00" y2="201.50" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="202.00" y="204.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.996</text>
+<line x1="210.00" y1="151.50" x2="556.00" y2="151.50" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="202.00" y="154.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">0.998</text>
+<line x1="210.00" y1="101.50" x2="556.00" y2="101.50" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="202.00" y="104.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="end">1.000</text>
+<text x="164.00" y="139.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle" transform="rotate(-90.00 164.00 139.00)">SURFACE AREA · KELVIN = 1.000</text>
+<line x1="210.00" y1="214.00" x2="556.00" y2="214.00" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<circle cx="254.00" cy="101.50" r="5.00" fill="var(--ink,#ECEAE3)"/>
+<line x1="254.00" y1="101.50" x2="254.00" y2="214.00" stroke="var(--mut,#8A8880)" stroke-width="0.6" stroke-dasharray="2 3"/>
+<text x="254.00" y="230.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">KELVIN</text>
+<text x="254.00" y="241.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1887</text>
+<text x="254.00" y="91.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em" text-anchor="middle">1.0000</text>
+<circle cx="366.00" cy="176.50" r="5.00" fill="var(--accent,#6A9CC4)"/>
+<line x1="366.00" y1="176.50" x2="366.00" y2="214.00" stroke="var(--mut,#8A8880)" stroke-width="0.6" stroke-dasharray="2 3"/>
+<text x="366.00" y="230.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">WEAIRE–PHELAN</text>
+<text x="366.00" y="241.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">1994</text>
+<text x="366.00" y="166.50" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">0.9970</text>
+<circle cx="478.00" cy="164.00" r="5.00" fill="var(--accent,#6A9CC4)"/>
+<line x1="478.00" y1="164.00" x2="478.00" y2="214.00" stroke="var(--mut,#8A8880)" stroke-width="0.6" stroke-dasharray="2 3"/>
+<text x="478.00" y="230.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em" text-anchor="middle">GABBRIELLI</text>
+<text x="478.00" y="241.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em" text-anchor="middle">2009</text>
+<text x="478.00" y="154.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--accent,#6A9CC4)" letter-spacing="0.0em" text-anchor="middle">0.9975</text>
+<line x1="210.00" y1="206.50" x2="556.00" y2="206.50" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="554.00" y="195.50" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="end">THE TRUE MINIMUM — NOT PROVEN, POSITION UNKNOWN</text>
+<path d="M238 32 L246 22 L262 22 L270 32 L262 42 L246 42 Z" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M350 32 L360 22 L374 26 L376 40 L356 42 Z" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M364 28 L378 24 L384 36 L370 40 Z" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" stroke-linecap="butt"/>
+<path d="M462 34 L468 22 L482 20 L494 30 L488 42 L472 44 Z" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="1.0" stroke-linecap="butt"/>
+<line x1="64.00" y1="272.00" x2="596.00" y2="272.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="292.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">1887</text>
+<text x="102.00" y="292.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">KELVIN’S CONJECTURE</text>
+<text x="332.00" y="292.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">1994</text>
+<text x="370.00" y="292.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WEAIRE–PHELAN COUNTEREXAMPLE</text>
+<text x="64.00" y="314.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.0em">2008</text>
+<text x="102.00" y="314.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE WATER CUBE OPENS</text>
+<text x="332.00" y="314.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">2009</text>
+<text x="370.00" y="314.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">GABBRIELLI’S ALTERNATIVE</text>
+<text x="64.00" y="336.00" font-family="'Space Mono',monospace" font-size="10" fill="var(--ink,#ECEAE3)" letter-spacing="0.0em">2012</text>
+<text x="102.00" y="336.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FIRST REALISED IN REAL FOAM</text>
+<line x1="64.00" y1="366.00" x2="596.00" y2="366.00" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="64.00" y="386.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">Weaire–Phelan is a counterexample to a conjecture, not a proven optimum. Real foam made it</text>
+<text x="64.00" y="400.00" font-family="'Space Mono',monospace" font-size="9" fill="var(--dim,#B8B5AC)" letter-spacing="0.02em">four years after the building that claimed it as nature’s answer.</text>
+<text x="64.00" y="430.00" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AFTER WEAIRE &amp; PHELAN 1994 AND GABBRIELLI 2009 · SURFACE-AREA VALUES ARE THE PUBLISHED RATIOS</text>
+</svg>

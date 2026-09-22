@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 448" role="img" aria-label="Diagram tracing monthly climate data through the Mahoney table procedure to design recommendations, with the derivation of the thresholds flagged as unestablished.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">WHAT THE MAHONEY TABLES ACTUALLY DO</text>
+<rect x="58" y="56" width="140" height="190" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<text x="66" y="74" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">IN · CLIMATE ONLY</text>
+<text x="66" y="94" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MONTHLY MEAN</text>
+<text x="66" y="109" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MAXIMUM AND</text>
+<text x="66" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">MINIMUM</text>
+<text x="66" y="139" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TEMPERATURES</text>
+<text x="66" y="169" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">HUMIDITY</text>
+<text x="66" y="199" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">RAINFALL</text>
+<text x="66" y="228" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NEVER A BUILDING</text>
+<rect x="240" y="56" width="140" height="190" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="248" y="74" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE COMPARISONS</text>
+<text x="248" y="94" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DIAGNOSTIC</text>
+<text x="248" y="109" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THRESHOLDS APPLIED</text>
+<text x="248" y="124" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TO EACH MONTH</text>
+<text x="248" y="154" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">DETERMINISTIC</text>
+<text x="248" y="169" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">THROUGHOUT</text>
+<rect x="248" y="174" width="124" height="30" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75" stroke-dasharray="2 3" opacity="0.85"/><text x="310" y="192" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em" text-anchor="middle">DERIVATION</text>
+<text x="248" y="218" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">NOT ESTABLISHED IN THE</text>
+<text x="248" y="230" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">PUBLISHED RECORD</text>
+<rect x="420" y="56" width="176" height="190" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<text x="428" y="74" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">OUT · RECOMMENDATIONS</text>
+<text x="428" y="96" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ORIENTATION</text>
+<text x="428" y="113" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">SPACING</text>
+<text x="428" y="130" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AIR MOVEMENT AND OPENINGS</text>
+<text x="428" y="147" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">WALLS AND ROOFS</text>
+<text x="428" y="164" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">EXTERNAL FEATURES</text>
+<text x="428" y="218" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">A BUILDING IS DESCRIBED,</text>
+<text x="428" y="230" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AND NEVER MEASURED AFTERWARDS</text>
+<line x1="202" y1="151" x2="230" y2="151" stroke="var(--mut,#8A8880)" stroke-width="1.5"/><path d="M236 151 L230 153.52 L230 148.48 Z" fill="var(--mut,#8A8880)"/>
+<line x1="384" y1="151" x2="410" y2="151" stroke="var(--mut,#8A8880)" stroke-width="1.5"/><path d="M416 151 L410 153.52 L410 148.48 Z" fill="var(--mut,#8A8880)"/>
+<line x1="58" y1="278" x2="612" y2="278" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="292" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">AGAINST A MODERN PROCEDURE, FOR ONE EGYPTIAN SITE</text>
+<text x="58" y="310" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NATURAL VENTILATION</text>
+<rect x="58" y="318" width="108.6" height="13" fill="var(--surface,#1F211E)" stroke="var(--ok,#7AB87A)" stroke-width="1.5"/>
+<rect x="58" y="318" width="362" height="13" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="174.6" y="329" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--ok,#7AB87A)" letter-spacing="0.08em">30% AGREEMENT</text>
+<text x="58" y="340" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">PASSIVE SOLAR HEATING</text>
+<rect x="58" y="348" width="36.2" height="13" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<rect x="58" y="348" width="362" height="13" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="102.2" y="359" font-family="&#39;Space Mono&#39;,monospace" font-size="10" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">10% AGREEMENT</text>
+<text x="58" y="388" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ROUGHLY 70 PER CENT OF ITS OUTPUT DOES NOT MATCH. THAT DOES NOT SHOW THE TABLES WRONG:</text>
+<text x="58" y="400" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">IT SHOWS TWO UNVALIDATED PROCEDURES DISAGREEING, WITH NO MEASUREMENT REFEREEING BETWEEN THEM.</text>
+<text x="58" y="422" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">STILL IN ACTIVE USE IN 2026, FROM GHANA TO SHANGHAI TO HAMADAN TO INDIA AND SOUTH-WEST NIGERIA.</text>
+</svg>

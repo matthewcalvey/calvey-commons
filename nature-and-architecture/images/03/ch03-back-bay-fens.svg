@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 428" role="img" aria-label="A park plan with roughly half its area shaded as water storage and pipes entering from two streams, with a small before-and-after inset.">
+<text x="58" y="24" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">HALF THE PARK IS WATER · 100 ACRES</text>
+<rect x="58" y="46" width="340" height="196" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<path d="M 78 186 C 118 106 208 96 268 136 C 318 170 358 196 380 222" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<rect x="78" y="142" width="200" height="92" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="84" y="158" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">BASIN, ABOUT 30 ACRES</text>
+<text x="84" y="170" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">PLUS 20 FLOODABLE ACRES</text>
+<text x="290" y="72" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">USABLE PARK</text>
+<text x="290" y="84" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">ABOUT 50 ACRES</text>
+<line x1="52" y1="102" x2="95.91" y2="122.13" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/><path d="M100 124 L95.12 123.84 L96.7 120.41 Z" fill="var(--dim,#B8B5AC)"/>
+<text x="52" y="92" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">STONY BROOK</text>
+<line x1="118" y1="256" x2="139.4" y2="225.68" stroke="var(--dim,#B8B5AC)" stroke-width="1.5"/><path d="M142 222 L140.95 226.77 L137.86 224.59 Z" fill="var(--dim,#B8B5AC)"/>
+<text x="118" y="268" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--dim,#B8B5AC)" letter-spacing="0.08em">MUDDY RIVER</text>
+<rect x="388" y="196" width="10" height="22" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="398" y1="207" x2="419.5" y2="207" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/><path d="M424 207 L419.5 208.89 L419.5 205.11 Z" fill="var(--accent,#6A9CC4)"/>
+<text x="406" y="196" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WATER GATE</text>
+<text x="406" y="224" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">TO THE CHARLES</text>
+<text x="418" y="60" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--mut,#8A8880)" letter-spacing="0.08em">THE CONDUITS</text>
+<text x="418" y="78" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">TWIN 120-INCH CULVERTS</text>
+<text x="418" y="92" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AN 84-INCH TUNNEL</text>
+<text x="418" y="106" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">12 × 12 FT CHANNELS</text>
+<text x="418" y="120" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">A 9 × 7 FT ELLIPTICAL TUNNEL</text>
+<text x="418" y="142" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">THE PARK IS A STORM BASIN</text>
+<text x="418" y="154" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">WITH A LANDSCAPE ON TOP.</text>
+<line x1="58" y1="262" x2="612" y2="262" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="58" y="276" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">1910 · THE DAM ENDS TIDAL EXCHANGE</text>
+<rect x="58" y="288" width="168" height="56" fill="var(--surface,#1F211E)" stroke="var(--accent,#6A9CC4)" stroke-width="1.5"/>
+<line x1="66" y1="338" x2="74" y2="316" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.6"/>
+<line x1="86" y1="338" x2="94" y2="316" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.6"/>
+<line x1="106" y1="338" x2="114" y2="316" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.6"/>
+<line x1="126" y1="338" x2="134" y2="316" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.6"/>
+<line x1="146" y1="338" x2="154" y2="316" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.6"/>
+<line x1="166" y1="338" x2="174" y2="316" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.6"/>
+<line x1="186" y1="338" x2="194" y2="316" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.6"/>
+<line x1="206" y1="338" x2="214" y2="316" stroke="var(--accent,#6A9CC4)" stroke-width="0.75" opacity="0.6"/>
+<text x="58" y="358" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--accent,#6A9CC4)" letter-spacing="0.08em">BEFORE</text>
+<text x="58" y="370" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">SALT MARSH, TIDAL</text>
+<line x1="232" y1="316" x2="247.5" y2="316" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/><path d="M252 316 L247.5 317.89 L247.5 314.11 Z" fill="var(--hot,#C45C3E)"/>
+<rect x="258" y="288" width="168" height="56" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="272" y1="338" x2="272" y2="318" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<circle cx="272" cy="314" r="4" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<line x1="298" y1="338" x2="298" y2="318" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<circle cx="298" cy="314" r="4" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<line x1="324" y1="338" x2="324" y2="318" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<circle cx="324" cy="314" r="4" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<line x1="350" y1="338" x2="350" y2="318" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<circle cx="350" cy="314" r="4" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<line x1="376" y1="338" x2="376" y2="318" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<circle cx="376" cy="314" r="4" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<line x1="402" y1="338" x2="402" y2="318" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<circle cx="402" cy="314" r="4" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="0.75" opacity="0.7"/>
+<text x="258" y="358" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" letter-spacing="0.08em">AFTER</text>
+<text x="258" y="370" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">FRESH-WATER PLANTING</text>
+<rect x="226" y="288" width="6" height="56" fill="var(--surface,#1F211E)" stroke="var(--hot,#C45C3E)" stroke-width="1.5"/>
+<text x="438" y="306" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">THE SYSTEM THAT MADE IT WORK</text>
+<text x="438" y="318" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">WAS SWITCHED OFF, AND THE</text>
+<text x="438" y="330" font-family="&#39;Space Mono&#39;,monospace" font-size="8.5" fill="var(--hot,#C45C3E)" letter-spacing="0.08em">PLANTING REPLACED TO SUIT.</text>
+<text x="58" y="394" font-family="&#39;Space Mono&#39;,monospace" font-size="8" fill="var(--mut,#8A8880)" letter-spacing="0.08em">NO WATER-QUALITY, FLOOD-STORAGE OR ECOLOGICAL MEASUREMENT OF EITHER STATE WAS FOUND.</text>
+</svg>

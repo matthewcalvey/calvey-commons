@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Four measured occupancy and success rates, all far below the one-for-one compensation implied by mitigation policy, with nest cups tripling swift box occupancy.">
+
+<line x1="260" y1="80" x2="260" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="260" y="264" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">0</text>
+<line x1="333" y1="80" x2="333" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="333" y="264" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">25</text>
+<line x1="406" y1="80" x2="406" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="406" y="264" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">50</text>
+<line x1="479" y1="80" x2="479" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="479" y="264" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">75</text>
+<line x1="552" y1="80" x2="552" y2="248" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="552" y="264" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">100</text>
+<text x="170" y="280" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MEASURED RATE  ·  %</text>
+<line x1="552" y1="70" x2="552" y2="248" stroke="var(--ink,#ECEAE3)" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="552" y="64" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="middle" letter-spacing="0.08em">100 %</text>
+<text x="546" y="52" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">THE IMPLICIT CLAIM OF ONE-FOR-ONE COMPENSATION</text>
+<rect x="260" y="88" width="70.96" height="24" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="260" y="88" width="70.96" height="24" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="330.96" y="88" width="221.04" height="24" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<text x="338.96" y="104" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">24.3 %</text>
+<text x="250" y="100" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">GREIFSWALD COMPENSATORY</text>
+<text x="250" y="111" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">SWIFT BOXES OCCUPIED</text>
+<rect x="260" y="128" width="141.33" height="24" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="260" y="128" width="141.33" height="24" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<rect x="401.33" y="128" width="150.67" height="24" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<text x="409.33" y="144" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.04em">48.4 %</text>
+<text x="250" y="140" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">UK SWIFT BOXES</text>
+<text x="250" y="151" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">WITH NEST FORMS</text>
+<rect x="260" y="168" width="43.8" height="24" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="260" y="168" width="43.8" height="24" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<rect x="303.8" y="168" width="248.2" height="24" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<text x="311.8" y="184" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">15.0 %</text>
+<text x="250" y="180" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">UK SWIFT BOXES</text>
+<text x="250" y="191" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">WITHOUT NEST FORMS</text>
+<rect x="260" y="208" width="80.59" height="24" fill="var(--dim,#B8B5AC)" opacity="0.45"/>
+<rect x="260" y="208" width="80.59" height="24" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75"/>
+<rect x="340.59" y="208" width="211.41" height="24" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" stroke-dasharray="2 3"/>
+<text x="348.59" y="224" font-family="'Space Mono',monospace" font-size="10" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.04em">27.6 %</text>
+<text x="250" y="220" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="end" letter-spacing="0.08em">TORONTO BEE HOTELS</text>
+<text x="250" y="231" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">EMERGENCES THAT WERE NATIVE BEES</text>
+<line x1="329.8" y1="144" x2="329.8" y2="176" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="295.8" y="162" font-family="'Space Mono',monospace" font-size="8" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">THE CHEAPEST INTERVENTION MORE THAN TRIPLES IT.</text>
+<text x="44" y="62" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">OCCUPANCY AGAINST ADVOCACY</text>
+<text x="44" y="296" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Every rate is measured on the artefact: a box occupied, an emergence counted. Not one of these studies</text>
+<text x="44" y="307" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">measured whether the designed provision changed the abundance, productivity or viability of the species it was</text>
+<text x="44" y="318" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">designed for — the outcome that matters sits one level above the outcome measured.</text>
+<text x="44" y="329" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Schaub, Meffert &amp; Kerth 2016; PeerJ 9873, 2020; MacIvor &amp; Packer 2015.</text>
+</svg>

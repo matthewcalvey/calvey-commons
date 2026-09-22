@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Two panels in which a rewilded estate leads decisively on within-plot and phylogenetic diversity while a two-year-old ex-arable site overtakes it on total species richness.">
+
+<text x="44" y="56" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">WITHIN-PLOT, 2022</text>
+<line x1="96" y1="84" x2="96" y2="190" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96" y1="190" x2="290" y2="190" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96" y1="190" x2="290" y2="190" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="193" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="96" y1="140" x2="290" y2="140" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="143" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">5</text>
+<line x1="96" y1="90" x2="290" y2="90" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="90" y="93" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">10</text>
+<text x="90" y="70" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">MEDIAN SPECIES PER M²</text>
+<rect x="130" y="100" width="48" height="90" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="130" y="100" width="48" height="90" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="154" y="93" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">9</text>
+<text x="154" y="205" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">KNEPP</text>
+<rect x="220" y="180" width="48" height="10" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="220" y="180" width="48" height="10" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="244" y="173" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">1</text>
+<text x="244" y="205" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">BOOTHBY</text>
+<text x="44" y="222" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">MEDIAN PHYLOGENETIC DIVERSITY  ·  MILLION YEARS</text>
+<line x1="96" y1="234" x2="96" y2="312" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="96" y1="312" x2="290" y2="312" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<rect x="130" y="246.62" width="48" height="65.38" fill="var(--ok,#7AB87A)" opacity="0.45"/>
+<rect x="130" y="246.62" width="48" height="65.38" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="0.75"/>
+<text x="154" y="239.62" font-family="'Space Mono',monospace" font-size="10" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">908</text>
+<text x="154" y="327" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">KNEPP</text>
+<rect x="220" y="283.85" width="48" height="28.15" fill="var(--hot,#C45C3E)" opacity="0.45"/>
+<rect x="220" y="283.85" width="48" height="28.15" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="0.75"/>
+<text x="244" y="276.85" font-family="'Space Mono',monospace" font-size="10" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">391</text>
+<text x="244" y="327" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">BOOTHBY</text>
+<line x1="324" y1="56" x2="324" y2="330" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="348" y="56" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">TOTAL SPECIES RICHNESS BY YEAR</text>
+<line x1="380" y1="84" x2="380" y2="292" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="380" y1="292" x2="552" y2="292" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="380" y1="292" x2="552" y2="292" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="374" y="295" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">60</text>
+<line x1="380" y1="234.29" x2="552" y2="234.29" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="374" y="237.29" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">100</text>
+<line x1="380" y1="176.57" x2="552" y2="176.57" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="374" y="179.57" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">140</text>
+<line x1="380" y1="118.86" x2="552" y2="118.86" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="374" y="121.86" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">180</text>
+<line x1="380" y1="292" x2="380" y2="297" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="380" y="309" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2022</text>
+<line x1="466" y1="292" x2="466" y2="297" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="466" y="309" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2023</text>
+<line x1="552" y1="292" x2="552" y2="297" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="552" y="309" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">2024</text>
+<path d="M 380 231.4 L 552 144.83" fill="none" stroke="var(--ok,#7AB87A)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 380 266.03 L 552 115.97" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="380" cy="231.4" r="3.2" fill="var(--ok,#7AB87A)"/>
+<circle cx="552" cy="144.83" r="3.2" fill="var(--ok,#7AB87A)"/>
+<circle cx="380" cy="266.03" r="3.2" fill="var(--hot,#C45C3E)"/>
+<circle cx="552" cy="115.97" r="3.2" fill="var(--hot,#C45C3E)"/>
+<text x="388" y="223.4" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.04em">KNEPP 102</text>
+<text x="388" y="280.03" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.04em">BOOTHBY 78</text>
+<text x="546" y="156.83" font-family="'Space Mono',monospace" font-size="9" fill="var(--ok,#7AB87A)" text-anchor="end" letter-spacing="0.04em">162</text>
+<text x="546" y="107.97" font-family="'Space Mono',monospace" font-size="9" fill="var(--hot,#C45C3E)" text-anchor="end" letter-spacing="0.04em">182</text>
+<circle cx="473.82" cy="184.18" r="5.4" fill="none" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="481.82" y="204.18" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE CROSSOVER</text>
+<circle cx="552" cy="110.2" r="4.2" fill="none" stroke="var(--mut,#8A8880)" stroke-width="0.75" opacity="0.9"/>
+<text x="546" y="100.2" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">186</text>
+<text x="380" y="70" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">the source gives Boothby&#x27;s 2024 total</text>
+<text x="380" y="79" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.04em">as both 182 and 186; both are drawn</text>
+<text x="348" y="330" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE TWO PANELS SUPPORT OPPOSITE HEADLINES.</text>
+<text x="348" y="342" font-family="'Space Mono',monospace" font-size="9" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">THE METRIC CHOICE DECIDES THE STORY.</text>
+<text x="44" y="370" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Knepp is a long-rewilded estate; Boothby is a two-year-old ex-arable site, roughly 1,500 acres converting from</text>
+<text x="44" y="380.5" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">arable in 2022–23. On within-plot species density and on phylogenetic diversity Knepp leads decisively; on total</text>
+<text x="44" y="391" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.02em" opacity="0.92">species richness the young site overtakes it by 2024. Boothby&#x27;s phylogenetic diversity roughly doubled to 875</text>
+<text x="44" y="401.5" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">over the same period. This figure carries register item 15. Pates et al. 2025, read at the preprint.</text>
+</svg>

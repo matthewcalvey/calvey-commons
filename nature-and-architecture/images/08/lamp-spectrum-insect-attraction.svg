@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Insect attraction falling roughly thirtyfold from blue to far-red light at identical radiant power.">
+
+<line x1="112" y1="86" x2="112" y2="244" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="112" y1="244" x2="560" y2="244" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<line x1="112" y1="244" x2="560" y2="244" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="106" y="247" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0</text>
+<line x1="112" y1="208.81" x2="560" y2="208.81" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="106" y="211.81" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0.25</text>
+<line x1="112" y1="173.63" x2="560" y2="173.63" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="106" y="176.63" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0.5</text>
+<line x1="112" y1="138.44" x2="560" y2="138.44" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="106" y="141.44" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">0.75</text>
+<line x1="112" y1="103.26" x2="560" y2="103.26" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="106" y="106.26" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">1</text>
+<text x="106" y="68" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">RELATIVE INSECT ATTRACTION AT MATCHED IRRADIANCE  ·  UV = 1.000</text>
+<line x1="161.78" y1="244" x2="161.78" y2="249" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="161.78" y="261" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">400</text>
+<line x1="217.09" y1="244" x2="217.09" y2="249" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="217.09" y="261" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">450</text>
+<line x1="272.4" y1="244" x2="272.4" y2="249" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="272.4" y="261" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">500</text>
+<line x1="327.7" y1="244" x2="327.7" y2="249" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="327.7" y="261" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">550</text>
+<line x1="383.01" y1="244" x2="383.01" y2="249" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="383.01" y="261" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">600</text>
+<line x1="438.32" y1="244" x2="438.32" y2="249" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="438.32" y="261" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">650</text>
+<line x1="493.63" y1="244" x2="493.63" y2="249" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="493.63" y="261" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">700</text>
+<line x1="548.94" y1="244" x2="548.94" y2="249" stroke="var(--mut,#8A8880)" stroke-width="0.75"/>
+<text x="548.94" y="261" font-family="'Space Mono',monospace" font-size="8" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">750</text>
+<rect x="139.65" y="268" width="66.37" height="9" fill="#6f4fa8" opacity="0.45"/>
+<rect x="206.02" y="268" width="49.78" height="9" fill="#3f5fc8" opacity="0.45"/>
+<rect x="255.8" y="268" width="27.65" height="9" fill="#2f8fb8" opacity="0.45"/>
+<rect x="283.46" y="268" width="60.84" height="9" fill="#4a9e5a" opacity="0.45"/>
+<rect x="344.3" y="268" width="27.65" height="9" fill="#b8a84a" opacity="0.45"/>
+<rect x="371.95" y="268" width="38.72" height="9" fill="#c08a3e" opacity="0.45"/>
+<rect x="410.67" y="268" width="82.96" height="9" fill="#b84e3e" opacity="0.45"/>
+<rect x="493.63" y="268" width="66.37" height="9" fill="#8a3a34" opacity="0.45"/>
+<rect x="139.65" y="268" width="420.35" height="9" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="106" y="292" font-family="'Space Mono',monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.08em">PEAK WAVELENGTH  ·  NM</text>
+<path d="M 123.06 103.26 L 217.09 205.16 L 239.21 187.56 L 272.4 207.41 L 305.58 207.13 L 405.14 229.64 L 449.38 240.34 L 526.81 242.17" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 3"/>
+<circle cx="123.06" cy="103.26" r="4" fill="var(--hot,#C45C3E)"/>
+<text x="123.06" y="94.26" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--hot,#C45C3E)" text-anchor="middle" letter-spacing="0.04em">1.000</text>
+<circle cx="217.09" cy="205.16" r="4" fill="var(--dim,#B8B5AC)"/>
+<text x="217.09" y="196.16" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">0.276</text>
+<circle cx="239.21" cy="187.56" r="4" fill="var(--dim,#B8B5AC)"/>
+<text x="239.21" y="178.56" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">0.401</text>
+<circle cx="272.4" cy="207.41" r="4" fill="var(--dim,#B8B5AC)"/>
+<text x="272.4" y="198.41" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">0.260</text>
+<circle cx="305.58" cy="207.13" r="4" fill="var(--dim,#B8B5AC)"/>
+<text x="305.58" y="198.13" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--dim,#B8B5AC)" text-anchor="middle" letter-spacing="0.04em">0.262</text>
+<circle cx="405.14" cy="229.64" r="4" fill="var(--ok,#7AB87A)"/>
+<text x="405.14" y="220.64" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">0.102</text>
+<circle cx="449.38" cy="240.34" r="4" fill="var(--ok,#7AB87A)"/>
+<text x="449.38" y="231.34" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">0.026</text>
+<circle cx="526.81" cy="242.17" r="4" fill="var(--ok,#7AB87A)"/>
+<text x="526.81" y="233.17" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ok,#7AB87A)" text-anchor="middle" letter-spacing="0.04em">0.013</text>
+<line x1="255.21" y1="187.56" x2="255.21" y2="242.17" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="251.21" y1="187.56" x2="259.21" y2="187.56" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<line x1="251.21" y1="242.17" x2="259.21" y2="242.17" stroke="var(--ink,#ECEAE3)" stroke-width="1.5"/>
+<text x="263.21" y="214.44" font-family="'Space Mono',monospace" font-size="11" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.04em">≈ 30 ×</text>
+<text x="263.21" y="227.44" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">BLUE TO FAR RED,</text>
+<text x="263.21" y="237.44" font-family="'Space Mono',monospace" font-size="8" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">AT IDENTICAL POWER</text>
+<circle cx="60" cy="307" r="3.2" fill="var(--hot,#C45C3E)"/>
+<text x="70" y="310" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--hot,#C45C3E)" text-anchor="start" letter-spacing="0.08em">UV  365</text>
+<circle cx="198" cy="307" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="208" y="310" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">ROYAL BLUE  450</text>
+<circle cx="336" cy="307" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="346" y="310" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">BLUE  470</text>
+<circle cx="474" cy="307" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="484" y="310" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">CYAN  500</text>
+<circle cx="60" cy="323" r="3.2" fill="var(--dim,#B8B5AC)"/>
+<text x="70" y="326" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--dim,#B8B5AC)" text-anchor="start" letter-spacing="0.08em">GREEN  530</text>
+<circle cx="198" cy="323" r="3.2" fill="var(--ok,#7AB87A)"/>
+<text x="208" y="326" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">RED-ORANGE  620</text>
+<circle cx="336" cy="323" r="3.2" fill="var(--ok,#7AB87A)"/>
+<text x="346" y="326" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">DEEP RED  660</text>
+<circle cx="474" cy="323" r="3.2" fill="var(--ok,#7AB87A)"/>
+<text x="484" y="326" font-family="'Space Mono',monospace" font-size="7.5" fill="var(--ok,#7AB87A)" text-anchor="start" letter-spacing="0.08em">FAR RED  730</text>
+<rect x="44" y="344" width="552" height="26" fill="none" stroke="var(--line,#32352F)" stroke-width="0.75"/>
+<text x="54" y="361" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--ink,#ECEAE3)" text-anchor="start" letter-spacing="0.08em">WHITE LIGHT:  4,500 K ATTRACTS 1.43 TIMES AS MANY INSECTS AS 3,000 K.</text>
+<text x="44" y="388" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">Measured at identical radiant power, so this is a spectrum choice and not a dimming choice. The largest</text>
+<text x="44" y="399" font-family="'Space Mono',monospace" font-size="8.5" fill="var(--mut,#8A8880)" text-anchor="start" letter-spacing="0.05em" opacity="0.92">measured design lever in the chapter, and one an architect specifies directly. Hao et al. 2023.</text>
+</svg>
