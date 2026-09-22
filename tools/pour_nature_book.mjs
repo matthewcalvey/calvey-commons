@@ -375,7 +375,7 @@ function renderEdition(edition) {
         ${mdToHtml(stripLines(sections[0].body, ''), edition, figStats)}
       </section>
 
-      ${hasAudio ? `<section class="sec sec-audio" data-track="${c.id}">
+      <section class="sec sec-audio" data-track="${c.id}">
         <h3>Listen</h3>
         <p class="audio-note">The narrative is the whole ${kind.toLowerCase()} written for the ear — about ${mins} minutes.</p>
         <div class="play-row">
@@ -383,8 +383,8 @@ function renderEdition(edition) {
           <span class="play-dur">${mins} min</span>
           <span class="play-pos" data-pos="${c.id}"></span>
         </div>
-        <p class="audio-missing">This recording could not be loaded.</p>
-      </section>` : ''}
+        <p class="audio-missing">The narration for this ${kind.toLowerCase()} has not been added yet. The text it is read from is below, word for word.</p>
+      </section>
 
       <section class="sec">
         <details>
@@ -624,14 +624,14 @@ body.has-player{padding-bottom:6rem}
   <div class="badges">
     <span class="badge">${built.filter(b => b.c.editions.includes(edition)).length} items</span>
     <span class="badge">${Math.round(publishedWords / 1000)}k words</span>
-    ${built.some(b => b.hasAudio) ? `<span class="badge">${Math.round(built.filter(b => b.hasAudio).reduce((a, b) => a + b.mins, 0) / 60 * 10) / 10} h audio</span>` : ''}
+    <span class="badge">${Math.round(built.reduce((a, b) => a + b.mins, 0) / 60 * 10) / 10} h narration</span>
     <span class="badge">poured ${esc(String(M.manifest_date))}</span>
   </div>
 </header>
-${built.some(b => b.hasAudio) ? `<div class="listen-all">
+<div class="listen-all" id="listenAll">
   <button class="listen-btn" type="button" id="playAll"><span class="pi"></span><span>Listen to the whole book</span></button>
-  <span class="listen-note">${Math.round(built.filter(b => b.hasAudio).reduce((a, b) => a + b.mins, 0) / 60 * 10) / 10} hours — plays straight through and remembers where you stopped.</span>
-</div>` : ''}
+  <span class="listen-note">${Math.round(built.reduce((a, b) => a + b.mins, 0) / 60 * 10) / 10} hours, ${built.length} parts — plays straight through and remembers where you stopped.</span>
+</div>
 <nav class="toc"><h2>Contents</h2><ul>${toc.join('')}</ul></nav>
 ${parts.join('\n')}
 <footer class="foot">
@@ -641,7 +641,7 @@ ${parts.join('\n')}
 </footer>
 </div>
 
-${built.some(b => b.hasAudio) ? `<div class="player" id="player" hidden>
+<div class="player" id="player" hidden>
   <div class="player-in">
     <button class="p-btn p-main" type="button" id="pPlay" aria-label="Play or pause"><span class="pi"></span></button>
     <div class="p-mid">
@@ -660,7 +660,7 @@ ${built.some(b => b.hasAudio) ? `<div class="player" id="player" hidden>
 </div>
 <script>
 (function(){
-  var TRACKS = ${JSON.stringify(built.filter(b => b.c.editions.includes(edition) && b.hasAudio).map(b => ({ id: b.c.id, title: (b.c.kind === 'section' ? b.c.title : parseInt(b.c.id, 10) + ' · ' + b.c.title), src: 'audio/' + b.audioSlug + '.mp3' })))};
+  var TRACKS = ${JSON.stringify(built.filter(b => b.c.editions.includes(edition)).map(b => ({ id: b.c.id, title: (b.c.kind === 'section' ? b.c.title : parseInt(b.c.id, 10) + ' · ' + b.c.title), src: 'audio/' + b.audioSlug + '.mp3' })))};
   var a = new Audio(); a.preload = 'none';
   var el = function(i){ return document.getElementById(i); };
   var player = el('player'), idx = -1, rates = [1, 1.25, 1.5, 1.75, 2], ri = 0, seeking = false;
@@ -744,13 +744,31 @@ ${built.some(b => b.hasAudio) ? `<div class="player" id="player" hidden>
     if (idx === -1) load(i); else if (a.paused) a.play().catch(function(){}); else a.pause();
   });
 
-  // probe each file once so chapters with no recording say so rather than failing on click
+  // Probe each file once. The recordings are added after the book is built, so availability is
+  // decided here at run time — not when the page was poured. A chapter whose file is not there yet
+  // says so and play-all steps over it; nothing needs rebuilding when the files land.
+  var checked = 0, alive = 0;
   TRACKS.forEach(function(t){
-    fetch(t.src, { method: 'HEAD' }).then(function(r){ if (!r.ok) markDead(t.id); }).catch(function(){ markDead(t.id); });
+    fetch(t.src, { method: 'HEAD' })
+      .then(function(r){ if (r.ok) alive++; else markDead(t.id); })
+      .catch(function(){ markDead(t.id); })
+      .then(function(){
+        if (++checked === TRACKS.length) {
+          var la = el('listenAll');
+          if (!alive && la) {
+            la.querySelector('#playAll').disabled = true;
+            la.querySelector('.listen-note').textContent =
+              'The narration has not been added yet. Every part\u2019s text is on the page, under Narrative.';
+          } else if (la && alive < TRACKS.length) {
+            la.querySelector('.listen-note').textContent =
+              alive + ' of ' + TRACKS.length + ' parts recorded so far \u2014 plays straight through and remembers where you stopped.';
+          }
+        }
+      });
   });
   refreshPositions();
 })();
-</script>` : ''}
+</script>
 </body>
 </html>`;
   return { html, figStats, publishedWords };
@@ -769,6 +787,27 @@ for (const edition of M.editions) {
   fs.writeFileSync(path.join(ROOT, name), html);
   outputs.push({ edition, name, bytes: Buffer.byteLength(html), figStats, publishedWords });
 }
+
+/* ---------- the book's own audio manifest (house shape, as CALVEY_RESEARCH_BOOK's) ---------- */
+fs.writeFileSync(path.join(AUDIO, 'manifest.json'), JSON.stringify({
+  book: M.book_name,
+  series: M.series,
+  edition: M.editions[0],
+  voice: M.audio_voice_name || 'af_bella',
+  prefix: AUDIO_PREFIX,
+  note: "One file per part, from that part's '## 01 · NARRATIVE' section only. The transcript beside each entry is the text of record and is byte-identical to what must be voiced.",
+  files: built.map(b => ({
+    id: b.audioSlug,
+    chapter: b.c.id,
+    title: b.c.title,
+    subtitle: b.c.sources[0].subtitle || null,
+    words: b.words,
+    estimated_minutes: b.mins,
+    transcript: `audio/${b.audioSlug}.txt`,
+    path: `audio/${b.audioSlug}.mp3`,
+    recorded: fs.existsSync(path.join(AUDIO, `${b.audioSlug}.mp3`))
+  }))
+}, null, 2) + '\n');
 
 /* ---------- credits + build report ---------- */
 const fetched = outputs[0].figStats;
