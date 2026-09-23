@@ -13,11 +13,11 @@ Compiled, graded and cited research on architecture — published in full, in pu
 
 It asks how nature has been brought into, around and to the threshold of buildings, on three axes — time, place with its climate, and position: outside, at the threshold, or inside. Underneath that it asks a second question, which turned out to be the harder one: for every celebrated building and tradition, did anyone ever put instruments on it, and can anyone read the result?
 
-The answers sorted into sixteen kinds, and they are the book's spine. The measurement was never made. It was commissioned, came back unfavourable, and the building went up anyway. It was made and is enclosed behind a paywall. It was made, given away freely, and lost anyway when the web page that held it changed. It was made and is reachable and does not support the claim it is cited for. It was made once and nobody funded the second visit.
+The answers sorted into sixteen kinds, with four more still to be numbered, and they are the book's spine. The measurement was never made. It was commissioned, came back unfavourable, and the building went up anyway. It was made and is enclosed behind a paywall. It was made, given away freely, and lost anyway when the web page that held it changed. It was made and is reachable and does not support the claim it is cited for. It was made once and nobody funded the second visit.
 
 Two things cut across all of it. Measurement density collapses at the façade — the space between buildings is instrumented finely and the rooms people occupy are barely measured at all. And it collapses again at the person.
 
-`nature-and-architecture/` — the book, 232 original diagrams, the narration transcripts, and the figure credits.
+`nature-and-architecture/` — the book, 235 original diagrams, the narration transcripts, and the figure credits.
 
 ---
 

@@ -11,11 +11,10 @@
       "chapter": "01",
       "title": "Origins and the ancient world",
       "subtitle": "prehistory to c. 500 CE",
-      "words": 6805,
+      "words": 6804,
       "estimated_minutes": 45,
       "transcript": "audio/na_origins-and-the-ancient-world.txt",
-      "path": "audio/na_origins-and-the-ancient-world.mp3",
-      "recorded": false
+      "path": "audio/na_origins-and-the-ancient-world.mp3"
     },
     {
       "id": "na_the-medieval-and-early-modern-world",
@@ -25,8 +24,7 @@
       "words": 7189,
       "estimated_minutes": 48,
       "transcript": "audio/na_the-medieval-and-early-modern-world.txt",
-      "path": "audio/na_the-medieval-and-early-modern-world.mp3",
-      "recorded": false
+      "path": "audio/na_the-medieval-and-early-modern-world.mp3"
     },
     {
       "id": "na_enlightenment-to-the-industrial-age",
@@ -36,85 +34,77 @@
       "words": 7188,
       "estimated_minutes": 48,
       "transcript": "audio/na_enlightenment-to-the-industrial-age.txt",
-      "path": "audio/na_enlightenment-to-the-industrial-age.mp3",
-      "recorded": false
+      "path": "audio/na_enlightenment-to-the-industrial-age.mp3"
     },
     {
       "id": "na_modernism-and-its-organic-counter-currents",
       "chapter": "04",
       "title": "Modernism and its organic counter-currents",
       "subtitle": "c. 1914–1970",
-      "words": 7199,
+      "words": 7198,
       "estimated_minutes": 48,
       "transcript": "audio/na_modernism-and-its-organic-counter-currents.txt",
-      "path": "audio/na_modernism-and-its-organic-counter-currents.mp3",
-      "recorded": false
+      "path": "audio/na_modernism-and-its-organic-counter-currents.mp3"
     },
     {
       "id": "na_ecological-awakening",
       "chapter": "05",
       "title": "Ecological awakening",
       "subtitle": "c. 1970–2000",
-      "words": 7178,
+      "words": 7177,
       "estimated_minutes": 48,
       "transcript": "audio/na_ecological-awakening.txt",
-      "path": "audio/na_ecological-awakening.mp3",
-      "recorded": false
+      "path": "audio/na_ecological-awakening.mp3"
     },
     {
       "id": "na_the-present-the-field",
       "chapter": "06",
       "title": "The present: the field",
       "subtitle": "2000 to today",
-      "words": 6929,
+      "words": 6928,
       "estimated_minutes": 46,
       "transcript": "audio/na_the-present-the-field.txt",
-      "path": "audio/na_the-present-the-field.mp3",
-      "recorded": false
+      "path": "audio/na_the-present-the-field.mp3"
     },
     {
       "id": "na_the-present-practice",
       "chapter": "07",
       "title": "The present: practice",
       "subtitle": "outside, threshold, inside",
-      "words": 7186,
+      "words": 7185,
       "estimated_minutes": 48,
       "transcript": "audio/na_the-present-practice.txt",
-      "path": "audio/na_the-present-practice.mp3",
-      "recorded": false
+      "path": "audio/na_the-present-practice.mp3"
     },
     {
       "id": "na_future-outlook",
       "chapter": "08",
       "title": "Future outlook",
       "subtitle": "2026 and forward",
-      "words": 7194,
+      "words": 7193,
       "estimated_minutes": 48,
       "transcript": "audio/na_future-outlook.txt",
-      "path": "audio/na_future-outlook.mp3",
-      "recorded": false
+      "path": "audio/na_future-outlook.mp3"
+    },
+    {
+      "id": "na_after-the-chapters-the-measurement-line",
+      "chapter": "00",
+      "title": "After the chapters: the measurement line",
+      "subtitle": "the finding across all eight chapters",
+      "words": 1265,
+      "estimated_minutes": 8,
+      "transcript": "audio/na_after-the-chapters-the-measurement-line.txt",
+      "path": "audio/na_after-the-chapters-the-measurement-line.mp3"
     },
     {
       "id": "na_after-the-chapters-monday",
       "chapter": "09",
       "title": "After the chapters: Monday",
       "subtitle": "closing section",
-      "words": 1170,
+      "words": 1172,
       "estimated_minutes": 8,
       "transcript": "audio/na_after-the-chapters-monday.txt",
-      "path": "audio/na_after-the-chapters-monday.mp3",
-      "recorded": false
-    },
-    {
-      "id": "na_before-the-chapters-the-measurement-line",
-      "chapter": "00",
-      "title": "Before the chapters: the measurement line",
-      "subtitle": "front section",
-      "words": 1269,
-      "estimated_minutes": 8,
-      "transcript": "audio/na_before-the-chapters-the-measurement-line.txt",
-      "path": "audio/na_before-the-chapters-the-measurement-line.mp3",
-      "recorded": false
+      "path": "audio/na_after-the-chapters-monday.mp3"
     }
   ]
 }

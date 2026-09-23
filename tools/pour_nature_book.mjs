@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // pour_nature_book.mjs — CALVEY+CLAUDE NATURE+ARCHITECTURE BOOK
-// Builds the INTERNAL and SHARE editions from text/ + the manifest's machine block.
+// Builds the book's single public edition from text/ + the manifest's machine block.
 // Zero dependencies. Run:  node pour_nature_book.mjs  [--root <book folder>]
 // Single-sourced: the manifest is the only place the book order and rules live.
 
@@ -16,6 +16,7 @@ const IMAGES = path.join(ROOT, 'images');
 const MANIFEST = path.join(TEXT, 'NATURE_ARCHITECTURE_MANIFEST_v1.md');
 
 const problems = [], notes = [];
+const voiceQueue = [];   // transcripts whose spoken words are new or changed: these need (re)recording
 const fail = m => { problems.push(m); };
 const note = m => { notes.push(m); };
 
@@ -211,7 +212,7 @@ function renderFigureBlock(lines, edition, figStats) {
         // inline so the page's own colour variables reach the drawing in both themes
         ? fs.readFileSync(art, 'utf8').replace(/<\?xml[^>]*\?>\s*/, '').replace(/<!DOCTYPE[^>]*>\s*/, '').trim()
         : `<img src="images/${path.basename(path.dirname(art))}/${path.basename(art)}" alt="${esc(fig.alt || '')}" loading="lazy">`)
-    : `<div class="fig-placeholder"><span class="fig-ph-label">${/to be drawn/i.test(status) ? 'Diagram to be drawn' : 'Photograph withheld until its licence is read at source'}</span></div>`}
+    : `<div class="fig-placeholder"><span class="fig-ph-label">${/to be drawn/i.test(status) ? 'Diagram to be drawn' : /^ready/i.test(status) ? 'Photograph not yet placed \u2014 licence read at source' : 'Photograph withheld until its licence is read at source'}</span></div>`}
   ${fig.shows ? `<figcaption><strong>Shows.</strong> ${inline(fig.shows, edition)}</figcaption>` : ''}
   <dl class="fig-meta">
     ${hasImage
@@ -268,6 +269,16 @@ const UNFILLED_PLAIN = RULES.render_unfilled_as === 'plain';
 const AUDIO_PREFIX = M.audio_prefix || 'na_';
 
 /* ---------- cut a document by the anatomy headings ---------- */
+// A bare horizontal rule is a separator between sections in the source, never content of the
+// section above it. Six narratives once carried the rule before '## 02' into their transcripts,
+// and the voice had nothing to say for it.
+const RULE_LINE = /^\s*(?:-{3,}|\*{3,}|_{3,})\s*$/;
+function trimRules(lines) {
+  let a = 0, b = lines.length;
+  while (a < b && (lines[a].trim() === '' || RULE_LINE.test(lines[a]))) a++;
+  while (b > a && (lines[b - 1].trim() === '' || RULE_LINE.test(lines[b - 1]))) b--;
+  return lines.slice(a, b);
+}
 function cut(doc) {
   const order = ['summary_heading', 'audio_heading', 'body_starts_at', '## 03 · CASE CARDS', ANATOMY.figures_heading, ANATOMY.rulebook_heading, ANATOMY.decisions_heading, ANATOMY.bibliography_heading];
   const heads = [ANATOMY.summary_heading, ANATOMY.audio_heading, ANATOMY.body_starts_at, '## 03 · CASE CARDS', ANATOMY.figures_heading, ANATOMY.rulebook_heading, ANATOMY.decisions_heading, ANATOMY.bibliography_heading];
@@ -278,7 +289,7 @@ function cut(doc) {
   const sections = heads.map((h, n) => {
     const start = idx[n], end = n + 1 < idx.length ? idx[n + 1] : lines.length;
     if (start === -1) return { heading: h, body: '' };
-    return { heading: h, body: lines.slice(start + 1, end === -1 ? lines.length : end).join('\n').trim() };
+    return { heading: h, body: trimRules(lines.slice(start + 1, end === -1 ? lines.length : end)).join('\n').trim() };
   });
   return { header, sections };
 }
@@ -303,19 +314,29 @@ for (const c of items) {
   const hits = FORBIDDEN.filter(t => narrative.includes(t));
   if (hits.length) fail(`row ${c.id} narrative contains forbidden audio token(s): ${hits.map(h => JSON.stringify(h)).join(', ')}`);
   if (/^#{1,6}\s/m.test(narrative)) fail(`row ${c.id} narrative contains a markdown heading`);
+  if (narrative.split('\n').some(l => RULE_LINE.test(l))) fail(`row ${c.id} narrative contains a horizontal rule`);
+  const mute = narrative.split(/\n\s*\n/).filter(p => !/[A-Za-z]/.test(p));
+  if (mute.length) fail(`row ${c.id} narrative has ${mute.length} paragraph(s) with nothing to voice: ${mute.map(p => JSON.stringify(p.trim().slice(0, 20))).join(', ')}`);
   const audioSlug = AUDIO_PREFIX + slug(c.title);
   const transcript = narrative.replace(/\n{3,}/g, '\n\n').trim() + '\n';
   const tPath = path.join(AUDIO, `${audioSlug}.txt`);
   const tHash = crypto.createHash('sha256').update(transcript).digest('hex');
-  const prevHash = fs.existsSync(tPath) ? crypto.createHash('sha256').update(fs.readFileSync(tPath, 'utf8')).digest('hex') : null;
-  if (prevHash !== tHash) fs.writeFileSync(tPath, transcript);
-  else note(`row ${c.id}: narrative unchanged (dedupe by hash) — transcript not rewritten`);
+  const prevText = fs.existsSync(tPath) ? fs.readFileSync(tPath, 'utf8') : null;
+  const prevHash = prevText === null ? null : crypto.createHash('sha256').update(prevText).digest('hex');
+  // the spoken words: paragraphs that have something to say, whitespace folded
+  const spoken = t => t.split(/\n\s*\n/).filter(p => /[A-Za-z]/.test(p)).map(p => p.replace(/\s+/g, ' ').trim()).join('\n\n');
+  if (prevHash === tHash) note(`row ${c.id}: narrative unchanged (dedupe by hash) — transcript not rewritten`);
+  else {
+    fs.writeFileSync(tPath, transcript);
+    if (prevText === null) voiceQueue.push({ id: c.id, file: `${audioSlug}.mp3`, why: 'new transcript' });
+    else if (spoken(prevText) === spoken(transcript)) note(`row ${c.id}: transcript rewritten, spoken words unchanged — an existing recording stands`);
+    else voiceQueue.push({ id: c.id, file: `${audioSlug}.mp3`, why: 'spoken words changed' });
+  }
   hashes[c.id] = tHash.slice(0, 12);
   const words = narrative.split(/\s+/).filter(Boolean).length;
   const mins = Math.round(words / 150);
-  const hasAudio = fs.existsSync(path.join(AUDIO, `${audioSlug}.mp3`));
 
-  built.push({ c, header, sections, audioSlug, words, mins, hasAudio, totalWords: doc.split(/\s+/).filter(Boolean).length });
+  built.push({ c, header, sections, audioSlug, words, mins, totalWords: doc.split(/\s+/).filter(Boolean).length });
 }
 
 function renderEdition(edition) {
@@ -325,12 +346,12 @@ function renderEdition(edition) {
   let publishedWords = 0;
 
   for (const b of built) {
-    const { c, sections, audioSlug, words, mins, totalWords, hasAudio } = b;
+    const { c, sections, audioSlug, words, mins, totalWords } = b;
     if (!c.editions.includes(edition)) continue;
     const id = `item-${c.id}`;
     const kind = c.kind === 'section' ? 'Section' : 'Chapter';
     const label = c.kind === 'section' ? c.title : `${parseInt(c.id, 10)} · ${c.title}`;
-    toc.push(`<li><a href="#${id}"><span class="toc-n">${esc(c.id)}</span><span class="toc-t">${esc(c.title)}</span><span class="toc-s">${esc(c.sources[0].subtitle || '')}</span></a></li>`);
+    toc.push(`<li><a href="#${id}"><span class="toc-n">${c.kind === 'section' ? '&#8212;' : esc(c.id)}</span><span class="toc-t">${esc(c.title)}</span><span class="toc-s">${esc(c.sources[0].subtitle || '')}</span></a></li>`);
 
     const bodySections = sections.slice(2).filter(s => !STRIP_HEADINGS.some(m => s.heading.includes(m)));
 
@@ -354,18 +375,20 @@ function renderEdition(edition) {
         .replace(/\s*[;,]?\s*see\s+DFA-[\d.]+/gi, '');
     };
 
-    publishedWords += [stripLines(sections[0].body, ''), sections[1].body,
+    // what this page actually shows of the item: the CALVEY_FORM layer is not counted
+    const itemWords = [stripLines(sections[0].body, ''), sections[1].body,
       ...bodySections.map(s => stripLines(s.body, s.heading))].join(' ').split(/\s+/).filter(Boolean).length;
+    publishedWords += itemWords;
 
     const subtopics = (c.subtopics || []).map(s => `<li>${esc(s)}</li>`).join('');
 
     parts.push(`<article class="item" id="${id}">
   <details class="item-d"${c.kind === 'section' ? ' open' : ''}>
     <summary class="item-s">
-      <span class="item-kicker">${kind} ${esc(c.id)}</span>
+      <span class="item-kicker">${c.kind === 'section' ? kind : kind + ' ' + esc(c.id)}</span>
       <h2 class="item-title">${esc(label)}</h2>
       <span class="item-sub">${esc(c.sources[0].subtitle || '')}</span>
-      <span class="item-meta"><span>${totalWords.toLocaleString('en-GB')} words</span><span>narrative ${mins} min</span></span>
+      <span class="item-meta"><span>${itemWords.toLocaleString('en-GB')} words</span><span>narrative ${mins} min</span></span>
     </summary>
     <div class="item-body">
       ${subtopics ? `<nav class="subtopics"><h3>In this ${kind.toLowerCase()}</h3><ul>${subtopics}</ul></nav>` : ''}
@@ -462,7 +485,7 @@ hr{border:0;border-top:.5px solid var(--line);margin:3rem 0}
 .mast .series{font-family:var(--font-label);font-size:.62rem;text-transform:uppercase;
   letter-spacing:.2em;color:var(--mut)}
 .mast .rule{width:40px;height:0;border-top:.75px solid var(--accent);margin:1.4rem 0}
-.mast h1{font-size:clamp(1.55rem,6.4vw,3.3rem);text-transform:uppercase;letter-spacing:.06em;margin:0 0 1.4rem;line-height:1.14;overflow-wrap:break-word;word-break:break-word;hyphens:none}
+.mast h1{font-size:clamp(1.55rem,6.4vw,3rem);text-transform:uppercase;letter-spacing:.06em;margin:0 0 1.4rem;line-height:1.14;overflow-wrap:break-word;hyphens:none}
 .mast .tag{margin:0;font-size:1.02rem;color:var(--dim);max-width:34rem}
 .badges{display:flex;flex-wrap:wrap;gap:1.6rem;margin-top:2rem}
 .badge{font-family:var(--font-label);font-size:.62rem;text-transform:uppercase;letter-spacing:.12em;color:var(--mut)}
@@ -526,8 +549,8 @@ hr{border:0;border-top:.5px solid var(--line);margin:3rem 0}
 .play-btn.playing .pi{width:7px;height:9px;border:0;border-left:2px solid currentColor;border-right:2px solid currentColor}
 .play-dur,.play-pos{font-family:var(--font-label);font-size:.6rem;text-transform:uppercase;letter-spacing:.1em;color:var(--mut)}
 .play-pos:not(:empty)::before{content:"/ "}
-.listen-all{display:flex;align-items:center;gap:1.4rem;flex-wrap:wrap;margin:2.4rem 0 .4rem;
-  padding:1.8rem 0;border-top:.5px solid var(--line);border-bottom:.5px solid var(--line)}
+.listen-all{display:flex;align-items:center;gap:1.4rem;flex-wrap:wrap;margin:0 0 .4rem;
+  padding:1.8rem 0;border-bottom:.5px solid var(--line)}
 .listen-btn{display:inline-flex;align-items:center;gap:.7rem;border:.5px solid var(--accent);background:none;color:var(--accent);
   font-family:var(--font-label);font-size:.68rem;text-transform:uppercase;letter-spacing:.14em;padding:1em 1.6em;cursor:pointer}
 .listen-btn:hover{background:var(--accent);color:var(--bg)}
@@ -619,10 +642,10 @@ body.has-player{padding-bottom:6rem}
 <div class="wrap">
 <header class="mast">
   <div class="series">${esc(M.series)}</div>
-  <h1>${esc(M.book_name)}</h1>
-  <p class="tag">A compiled, graded and cited account of how nature has been brought into, around and to the threshold of buildings — from the first painted caves to materials now being grown. Every claim carries two grades. Conflicts stand side by side. Gaps are findings.</p>
+  <h1>${esc(M.book_name).replace(/\+/g, '+<wbr>')}</h1>
+  <p class="tag">A compiled, graded and cited account of how nature has been brought into, around and to the threshold of buildings — from the first painted caves to materials now being grown. Every claim carries two grades. Conflicts stand side by side. Gaps are findings. Beneath that history runs a second one, of what was ever measured and who is allowed to read the numbers; it is gathered after the eighth chapter.</p>
   <div class="badges">
-    <span class="badge">${built.filter(b => b.c.editions.includes(edition)).length} items</span>
+    <span class="badge">${built.filter(b => b.c.editions.includes(edition) && b.c.kind !== 'section').length} chapters · ${built.filter(b => b.c.editions.includes(edition) && b.c.kind === 'section').length} closing sections</span>
     <span class="badge">${Math.round(publishedWords / 1000)}k words</span>
     <span class="badge">${Math.round(built.reduce((a, b) => a + b.mins, 0) / 60 * 10) / 10} h narration</span>
     <span class="badge">poured ${esc(String(M.manifest_date))}</span>
@@ -804,24 +827,38 @@ fs.writeFileSync(path.join(AUDIO, 'manifest.json'), JSON.stringify({
     words: b.words,
     estimated_minutes: b.mins,
     transcript: `audio/${b.audioSlug}.txt`,
-    path: `audio/${b.audioSlug}.mp3`,
-    recorded: fs.existsSync(path.join(AUDIO, `${b.audioSlug}.mp3`))
+    path: `audio/${b.audioSlug}.mp3`
   }))
 }, null, 2) + '\n');
 
+/* ---------- orphans: transcripts or recordings that no manifest row names any more ---------- */
+const named = new Set(built.flatMap(b => [`${b.audioSlug}.txt`, `${b.audioSlug}.mp3`]));
+const orphans = fs.readdirSync(AUDIO).filter(f => f.startsWith(AUDIO_PREFIX) && /\.(txt|mp3)$/.test(f) && !named.has(f));
+if (orphans.length) note(`audio/ holds ${orphans.length} file(s) no row names: ${orphans.join(', ')}`);
+
 /* ---------- credits + build report ---------- */
 const fetched = outputs[0].figStats;
+const drawnDirs = fs.readdirSync(IMAGES, { withFileTypes: true })
+  .filter(d => d.isDirectory() && fs.readdirSync(path.join(IMAGES, d.name)).some(f => f.endsWith('.svg')))
+  .map(d => d.name).sort();
 fs.writeFileSync(path.join(IMAGES, 'CREDITS.md'),
 `# Image credits — ${M.book_name}
 
-No image has been fetched. Every figure block in this book is rendered from its specification in the
-chapter's \`## 04 · FIGURES\` section, and the pour fetches nothing whose licence was not read at its
-source page. ${fetched.drawn} of ${fetched.total} blocks are original diagrams still to be drawn;
-${fetched.licence} carry \`status: licence to confirm\` and are withheld until the licence is read;
-${fetched.ready} are marked ready.
+## Original diagrams — ${fetched.made} of ${fetched.total} figure blocks
 
-When a drawing is made or an image is licensed, add it at the \`file:\` path in its block and add a
-line here: path · creator · date · licence exactly as the source states it.
+Each is an SVG drawn for this edition from its block's own \`shows:\` specification and the
+chapter's graded text, filed by chapter in ${drawnDirs.map(d => '`images/' + d + '/`').join(', ')}. They are
+the book's own work and carry the book's licence (see LICENSE at the repository root). Where a diagram restates a
+measured figure, its source is the one the chapter cites for that figure.
+
+## Photographs and third-party images — none fetched
+
+The pour fetches nothing whose licence was not read at its source page. ${fetched.ready} figure blocks are
+marked ready (licence read at source) and wait to be placed; ${fetched.licence} carry
+\`status: licence to confirm\` and are withheld until the licence is read${fetched.drawn ? '; ' + fetched.drawn + ' original diagram' + (fetched.drawn === 1 ? ' is' : 's are') + ' still to be drawn' : ''}.
+
+When a photograph is placed, put it at the \`file:\` path in its block and add a line here:
+path · creator · date · licence exactly as the source states it.
 `);
 
 const totalWords = built.reduce((a, b) => a + b.totalWords, 0);
@@ -833,16 +870,16 @@ const report = `# POUR REPORT — ${M.book_name}
 ## Outputs
 ${outputs.map(o => `- \`${o.name}\` — ${o.edition} edition, ${(o.bytes / 1024 / 1024).toFixed(2)} MB`).join('\n')}
 - \`audio/\` — ${built.length} narrative transcripts (\`.txt\`), ready for narration
-- \`images/CREDITS.md\` — nothing fetched; see the file
+- \`images/CREDITS.md\` — the drawn diagrams credited; no photograph fetched
 
 ## Items poured — ${built.length}
 ${built.map(b => `- **${b.c.id} · ${b.c.title}** — ${b.totalWords.toLocaleString('en-GB')} words · narrative ${b.words.toLocaleString('en-GB')} words (~${b.mins} min) · transcript hash \`${hashes[b.c.id]}\``).join('\n')}
 
-**Totals:** ${outputs[0].publishedWords.toLocaleString('en-GB')} words published (${totalWords.toLocaleString('en-GB')} in source, before the CALVEY_FORM layer was lifted out) · ${(totalMins / 60).toFixed(1)} hours of narration · ${fetched.total} figure blocks (${fetched.drawn} to be drawn, ${fetched.ready} ready, ${fetched.licence} licence to confirm).
+**Totals:** ${outputs[0].publishedWords.toLocaleString('en-GB')} words published (${totalWords.toLocaleString('en-GB')} in source, before the CALVEY_FORM layer was lifted out) · ${(totalMins / 60).toFixed(1)} hours of narration · ${fetched.total} figure blocks (${fetched.made} drawn, ${fetched.drawn} to be drawn, ${fetched.ready} ready, ${fetched.licence} licence to confirm).
 
 ## Acceptance checks
-1. **Audio transcript equals its narrative, no forbidden token, no heading** — ${problems.some(p => /forbidden|heading/.test(p)) ? 'FAIL' : 'pass'} (tokens checked: ${FORBIDDEN.map(t => JSON.stringify(t)).join(', ')})
-2. **No image fetched without a licence read at source** — pass; nothing fetched, CREDITS.md written
+1. **Audio transcript equals its narrative; no forbidden token, heading, horizontal rule or wordless paragraph** — ${problems.some(p => /forbidden|heading|horizontal rule|nothing to voice/.test(p)) ? 'FAIL' : 'pass'} (tokens checked: ${FORBIDDEN.map(t => JSON.stringify(t)).join(', ')})
+2. **No image fetched without a licence read at source** — pass; no photograph fetched; ${fetched.made} original diagrams drawn for this edition; CREDITS.md written
 3. **Public output carries the rulebook, and no fit clause or decision** — ${problems.some(p => /public output/.test(p)) ? 'FAIL' : 'pass'}
 4. **Re-pour changes only what changed** — transcripts are written only when their hash changes; hashes above
 
@@ -851,9 +888,11 @@ ${problems.length ? `## Problems (${problems.length})\n${problems.map(p => `- ${
 ${notes.length ? `## Notes\n${notes.map(n => `- ${n}`).join('\n')}` : ''}
 
 ## What remains
-- **Audio.** The transcripts are in \`audio/\`. Narrate each to \`audio/<same name>.mp3\`; the players pick them up with no rebuild. Until then each player hides itself and shows the transcript.
-- **Figures.** ${fetched.drawn} original diagrams to draw; each block's \`shows:\` line is the drawing instruction. Drop the file in at its \`file:\` path and re-pour.
-- **Verification pass.** The \`unfilled\` marks are rendered visibly in the INTERNAL edition and are the target list.
+- **Audio.** Each transcript in \`audio/\` is voiced to \`audio/<same name>.mp3\`. The page checks for every file when it loads and marks any part not yet recorded, so a new recording needs no re-pour.
+${voiceQueue.length ? '  - **To record after this pour (' + voiceQueue.length + '):** ' + voiceQueue.map(v => '`' + v.file + '` (' + v.why + ')').join('; ') : '  - Nothing to record: no spoken words changed in this pour.'}
+${orphans.length ? '  - **Orphans to remove (' + orphans.length + '):** ' + orphans.map(o => '`audio/' + o + '`').join(', ') + ' — no manifest row names ' + (orphans.length === 1 ? 'it' : 'them') + ' any more.' : ''}
+- **Figures.** ${fetched.made} of ${fetched.total} blocks drawn. ${fetched.drawn ? fetched.drawn + ' original diagram' + (fetched.drawn === 1 ? '' : 's') + " still to draw (each block's \`shows:\` line is the drawing instruction)" : 'No original diagram left to draw'}; ${fetched.ready} photographs whose licence was read, waiting to be placed; ${fetched.licence} withheld until their licence is read.
+- **Verification pass.** Each \`[unfilled — lane X]\` mark in the sources renders in the public text as a plain *unfilled* mark; together they are the pass's target list.
 `;
 fs.writeFileSync(path.join(ROOT, 'POUR_REPORT.md'), report);
 
