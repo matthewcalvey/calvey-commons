@@ -1,6 +1,6 @@
 # Image credits — CALVEY+CLAUDE NATURE+ARCHITECTURE BOOK
 
-## Original diagrams — 236 of 285 figure blocks
+## Original diagrams — 239 of 285 figure blocks
 
 Each is an SVG drawn for this edition from its block's own `shows:` specification and the
 chapter's graded text, filed by chapter in `images/00/`, `images/01/`, `images/02/`, `images/03/`, `images/04/`, `images/05/`, `images/06/`, `images/07/`, `images/08/`, `images/09/`. They are
@@ -59,7 +59,7 @@ the book's licence does not cover them. Nothing was fetched before its licence w
 - `images/03/morris-trellis-wallpaper.jpg` — FIG 3.9 · Trellis wallpaper — William Morris (pattern) and Philip Webb (birds), for Morris & Co.; The Metropolitan Museum of Art, 23.163.4h · designed 1862, first produced 1864 · CC0 1.0 (The Met Open Access) · https://commons.wikimedia.org/wiki/File:Trellis_MET_DT255077.jpg · resized for the web
 - `images/04/robie-house-habs.jpg` — FIG 4.9 · The Robie House — horizontality as landscape analogy — Cervin Robinson, photographer; Historic American Buildings Survey, survey number HABS IL-1005, call number HABS ILL,16-CHIG,33-, photograph 4, exterior from south · 18 August 1963 (the survey’s documentation compiled after 1933) · public domain — US federal government work (Library of Congress: No known restrictions on images made by the U.S. Government) · https://www.loc.gov/pictures/item/il0039/ · resized for the web
 
-0 more figure blocks have their licence read at source and wait to be placed; 3 are withheld because the licence found does not allow reuse here; 0 have not had a licence read.
+0 more figure blocks have their licence read at source and wait to be placed; 0 are withheld because the licence found does not allow reuse here; 0 have not had a licence read.
 
 ## The cover
 
