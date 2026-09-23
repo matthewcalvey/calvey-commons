@@ -5,91 +5,149 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>CALVEY COMMONS</title>
 <meta name="description" content="Compiled, graded and cited research on architecture, published in full and in public.">
-<meta name="color-scheme" content="light dark">
+<meta name="color-scheme" content="dark light">
+<meta name="theme-color" content="#141513">
 <meta property="og:title" content="CALVEY COMMONS">
 <meta property="og:description" content="Compiled, graded and cited research on architecture, published in full and in public.">
 <meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Space+Mono:wght@400&display=swap" rel="stylesheet">
 <style>
+/* CALVEY — Cormorant Garamond + Space Mono, accent #6A9CC4. Dark is the default; the light theme is the CALVEY FORM palette. */
 :root{
-  --bg:#fbfaf7;--panel:#fff;--ink:#1c1c1a;--mut:#5d5c57;--line:#e2dfd6;--line2:#efece4;
-  --accent:#4a6b52;--accent-soft:#eaf0ea;--rad:10px;--maxw:46rem;
+  --font-head:'Cormorant Garamond',Georgia,'Times New Roman',serif;
+  --font-label:'Space Mono','Courier New',Courier,monospace;
+  --accent:#6A9CC4;
+  --bg:#141513; --panel:#191A18; --surface:#1F211E;
+  --ink:#ECEAE3; --dim:#B8B5AC; --mut:#8A8880; --line:#32352F;
+  --wash:rgba(20,21,19,.5);
+  --maxw:46rem;
 }
-@media (prefers-color-scheme:dark){:root{
-  --bg:#141513;--panel:#1c1e1b;--ink:#e8e6df;--mut:#a3a096;--line:#32352f;--line2:#252823;
-  --accent:#8fb89a;--accent-soft:#222a24;
+@media (prefers-color-scheme:light){:root{
+  --bg:#FFFFFF; --panel:#FFFFFF; --surface:#F5F5F5;
+  --ink:#1A1A1A; --dim:#555555; --mut:#888888; --line:#DDDDDD;
+  --wash:rgba(255,255,255,.42);
 }}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--ink);
-  font:400 17px/1.62 "Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif}
-.wrap{max-width:var(--maxw);margin:0 auto;padding:0 20px 5rem;
-  padding-left:max(20px,env(safe-area-inset-left));padding-right:max(20px,env(safe-area-inset-right))}
-h1,h2,h3{line-height:1.22;font-weight:600;letter-spacing:-.011em}
-a{color:var(--accent);text-underline-offset:.18em}
-code{font:500 .86em/1.5 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:var(--line2);padding:.1em .34em;border-radius:5px}
-.mast{padding:3.4rem 0 1.6rem;border-bottom:1px solid var(--line)}
-.mast .kicker{font:600 .72rem/1 ui-sans-serif,system-ui,-apple-system,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
-.mast h1{font-size:clamp(2rem,7vw,3rem);margin:.5rem 0 .5rem}
-.mast p{color:var(--mut);margin:0;font-size:1.04rem}
-.sec{margin:2.6rem 0}
-.sec h2{font:600 .72rem/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mut);margin:0 0 1rem}
-.book{display:block;text-decoration:none;color:inherit;background:var(--panel);border:1px solid var(--line);
-  border-radius:var(--rad);padding:1.5rem 1.4rem;transition:border-color .15s,transform .15s}
-.book:hover{border-color:var(--accent);transform:translateY(-1px)}
-.book .series{font:600 .68rem/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
-.book h3{font-size:1.4rem;margin:.5rem 0 .4rem}
-.book .sub{color:var(--mut);font-size:.96rem;margin:0 0 .9rem}
-.book .blurb{margin:0 0 1rem;font-size:1rem}
-.stats{display:flex;flex-wrap:wrap;gap:.4rem}
-.stat{font:600 .68rem/1 ui-sans-serif,system-ui,sans-serif;letter-spacing:.05em;text-transform:uppercase;
-  padding:.42em .62em;border-radius:999px;background:var(--accent-soft);color:var(--accent);border:1px solid var(--line)}
-.open{margin-top:1.1rem;font:600 .86rem/1 ui-sans-serif,system-ui,sans-serif;color:var(--accent)}
-.open::after{content:" →"}
-.soon{background:var(--line2);border:1px dashed var(--line);border-radius:var(--rad);padding:1.2rem 1.4rem;color:var(--mut);font-size:.95rem}
+body{margin:0;background:var(--bg);color:var(--dim);font:300 19px/1.62 var(--font-head);letter-spacing:.004em}
+/* the wall behind the page: every photograph and scan in the first book, tiled small */
+body::before{content:"";position:fixed;inset:0;z-index:-1;
+  background:linear-gradient(var(--wash),var(--wash)),#141513 url(nature-and-architecture/images/cover-mosaic.jpg) top center/max(100vw,960px) auto repeat}
+.wrap{max-width:calc(var(--maxw) + 2rem);margin:0 auto;padding:max(3.4rem,14vh) 1rem 3rem;
+  padding-left:max(1rem,env(safe-area-inset-left));padding-right:max(1rem,env(safe-area-inset-right))}
+h1,h2,h3{font-family:var(--font-head);font-weight:300;color:var(--ink);line-height:1.2}
+strong{font-weight:400;color:var(--ink)}
+a{color:var(--accent);text-decoration:none;border-bottom:.5px solid var(--line)}
+a:hover{border-bottom-color:var(--accent)}
+.lab{font-family:var(--font-label);font-size:.62rem;font-weight:400;text-transform:uppercase;letter-spacing:.18em;color:var(--mut)}
+.panel{background:var(--bg);padding:2.2rem 2rem;margin:0 0 1rem}
+/* title plate */
+.mast .rule{width:40px;height:0;border-top:.75px solid var(--accent);margin:1.3rem 0}
+.mast h1{font-size:clamp(2.2rem,8vw,3.6rem);text-transform:uppercase;letter-spacing:.08em;margin:.8rem 0 0;line-height:1.05}
+.mast p{margin:0;font-size:1.12rem;font-style:italic;color:var(--dim)}
+/* books */
+.shelf h2{margin:0 0 1.2rem}
+.book{display:block;color:inherit;border:0;background:var(--bg);margin:0 0 1rem;transition:outline-color .15s;outline:.5px solid transparent}
+.book:hover{outline-color:var(--accent)}
+.book-strip{display:grid;grid-template-columns:repeat(6,1fr);gap:0;height:7.5rem;overflow:hidden}
+.book-strip img{width:100%;height:100%;object-fit:cover;display:block}
+.book-in{padding:1.8rem 2rem 2rem}
+.book .series{font-family:var(--font-label);font-size:.6rem;text-transform:uppercase;letter-spacing:.16em;color:var(--accent)}
+.book h3{font-size:clamp(1.45rem,4.4vw,1.9rem);margin:.7rem 0 .35rem;line-height:1.2}
+.book .sub{margin:0 0 1rem;color:var(--mut);font-style:italic;font-size:1rem}
+.book .blurb{margin:0 0 1.2rem;font-size:1.04rem}
+.stats{display:flex;flex-wrap:wrap;gap:.5rem 1.3rem;margin:0 0 1.3rem}
+.stat{font-family:var(--font-label);font-size:.6rem;text-transform:uppercase;letter-spacing:.12em;color:var(--mut)}
+.open{font-family:var(--font-label);font-size:.66rem;text-transform:uppercase;letter-spacing:.16em;color:var(--accent);
+  display:inline-block;border:.5px solid var(--accent);padding:.85em 1.2em}
+.book:hover .open{background:var(--accent);color:var(--bg)}
+.book-type{background:var(--surface)}
+.book-type .book-mark{height:7.5rem;display:flex;align-items:flex-end;padding:0 2rem 1.1rem;border-bottom:.5px solid var(--line);
+  font-family:var(--font-head);font-style:italic;font-weight:300;font-size:clamp(1.9rem,6.4vw,3rem);letter-spacing:.01em;color:var(--ink);line-height:1}
+.book-type .book-in{background:var(--surface)}
+/* method */
+.how h2{margin:0 0 1rem}
 .how p{margin:0 0 1rem}
-.how ul{margin:0 0 1rem;padding-left:1.2rem}
-.how li{margin:.4rem 0}
-.foot{margin-top:3rem;padding-top:1.4rem;border-top:1px solid var(--line);color:var(--mut);font-size:.88rem}
-.foot p{margin:0 0 .7rem}
-@media (max-width:480px){body{font-size:16px}.wrap{padding:0 15px 4rem}.book{padding:1.2rem 1.1rem}}
+.how ul{margin:0 0 1.2rem;padding:0;list-style:none}
+.how li{margin:.8rem 0;padding-left:1.4rem;position:relative}
+.how li::before{content:"";position:absolute;left:0;top:.78em;width:.7rem;height:0;border-top:.75px solid var(--accent)}
+.foot{font-size:.9rem;color:var(--mut)}
+.foot p{margin:0 0 .8rem}
+.foot p:last-child{margin:0}
+@media (max-width:520px){
+  body{font-size:17.5px}
+  .wrap{padding:44vh 10px 2rem}
+  .panel,.book-in{padding:1.6rem 1.2rem}
+  .book-strip{grid-template-columns:repeat(4,1fr);height:6rem}
+  .book-strip img:nth-child(n+5){display:none}
+  .book-type .book-mark{padding:0 1.2rem .9rem;height:6rem}
+}
 </style>
 </head>
 <body>
 <div class="wrap">
 
-<header class="mast">
-  <div class="kicker">CALVEY INC.</div>
+<header class="panel mast">
+  <div class="lab">CALVEY INC.</div>
   <h1>CALVEY COMMONS</h1>
+  <div class="rule"></div>
   <p>Compiled, graded and cited research on architecture — published in full, in public, and free to reuse with attribution.</p>
 </header>
 
-<section class="sec">
-  <h2>Books</h2>
+<section class="panel shelf" aria-labelledby="books">
+  <h2 class="lab" id="books">The books</h2>
+
   <a class="book" href="nature-and-architecture/">
-    <div class="series">Nature and Architecture</div>
-    <h3>The Calvey and Claude Nature and Architecture Book</h3>
-    <p class="sub">Eight chapters and two closing sections, from the first painted caves to materials now being grown</p>
-    <p class="blurb">How nature has been brought into, around and to the threshold of buildings — and, underneath that, who measured any of it and who is allowed to read the measurement. Every claim carries two grades. Conflicts stand side by side and are never averaged. Gaps are reported as findings rather than smoothed over.</p>
-    <div class="stats">
-      <span class="stat">10 parts</span>
-      <span class="stat">511k words</span>
-      <span class="stat">6.6 h narration</span>
-      <span class="stat">236 diagrams</span>
-      <span class="stat">46 photographs</span>
-      <span class="stat">2026</span>
+    <div class="book-strip" aria-hidden="true">
+      <img src="nature-and-architecture/images/thumbs/chauvet-lions-replica.jpg" alt="" loading="lazy">
+      <img src="nature-and-architecture/images/thumbs/gobekli-tepe-building-d.jpg" alt="" loading="lazy">
+      <img src="nature-and-architecture/images/thumbs/nebamun-garden.jpg" alt="" loading="lazy">
+      <img src="nature-and-architecture/images/thumbs/pantheon-dome-interior.jpg" alt="" loading="lazy">
+      <img src="nature-and-architecture/images/thumbs/djenne-great-mosque-archnet-3465.jpg" alt="" loading="lazy">
+      <img src="nature-and-architecture/images/thumbs/crystal-palace-transept-elms.jpg" alt="" loading="lazy">
     </div>
-    <div class="open">Read or listen</div>
+    <div class="book-in">
+      <div class="series">Nature and Architecture · with Claude</div>
+      <h3>The Calvey and Claude Nature and Architecture Book</h3>
+      <p class="sub">Eight chapters and two closing sections, from the first painted caves to materials now being grown</p>
+      <p class="blurb">How nature has been brought into, around and to the threshold of buildings — and, underneath that, who measured any of it and who is allowed to read the measurement. Each chapter opens on its images and a story you can read or listen to; beneath it lies the evidence, where every claim carries two grades, conflicts stand side by side, and gaps are reported as findings.</p>
+      <div class="stats">
+        <span class="stat">10 parts</span>
+        <span class="stat">511k words</span>
+        <span class="stat">6.6 h narration</span>
+        <span class="stat">46 photographs</span>
+        <span class="stat">236 diagrams</span>
+        <span class="stat">2026</span>
+      </div>
+      <span class="open">Read or listen</span>
+    </div>
+  </a>
+
+  <a class="book book-type" href="nature-and-architecture-chatgpt/">
+    <div class="book-mark" aria-hidden="true">Nature + Architecture</div>
+    <div class="book-in">
+      <div class="series">Nature and Architecture · with ChatGPT</div>
+      <h3>The Calvey and ChatGPT Nature and Architecture Book</h3>
+      <p class="sub">An illustrated global history and practical design atlas</p>
+      <p class="blurb">A second book on the same subject, made separately with ChatGPT and published here as it was made: its own chapters, figures, narration and design, with a PDF and a Word edition to download.</p>
+      <div class="stats">
+        <span class="stat">13 parts</span>
+        <span class="stat">19k words</span>
+        <span class="stat">2.4 h narration</span>
+        <span class="stat">36 figures</span>
+        <span class="stat">PDF and Word</span>
+        <span class="stat">2026</span>
+      </div>
+      <span class="open">Read or listen</span>
+    </div>
   </a>
 </section>
 
-<section class="sec">
-  <h2>In preparation</h2>
-  <div class="soon">More books will land here as they are finished. Each is built the same way and published the same way.</div>
-</section>
-
-<section class="sec how">
-  <h2>How these are made</h2>
-  <p>Each book is compiled from published research and written to one set of standing rules. The rules exist because the alternative — confident prose with no visible evidence behind it — is how this subject usually gets written.</p>
+<section class="panel how" aria-labelledby="how">
+  <h2 class="lab" id="how">How the Calvey and Claude book is made</h2>
+  <p>It is compiled from published research and written to one set of standing rules. The rules exist because the alternative — confident prose with no visible evidence behind it — is how this subject usually gets written.</p>
   <ul>
     <li><strong>No source text is reproduced.</strong> There are no quotations anywhere, in any language. Everything is paraphrased and cited.</li>
     <li><strong>Every claim carries two grades.</strong> First what kind of statement it is — a requirement, a guideline or a research finding. Then where the number came from — measured, simulated, analytical, or a rule of thumb.</li>
@@ -97,12 +155,14 @@ code{font:500 .86em/1.5 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;bac
     <li><strong>Conflicts are left standing.</strong> Where two studies disagree, both positions are given with their holders named, and no average is taken.</li>
     <li><strong>Gaps are findings.</strong> A figure the research could not reach is marked unfilled and left unfilled, never supplied from memory.</li>
     <li><strong>Indigenous and community knowledge is cited twice</strong> — to the community whose knowledge it is, and to the scholars or practitioners who documented it.</li>
+    <li><strong>No image is used before its licence is read</strong> at its source page; each photograph carries its creator, licence and source beside it.</li>
   </ul>
-  <p>The books are written with Claude. That is stated on every chapter, along with what the research could and could not reach, so a reader can judge the method as well as the findings.</p>
+  <p>It is written with Claude, and every chapter says so, along with what the research could and could not reach, so a reader can judge the method as well as the findings. The Calvey and ChatGPT book was made separately, to its own method, and is published as it was made.</p>
 </section>
 
-<footer class="foot">
-  <p>Licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> — share and adapt freely, with attribution. The underlying studies remain the work of the investigators named in each bibliography.</p>
+<footer class="panel foot">
+  <p>Licensed <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a> — share and adapt freely, with attribution. The underlying studies remain the work of the investigators named in each bibliography. Images and fonts that carry their own licences keep them; each book lists its credits: <a href="https://github.com/matthewcalvey/calvey-commons/blob/main/nature-and-architecture/images/CREDITS.md">the Claude book</a> · <a href="nature-and-architecture-chatgpt/downloads/image-credits.html">the ChatGPT book</a>.</p>
+  <p>Behind this page: the Claude book’s 46 reproduced images, tiled — credited in its image credits; the mosaic is shared under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>.</p>
   <p>CALVEY INC. · <a href="https://github.com/matthewcalvey/calvey-commons">github.com/matthewcalvey/calvey-commons</a></p>
 </footer>
 

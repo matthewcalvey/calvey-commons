@@ -30,11 +30,20 @@ A plain-language summary is at:
 
 WHAT THIS LICENCE DOES NOT COVER
 
-These books compile, grade and cite other people's research. They quote no
-source text. The findings, figures and datasets they describe remain the work
-of the investigators named in each bibliography, under whatever terms those
-works carry. This licence covers the compilation, the writing, the grading and
-the original diagrams — not the underlying studies.
+These books compile, grade and cite other people's research. The findings,
+figures and datasets they describe remain the work of the investigators named
+in each bibliography, under whatever terms those works carry. This licence
+covers the compilation, the writing, the grading and the original diagrams —
+not the underlying studies.
 
-Where a figure carries a licence of its own, that licence is stated in the
-figure's own entry and in images/CREDITS.md, and it governs that figure.
+Where an image, a figure or a font carries a licence of its own, that licence
+governs it. Each book lists them:
+  nature-and-architecture/images/CREDITS.md
+  nature-and-architecture-chatgpt/downloads/image-credits.html
+Fonts bundled with a book keep the licence file included beside them.
+
+The cover mosaics in nature-and-architecture/images/ tile that book's
+reproduced images, several of which are shared under CC BY-SA; the mosaics
+are therefore shared under CC BY-SA 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/), and each tile keeps the
+licence and credit given for it in CREDITS.md.
