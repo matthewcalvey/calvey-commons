@@ -1,13 +1,13 @@
 # Image credits — CALVEY+CLAUDE NATURE+ARCHITECTURE BOOK
 
-## Original diagrams — 235 of 285 figure blocks
+## Original diagrams — 236 of 285 figure blocks
 
 Each is an SVG drawn for this edition from its block's own `shows:` specification and the
 chapter's graded text, filed by chapter in `images/00/`, `images/01/`, `images/02/`, `images/03/`, `images/04/`, `images/05/`, `images/06/`, `images/07/`, `images/08/`, `images/09/`. They are
 the book's own work and carry the book's licence (see LICENSE at the repository root). Where a diagram restates a
 measured figure, its source is the one the chapter cites for that figure.
 
-## Photographs and other reproduced images — 45 placed
+## Photographs and other reproduced images — 46 placed
 
 Each keeps its own licence, as read at its source page and repeated beside its figure in the book;
 the book's licence does not cover them. Nothing was fetched before its licence was read.
@@ -16,6 +16,7 @@ the book's licence does not cover them. Nothing was fetched before its licence w
 - `images/01/mammoth-bone-dwelling.jpg` — FIG 1.2 · A mammoth-bone dwelling, reconstruction — Momotarou2012, photographer; the reconstruction is in the National Museum of Nature and Science, Tokyo · 2013-02-16 · CC BY-SA 3.0 · https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg · resized for the web
 - `images/01/gobekli-tepe-building-d.jpg` — FIG 1.3 · Enclosure D, Göbekli Tepe — Beytullah eles, photographer · 2019-03-03 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:G%C3%B6beklitepe.jpg · resized for the web
 - `images/01/catalhoyuk-house-reconstruction.jpg` — FIG 1.4 · A Çatalhöyük house interior, museum reconstruction — Dosseman, photographer; the reconstruction is in the Museum of Anatolian Civilizations, Ankara · 2019-07-03 · CC BY-SA 4.0 · https://commons.wikimedia.org/wiki/File:Museum_of_Anatolian_Civilizations_%C3%87atalh%C3%B6y%C3%BCk_reconstructed_room_in_2019_11.jpg · resized for the web
+- `images/01/skara-brae-sections.jpg` — FIG 1.5 · Skara Brae, sections through the dwellings — V. Gordon Childe, from the official guide-book published by HMSO, third edition (1950) · 31 December 1950 · public domain — expired Crown copyright (Wikimedia Commons: PD-UKGov; HMSO states the expiry applies worldwide) · https://commons.wikimedia.org/wiki/File:Skara_Brae_sections_through_dwellings.jpg · resized for the web
 - `images/01/sannai-maruyama-pit-houses.jpg` — FIG 1.6 · Reconstructed pit dwellings, Sannai-Maruyama — Abasaa (あばさー), photographer · 2017-05-14 · public domain — released by the photographer (Commons: PD-self) · https://commons.wikimedia.org/wiki/File:Pit_houses_(Sannai_Maruyama_Site).JPG · resized for the web
 - `images/01/mousa-broch-stair.jpg` — FIG 1.7 · The intramural stair, Broch of Mousa — Nicholas Mutton, photographer (geograph.org.uk) · 2008-08-23 · CC BY-SA 2.0 · https://commons.wikimedia.org/wiki/File:Broch_of_Mousa_-_interior_steps_-_geograph.org.uk_-_970892.jpg · none
 - `images/01/hypogeum-holy-of-holies.jpg` — FIG 1.8 · The Holy of Holies, Ħal Saflieni Hypogeum — Xiquinho Silva (xiquinhosilva on Flickr), photographer · 6 April 2011, according to the camera’s Exif data, as Commons gives it · CC BY 2.0 · https://commons.wikimedia.org/wiki/File:Hal_Saflieni_Hypogeum_%E2%80%93_Middle_Level_%E2%80%93_The_Holy_of_Holies.jpg · resized for the web
@@ -58,7 +59,7 @@ the book's licence does not cover them. Nothing was fetched before its licence w
 - `images/03/morris-trellis-wallpaper.jpg` — FIG 3.9 · Trellis wallpaper — William Morris (pattern) and Philip Webb (birds), for Morris & Co.; The Metropolitan Museum of Art, 23.163.4h · designed 1862, first produced 1864 · CC0 1.0 (The Met Open Access) · https://commons.wikimedia.org/wiki/File:Trellis_MET_DT255077.jpg · resized for the web
 - `images/04/robie-house-habs.jpg` — FIG 4.9 · The Robie House — horizontality as landscape analogy — Cervin Robinson, photographer; Historic American Buildings Survey, survey number HABS IL-1005, call number HABS ILL,16-CHIG,33-, photograph 4, exterior from south · 18 August 1963 (the survey’s documentation compiled after 1933) · public domain — US federal government work (Library of Congress: No known restrictions on images made by the U.S. Government) · https://www.loc.gov/pictures/item/il0039/ · resized for the web
 
-0 more figure blocks have their licence read at source and wait to be placed; 5 are withheld because the licence found does not allow reuse here; 0 have not had a licence read.
+0 more figure blocks have their licence read at source and wait to be placed; 3 are withheld because the licence found does not allow reuse here; 0 have not had a licence read.
 
 These lines are written by the pour from each figure block (`creator`, `date`, `license`, `source`,
 `changes`). To place an image, read its licence at the source page, record it in the block with

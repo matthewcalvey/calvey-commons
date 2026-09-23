@@ -950,7 +950,7 @@ const report = `# POUR REPORT — ${M.book_name}
 ## Outputs
 ${outputs.map(o => `- \`${o.name}\` — ${o.edition} edition, ${(o.bytes / 1024 / 1024).toFixed(2)} MB`).join('\n')}
 - \`audio/\` — ${built.length} narrative transcripts (\`.txt\`), ready for narration
-- \`images/CREDITS.md\` — the drawn diagrams credited; no photograph fetched
+- \`images/CREDITS.md\` — ${fetched.made} drawn diagrams and ${fetched.placed} reproduced images credited
 
 ## Items poured — ${built.length}
 ${built.map(b => `- **${b.c.id} · ${b.c.title}** — ${b.totalWords.toLocaleString('en-GB')} words · narrative ${b.words.toLocaleString('en-GB')} words (~${b.mins} min) · transcript hash \`${hashes[b.c.id]}\``).join('\n')}
