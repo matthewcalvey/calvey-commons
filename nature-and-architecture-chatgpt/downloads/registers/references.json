@@ -1,0 +1,612 @@
+[
+  {
+    "id": "R01",
+    "author": "Historic Environment Scotland",
+    "title": "Skara Brae history and stories",
+    "year": "n.d.",
+    "url": "https://www.historicenvironment.scot/visit/all/skara-brae/history-and-stories/",
+    "access": "indexed institutional text; direct request blocked",
+    "role": "archaeological interpretation",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R02",
+    "author": "National Park Service",
+    "title": "The Ancestral Pueblo People",
+    "year": "n.d.",
+    "url": "https://www.nps.gov/meve/learn/historyculture/people.htm",
+    "access": "institutional page read",
+    "role": "history and living descendants",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R03",
+    "author": "UNESCO World Heritage Centre",
+    "title": "The Persian Garden",
+    "year": "2011 inscription",
+    "url": "https://whc.unesco.org/en/list/1372/",
+    "access": "institutional page read",
+    "role": "heritage synthesis",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R04",
+    "author": "British Museum",
+    "title": "Nebamun garden painting EA37983",
+    "year": "c. 1350 BCE object; n.d. record",
+    "url": "https://www.britishmuseum.org/collection/object/Y_EA37983",
+    "access": "collection record and teacher notes",
+    "role": "object interpretation",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R05",
+    "author": "Archaeological Park of Pompeii",
+    "title": "House of the Vettii",
+    "year": "n.d.",
+    "url": "https://pompeiisites.org/en/archaeological-site/house-of-the-vettii/",
+    "access": "institutional page read",
+    "role": "archaeological account",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R06",
+    "author": "Patronato de la Alhambra y Generalife",
+    "title": "The Court of the Lions",
+    "year": "n.d.",
+    "url": "https://www.alhambra-patronato.es/en/edificios-lugares/the-court-of-the-lions",
+    "access": "institutional page read",
+    "role": "history and disputed reconstruction",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R07",
+    "author": "UNESCO World Heritage Centre",
+    "title": "Rani ki Vav at Patan Gujarat",
+    "year": "2014 inscription",
+    "url": "https://whc.unesco.org/en/list/922/",
+    "access": "institutional page read",
+    "role": "heritage synthesis",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R08",
+    "author": "UNESCO World Heritage Centre",
+    "title": "Classical Gardens of Suzhou",
+    "year": "1997 inscription; 2000 extension",
+    "url": "https://whc.unesco.org/en/list/813/",
+    "access": "institutional page read",
+    "role": "heritage synthesis",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R09",
+    "author": "Imperial Household Agency",
+    "title": "Katsura Imperial Villa",
+    "year": "n.d.",
+    "url": "https://www.kunaicho.go.jp/en/learn/institution/shisetsu/kyoto/kyoto.html",
+    "access": "institutional page read",
+    "role": "history and site description",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R10",
+    "author": "UNESCO World Heritage Centre",
+    "title": "Great Zimbabwe National Monument",
+    "year": "1986 inscription",
+    "url": "https://whc.unesco.org/en/list/364/",
+    "access": "institutional page read",
+    "role": "heritage synthesis",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R11",
+    "author": "UNESCO World Heritage Centre",
+    "title": "Nan Madol Ceremonial Centre of Eastern Micronesia",
+    "year": "2016 inscription",
+    "url": "https://whc.unesco.org/en/list/1503/",
+    "access": "institutional page read",
+    "role": "heritage synthesis",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R12",
+    "author": "UNESCO Intangible Cultural Heritage",
+    "title": "Knowledge skills and rituals related to the annual renewal of the Qeswachaka bridge",
+    "year": "2013 inscription",
+    "url": "https://ich.unesco.org/en/RL/knowledge-skills-and-rituals-related-to-the-annual-renewal-of-the-q-eswachaka-bridge-00594",
+    "access": "indexed full description; direct page challenged",
+    "role": "community nomination synthesis",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R13",
+    "author": "Museum of New Zealand Te Papa Tongarewa",
+    "title": "Te Hono ki Hawaiki the contemporary wharenui at Te Papa",
+    "year": "n.d.",
+    "url": "https://www.tepapa.govt.nz/about/our-buildings/rongomaraeroa-our-marae/wharenui-te-hono-ki-hawaiki",
+    "access": "institutional page read",
+    "role": "cultural interpretation",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R14",
+    "author": "Chateau de Versailles",
+    "title": "Water at Versailles",
+    "year": "n.d.",
+    "url": "https://www.chateauversailles.fr/decouvrir/histoire/les-grandes-dates/eau-versailles",
+    "access": "French institutional text",
+    "role": "hydraulic history",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R15",
+    "author": "National Trust",
+    "title": "The history of Red House garden",
+    "year": "n.d.",
+    "url": "https://www.nationaltrust.org.uk/visit/london/red-house/the-history-of-the-garden-at-red-house",
+    "access": "institutional page read",
+    "role": "design and preservation history",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R16",
+    "author": "Victoria and Albert Museum",
+    "title": "The foundation of the V and A collections the Great Exhibition of 1851",
+    "year": "2026",
+    "url": "https://www.vam.ac.uk/articles/the-great-exhibition-of-1851",
+    "access": "institutional page read",
+    "role": "historical synthesis",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R17",
+    "author": "Royal Botanic Gardens Kew",
+    "title": "Secrets of the Palm House revealed",
+    "year": "n.d.",
+    "url": "https://www.kew.org/read-and-watch/palm-house-secrets-facts",
+    "access": "institutional text read",
+    "role": "glasshouse history",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R18",
+    "author": "Junta Constructora del Temple Expiatori de la Sagrada Familia",
+    "title": "History of the Temple",
+    "year": "updated through 2026",
+    "url": "https://sagradafamilia.org/en/history-of-the-temple",
+    "access": "institutional page read",
+    "role": "construction chronology",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R19",
+    "author": "Junta Constructora del Temple Expiatori de la Sagrada Familia",
+    "title": "Information Booklet 9 Interior of the Basilica",
+    "year": "2026",
+    "url": "https://sagradafamilia.org/documents/20142/1693659/SF_Booklet_09_20260227_digital_AF.pdf/96d648e4-1172-58bd-fa7b-886ebb516b36",
+    "access": "official PDF; pages 3-8 consulted",
+    "role": "geometry and light",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R20",
+    "author": "Junta Constructora del Temple Expiatori de la Sagrada Familia",
+    "title": "Sagrada Familia columns geometry mechanics and materials of a stone forest",
+    "year": "2025",
+    "url": "https://blog.sagradafamilia.org/en/columns-sagrada-familia-geometry-mechanics-materials-stone-forest/",
+    "access": "indexed institutional text; direct request blocked",
+    "role": "design explanation",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R21",
+    "author": "Western Pennsylvania Conservancy",
+    "title": "About Fallingwater",
+    "year": "n.d.",
+    "url": "https://fallingwater.org/history/about-fallingwater/",
+    "access": "institutional page read",
+    "role": "design history",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R22",
+    "author": "Western Pennsylvania Conservancy",
+    "title": "Preservation history",
+    "year": "n.d.",
+    "url": "https://fallingwater.org/preservation-history/",
+    "access": "institutional page read",
+    "role": "conservation evidence",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R23",
+    "author": "Alvar Aalto Foundation",
+    "title": "Villa Mairea",
+    "year": "n.d.",
+    "url": "https://www.alvaraalto.fi/en/architecture/villa-mairea/",
+    "access": "institutional page read",
+    "role": "spatial and material description",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R24",
+    "author": "Alvar Aalto Foundation",
+    "title": "Villa Mairea visitor record",
+    "year": "n.d.",
+    "url": "https://visit.alvaraalto.fi/en/destinations/villa-mairea/",
+    "access": "institutional page read",
+    "role": "Aino Aalto attribution",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R25",
+    "author": "Geoffrey Bawa Trust",
+    "title": "Lunuganga",
+    "year": "n.d.",
+    "url": "https://geoffreybawa.com/lunuganga",
+    "access": "institutional page read",
+    "role": "site transformation and present access",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R26",
+    "author": "World Monuments Fund",
+    "title": "New Gourna Village conservation and community",
+    "year": "2011 report",
+    "url": "https://www.wmf.org/sites/default/files/article/pdfs/New%20Gourna%20Report%20Final%2015%20Meg.pdf",
+    "access": "indexed report extracts; direct web retrieval blocked; no full-report claim",
+    "role": "conservation and community assessment",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R27",
+    "author": "Sesc Sao Paulo",
+    "title": "Sesc Pompeia unit record",
+    "year": "n.d.",
+    "url": "https://portal.sescsp.org.br/pt/sobre-o-sesc/unidades/11_POMPEIA",
+    "access": "Portuguese institutional text",
+    "role": "authorship and chronology",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R28",
+    "author": "Hyatt Foundation",
+    "title": "Frei Otto 2015 laureate",
+    "year": "2015",
+    "url": "https://www.pritzkerprize.com/laureates/frei-otto",
+    "access": "institutional biography",
+    "role": "form finding and collaboration",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R29",
+    "author": "J Scott Turner and Rupert C Soar",
+    "title": "Beyond biomimicry What termites can tell us about realizing the living building",
+    "year": "2008",
+    "url": "https://www.researchgate.net/publication/255650482_Beyond_biomimicry_What_termites_can_tell_us_about_realizing_the_living_building",
+    "access": "author-uploaded paper read selectively",
+    "role": "biological critique",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R30",
+    "author": "Mick Pearce",
+    "title": "The Shape of Energy",
+    "year": "n.d.",
+    "url": "https://mickpearce.com/philosophy",
+    "access": "architect statement",
+    "role": "design intent; performance claims not independently verified",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R31",
+    "author": "Roger S Ulrich",
+    "title": "View through a window may influence recovery from surgery",
+    "year": "1984",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/6143402/",
+    "access": "abstract only",
+    "role": "matched retrospective study",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R32",
+    "author": "Bryan E Cummings and Michael S Waring",
+    "title": "Potted plants do not improve indoor air quality a review and analysis of reported VOC removal efficiencies",
+    "year": "2019 online; 2020 volume 30 pp 253-261",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31695112/",
+    "access": "abstract only",
+    "role": "review and quantitative synthesis",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R33",
+    "author": "Kere Architecture",
+    "title": "Gando Primary School",
+    "year": "2001 project; n.d. record",
+    "url": "https://www.kerearchitecture.com/work/building/gando-primary-school-3",
+    "access": "architect page read",
+    "role": "design intent and construction",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R34",
+    "author": "Aga Khan Development Network",
+    "title": "Primary School Gando",
+    "year": "2004 award",
+    "url": "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/primary-school",
+    "access": "award record read",
+    "role": "institutional assessment; thermal claim lacks method on page",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R35",
+    "author": "WOHA",
+    "title": "Kampung Admiralty",
+    "year": "2017 project; n.d. record",
+    "url": "https://woha.net/project/kampung-admiralty/",
+    "access": "architect page read",
+    "role": "program and design intent",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R36",
+    "author": "Living Future and Khoo Teck Puat Hospital",
+    "title": "Khoo Teck Puat Hospital biophilic design case study",
+    "year": "n.d.",
+    "url": "https://living-future.org/case-studies/award-winner-khoo-teck-puat-hospital/",
+    "access": "award case study read",
+    "role": "project-reported outcomes",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R37",
+    "author": "Stefano Boeri Architetti",
+    "title": "Vertical Forest Milan",
+    "year": "2007-2014 project; n.d. record",
+    "url": "https://www.stefanoboeriarchitetti.net/en/project/vertical-forest/",
+    "access": "architect page read",
+    "role": "authorship and maintenance; environmental claims not independent",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R38",
+    "author": "Lacaton and Vassal",
+    "title": "Transformation of 530 dwellings Grand Parc Bordeaux",
+    "year": "2016 completion in text; 2017 header",
+    "url": "https://www.lacatonvassal.com/index.php?idp=80",
+    "access": "architect page read",
+    "role": "design intent; internal date discrepancy retained",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R39",
+    "author": "University of Stuttgart ICD",
+    "title": "HygroSkin Meteorosensitive Pavilion",
+    "year": "2013",
+    "url": "https://www.icd.uni-stuttgart.de/projects/hygroskin-meteorosensitive-pavilion/",
+    "access": "research team page read",
+    "role": "prototype",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R40",
+    "author": "Arup",
+    "title": "SolarLeaf",
+    "year": "2013 pilot; n.d. record",
+    "url": "https://www.arup.com/projects/solarleaf/",
+    "access": "engineering team page read",
+    "role": "pilot and developer-reported thermal outcome",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R41",
+    "author": "Devi Stuart-Fox and colleagues",
+    "title": "Challenges and opportunities for innovation in bioinformed sustainable materials",
+    "year": "2023",
+    "url": "https://www.nature.com/articles/s43246-023-00405-z",
+    "access": "open-access perspective read selectively",
+    "role": "research maturity",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R42",
+    "author": "Terrapin Bright Green",
+    "title": "14 Patterns of Biophilic Design Tenth Anniversary Edition with Pattern 15 Awe",
+    "year": "2024",
+    "url": "https://www.terrapinbrightgreen.com/report/14-patterns/",
+    "access": "framework page and edition details",
+    "role": "voluntary design framework",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R43",
+    "author": "IUCN",
+    "title": "Launch of second edition Global Standard for Nature based Solutions",
+    "year": "2025-10-10",
+    "url": "https://iucn.org/press-release/202510/iucn-launches-second-edition-iucn-global-standard-nature-based-solutionstm",
+    "access": "edition announcement",
+    "role": "edition verification; not certification audit",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R44",
+    "author": "NParks",
+    "title": "Skyrise Greenery Research and Publications",
+    "year": "n.d.",
+    "url": "https://skyrisegreenery.nparks.gov.sg/resources/research-and-publications/",
+    "access": "guideline catalogue read",
+    "role": "Singapore practice guidance; not universal code",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R45",
+    "author": "US Department of Energy",
+    "title": "Consumer Guide to Passive Solar Home Design",
+    "year": "2021",
+    "url": "https://www.energy.gov/sites/default/files/2021-08/ES-Passive%20Solar%20design_081321.pdf",
+    "access": "guide read",
+    "role": "design guidance",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R46",
+    "author": "US Environmental Protection Agency",
+    "title": "Types of Green Infrastructure",
+    "year": "n.d.",
+    "url": "https://www.epa.gov/green-infrastructure/types-green-infrastructure",
+    "access": "agency page read",
+    "role": "stormwater mechanisms",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R47",
+    "author": "US Fish and Wildlife Service",
+    "title": "Bird Friendly Building Toolkit",
+    "year": "n.d.",
+    "url": "https://www.fws.gov/library/collections/bird-friendly-building-toolkit",
+    "access": "agency guidance read",
+    "role": "glass and light hazards",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R48",
+    "author": "IPCC",
+    "title": "Climate Change 2022 Mitigation of Climate Change Chapter 9 Buildings",
+    "year": "2022",
+    "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-9/",
+    "access": "assessment read selectively",
+    "role": "whole life carbon and sufficiency",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R49",
+    "author": "National Park Service",
+    "title": "Cliff Dwellings Mesa Verde",
+    "year": "n.d.",
+    "url": "https://www.nps.gov/meve/learn/historyculture/cliff_dwellings_home.htm",
+    "access": "institutional page read",
+    "role": "dates and architectural variety",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R50",
+    "author": "British Museum",
+    "title": "Notes for teachers Nebamun tomb paintings",
+    "year": "2025 file",
+    "url": "https://www.britishmuseum.org/sites/default/files/2025-08/Nebamun_tomb_paintings_teacher_notes.pdf",
+    "access": "object notes read",
+    "role": "iconography and date",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R51",
+    "author": "Chateau de Versailles",
+    "title": "The gardens",
+    "year": "n.d.",
+    "url": "https://www.chateauversailles.fr/decouvrir/domaine/jardins",
+    "access": "French institutional text read",
+    "role": "Le Notre and labor",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R52",
+    "author": "National Trust",
+    "title": "Things to see and do in the garden at Red House",
+    "year": "n.d.",
+    "url": "https://www.nationaltrust.org.uk/visit/london/red-house/things-to-see-and-do-in-the-garden-at-red-house",
+    "access": "institutional page read",
+    "role": "present garden versus original planting",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R53",
+    "author": "UNESCO World Heritage Centre",
+    "title": "The Persian Qanat",
+    "year": "2016 inscription",
+    "url": "https://whc.unesco.org/en/list/1506/",
+    "access": "institutional page",
+    "role": "water infrastructure",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R54",
+    "author": "UNESCO World Heritage Centre",
+    "title": "Taj Mahal",
+    "year": "1983 inscription",
+    "url": "https://whc.unesco.org/en/list/252/",
+    "access": "institutional page",
+    "role": "garden tomb and workmanship",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R55",
+    "author": "UNESCO World Heritage Centre",
+    "title": "Fujian Tulou",
+    "year": "2008 inscription",
+    "url": "https://whc.unesco.org/en/list/1113/",
+    "access": "institutional page",
+    "role": "collective courtyard housing",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R56",
+    "author": "UNESCO World Heritage Centre",
+    "title": "Old Towns of Djenne",
+    "year": "1988 inscription",
+    "url": "https://whc.unesco.org/en/list/116/",
+    "access": "institutional page",
+    "role": "earthen architecture and conservation",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R57",
+    "author": "UNESCO World Heritage Centre",
+    "title": "Historic Sanctuary of Machu Picchu",
+    "year": "1983 inscription",
+    "url": "https://whc.unesco.org/en/list/274/",
+    "access": "institutional page",
+    "role": "terrain and terraces",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R58",
+    "author": "UNESCO World Heritage Centre",
+    "title": "Cultural Landscape of Bali province the Subak System",
+    "year": "2012 inscription",
+    "url": "https://whc.unesco.org/en/list/1194/",
+    "access": "institutional page",
+    "role": "water governance",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R59",
+    "author": "Biomimicry Institute",
+    "title": "Biomimicry Design Toolbox",
+    "year": "n.d.",
+    "url": "https://toolbox.biomimicry.org/",
+    "access": "method resource",
+    "role": "functional abstraction",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R60",
+    "author": "National Park Service",
+    "title": "Restoration and Replication of Steel Elements at Fallingwater and Guggenheim",
+    "year": "2015 presentation",
+    "url": "https://www.nps.gov/articles/000/restoration-and-replication-of-steel-elements-at-frank-lloyd-wright-s-fallingwater-and-solomon-r-guggenheim-museum.htm",
+    "access": "technical conservation account",
+    "role": "window design and preservation",
+    "access_date": "2026-09-20"
+  },
+  {
+    "id": "R61",
+    "author": "Arctic Council Sustainable Development Working Group",
+    "title": "Igloo Inuit Snowhouse",
+    "year": "2020 report record",
+    "url": "https://oaarchive.arctic-council.org/bitstreams/446ac25d-4947-4c6a-943a-7fc5ed88461a/download",
+    "access": "case sheet",
+    "role": "Arctic seasonal shelter",
+    "access_date": "2026-09-20"
+  }
+]
