@@ -81,7 +81,7 @@ hr{border:0;border-top:.5px solid var(--line);margin:3rem 0}
 .item-sub{color:var(--mut);font-size:.95rem;display:block;font-style:italic}
 .item-meta{display:flex;gap:1.5rem;margin-top:1.1rem;font-family:var(--font-label);
   font-size:.6rem;text-transform:uppercase;letter-spacing:.12em;color:var(--mut)}
-.item-body{padding:0 0 3rem}
+.item-body{padding:0 0 3rem;overflow-wrap:break-word}   /* long addresses in the bibliographies break rather than widen the page */
 .subtopics{margin:0 0 2.6rem;padding:1.6rem 0 0;border-top:.5px solid var(--line)}
 .subtopics h3{font-family:var(--font-label);font-size:.62rem;font-weight:400;text-transform:uppercase;
   letter-spacing:.16em;color:var(--accent);margin:0 0 1rem}
@@ -159,14 +159,17 @@ body.has-player{padding-bottom:6rem}
 .p-right{display:flex;gap:.35rem;flex:none}
 /* marks */
 .mk{font-family:var(--font-label);font-size:.56rem;text-transform:uppercase;letter-spacing:.1em;
-  padding:.3em .5em;white-space:nowrap;vertical-align:.1em;background:var(--surface)}
+  padding:.3em .5em;vertical-align:.1em;background:var(--surface);
+  /* long marks wrap with the text instead of pushing the page sideways on a phone */
+  overflow-wrap:anywhere;-webkit-box-decoration-break:clone;box-decoration-break:clone}
 .mk-v{color:var(--ok)}
 .mk-n{color:var(--mut)}
 .mk-u{color:var(--hot);box-shadow:inset 0 0 0 .5px currentColor}
 .mk-u-plain{color:var(--mut);font-style:italic;background:none;font-family:var(--font-body);
   font-size:.92em;text-transform:none;letter-spacing:0;padding:0}
-.grade{display:inline-flex;font-family:var(--font-label);font-size:.55rem;text-transform:uppercase;
+.grade{display:inline-flex;flex-wrap:wrap;max-width:100%;font-family:var(--font-label);font-size:.55rem;text-transform:uppercase;
   letter-spacing:.09em;vertical-align:.12em;margin:0 .12em;border:.5px solid var(--line)}
+.grade>span{overflow-wrap:anywhere;min-width:0}
 .grade .g0{color:var(--mut);padding:.32em .45em;font-style:italic;border-right:.5px solid var(--line)}
 .grade .g1{color:var(--accent);padding:.32em .45em}
 .grade .g2{color:var(--dim);padding:.32em .45em;border-left:.5px solid var(--line)}
