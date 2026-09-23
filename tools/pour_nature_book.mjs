@@ -201,7 +201,9 @@ function licenceLink(text) {
   return url ? `<a href="${url}" rel="license noopener">${esc(t)}</a>` : esc(t);
 }
 
-function renderFigureBlock(lines, edition, figStats) {
+// One figure block, read without side effects. The pour reads each block twice: once to gather a
+// chapter's images before its story is written, and once to print the block among the evidence.
+function readFigure(lines) {
   const fig = {}; let title = '';
   for (const l of lines) {
     if (/^FIG /.test(l)) { title = l.replace(/^FIG\s*/, ''); continue; }
@@ -209,16 +211,16 @@ function renderFigureBlock(lines, edition, figStats) {
     if (k > -1) { const key = l.slice(0, k).trim(); if (FIGKEYS.includes(key)) fig[key] = l.slice(k + 1).trim(); }
   }
   const status = (fig.status || 'to be drawn').trim();
-  figStats.total++;
   const num = title.split('·')[0].trim();
   const name = title.includes('·') ? title.split('·').slice(1).join('·').trim() : title;
 
   // Resolve the artwork by slug, not by the spec's literal path: the drawings were filed by
-  // chapter folder and several specs still name images/diagrams/.
+  // chapter folder and several specs still name images/diagrams/. The thumbnails folder holds
+  // copies, never originals.
   const slug = fig.file ? path.basename(fig.file).replace(/\.[a-z0-9]+$/i, '') : null;
   let art = null;
   if (slug) {
-    for (const dir of fs.readdirSync(IMAGES, { withFileTypes: true }).filter(d => d.isDirectory())) {
+    for (const dir of fs.readdirSync(IMAGES, { withFileTypes: true }).filter(d => d.isDirectory() && d.name !== 'thumbs')) {
       for (const ext of ['.svg', '.jpg', '.png']) {
         const cand = path.join(IMAGES, dir.name, slug + ext);
         if (fs.existsSync(cand)) { art = cand; break; }
@@ -230,11 +232,19 @@ function renderFigureBlock(lines, edition, figStats) {
   // reproduction: it keeps its own licence, is never inlined, and is shown only once its licence has
   // been read at source and its creator and source page are recorded in the block.
   const own = /^original/i.test(fig.source || '');
+  const licenceRead = /^ready/i.test(status) && !!fig.license && !/to confirm/i.test(fig.license);
+  const credited = !!fig.creator && !/to confirm/i.test(fig.creator) && /^https?:\/\//i.test(fig.source || '');
+  const shown = !!art && (own || (licenceRead && credited));
+  return { fig, title, status, num, name, slug, art, own, licenceRead, credited, shown,
+    rel: art ? `images/${path.basename(path.dirname(art))}/${path.basename(art)}` : null };
+}
+
+function renderFigureBlock(lines, edition, figStats) {
+  const { fig, status, num, name, art, own, licenceRead, credited } = readFigure(lines);
+  figStats.total++;
   let hasImage = !!art;
   const third = hasImage && !own;
   if (third) {
-    const licenceRead = /^ready/i.test(status) && fig.license && !/to confirm/i.test(fig.license);
-    const credited = fig.creator && !/to confirm/i.test(fig.creator) && /^https?:\/\//i.test(fig.source || '');
     if (!licenceRead) { fail(`FIG ${num}: an image file is present but its licence has not been read at source (status: ${status}) — not shown.`); hasImage = false; }
     else if (!credited) { fail(`FIG ${num}: a reproduced image lacks its creator or its source page — not shown.`); hasImage = false; }
   }
@@ -289,7 +299,7 @@ function renderFigureBlock(lines, edition, figStats) {
          <dt>licence</dt><dd>${fig.license ? inline(fig.license, edition) : '<em>not read at source — nothing fetched</em>'}</dd>`;
   }
 
-  return `<figure class="fig ${cls}">
+  return `<figure class="fig ${cls}" id="fig-${esc(num).replace(/\./g, '-')}">
   <div class="fig-head"><span class="fig-num">FIG ${esc(num)}</span><span class="fig-status">${hasImage ? (third ? 'reproduced' : 'drawn') : esc(withheld ? 'withheld' : status)}</span></div>
   <div class="fig-title">${inline(name, edition)}</div>
   ${picture}
@@ -298,6 +308,163 @@ function renderFigureBlock(lines, edition, figStats) {
     ${meta}
   </dl>
 </figure>`;
+}
+
+/* ---------- the illustrated reading: galleries, story plates, the viewer ---------- */
+// A chapter opens on its images and its story. Its photographs and drawings are gathered from its
+// figure blocks with the same licence gates as the blocks themselves; a withheld or unread image is
+// never gathered. The evidence below the story still prints every block in full.
+const THUMBS = path.join(IMAGES, 'thumbs');
+function svgBox(file) {
+  try {
+    const head = fs.readFileSync(file, 'utf8').slice(0, 600);
+    const m = head.match(/viewBox="\s*[-\d.]+[\s,]+[-\d.]+[\s,]+([\d.]+)[\s,]+([\d.]+)\s*"/);
+    if (m) return { w: Math.round(parseFloat(m[1])), h: Math.round(parseFloat(m[2])) };
+  } catch (e) {}
+  return { w: 640, h: 380 };
+}
+function collectFigures(md) {
+  const out = [];
+  const lines = md.split('\n');
+  for (let i = 0; i < lines.length; i++) {
+    if (!/^FIG /.test(lines[i])) continue;
+    const buf = [lines[i]];
+    while (i + 1 < lines.length && /^[a-z]+:/.test(lines[i + 1])) buf.push(lines[++i]);
+    const r = readFigure(buf);
+    if (!r.shown) continue;
+    const kind = r.own ? 'diagram' : 'photo';
+    let size, thumb = null, thumbSize = null;
+    if (r.art.endsWith('.svg')) size = svgBox(r.art);
+    else {
+      size = imageSize(r.art) || { w: 1200, h: 800 };
+      const t = path.join(THUMBS, r.slug + '.jpg');
+      if (fs.existsSync(t)) { thumb = `images/thumbs/${r.slug}.jpg`; thumbSize = imageSize(t); }
+      else note(`FIG ${r.num}: no reduced copy in images/thumbs/ — its gallery tile loads the full image; run tools/make_cover_and_thumbnails.py.`);
+    }
+    out.push({ ...r, kind, size, thumb, thumbSize });
+  }
+  return out;
+}
+// Credits as a caption carries them: the creator's name without the notes after it, and the licence
+// in its short form. The full lines stay in the block, the viewer and CREDITS.md.
+function shortCredit(creator) {
+  let s = String(creator || '').split(';')[0];
+  s = s.replace(/,\s*(photographer|engraver)\b.*$/i, '').replace(/,?\s*as (Commons credits it|the museum records|Commons records it)\b.*$/i, '')
+    .replace(/\s*\((?:[^()]*on Flickr|Flickr[^()]*|geograph[^()]*)\)/gi, '').replace(/\s*\((photograph [^)]*)\)/i, '').trim();
+  if (s.length > 70) s = s.slice(0, 67).replace(/[\s,;]+\S*$/, '') + '…';
+  return s;
+}
+function shortLicence(text) {
+  const t = String(text || '');
+  let m;
+  if (/^public domain/i.test(t) || /Public Domain Mark/i.test(t)) return 'Public domain';
+  if (/\bCC0\b/i.test(t)) return 'CC0';
+  if ((m = t.match(/CC[ -]BY(-SA)?[ -]\d\.\d/i))) return m[0].replace(/-(?=\d)/, ' ');
+  return t.split(/\s+[—(]/)[0];
+}
+function licenceUrl(text) {
+  const t = String(text || ''); let m;
+  if (/\bCC0\b/i.test(t)) return 'https://creativecommons.org/publicdomain/zero/1.0/';
+  if (/Public Domain Mark/i.test(t)) return 'https://creativecommons.org/publicdomain/mark/1.0/';
+  if ((m = t.match(/CC[ -]BY(-SA)?[ -](\d\.\d)/i))) return `https://creativecommons.org/licenses/by${m[1] ? '-sa' : ''}/${m[2]}/`;
+  return null;
+}
+const plain = s => String(s || '').replace(/\*\*?|`/g, '').replace(/\s+/g, ' ').trim();
+const figId = num => 'fig-' + String(num).replace(/\./g, '-');
+
+// Where a photograph or drawing sits in the story. A photograph goes after the paragraph that names
+// its subject; a drawing after the paragraph it matches best, one to a paragraph and never in two
+// paragraphs running. What the story does not name stays in the chapter's gallery, unless the
+// manifest pins it to a phrase.
+const PLATE_STOP = new Set(('the a an and or of in on at to for from by with into onto over under between through across about as is are was were be been being it its this that these those their there than then which who whom whose what when where how why not no nor but so yet also only more most less least very much many some any each every other such same own both all one two three four five six seven eight nine ten first second third per via his her they them we our you your me my he she him shown shows show showing view views photograph photo photographer image drawing drawn diagram plan section detail details figure figures page left right top bottom whole part parts around near far early late later earlier original modern ancient century centuries year years ago bce ce circa known called used using use made make makes making built build building buildings house houses site sites form forms long short small large high low wide narrow new old great little well still just even since while during after before within without along among upon toward towards against beside inside outside above below behind beyond like unlike rather either neither whether because although though unless until museum commons credits credit records record collection library congress art metropolitan unknown anonymous signed del plate edition published printed digitised scanned retouched').split(/\s+/));
+const PLATE_DEMONYM = new Set('japanese chinese persian roman greek egyptian islamic european indian english french italian spanish african american andean mesopotamian assyrian korean mughal british german dutch western eastern northern southern north south east west'.split(' '));
+const pNorm = w => { w = w.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[’']s$/, '').replace(/[^a-z0-9]/g, '');
+  if (w.length > 4 && w.endsWith('ies')) w = w.slice(0, -3) + 'y';
+  else if (w.length > 4 && /(ch|sh|x|ss)es$/.test(w)) w = w.slice(0, -2);
+  else if (w.length > 3 && w.endsWith('s') && !w.endsWith('ss')) w = w.slice(0, -1);
+  return w; };
+const pWords = s => (String(s || '').match(/[A-Za-zÀ-ÿĀ-žḀ-ỿ’'][A-Za-zÀ-ÿĀ-žḀ-ỿ’'-]*/g) || []).flatMap(w => w.split('-')).filter(Boolean);
+const pToks = s => pWords(s).map(pNorm).filter(w => w.length >= 3 && !PLATE_STOP.has(w));
+const pCaps = s => pWords(s).filter(w => /^[A-ZÀ-ÞĀ-Ž]/.test(w)).map(pNorm).filter(w => w.length >= 3 && !PLATE_STOP.has(w) && !PLATE_DEMONYM.has(w));
+function planPlates(paras, figures, rules) {
+  const ptoks = paras.map(p => new Set(pToks(p)));
+  const pcaps = paras.map(p => new Set(pCaps(p)));
+  const df = {}; ptoks.forEach(s => s.forEach(t => { df[t] = (df[t] || 0) + 1; }));
+  const idf = t => ({ 1: 1, 2: .7, 3: .45 }[df[t]] || 0);
+  const pin = (rules && rules.pin) || {}, skip = ((rules && rules.skip) || []).map(String);
+  const cands = [];
+  for (const f of figures) {
+    if (skip.includes(f.num)) continue;
+    if (pin[f.num] !== undefined) {
+      const phrase = String(pin[f.num]);
+      const i = paras.findIndex(p => p.includes(phrase));
+      if (i < 0) fail(`FIG ${f.num}: its story plate is pinned to "${phrase}", which no paragraph of the story contains.`);
+      else cands.push({ f, p: i, score: 99 });
+      continue;
+    }
+    if (/\b(timeline|map)\b|in time and place/i.test(f.name)) continue;      // these belong to the gallery
+    const w = {};
+    const add = (s, wt) => pToks(s).forEach(t => { w[t] = Math.max(w[t] || 0, wt); });
+    add(f.fig.shows, 1); add(f.fig.alt, 1); add(f.name, 3);
+    const names = new Set(pCaps(f.name));
+    if (f.kind === 'photo') pCaps(String(f.fig.creator || '').split(';')[0]).forEach(t => { w[t] = Math.max(w[t] || 0, 2); names.add(t); });
+    let best = -1, bs = 0, bhits = 0, bnames = 0;
+    ptoks.forEach((set, i) => {
+      let s = 0, hits = 0, nm = 0;
+      for (const t in w) if (set.has(t)) { const v = w[t] * idf(t); if (v) { s += v; hits++; if (names.has(t) && pcaps[i].has(t) && df[t] <= 2) nm++; } }
+      if (s > bs) { bs = s; best = i; bhits = hits; bnames = nm; }
+    });
+    const ok = f.kind === 'photo' ? (bs >= 3 && bnames > 0) || bs >= 6 : bs >= 6 && bhits >= 3;
+    if (ok) cands.push({ f, p: best, score: bs });
+  }
+  const at = paras.map(() => ({ photos: [], diagram: null }));
+  for (const c of cands.filter(c => c.f.kind === 'photo')) if (at[c.p].photos.length < 4) at[c.p].photos.push(c.f);
+  for (const c of cands.filter(c => c.f.kind === 'diagram').sort((a, b) => b.score - a.score)) {
+    const near = [c.p - 1, c.p, c.p + 1].some(i => i >= 0 && i < at.length && at[i].diagram);
+    if (!near && at[c.p].photos.length < 3) at[c.p].diagram = c.f;
+  }
+  return at;
+}
+
+function imgTag(f, cls, sizes) {
+  const alt = esc(plain(f.fig.alt || f.name));
+  if (f.kind === 'diagram') return `<img class="dgm${cls ? ' ' + cls : ''}" src="${f.rel}" alt="${alt}" width="${f.size.w}" height="${f.size.h}" loading="lazy" decoding="async">`;
+  const src = f.thumb || f.rel;
+  const set = f.thumb && f.thumbSize ? ` srcset="${f.thumb} ${f.thumbSize.w}w, ${f.rel} ${f.size.w}w" sizes="${sizes}"` : '';
+  const sz = f.thumbSize || f.size;
+  return `<img${cls ? ` class="${cls}"` : ''} src="${src}"${set} alt="${alt}" width="${sz.w}" height="${sz.h}" loading="lazy" decoding="async">`;
+}
+function creditLine(f) {
+  if (f.kind === 'diagram') return `<a href="#${figId(f.num)}">the figure, with its source</a>`;
+  const lu = licenceUrl(f.fig.license);
+  const lic = esc(shortLicence(f.fig.license));
+  return `${esc(shortCredit(f.fig.creator))} · ${lu ? `<a href="${lu}" rel="license noopener">${lic}</a>` : lic} · <a href="${esc(f.fig.source)}" rel="noopener">source</a>`;
+}
+function renderPlates(list) {
+  if (!list.length) return '';
+  const one = list.length === 1;
+  const sizes = one ? '(min-width: 1180px) 896px, (min-width: 760px) 656px, 100vw' : '(min-width: 1180px) 443px, (min-width: 760px) 323px, 50vw';
+  return `<div class="plates n${list.length}${list.every(f => f.kind === 'diagram') ? ' dg' : ''}">${list.map(f => `
+  <figure class="plate${f.kind === 'diagram' ? ' plate-d' : ''}">
+    <a class="plate-img" href="${f.rel}" data-lb="${esc(f.num)}">${imgTag(f, '', sizes)}</a>
+    <figcaption><span class="pl-num">Fig ${esc(f.num)}</span> <span class="pl-t">${inline(f.name)}</span><span class="pl-cr">${creditLine(f)}</span></figcaption>
+  </figure>`).join('')}
+</div>`;
+}
+function renderGallery(figs, kindWord) {
+  if (!figs.length) return '';
+  const ph = figs.filter(f => f.kind === 'photo').length, dg = figs.length - ph;
+  const count = [ph ? `${ph} photograph${ph === 1 ? '' : 's'}` : '', dg ? `${dg} diagram${dg === 1 ? '' : 's'}` : ''].filter(Boolean).join(' · ');
+  return `<div class="gallery">
+    <div class="gal-head"><span>Images in this ${kindWord}</span><span>${count}</span></div>
+    <div class="gal-strip">${figs.map(f => `<a class="gal-tile${f.kind === 'diagram' ? ' gal-d' : ''}" href="${f.rel}" data-lb="${esc(f.num)}" title="Fig ${esc(f.num)} · ${esc(plain(f.name))}${f.kind === 'photo' ? ' — ' + esc(shortCredit(f.fig.creator)) + ' · ' + esc(shortLicence(f.fig.license)) : ''}">${imgTag(f, '', '240px')}</a>`).join('')}</div>
+  </div>`;
+}
+// The viewer's record of each image: plain text only; the page builds its links.
+function viewerEntry(f, set) {
+  const e = { k: f.kind === 'photo' ? 'p' : 'd', src: f.rel, w: f.size.w, h: f.size.h, t: plain(f.name), a: plain(f.fig.alt || f.name), s: f.kind === 'photo' ? plain(f.fig.shows || '') : '', set };
+  if (f.kind === 'photo') Object.assign(e, { c: plain(f.fig.creator), d: /to confirm/i.test(f.fig.date || '') ? '' : plain(f.fig.date || ''), l: plain(f.fig.license), lu: licenceUrl(f.fig.license) || '', u: f.fig.source, x: plain(f.fig.changes || '') });
+  return e;
 }
 
 function mdToHtml(md, edition, figStats) {
@@ -342,6 +509,11 @@ const STRIP_HEADINGS = RULES.drop_sections_whose_heading_matches;
 const STRIP_LINES = RULES.drop_inline_lines_containing;
 const STRIP_CLAUSE = RULES.strip_clause_from_rulebook_lines || null;
 const UNFILLED_PLAIN = RULES.render_unfilled_as === 'plain';
+const PLATES = M.story_plates || {};
+// The credits file is linked where it renders: the repository's own page for it.
+const CREDITS_URL = M.credits_url || 'https://github.com/matthewcalvey/calvey-commons/blob/main/nature-and-architecture/images/CREDITS.md';
+// JSON set inside a script element: nothing in it may close the element.
+const J = o => JSON.stringify(o).replace(/</g, '\\u003c').replace(/\u2028/g, '\\u2028').replace(/\u2029/g, '\\u2029');
 const AUDIO_PREFIX = M.audio_prefix || 'na_';
 
 /* ---------- cut a document by the anatomy headings ---------- */
@@ -419,6 +591,7 @@ function renderEdition(edition) {
   const figStats = { total: 0, drawn: 0, ready: 0, licence: 0, made: 0, placed: 0, withheld: 0, placedList: [] };
   const parts = [];
   const toc = [];
+  const viewer = {}, sets = {}, plateStats = [];      // the image viewer's records, per-part order, story placements
   let publishedWords = 0;
 
   for (const b of built) {
@@ -427,7 +600,28 @@ function renderEdition(edition) {
     const id = `item-${c.id}`;
     const kind = c.kind === 'section' ? 'Section' : 'Chapter';
     const label = c.kind === 'section' ? c.title : `${parseInt(c.id, 10)} · ${c.title}`;
-    toc.push(`<li><a href="#${id}"><span class="toc-n">${c.kind === 'section' ? '&#8212;' : esc(c.id)}</span><span class="toc-t">${esc(c.title)}</span><span class="toc-s">${esc(c.sources[0].subtitle || '')}</span></a></li>`);
+    const kindWord = kind.toLowerCase();
+
+    // this part's images, photographs first, each kind in figure order
+    const figSec = sections.find(s => s.heading === ANATOMY.figures_heading);
+    const figs = figSec ? collectFigures(figSec.body) : [];
+    const gallery = [...figs.filter(f => f.kind === 'photo'), ...figs.filter(f => f.kind === 'diagram')];
+    gallery.forEach(f => { viewer[f.num] = viewerEntry(f, c.id); });
+    sets[c.id] = gallery.map(f => f.num);
+    const nPhotos = gallery.filter(f => f.kind === 'photo').length, nDiagrams = gallery.length - nPhotos;
+
+    const lead = gallery[0];
+    const counts = [nPhotos ? `${nPhotos} photograph${nPhotos === 1 ? '' : 's'}` : '', nDiagrams ? `${nDiagrams} diagram${nDiagrams === 1 ? '' : 's'}` : '', `listen ${mins} min`].filter(Boolean).join(' · ');
+    toc.push(`<li><a href="#${id}">${lead ? `<span class="toc-img${lead.kind === 'diagram' ? ' toc-dg' : ''}">${imgTag(lead, '', '96px').replace(/ alt="[^"]*"/, ' alt=""')}</span>` : '<span class="toc-img"></span>'}<span class="toc-n">${c.kind === 'section' ? '&#8212;' : esc(c.id)}</span><span class="toc-t">${esc(c.title)}</span><span class="toc-s">${esc(c.sources[0].subtitle || '')}</span><span class="toc-c">${counts}</span></a></li>`);
+
+    // the story: the narrative, paragraph by paragraph, with the images it names set after them
+    const paras = sections[1].body.split(/\n\s*\n/).map(p => p.trim()).filter(p => /[A-Za-z]/.test(p));
+    const plan = planPlates(paras, gallery, PLATES);
+    const storyHtml = paras.map((p, i) => mdToHtml(p, edition, figStats)
+      + renderPlates(plan[i].photos) + (plan[i].diagram ? renderPlates([plan[i].diagram]) : '')).join('\n');
+    const inStory = plan.reduce((a, x) => a + x.photos.length + (x.diagram ? 1 : 0), 0);
+    plateStats.push({ id: c.id, photos: plan.reduce((a, x) => a + x.photos.length, 0), nPhotos, diagrams: plan.filter(x => x.diagram).length, nDiagrams });
+    const storyWords = paras.join(' ').split(/\s+/).filter(Boolean).length;
 
     const bodySections = sections.slice(2).filter(s => !STRIP_HEADINGS.some(m => s.heading.includes(m)));
 
@@ -457,47 +651,54 @@ function renderEdition(edition) {
     publishedWords += itemWords;
 
     const subtopics = (c.subtopics || []).map(s => `<li>${esc(s)}</li>`).join('');
+    // the evidence keeps the source's order; its labels say what each part is
+    const EV_LABEL = h => /GRADED BODY/.test(h) ? 'The graded body' : /CASE CARDS/.test(h) ? 'Case cards'
+      : /FIGURES/.test(h) ? 'Figures, with their credits' : /GENERATIVE RULEBOOK/.test(h) ? 'GENERATIVE RULEBOOK'
+      : /BIBLIOGRAPHY/.test(h) ? 'Bibliography' : h.replace(/^##\s*[\d]+\s*·\s*/, '');
+    const figCount = figSec ? (figSec.body.match(/^FIG /gm) || []).length : 0;
 
-    parts.push(`<article class="item" id="${id}">
+    parts.push(`<article class="item${c.kind === 'section' ? ' item-section' : ''}" id="${id}">
+  <header class="item-h">
+    <span class="item-kicker">${c.kind === 'section' ? kind : kind + ' ' + esc(c.id)}</span>
+    <h2 class="item-title">${esc(label)}</h2>
+    <p class="item-sub">${esc(c.sources[0].subtitle || '')}</p>
+    <div class="sec-audio" data-track="${c.id}">
+      <div class="play-row">
+        <button class="play-btn" type="button" data-play="${c.id}" aria-label="Listen to this ${kindWord}"><span class="pi"></span><span class="pl">Listen</span></button>
+        <span class="play-dur">${mins} min, read aloud</span>
+        <span class="play-pos" data-pos="${c.id}"></span>
+      </div>
+      <p class="audio-missing">The narration for this ${kindWord} has not been added yet. What it reads is the story below, word for word.</p>
+    </div>
+  </header>
+  ${renderGallery(gallery, kindWord)}
   <details class="item-d"${c.kind === 'section' ? ' open' : ''}>
-    <summary class="item-s">
-      <span class="item-kicker">${c.kind === 'section' ? kind : kind + ' ' + esc(c.id)}</span>
-      <h2 class="item-title">${esc(label)}</h2>
-      <span class="item-sub">${esc(c.sources[0].subtitle || '')}</span>
-      <span class="item-meta"><span>${itemWords.toLocaleString('en-GB')} words</span><span>narrative ${mins} min</span></span>
-    </summary>
+    <summary class="item-s"><span class="rd"><span class="rd-open">Read the ${kindWord}</span><span class="rd-close">Close the ${kindWord}</span></span><span class="rd-meta">${storyWords.toLocaleString('en-GB')}-word story${inStory ? ` · ${inStory} image${inStory === 1 ? '' : 's'} in it` : ''} · then the evidence</span></summary>
     <div class="item-body">
-      ${subtopics ? `<nav class="subtopics"><h3>In this ${kind.toLowerCase()}</h3><ul>${subtopics}</ul></nav>` : ''}
+      <div class="story">
+${storyHtml}
+      </div>
 
-      <section class="sec sec-summary">
-        <h3>${esc(ANATOMY.summary_heading.replace(/^##\s*/, ''))}</h3>
-        ${mdToHtml(stripLines(sections[0].body, ''), edition, figStats)}
-      </section>
-
-      <section class="sec sec-audio" data-track="${c.id}">
-        <h3>Listen</h3>
-        <p class="audio-note">The narrative is the whole ${kind.toLowerCase()} written for the ear — about ${mins} minutes.</p>
-        <div class="play-row">
-          <button class="play-btn" type="button" data-play="${c.id}" aria-label="Play this ${kind.toLowerCase()}"><span class="pi"></span><span class="pl">Play</span></button>
-          <span class="play-dur">${mins} min</span>
-          <span class="play-pos" data-pos="${c.id}"></span>
+      <section class="evidence">
+        <div class="ev-head">
+          <h3>The evidence</h3>
+          <p>The story above is told from this research. Here every claim carries two grades — what kind of statement it is, and where its number came from — and every source is cited, with what was verified and what was not.</p>
         </div>
-        <p class="audio-missing">The narration for this ${kind.toLowerCase()} has not been added yet. The text it is read from is below, word for word.</p>
+        ${subtopics ? `<nav class="subtopics"><h4>What this ${kindWord} covers</h4><ul>${subtopics}</ul></nav>` : ''}
+        <section class="sec">
+          <details>
+            <summary><h3>Summary of findings</h3></summary>
+            <div class="sec-inner">${mdToHtml(stripLines(sections[0].body, ''), edition, figStats)}</div>
+          </details>
+        </section>
+        ${bodySections.map(s => `<section class="sec">
+          <details>
+            <summary><h3>${esc(EV_LABEL(s.heading))}${/FIGURES/.test(s.heading) && figCount ? ` · ${figCount}` : ''}</h3></summary>
+            <div class="sec-inner">${mdToHtml(stripLines(s.body, s.heading), edition, figStats)}</div>
+          </details>
+        </section>`).join('\n        ')}
       </section>
-
-      <section class="sec">
-        <details>
-          <summary><h3>${esc(ANATOMY.audio_heading.replace(/^##\s*/, ''))}</h3></summary>
-          <div class="sec-inner">${mdToHtml(sections[1].body, edition, figStats)}</div>
-        </details>
-      </section>
-
-      ${bodySections.map(s => `<section class="sec">
-        <details${/GRADED BODY/.test(s.heading) ? ' open' : ''}>
-          <summary><h3>${esc(s.heading.replace(/^##\s*/, ''))}</h3></summary>
-          <div class="sec-inner">${mdToHtml(stripLines(s.body, s.heading), edition, figStats)}</div>
-        </details>
-      </section>`).join('\n')}
+      <button class="item-close" type="button" data-close="${id}">Close the ${kindWord}</button>
     </div>
   </details>
 </article>`);
@@ -556,40 +757,114 @@ hr{border:0;border-top:.5px solid var(--line);margin:3rem 0}
 /* label helper */
 .lab{font-family:var(--font-label);font-size:.62rem;font-weight:400;text-transform:uppercase;
   letter-spacing:.14em;color:var(--mut)}
-/* masthead */
-.mast{padding:5rem 0 2.4rem;border-bottom:.5px solid var(--line)}
-.mast .series{font-family:var(--font-label);font-size:.62rem;text-transform:uppercase;
-  letter-spacing:.2em;color:var(--mut)}
-.mast .rule{width:40px;height:0;border-top:.75px solid var(--accent);margin:1.4rem 0}
-.mast h1{font-size:clamp(1.55rem,6.4vw,3rem);text-transform:uppercase;letter-spacing:.06em;margin:0 0 1.4rem;line-height:1.14;overflow-wrap:break-word;hyphens:none}
-.mast .tag{margin:0;font-size:1.02rem;color:var(--dim);max-width:34rem}
-.badges{display:flex;flex-wrap:wrap;gap:1.6rem;margin-top:2rem}
+/* cover: every reproduced image in the book, tiled small, with the title on a plate over its lower edge */
+body{overflow-x:clip}
+.cover{position:relative}
+.cover-art{height:33.34vw;background:#141513 url(images/cover-mosaic.jpg) center/cover no-repeat}
+/* on a wide screen the plate covers whole tiles: eight across and the last row, centred */
+.cover-in{position:relative;width:66.67vw;margin:-8.334vw auto 0;background:var(--bg);
+  padding:2.2rem 24px 1.3rem max(24px,calc((66.67vw - var(--maxw)) / 2 + 24px))}
+.cover-in>.cover-tag,.cover-in>.cover-credit{max-width:calc(var(--maxw) - 48px)}
+.cover .series{font-family:var(--font-label);font-size:.62rem;text-transform:uppercase;letter-spacing:.22em;color:var(--mut)}
+.cover h1{font-size:clamp(1.7rem,5.6vw,3.2rem);text-transform:uppercase;letter-spacing:.06em;margin:.9rem 0 0;
+  line-height:1.12;overflow-wrap:break-word;hyphens:none}
+.cover .rule{width:40px;height:0;border-top:.75px solid var(--accent);margin:1.3rem 0}
+.cover-tag{margin:0;font-size:1.14rem;color:var(--dim);font-style:italic}
+.cover-credit{margin:1.1rem 0 0;font-family:var(--font-label);font-size:.54rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mut);line-height:1.7}
+.cover-credit a{color:var(--mut)}
+@media (max-width:1000px){
+  .cover-art{background-image:url(images/cover-mosaic-8x6.jpg);height:75vw}
+  .cover-in{width:auto;max-width:var(--maxw);margin:0 auto;padding:2rem 24px 1.2rem}}
+@media (max-width:600px){.cover-art{background-image:url(images/cover-mosaic-6x8.jpg);height:133.34vw}}
+.intro{padding:2.6rem 0 0}
+.intro .tag{margin:0;font-size:1.04rem;color:var(--dim)}
+.badges{display:flex;flex-wrap:wrap;gap:.9rem 1.6rem;margin-top:1.8rem}
 .badge{font-family:var(--font-label);font-size:.62rem;text-transform:uppercase;letter-spacing:.12em;color:var(--mut)}
-/* contents */
+/* contents, each part with its first image */
 .toc{margin:3rem 0 1rem}
 .toc h2{font-family:var(--font-label);font-size:.62rem;font-weight:400;text-transform:uppercase;
-  letter-spacing:.2em;color:var(--accent);margin:0 0 1.4rem}
+  letter-spacing:.2em;color:var(--accent);margin:0 0 1rem}
 .toc ul{list-style:none;margin:0;padding:0}
 .toc li{border-bottom:.5px solid var(--line2)}
-.toc a{display:grid;grid-template-columns:2.8rem 1fr;gap:.15rem 1rem;padding:1.05rem .1rem;border:0;color:inherit}
+.toc a{display:grid;grid-template-columns:5.2rem 2.2rem 1fr;gap:.12rem 1rem;align-items:start;padding:1rem .1rem;border:0;color:inherit}
 .toc a:hover .toc-t{color:var(--accent)}
-.toc-n{font-family:var(--font-label);font-size:.66rem;color:var(--accent);grid-row:1/3;padding-top:.42rem;letter-spacing:.06em}
-.toc-t{font-family:var(--font-head);font-size:1.18rem;color:var(--ink)}
-.toc-s{color:var(--mut);font-size:.9rem;grid-column:2}
-/* items */
-.item{margin:0}
-.item-d{border-bottom:.5px solid var(--line)}
-.item-s{cursor:pointer;list-style:none;padding:2.4rem 0 2rem;display:block}
-.item-s::-webkit-details-marker{display:none}
+.toc-img{grid-row:1/4;width:5.2rem;height:5.2rem;overflow:hidden;background:var(--surface);display:block}
+.toc-img img{width:100%;height:100%;object-fit:cover;display:block}
+.toc-dg{background:var(--panel);box-shadow:inset 0 0 0 .5px var(--line)}
+.toc-dg img{object-fit:contain;padding:4px}
+.toc-n{font-family:var(--font-label);font-size:.66rem;color:var(--accent);grid-row:1/4;padding-top:.42rem;letter-spacing:.06em}
+.toc-t{font-family:var(--font-head);font-size:1.2rem;color:var(--ink);line-height:1.25}
+.toc-s{color:var(--mut);font-size:.9rem;grid-column:3;font-style:italic}
+.toc-c{grid-column:3;font-family:var(--font-label);font-size:.56rem;text-transform:uppercase;letter-spacing:.1em;color:var(--mut);margin-top:.2rem}
+/* parts */
+.item{padding:3.4rem 0 1.4rem;border-top:.5px solid var(--line)}
 .item-kicker{font-family:var(--font-label);font-size:.62rem;text-transform:uppercase;letter-spacing:.16em;color:var(--accent)}
-.item-title{font-size:clamp(1.3rem,4.6vw,2.1rem);text-transform:uppercase;letter-spacing:.05em;margin:.9rem 0 .5rem;overflow-wrap:break-word}
-.item-sub{color:var(--mut);font-size:.95rem;display:block;font-style:italic}
-.item-meta{display:flex;gap:1.5rem;margin-top:1.1rem;font-family:var(--font-label);
-  font-size:.6rem;text-transform:uppercase;letter-spacing:.12em;color:var(--mut)}
-.item-body{padding:0 0 3rem;overflow-wrap:break-word}   /* long addresses in the bibliographies break rather than widen the page */
-.subtopics{margin:0 0 2.6rem;padding:1.6rem 0 0;border-top:.5px solid var(--line)}
-.subtopics h3{font-family:var(--font-label);font-size:.62rem;font-weight:400;text-transform:uppercase;
-  letter-spacing:.16em;color:var(--accent);margin:0 0 1rem}
+.item-title{font-size:clamp(1.35rem,4.6vw,2.2rem);text-transform:uppercase;letter-spacing:.05em;margin:.9rem 0 .5rem;overflow-wrap:break-word}
+.item-sub{color:var(--mut);font-size:.98rem;margin:0;font-style:italic}
+.item-h .sec-audio{margin-top:1rem}
+.item-h .play-row{margin:.6rem 0 0}
+/* the gallery: a strip across the page, first image aligned with the text */
+.gallery{width:100vw;margin:1.8rem 0 0 calc(50% - 50vw)}
+.gal-head{max-width:var(--maxw);margin:0 auto;padding:0 24px .6rem;display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;
+  font-family:var(--font-label);font-size:.58rem;text-transform:uppercase;letter-spacing:.14em;color:var(--mut)}
+.gal-head span:first-child{color:var(--accent)}
+.gal-strip{display:flex;gap:6px;overflow-x:auto;overscroll-behavior-x:contain;scroll-snap-type:x proximity;
+  padding:0 max(24px,calc(50vw - 22rem + 24px)) 10px;scroll-padding-left:max(24px,calc(50vw - 22rem + 24px));
+  scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.gal-tile{flex:none;height:156px;scroll-snap-align:start;border:0;display:block;background:var(--surface);transition:opacity .15s}
+.gal-tile img{height:156px;width:auto;display:block}
+.gal-tile:hover{opacity:.82}
+.gal-d{background:var(--panel);box-shadow:inset 0 0 0 .5px var(--line)}
+.gal-d img{padding:9px 10px}
+/* the chapter opens and closes here */
+.item-d{margin-top:1.6rem}
+.item-s{cursor:pointer;list-style:none;display:flex;align-items:center;justify-content:space-between;gap:.5rem 1rem;flex-wrap:wrap;
+  padding:1rem 1.1rem;border:.5px solid var(--line);-webkit-tap-highlight-color:transparent}
+.item-s::-webkit-details-marker{display:none}
+.item-s:hover{border-color:var(--accent)}
+.rd{font-family:var(--font-label);font-size:.68rem;text-transform:uppercase;letter-spacing:.16em;color:var(--accent)}
+.rd::after{content:"  +";color:var(--mut)}
+.item-d[open]>.item-s .rd::after{content:"  \\2013"}
+.rd-close,.item-d[open]>.item-s .rd-open{display:none}
+.item-d[open]>.item-s .rd-close{display:inline}
+.rd-meta{font-family:var(--font-label);font-size:.56rem;text-transform:uppercase;letter-spacing:.1em;color:var(--mut)}
+.item-body{padding:0 0 1.4rem;overflow-wrap:break-word}   /* long addresses in the bibliographies break rather than widen the page */
+.item-close{display:block;margin:2.6rem 0 0;background:none;border:.5px solid var(--line);color:var(--mut);cursor:pointer;
+  font-family:var(--font-label);font-size:.62rem;text-transform:uppercase;letter-spacing:.14em;padding:.95em 1.2em}
+.item-close:hover{border-color:var(--accent);color:var(--accent)}
+/* the story, and the images set beside it */
+.story{padding-top:2.4rem}
+.story>p{font-size:1.1rem;line-height:1.72;color:var(--ink);margin:0 0 1.4rem}
+.story>p:first-child::first-letter{float:left;font-size:4.1em;line-height:.82;margin:.06em .1em 0 0;color:var(--accent);font-weight:300}
+.plates{margin:2.2rem 0 2.6rem;display:grid;gap:12px}
+.plates.n2,.plates.n4{grid-template-columns:1fr 1fr}
+.plates.n3{grid-template-columns:1fr 1fr}
+.plates.n3 .plate:first-child{grid-column:1/-1}
+.plate{margin:0;min-width:0}
+.plate-img{display:block;border:0;background:var(--surface)}
+.plate img{display:block;width:100%;height:auto}
+.plates.n2 .plate-img img,.plates.n4 .plate-img img,.plates.n3 .plate:not(:first-child) .plate-img img{aspect-ratio:4/3;object-fit:cover}
+.plates.n1:not(.dg) .plate-img{background:none}
+.plates.n1:not(.dg) .plate-img img{width:auto;max-width:100%;max-height:78vh;margin:0 auto}
+.plates.dg .plate-img{background:none}
+.plate figcaption{margin-top:.55rem;font-size:.9rem;line-height:1.4;color:var(--dim)}
+.pl-num{font-family:var(--font-label);font-size:.56rem;text-transform:uppercase;letter-spacing:.12em;color:var(--accent);margin-right:.35em}
+.pl-cr{display:block;margin-top:.2rem;font-size:.8rem;color:var(--mut)}
+.pl-cr a{color:var(--mut)}
+.pl-cr a:hover{color:var(--accent)}
+@media (min-width:1180px){.plates.n1:not(.dg),.plates.n2,.plates.n3,.plates.n4{width:56rem;margin-left:-6rem}}
+/* the book's own diagrams are drawn for the dark page; on the light page their colours are turned over */
+@media (prefers-color-scheme:light){img.dgm{filter:invert(1) hue-rotate(180deg)}}
+/* the evidence, folded */
+.evidence{margin:4.2rem 0 0;padding-top:2rem;border-top:.75px solid var(--accent)}
+.ev-head h3{font-family:var(--font-label);font-size:.72rem;font-weight:400;text-transform:uppercase;letter-spacing:.2em;color:var(--accent);margin:0 0 .8rem}
+.ev-head p{margin:0 0 1.8rem;color:var(--mut);font-size:.98rem;font-style:italic}
+.evidence .sec{margin:0}
+.evidence .sec:last-of-type>details>summary{border-bottom:.5px solid var(--line)}
+.evidence .sec>details[open]{padding-bottom:1.6rem}
+.subtopics{margin:0 0 1.8rem}
+.subtopics h4{font-family:var(--font-label);font-size:.6rem;font-weight:400;text-transform:uppercase;
+  letter-spacing:.16em;color:var(--mut);margin:0 0 .8rem}
 .subtopics ul{margin:0;padding:0;list-style:none}
 .subtopics li{margin:.5rem 0;font-size:.98rem;color:var(--dim);padding-left:1.4rem;position:relative}
 .subtopics li::before{content:"";position:absolute;left:0;top:.72em;width:.7rem;height:0;border-top:.5px solid var(--line)}
@@ -701,11 +976,44 @@ body.has-player{padding-bottom:6rem}
 /* footer */
 .foot{margin-top:4rem;padding-top:1.6rem;border-top:.5px solid var(--line);color:var(--mut);font-size:.88rem}
 .foot p{margin:0 0 .9rem}
+/* the image viewer: always dark, in both themes, so photographs and the book's diagrams read the same */
+.lb{position:fixed;inset:0;z-index:90;background:#0B0B0A;display:flex;align-items:center;justify-content:center;
+  padding:4rem 4.4rem 1.4rem;overscroll-behavior:contain}
+.lb[hidden]{display:none}
+.lb-fig{margin:0;display:flex;flex-direction:column;align-items:center;max-width:100%;max-height:100%}
+.lb-fig img{display:block;background:#141513}
+.lb-cap{width:100%;max-width:46rem;margin-top:1rem;color:#B8B5AC;font-size:.95rem;line-height:1.45;overflow-y:auto;max-height:11rem}
+.lb-num{font-family:var(--font-label);font-size:.58rem;text-transform:uppercase;letter-spacing:.14em;color:#6A9CC4}
+.lb-t{font-family:var(--font-head);font-size:1.3rem;color:#F4F2EC;margin:.25rem 0 .3rem;line-height:1.25}
+.lb-s{color:#B8B5AC;font-style:italic;margin:0 0 .4rem}
+.lb-cr{font-size:.84rem;color:#8A8880}
+.lb-cr a,.lb-go{color:#6A9CC4;border-bottom-color:#32352F}
+.lb-go{display:inline-block;margin-top:.5rem;font-family:var(--font-label);font-size:.58rem;text-transform:uppercase;letter-spacing:.12em}
+.lb-btn{position:absolute;width:2.9rem;height:2.9rem;border:.5px solid #32352F;background:rgba(20,21,19,.6);color:#ECEAE3;cursor:pointer;
+  font-family:var(--font-label);font-size:1rem;line-height:1;display:flex;align-items:center;justify-content:center;-webkit-tap-highlight-color:transparent}
+.lb-btn:hover{border-color:#6A9CC4;color:#6A9CC4}
+.lb-x{top:.9rem;right:.9rem}
+.lb-prev{left:.9rem;top:50%;margin-top:-1.45rem}
+.lb-next{right:.9rem;top:50%;margin-top:-1.45rem}
+html.lb-on{overflow:hidden}
+@media (max-width:700px){
+  .lb{padding:4rem .8rem 1rem}
+  .lb-prev,.lb-next{top:.9rem;margin-top:0}
+  .lb-prev{left:.9rem}.lb-next{left:4.2rem;right:auto}
+  .lb-cap{max-height:34vh}
+}
 @media (max-width:520px){
   body{font-size:17.5px}.wrap{padding:0 18px 5rem}
-  .mast h1{letter-spacing:.03em}
-  .mast{padding:3.4rem 0 2rem}
-  .item-s{padding:2rem 0 1.6rem}
+  .cover-in{padding:1.6rem 18px 1rem}
+  .cover h1{letter-spacing:.03em}
+  .gal-head{padding:0 18px .55rem}
+  .gal-strip{padding:0 18px 10px;scroll-padding-left:18px;gap:5px}
+  .gal-tile,.gal-tile img{height:118px}
+  .toc a{grid-template-columns:4rem 1.9rem 1fr;gap:.1rem .75rem}
+  .toc-img{width:4rem;height:4rem}
+  .toc-t{font-size:1.1rem}
+  .story>p{font-size:1.07rem}
+  .plates{gap:8px}
   .fig-meta{grid-template-columns:1fr;gap:.1rem}
   .fig-meta dt{margin-top:.5rem}
   .player-in{gap:.5rem;padding:.8rem 14px}
@@ -714,22 +1022,33 @@ body.has-player{padding-bottom:6rem}
   .p-main{min-width:2.6rem;height:2.6rem}
 }
 @media print{.item-d,.sec>details,.transcript{display:block}details>summary{display:none}
-  .sec-audio,.listen-all,.player{display:none}body{font-size:10.5pt;color:#1A1A1A}.wrap{padding:0}}
+  .sec-audio,.listen-all,.player,.gallery,.lb,.item-close{display:none}body{font-size:10.5pt;color:#1A1A1A}.wrap{padding:0}
+  .cover-art{display:none}.cover-in{margin:0}}
 </style>
 </head>
 <body>
+<header class="cover">
+  <div class="cover-art" role="img" aria-label="The book’s ${figStats.placed} reproduced images, tiled small"></div>
+  <div class="cover-in">
+    <div class="series">${esc(M.series)}</div>
+    <h1>${esc(M.book_name).replace(/\+/g, '+<wbr>')}</h1>
+    <div class="rule"></div>
+    <p class="cover-tag">How nature has been brought into, around and to the threshold of buildings — and who measured any of it.</p>
+    <p class="cover-credit">Cover: the book’s ${figStats.placed} reproduced images, tiled — each is credited beside its figure and in <a href="${CREDITS_URL}" rel="noopener">the image credits</a>; the mosaic is shared under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener">CC BY-SA 4.0</a>.</p>
+  </div>
+</header>
 <div class="wrap">
-<header class="mast">
-  <div class="series">${esc(M.series)}</div>
-  <h1>${esc(M.book_name).replace(/\+/g, '+<wbr>')}</h1>
-  <p class="tag">A compiled, graded and cited account of how nature has been brought into, around and to the threshold of buildings — from the first painted caves to materials now being grown. Every claim carries two grades. Conflicts stand side by side. Gaps are findings. Beneath that history runs a second one, of what was ever measured and who is allowed to read the numbers; it is gathered after the eighth chapter.</p>
+<section class="intro">
+  <p class="tag">A compiled, graded and cited account of how nature has been brought into, around and to the threshold of buildings — from the first painted caves to materials now being grown. Each chapter opens on its images and a story you can read or listen to. Folded beneath it lies the evidence the story is told from: every claim carries two grades, conflicts stand side by side, and gaps are findings. Beneath that history runs a second one, of what was ever measured and who is allowed to read the numbers; it is gathered after the eighth chapter.</p>
   <div class="badges">
     <span class="badge">${built.filter(b => b.c.editions.includes(edition) && b.c.kind !== 'section').length} chapters · ${built.filter(b => b.c.editions.includes(edition) && b.c.kind === 'section').length} closing sections</span>
     <span class="badge">${Math.round(publishedWords / 1000)}k words</span>
     <span class="badge">${Math.round(built.reduce((a, b) => a + b.mins, 0) / 60 * 10) / 10} h narration</span>
+    <span class="badge">${figStats.placed} photographs</span>
+    <span class="badge">${figStats.made} diagrams</span>
     <span class="badge">poured ${esc(String(M.manifest_date))}</span>
   </div>
-</header>
+</section>
 <div class="listen-all" id="listenAll">
   <button class="listen-btn" type="button" id="playAll"><span class="pi"></span><span>Listen to the whole book</span></button>
   <span class="listen-note">${Math.round(built.reduce((a, b) => a + b.mins, 0) / 60 * 10) / 10} hours, ${built.length} parts — plays straight through and remembers where you stopped.</span>
@@ -759,6 +1078,20 @@ ${parts.join('\n')}
   </div>
 </div>
 
+<div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Image viewer">
+  <button class="lb-btn lb-x" type="button" id="lbX" aria-label="Close the viewer">&#215;</button>
+  <button class="lb-btn lb-prev" type="button" id="lbPrev" aria-label="Previous image">&#8249;</button>
+  <button class="lb-btn lb-next" type="button" id="lbNext" aria-label="Next image">&#8250;</button>
+  <figure class="lb-fig">
+    <img id="lbImg" alt="">
+    <figcaption class="lb-cap">
+      <div class="lb-num" id="lbNum"></div>
+      <div class="lb-t" id="lbT"></div>
+      <p class="lb-s" id="lbS"></p>
+      <div class="lb-cr" id="lbCr"></div>
+      <a class="lb-go" id="lbGo" href="#">See it among the evidence, with its source</a>
+    </figcaption>
+  </figure>
 </div>
 <script>
 (function(){
@@ -860,7 +1193,7 @@ ${parts.join('\n')}
           if (!alive && la) {
             la.querySelector('#playAll').disabled = true;
             la.querySelector('.listen-note').textContent =
-              'The narration has not been added yet. Every part\u2019s text is on the page, under Narrative.';
+              'The narration has not been added yet. What it reads is on the page: each part\u2019s story.';
           } else if (la && alive < TRACKS.length) {
             la.querySelector('.listen-note').textContent =
               alive + ' of ' + TRACKS.length + ' parts recorded so far \u2014 plays straight through and remembers where you stopped.';
@@ -871,14 +1204,91 @@ ${parts.join('\n')}
   refreshPositions();
 })();
 </script>
+<script>
+(function(){
+  // The image viewer, and opening whatever a link points into.
+  var IMGS = ${J(viewer)};
+  var SETS = ${J(sets)};
+  var el = function(i){ return document.getElementById(i); };
+  var lb = el('lb'), img = el('lbImg'), cur = null, back = null, tx = null;
+  function h(s){ return String(s).replace(/[&<>"]/g, function(c){ return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function fit(){
+    if (!cur) return;
+    var e = IMGS[cur], small = window.innerWidth <= 700;
+    var aw = window.innerWidth - (small ? 16 : 150);
+    var ah = window.innerHeight - (small ? 72 + Math.min(window.innerHeight * 0.34, 230) : 72 + 190);
+    var s = Math.max(0.1, Math.min(aw / e.w, ah / e.h, e.k === 'd' ? 2 : 1));
+    img.style.width = Math.round(e.w * s) + 'px'; img.style.height = Math.round(e.h * s) + 'px';
+  }
+  function show(key){
+    var e = IMGS[key]; if (!e) return; cur = key;
+    var set = SETS[e.set] || [key], i = set.indexOf(key);
+    img.src = e.src; img.alt = e.a;
+    el('lbNum').textContent = 'Fig ' + key + '  ·  ' + (i + 1) + ' of ' + set.length;
+    el('lbT').textContent = e.t;
+    el('lbS').textContent = e.s; el('lbS').hidden = !e.s;
+    el('lbCr').innerHTML = e.k === 'p'
+      ? h(e.c) + (e.d ? ' · ' + h(e.d) : '') + ' · ' + (e.lu ? '<a href="' + h(e.lu) + '" rel="license noopener">' + h(e.l) + '</a>' : h(e.l))
+        + ' · <a href="' + h(e.u) + '" rel="noopener">source</a>' + (e.x ? ' · ' + h(e.x) : '')
+      : 'An original diagram, drawn for this edition from the chapter’s graded text, and reusable under the book’s licence.';
+    el('lbGo').setAttribute('href', '#fig-' + key.replace(/\\./g, '-'));
+    el('lbPrev').hidden = el('lbNext').hidden = set.length < 2;
+    fit();
+  }
+  function open(key){ back = document.activeElement; lb.hidden = false; document.documentElement.classList.add('lb-on'); show(key); el('lbX').focus(); }
+  function close(keepFocus){ lb.hidden = true; document.documentElement.classList.remove('lb-on'); img.removeAttribute('src'); cur = null;
+    if (!keepFocus && back && back.focus) back.focus({ preventScroll: true }); }
+  function step(d){ if (!cur) return; var set = SETS[IMGS[cur].set] || [cur], i = set.indexOf(cur); show(set[(i + d + set.length) % set.length]); }
+  function openFor(hash){
+    if (!hash || hash.length < 2) return;
+    var t = document.getElementById(decodeURIComponent(hash.slice(1))); if (!t) return;
+    for (var n = t; n; n = n.parentElement) if (n.tagName === 'DETAILS') n.open = true;
+    if (t.classList.contains('item')) { var d = t.querySelector('.item-d'); if (d) d.open = true; }
+    requestAnimationFrame(function(){ t.scrollIntoView({ block: 'start' }); });
+  }
+  document.addEventListener('click', function(ev){
+    var a = ev.target.closest ? ev.target.closest('[data-lb], a[href^="#"]') : null;
+    if (!a) return;
+    if (a.hasAttribute('data-lb')) { if (IMGS[a.getAttribute('data-lb')]) { ev.preventDefault(); open(a.getAttribute('data-lb')); } return; }
+    var href = a.getAttribute('href');
+    if (href.length > 1 && document.getElementById(decodeURIComponent(href.slice(1)))) {
+      ev.preventDefault();
+      if (a.id === 'lbGo') close(true);
+      if (location.hash !== href) history.pushState(null, '', href);
+      openFor(href);
+    }
+  });
+  el('lbX').addEventListener('click', function(){ close(); });
+  el('lbPrev').addEventListener('click', function(){ step(-1); });
+  el('lbNext').addEventListener('click', function(){ step(1); });
+  lb.addEventListener('click', function(ev){ if (ev.target === lb) close(); });
+  document.addEventListener('keydown', function(ev){
+    if (lb.hidden) return;
+    if (ev.key === 'Escape') close(); else if (ev.key === 'ArrowLeft') step(-1); else if (ev.key === 'ArrowRight') step(1);
+  });
+  lb.addEventListener('touchstart', function(ev){ tx = ev.touches.length === 1 ? ev.touches[0].clientX : null; }, { passive: true });
+  lb.addEventListener('touchend', function(ev){ if (tx === null) return; var dx = ev.changedTouches[0].clientX - tx; tx = null; if (Math.abs(dx) > 50) step(dx < 0 ? 1 : -1); });
+  window.addEventListener('resize', fit);
+  document.querySelectorAll('[data-close]').forEach(function(b){
+    b.addEventListener('click', function(){
+      var art = el(this.getAttribute('data-close')); if (!art) return;
+      var d = art.querySelector('.item-d'); if (d) d.open = false;
+      art.scrollIntoView({ block: 'start' });
+    });
+  });
+  window.addEventListener('hashchange', function(){ openFor(location.hash); });
+  window.addEventListener('popstate', function(){ openFor(location.hash); });
+  if (location.hash) openFor(location.hash);
+})();
+</script>
 </body>
 </html>`;
-  return { html, figStats, publishedWords };
+  return { html, figStats, publishedWords, plateStats };
 }
 
 const outputs = [];
 for (const edition of M.editions) {
-  const { html, figStats, publishedWords } = renderEdition(edition);
+  const { html, figStats, publishedWords, plateStats } = renderEdition(edition);
   // acceptance check 3 — SHARE must not leak apparatus
   if (html.includes('DECISION-FOR-ARCHITECT')) fail('public output contains the string DECISION-FOR-ARCHITECT');
   if (/\bFit:/.test(html)) fail('public output contains a rulebook Fit clause');
@@ -887,8 +1297,12 @@ for (const edition of M.editions) {
   const base = M.book_name.replace(/\s+/g, '_');
   const name = edition === 'SHARE' ? `${base}_SHARE.html` : 'index.html';
   fs.writeFileSync(path.join(ROOT, name), html);
-  outputs.push({ edition, name, bytes: Buffer.byteLength(html), figStats, publishedWords });
+  outputs.push({ edition, name, bytes: Buffer.byteLength(html), figStats, publishedWords, plateStats });
 }
+
+// the page's cover and galleries load these; they are made by tools/make_cover_and_thumbnails.py
+for (const f of ['cover-mosaic.jpg', 'cover-mosaic-8x6.jpg', 'cover-mosaic-6x8.jpg'])
+  if (!fs.existsSync(path.join(IMAGES, f))) fail(`images/${f} is missing — run tools/make_cover_and_thumbnails.py, then pour again.`);
 
 /* ---------- the book's own audio manifest (house shape, as CALVEY_RESEARCH_BOOK's) ---------- */
 fs.writeFileSync(path.join(AUDIO, 'manifest.json'), JSON.stringify({
@@ -939,9 +1353,19 @@ ${fetched.placedList.map(p => '- `' + p.rel + '` — FIG ' + p.num + ' · ' + p.
 ` : 'None placed yet. Nothing is fetched until its licence has been read at its source page.\n'}
 ${fetched.ready}${fetched.placed ? ' more' : ''} figure block${fetched.ready === 1 ? ' has its licence' : 's have their licence'} read at source and wait${fetched.ready === 1 ? 's' : ''} to be placed; ${fetched.withheld} ${fetched.withheld === 1 ? 'is' : 'are'} withheld because the licence found does not allow reuse here; ${fetched.licence} ${fetched.licence === 1 ? 'has' : 'have'} not had a licence read${fetched.drawn ? '; ' + fetched.drawn + ' original diagram' + (fetched.drawn === 1 ? ' is' : 's are') + ' still to be drawn' : ''}.
 
+## The cover
+
+\`images/cover-mosaic.jpg\`, \`images/cover-mosaic-8x6.jpg\` and \`images/cover-mosaic-6x8.jpg\` tile every reproduced
+image listed above, each cropped square and reduced, in book order; the three differ only in how the same
+tiles are arranged, for wide, middling and narrow screens. They are made by
+\`tools/make_cover_and_thumbnails.py\`. Because several tiles are shared under CC BY-SA, the mosaics are
+shared under CC BY-SA 4.0; each tile keeps its own licence and credit above. The same script writes the
+reduced copies in \`images/thumbs/\` that the galleries and contents load; each is its original, resized.
+
 These lines are written by the pour from each figure block (\`creator\`, \`date\`, \`license\`, \`source\`,
 \`changes\`). To place an image, read its licence at the source page, record it in the block with
-\`status: ready\`, and save the file at the block's \`file:\` path as .jpg or .png.
+\`status: ready\`, and save the file at the block's \`file:\` path as .jpg or .png; then run the cover
+script again and re-pour.
 `);
 
 const totalWords = built.reduce((a, b) => a + b.totalWords, 0);
@@ -959,6 +1383,12 @@ ${outputs.map(o => `- \`${o.name}\` — ${o.edition} edition, ${(o.bytes / 1024 
 ${built.map(b => `- **${b.c.id} · ${b.c.title}** — ${b.totalWords.toLocaleString('en-GB')} words · narrative ${b.words.toLocaleString('en-GB')} words (~${b.mins} min) · transcript hash \`${hashes[b.c.id]}\``).join('\n')}
 
 **Totals:** ${outputs[0].publishedWords.toLocaleString('en-GB')} words published (${totalWords.toLocaleString('en-GB')} in source, before the CALVEY_FORM layer was lifted out) · ${(totalMins / 60).toFixed(1)} hours of narration · ${fetched.total} figure blocks (${fetched.made} drawn, ${fetched.placed} reproduced, ${fetched.drawn} to be drawn, ${fetched.ready} ready to place, ${fetched.withheld} withheld, ${fetched.licence} licence to confirm).
+
+## The illustrated reading
+Each part opens on a gallery of its images; its story (the narrative, which is also what the narration reads) carries the photographs it names and the diagrams it matches best, set after the paragraph concerned.
+${outputs[0].plateStats.map(p => `- **${p.id}** — gallery ${p.nPhotos} photograph${p.nPhotos === 1 ? '' : 's'} and ${p.nDiagrams} diagram${p.nDiagrams === 1 ? '' : 's'}; in the story ${p.photos} photograph${p.photos === 1 ? '' : 's'} and ${p.diagrams} diagram${p.diagrams === 1 ? '' : 's'}`).join('\n')}
+- **Totals** — ${outputs[0].plateStats.reduce((a, p) => a + p.photos, 0)} of ${outputs[0].plateStats.reduce((a, p) => a + p.nPhotos, 0)} photographs and ${outputs[0].plateStats.reduce((a, p) => a + p.diagrams, 0)} of ${outputs[0].plateStats.reduce((a, p) => a + p.nDiagrams, 0)} diagrams are set in the stories; every one is in its part's gallery. Pins in the manifest's \`story_plates\`: ${Object.keys(PLATES.pin || {}).length}.
+- **Cover and thumbnails** — ${['cover-mosaic.jpg', 'cover-mosaic-8x6.jpg', 'cover-mosaic-6x8.jpg'].map(f => fs.existsSync(path.join(IMAGES, f)) ? '`images/' + f + '` ' + Math.round(fs.statSync(path.join(IMAGES, f)).size / 1024) + ' KB' : '`images/' + f + '` MISSING').join(' · ')} · \`images/thumbs/\` ${fs.existsSync(THUMBS) ? fs.readdirSync(THUMBS).filter(f => f.endsWith('.jpg')).length : 0} files
 
 ## Acceptance checks
 1. **Audio transcript equals its narrative; no forbidden token, heading, horizontal rule or wordless paragraph** — ${problems.some(p => /forbidden|heading|horizontal rule|nothing to voice/.test(p)) ? 'FAIL' : 'pass'} (tokens checked: ${FORBIDDEN.map(t => JSON.stringify(t)).join(', ')})

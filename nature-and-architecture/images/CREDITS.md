@@ -61,6 +61,16 @@ the book's licence does not cover them. Nothing was fetched before its licence w
 
 0 more figure blocks have their licence read at source and wait to be placed; 3 are withheld because the licence found does not allow reuse here; 0 have not had a licence read.
 
+## The cover
+
+`images/cover-mosaic.jpg`, `images/cover-mosaic-8x6.jpg` and `images/cover-mosaic-6x8.jpg` tile every reproduced
+image listed above, each cropped square and reduced, in book order; the three differ only in how the same
+tiles are arranged, for wide, middling and narrow screens. They are made by
+`tools/make_cover_and_thumbnails.py`. Because several tiles are shared under CC BY-SA, the mosaics are
+shared under CC BY-SA 4.0; each tile keeps its own licence and credit above. The same script writes the
+reduced copies in `images/thumbs/` that the galleries and contents load; each is its original, resized.
+
 These lines are written by the pour from each figure block (`creator`, `date`, `license`, `source`,
 `changes`). To place an image, read its licence at the source page, record it in the block with
-`status: ready`, and save the file at the block's `file:` path as .jpg or .png.
+`status: ready`, and save the file at the block's `file:` path as .jpg or .png; then run the cover
+script again and re-pour.
