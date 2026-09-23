@@ -17,7 +17,7 @@ The answers sorted into sixteen kinds, with four more still to be numbered, and 
 
 Two things cut across all of it. Measurement density collapses at the façade — the space between buildings is instrumented finely and the rooms people occupy are barely measured at all. And it collapses again at the person.
 
-`nature-and-architecture/` — the book, 235 original diagrams, the narration transcripts, and the figure credits.
+`nature-and-architecture/` — the book, 235 original diagrams and 45 reproduced images, each under its own licence, the narration transcripts, and the figure credits.
 
 ---
 

@@ -168,7 +168,38 @@ function inline(raw, edition) {
   return s;
 }
 
-const FIGKEYS = ['file', 'source', 'creator', 'date', 'license', 'shows', 'alt', 'status'];
+const FIGKEYS = ['file', 'source', 'creator', 'date', 'license', 'changes', 'shows', 'alt', 'status'];
+
+// Pixel size of a placed JPEG or PNG, so the page reserves its space before it loads. Zero dependencies.
+function imageSize(file) {
+  try {
+    const b = fs.readFileSync(file);
+    if (b.length > 24 && b.readUInt32BE(0) === 0x89504E47) return { w: b.readUInt32BE(16), h: b.readUInt32BE(20) };
+    if (b[0] === 0xFF && b[1] === 0xD8) {
+      let i = 2;
+      while (i + 9 < b.length) {
+        if (b[i] !== 0xFF) { i++; continue; }
+        const m = b[i + 1];
+        if (m === 0xD8 || m === 0x01 || (m >= 0xD0 && m <= 0xD7) || m === 0xFF) { i += (m === 0xFF ? 1 : 2); continue; }
+        const len = b.readUInt16BE(i + 2);
+        if ((m >= 0xC0 && m <= 0xC3) || (m >= 0xC5 && m <= 0xC7) || (m >= 0xC9 && m <= 0xCB) || (m >= 0xCD && m <= 0xCF))
+          return { h: b.readUInt16BE(i + 5), w: b.readUInt16BE(i + 7) };
+        i += 2 + len;
+      }
+    }
+  } catch (e) {}
+  return null;
+}
+
+// A licence named in the common short forms gets a link to its deed; anything else stays as stated.
+function licenceLink(text) {
+  const t = String(text || '');
+  let url = null, m;
+  if (/\bCC0\b/i.test(t)) url = 'https://creativecommons.org/publicdomain/zero/1.0/';
+  else if (/Public Domain Mark/i.test(t)) url = 'https://creativecommons.org/publicdomain/mark/1.0/';
+  else if ((m = t.match(/CC[ -]BY(-SA)?[ -](\d\.\d)/i))) url = `https://creativecommons.org/licenses/by${m[1] ? '-sa' : ''}/${m[2]}/`;
+  return url ? `<a href="${url}" rel="license noopener">${esc(t)}</a>` : esc(t);
+}
 
 function renderFigureBlock(lines, edition, figStats) {
   const fig = {}; let title = '';
@@ -183,8 +214,7 @@ function renderFigureBlock(lines, edition, figStats) {
   const name = title.includes('·') ? title.split('·').slice(1).join('·').trim() : title;
 
   // Resolve the artwork by slug, not by the spec's literal path: the drawings were filed by
-  // chapter folder and several specs still name images/diagrams/. An SVG that exists is drawn,
-  // whatever the spec's status said, because its existence means it has been made.
+  // chapter folder and several specs still name images/diagrams/.
   const slug = fig.file ? path.basename(fig.file).replace(/\.[a-z0-9]+$/i, '') : null;
   let art = null;
   if (slug) {
@@ -196,30 +226,76 @@ function renderFigureBlock(lines, edition, figStats) {
       if (art) break;
     }
   }
-  const isSvg = art && art.endsWith('.svg');
-  const hasImage = !!art;
-  const cls = hasImage ? 'made' : /to be drawn/i.test(status) ? 'tbd' : /^ready/i.test(status) ? 'ready' : 'ltc';
-  if (hasImage) figStats.made++;
+  // The book's own drawings say so in their spec (source: original diagram…). Everything else is a
+  // reproduction: it keeps its own licence, is never inlined, and is shown only once its licence has
+  // been read at source and its creator and source page are recorded in the block.
+  const own = /^original/i.test(fig.source || '');
+  let hasImage = !!art;
+  const third = hasImage && !own;
+  if (third) {
+    const licenceRead = /^ready/i.test(status) && fig.license && !/to confirm/i.test(fig.license);
+    const credited = fig.creator && !/to confirm/i.test(fig.creator) && /^https?:\/\//i.test(fig.source || '');
+    if (!licenceRead) { fail(`FIG ${num}: an image file is present but its licence has not been read at source (status: ${status}) — not shown.`); hasImage = false; }
+    else if (!credited) { fail(`FIG ${num}: a reproduced image lacks its creator or its source page — not shown.`); hasImage = false; }
+  }
+  const isSvg = hasImage && own && art.endsWith('.svg');
+  const withheld = /^withheld/i.test(status);
+  const cls = hasImage ? (third ? 'placed' : 'made') : /to be drawn/i.test(status) ? 'tbd' : /^ready/i.test(status) ? 'ready' : withheld ? 'withheld' : 'ltc';
+  if (hasImage && !third) figStats.made++;
+  else if (hasImage && third) {
+    figStats.placed++;
+    const rel = `images/${path.basename(path.dirname(art))}/${path.basename(art)}`;
+    const kb = Math.round(fs.statSync(art).size / 1024);
+    if (kb > 800) note(`FIG ${num}: ${rel} is ${kb} KB — heavier than the 800 KB the page is sized for.`);
+    if (!fig.date || /to confirm/i.test(fig.date)) note(`FIG ${num}: reproduced without a date — record the date the source states, or 'date not stated at source'.`);
+    figStats.placedList.push({ num, name, rel, creator: fig.creator, date: /to confirm/i.test(fig.date || '') ? '' : (fig.date || ''), license: fig.license, source: fig.source, changes: fig.changes || '' });
+  }
   else if (/to be drawn/i.test(status)) figStats.drawn++;
   else if (/^ready/i.test(status)) figStats.ready++;
-  else if (/licence to confirm/i.test(status)) figStats.licence++;
+  else if (withheld) figStats.withheld++;
+  else figStats.licence++;
   if (/^ready/i.test(status) && !fig.license && !art) fail(`FIG ${num}: status ready with no licence field — not rendered as an image.`);
+
+  let picture;
+  if (hasImage && isSvg) {
+    // inline so the page's own colour variables reach the drawing in both themes
+    // (a file's own <metadata>, such as a content-credentials manifest, stays in the file; it does not render and is not copied into the page)
+    picture = fs.readFileSync(art, 'utf8').replace(/<\?xml[^>]*\?>\s*/, '').replace(/<!DOCTYPE[^>]*>\s*/, '')
+      .replace(/\s*<metadata[\s\S]*?<\/metadata>\s*/g, '\n').replace(/\s+xmlns:c2pa="[^"]*"/g, '').trim();
+  } else if (hasImage) {
+    const sz = art.endsWith('.svg') ? null : imageSize(art);
+    picture = `<img src="images/${path.basename(path.dirname(art))}/${path.basename(art)}" alt="${esc(fig.alt || '')}" loading="lazy" decoding="async"${sz ? ` width="${sz.w}" height="${sz.h}"` : ''}>`;
+  } else {
+    const why = /to be drawn/i.test(status) ? 'Diagram to be drawn'
+      : /^ready/i.test(status) ? 'Photograph not yet placed — licence read at source'
+      : withheld ? 'Withheld — ' + (status.replace(/^withheld\s*[—–:;,-]*\s*/i, '') || 'its licence does not allow reuse here')
+      : 'Photograph withheld until its licence is read at source';
+    picture = `<div class="fig-placeholder"><span class="fig-ph-label">${esc(why)}</span></div>`;
+  }
+
+  let meta;
+  if (hasImage && !third) {
+    meta = `<dt>source</dt><dd>${inline((fig.source || 'original diagram').replace(/^original diagram[;,]?\s*/i, '').trim() || 'drawn for this edition from the chapter’s own figures', edition)}</dd>
+         <dt>drawing</dt><dd>original, drawn for this edition; reusable under the book’s licence</dd>`;
+  } else if (hasImage && third) {
+    const shown = fig.source.replace(/^https?:\/\/(www\.)?/i, '');
+    meta = `<dt>creator</dt><dd>${inline(fig.creator, edition)}</dd>
+         ${fig.date && !/to confirm/i.test(fig.date) ? `<dt>date</dt><dd>${inline(fig.date, edition)}</dd>` : ''}
+         <dt>licence</dt><dd>${licenceLink(fig.license)} — the image keeps its own licence; the book’s licence does not cover it</dd>
+         <dt>source</dt><dd><a href="${esc(fig.source)}" rel="noopener">${esc(shown.length > 90 ? shown.slice(0, 87) + '…' : shown)}</a></dd>
+         ${fig.changes ? `<dt>changes</dt><dd>${inline(fig.changes, edition)}</dd>` : ''}`;
+  } else {
+    meta = `${fig.source ? `<dt>source</dt><dd>${inline(fig.source, edition)}</dd>` : ''}
+         <dt>licence</dt><dd>${fig.license ? inline(fig.license, edition) : '<em>not read at source — nothing fetched</em>'}</dd>`;
+  }
+
   return `<figure class="fig ${cls}">
-  <div class="fig-head"><span class="fig-num">FIG ${esc(num)}</span><span class="fig-status">${hasImage ? "drawn" : esc(status)}</span></div>
+  <div class="fig-head"><span class="fig-num">FIG ${esc(num)}</span><span class="fig-status">${hasImage ? (third ? 'reproduced' : 'drawn') : esc(withheld ? 'withheld' : status)}</span></div>
   <div class="fig-title">${inline(name, edition)}</div>
-  ${hasImage
-    ? (isSvg
-        // inline so the page's own colour variables reach the drawing in both themes
-        ? fs.readFileSync(art, 'utf8').replace(/<\?xml[^>]*\?>\s*/, '').replace(/<!DOCTYPE[^>]*>\s*/, '').trim()
-        : `<img src="images/${path.basename(path.dirname(art))}/${path.basename(art)}" alt="${esc(fig.alt || '')}" loading="lazy">`)
-    : `<div class="fig-placeholder"><span class="fig-ph-label">${/to be drawn/i.test(status) ? 'Diagram to be drawn' : /^ready/i.test(status) ? 'Photograph not yet placed \u2014 licence read at source' : 'Photograph withheld until its licence is read at source'}</span></div>`}
+  ${picture}
   ${fig.shows ? `<figcaption><strong>Shows.</strong> ${inline(fig.shows, edition)}</figcaption>` : ''}
   <dl class="fig-meta">
-    ${hasImage
-      ? `<dt>source</dt><dd>${inline((fig.source || 'original diagram').replace(/^original diagram[;,]?\s*/i, '').trim() || 'drawn for this edition from the chapter\u2019s own figures', edition)}</dd>
-         <dt>drawing</dt><dd>original, drawn for this edition; reusable under the book\u2019s licence</dd>`
-      : `${fig.source ? `<dt>source</dt><dd>${inline(fig.source, edition)}</dd>` : ''}
-         <dt>licence</dt><dd>${fig.license ? inline(fig.license, edition) : '<em>not read at source \u2014 nothing fetched</em>'}</dd>`}
+    ${meta}
   </dl>
 </figure>`;
 }
@@ -340,7 +416,7 @@ for (const c of items) {
 }
 
 function renderEdition(edition) {
-  const figStats = { total: 0, drawn: 0, ready: 0, licence: 0, made: 0 };
+  const figStats = { total: 0, drawn: 0, ready: 0, licence: 0, made: 0, placed: 0, withheld: 0, placedList: [] };
   const parts = [];
   const toc = [];
   let publishedWords = 0;
@@ -851,14 +927,18 @@ chapter's graded text, filed by chapter in ${drawnDirs.map(d => '`images/' + d +
 the book's own work and carry the book's licence (see LICENSE at the repository root). Where a diagram restates a
 measured figure, its source is the one the chapter cites for that figure.
 
-## Photographs and third-party images — none fetched
+## Photographs and other reproduced images — ${fetched.placed} placed
 
-The pour fetches nothing whose licence was not read at its source page. ${fetched.ready} figure blocks are
-marked ready (licence read at source) and wait to be placed; ${fetched.licence} carry
-\`status: licence to confirm\` and are withheld until the licence is read${fetched.drawn ? '; ' + fetched.drawn + ' original diagram' + (fetched.drawn === 1 ? ' is' : 's are') + ' still to be drawn' : ''}.
+${fetched.placed ? `Each keeps its own licence, as read at its source page and repeated beside its figure in the book;
+the book's licence does not cover them. Nothing was fetched before its licence was read.
 
-When a photograph is placed, put it at the \`file:\` path in its block and add a line here:
-path · creator · date · licence exactly as the source states it.
+${fetched.placedList.map(p => '- `' + p.rel + '` — FIG ' + p.num + ' · ' + p.name + ' — ' + p.creator + (p.date ? ' · ' + p.date : '') + ' · ' + p.license + ' · ' + p.source + (p.changes ? ' · ' + p.changes : '')).join('\n')}
+` : 'None placed yet. Nothing is fetched until its licence has been read at its source page.\n'}
+${fetched.ready}${fetched.placed ? ' more' : ''} figure block${fetched.ready === 1 ? ' has its licence' : 's have their licence'} read at source and wait${fetched.ready === 1 ? 's' : ''} to be placed; ${fetched.withheld} ${fetched.withheld === 1 ? 'is' : 'are'} withheld because the licence found does not allow reuse here; ${fetched.licence} ${fetched.licence === 1 ? 'has' : 'have'} not had a licence read${fetched.drawn ? '; ' + fetched.drawn + ' original diagram' + (fetched.drawn === 1 ? ' is' : 's are') + ' still to be drawn' : ''}.
+
+These lines are written by the pour from each figure block (\`creator\`, \`date\`, \`license\`, \`source\`,
+\`changes\`). To place an image, read its licence at the source page, record it in the block with
+\`status: ready\`, and save the file at the block's \`file:\` path as .jpg or .png.
 `);
 
 const totalWords = built.reduce((a, b) => a + b.totalWords, 0);
@@ -875,11 +955,11 @@ ${outputs.map(o => `- \`${o.name}\` — ${o.edition} edition, ${(o.bytes / 1024 
 ## Items poured — ${built.length}
 ${built.map(b => `- **${b.c.id} · ${b.c.title}** — ${b.totalWords.toLocaleString('en-GB')} words · narrative ${b.words.toLocaleString('en-GB')} words (~${b.mins} min) · transcript hash \`${hashes[b.c.id]}\``).join('\n')}
 
-**Totals:** ${outputs[0].publishedWords.toLocaleString('en-GB')} words published (${totalWords.toLocaleString('en-GB')} in source, before the CALVEY_FORM layer was lifted out) · ${(totalMins / 60).toFixed(1)} hours of narration · ${fetched.total} figure blocks (${fetched.made} drawn, ${fetched.drawn} to be drawn, ${fetched.ready} ready, ${fetched.licence} licence to confirm).
+**Totals:** ${outputs[0].publishedWords.toLocaleString('en-GB')} words published (${totalWords.toLocaleString('en-GB')} in source, before the CALVEY_FORM layer was lifted out) · ${(totalMins / 60).toFixed(1)} hours of narration · ${fetched.total} figure blocks (${fetched.made} drawn, ${fetched.placed} reproduced, ${fetched.drawn} to be drawn, ${fetched.ready} ready to place, ${fetched.withheld} withheld, ${fetched.licence} licence to confirm).
 
 ## Acceptance checks
 1. **Audio transcript equals its narrative; no forbidden token, heading, horizontal rule or wordless paragraph** — ${problems.some(p => /forbidden|heading|horizontal rule|nothing to voice/.test(p)) ? 'FAIL' : 'pass'} (tokens checked: ${FORBIDDEN.map(t => JSON.stringify(t)).join(', ')})
-2. **No image fetched without a licence read at source** — pass; no photograph fetched; ${fetched.made} original diagrams drawn for this edition; CREDITS.md written
+2. **No image shown without a licence read at source, its creator and its source page** — ${problems.some(p => /licence has not been read at source|lacks its creator/.test(p)) ? 'FAIL' : 'pass'}; ${fetched.placed} reproduced image${fetched.placed === 1 ? '' : 's'} credited in CREDITS.md; ${fetched.made} original diagrams drawn for this edition
 3. **Public output carries the rulebook, and no fit clause or decision** — ${problems.some(p => /public output/.test(p)) ? 'FAIL' : 'pass'}
 4. **Re-pour changes only what changed** — transcripts are written only when their hash changes; hashes above
 
@@ -891,7 +971,7 @@ ${notes.length ? `## Notes\n${notes.map(n => `- ${n}`).join('\n')}` : ''}
 - **Audio.** Each transcript in \`audio/\` is voiced to \`audio/<same name>.mp3\`. The page checks for every file when it loads and marks any part not yet recorded, so a new recording needs no re-pour.
 ${voiceQueue.length ? '  - **To record after this pour (' + voiceQueue.length + '):** ' + voiceQueue.map(v => '`' + v.file + '` (' + v.why + ')').join('; ') : '  - Nothing to record: no spoken words changed in this pour.'}
 ${orphans.length ? '  - **Orphans to remove (' + orphans.length + '):** ' + orphans.map(o => '`audio/' + o + '`').join(', ') + ' — no manifest row names ' + (orphans.length === 1 ? 'it' : 'them') + ' any more.' : ''}
-- **Figures.** ${fetched.made} of ${fetched.total} blocks drawn. ${fetched.drawn ? fetched.drawn + ' original diagram' + (fetched.drawn === 1 ? '' : 's') + " still to draw (each block's \`shows:\` line is the drawing instruction)" : 'No original diagram left to draw'}; ${fetched.ready} photographs whose licence was read, waiting to be placed; ${fetched.licence} withheld until their licence is read.
+- **Figures.** ${fetched.made} drawn and ${fetched.placed} reproduced, of ${fetched.total}. ${fetched.drawn ? fetched.drawn + ' original diagram' + (fetched.drawn === 1 ? '' : 's') + " still to draw (each block's \`shows:\` line is the drawing instruction); " : 'No original diagram left to draw; '}${fetched.ready} image${fetched.ready === 1 ? '' : 's'} with a licence read, waiting to be placed; ${fetched.withheld} withheld on licence; ${fetched.licence} with no licence read yet.
 - **Verification pass.** Each \`[unfilled — lane X]\` mark in the sources renders in the public text as a plain *unfilled* mark; together they are the pass's target list.
 `;
 fs.writeFileSync(path.join(ROOT, 'POUR_REPORT.md'), report);
