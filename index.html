@@ -51,7 +51,7 @@ a:hover{border-bottom-color:var(--accent)}
 .shelf h2{margin:0 0 1.2rem}
 .book{display:block;color:inherit;border:0;background:var(--bg);margin:0 0 1rem;transition:outline-color .15s;outline:.5px solid transparent}
 .book:hover{outline-color:var(--accent)}
-.book-strip{display:grid;grid-template-columns:repeat(6,1fr);gap:0;height:7.5rem;overflow:hidden}
+.book-strip{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:0;height:7.5rem;overflow:hidden}
 .book-strip img{width:100%;height:100%;object-fit:cover;display:block}
 .book-in{padding:1.8rem 2rem 2rem}
 .book .series{font-family:var(--font-label);font-size:.6rem;text-transform:uppercase;letter-spacing:.16em;color:var(--accent)}
@@ -63,10 +63,6 @@ a:hover{border-bottom-color:var(--accent)}
 .open{font-family:var(--font-label);font-size:.66rem;text-transform:uppercase;letter-spacing:.16em;color:var(--accent);
   display:inline-block;border:.5px solid var(--accent);padding:.85em 1.2em}
 .book:hover .open{background:var(--accent);color:var(--bg)}
-.book-type{background:var(--surface)}
-.book-type .book-mark{height:7.5rem;display:flex;align-items:flex-end;padding:0 2rem 1.1rem;border-bottom:.5px solid var(--line);
-  font-family:var(--font-head);font-style:italic;font-weight:300;font-size:clamp(1.9rem,6.4vw,3rem);letter-spacing:.01em;color:var(--ink);line-height:1}
-.book-type .book-in{background:var(--surface)}
 /* method */
 .how h2{margin:0 0 1rem}
 .how p{margin:0 0 1rem}
@@ -80,9 +76,8 @@ a:hover{border-bottom-color:var(--accent)}
   body{font-size:17.5px}
   .wrap{padding:44vh 10px 2rem}
   .panel,.book-in{padding:1.6rem 1.2rem}
-  .book-strip{grid-template-columns:repeat(4,1fr);height:6rem}
+  .book-strip{height:6rem}
   .book-strip img:nth-child(n+5){display:none}
-  .book-type .book-mark{padding:0 1.2rem .9rem;height:6rem}
 }
 </style>
 </head>
@@ -118,15 +113,22 @@ a:hover{border-bottom-color:var(--accent)}
         <span class="stat">511k words</span>
         <span class="stat">6.6 h narration</span>
         <span class="stat">46 photographs</span>
-        <span class="stat">236 diagrams</span>
+        <span class="stat">239 diagrams</span>
         <span class="stat">2026</span>
       </div>
       <span class="open">Read or listen</span>
     </div>
   </a>
 
-  <a class="book book-type" href="nature-and-architecture-chatgpt/">
-    <div class="book-mark" aria-hidden="true">Nature + Architecture</div>
+  <a class="book" href="nature-and-architecture-chatgpt/">
+    <div class="book-strip" aria-hidden="true">
+      <img src="library/chatgpt-card/1.jpg" alt="" loading="lazy">
+      <img src="library/chatgpt-card/2.jpg" alt="" loading="lazy">
+      <img src="library/chatgpt-card/3.jpg" alt="" loading="lazy">
+      <img src="library/chatgpt-card/4.jpg" alt="" loading="lazy">
+      <img src="library/chatgpt-card/5.jpg" alt="" loading="lazy">
+      <img src="library/chatgpt-card/6.jpg" alt="" loading="lazy">
+    </div>
     <div class="book-in">
       <div class="series">Nature and Architecture · with ChatGPT</div>
       <h3>The Calvey and ChatGPT Nature and Architecture Book</h3>
@@ -162,7 +164,7 @@ a:hover{border-bottom-color:var(--accent)}
 
 <footer class="panel foot">
   <p>Licensed <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a> — share and adapt freely, with attribution. The underlying studies remain the work of the investigators named in each bibliography. Images and fonts that carry their own licences keep them; each book lists its credits: <a href="https://github.com/matthewcalvey/calvey-commons/blob/main/nature-and-architecture/images/CREDITS.md">the Claude book</a> · <a href="nature-and-architecture-chatgpt/downloads/image-credits.html">the ChatGPT book</a>.</p>
-  <p>Behind this page: the Claude book’s 46 reproduced images, tiled — credited in its image credits; the mosaic is shared under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>.</p>
+  <p>Behind this page: the Claude book’s 46 reproduced images, tiled — credited in its image credits; the mosaic is shared under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>. The pictures on each book’s card are that book’s own photographs; the second book’s are credited in <a href="https://github.com/matthewcalvey/calvey-commons/blob/main/library/chatgpt-card/CREDITS.md">library/chatgpt-card/CREDITS.md</a>.</p>
   <p>CALVEY INC. · <a href="https://github.com/matthewcalvey/calvey-commons">github.com/matthewcalvey/calvey-commons</a></p>
 </footer>
 

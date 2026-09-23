@@ -20,6 +20,9 @@ calvey-commons/
                                         the cover mosaics, and CREDITS.md
   nature-and-architecture-chatgpt/    The Calvey and ChatGPT Nature and Architecture Book, as it was made
     index.html  assets/  audio/  downloads/   (downloads: PDF, Word, Markdown, image credits)
+  library/
+    chatgpt-card/                       small copies of the six photographs on the ChatGPT book's card,
+                                        with CREDITS.md
   tools/
     pour_nature_book.mjs                builds the Claude book's page from its chapter sources
     make_cover_and_thumbnails.py        makes that book's cover mosaics and small image copies
@@ -33,7 +36,7 @@ The chapter sources, research notes and working prompts are kept in a private wo
 ## What is here
 
 ### The Calvey and Claude Nature and Architecture Book
-`nature-and-architecture/` — ten parts, about 510,000 words, from the first painted caves to materials now being grown in laboratories; 46 photographs and other reproduced images, each under its own licence, and 236 original diagrams.
+`nature-and-architecture/` — ten parts, about 510,000 words, from the first painted caves to materials now being grown in laboratories; 46 photographs and other reproduced images, each under its own licence, and 239 original diagrams.
 
 It asks how nature has been brought into, around and to the threshold of buildings, on three axes — time, place with its climate, and position: outside, at the threshold, or inside. Underneath that it asks a second question, which turned out to be the harder one: for every celebrated building and tradition, did anyone ever put instruments on it, and can anyone read the result?
 
@@ -86,7 +89,7 @@ For a finding inside either book, cite the original study from that book's refer
 
 [CC BY 4.0](LICENSE) — share and adapt freely, including commercially, with attribution.
 
-This covers the compilation, the writing, the grading and the original diagrams of each book. It does not cover the underlying studies, which remain the work of the investigators named in each bibliography, under whatever terms those works carry. Images and fonts that carry a licence of their own keep it, and each book lists them: `nature-and-architecture/images/CREDITS.md` and `nature-and-architecture-chatgpt/downloads/image-credits.html`. The cover mosaics of the Claude book, which tile its reproduced images, are shared under CC BY-SA 4.0.
+This covers the compilation, the writing, the grading and the original diagrams of each book. It does not cover the underlying studies, which remain the work of the investigators named in each bibliography, under whatever terms those works carry. Images and fonts that carry a licence of their own keep it, and each book lists them: `nature-and-architecture/images/CREDITS.md` and `nature-and-architecture-chatgpt/downloads/image-credits.html`; the small copies on the ChatGPT book's card are credited in `library/chatgpt-card/CREDITS.md`. The cover mosaics of the Claude book, which tile its reproduced images, are shared under CC BY-SA 4.0.
 
 ---
 
