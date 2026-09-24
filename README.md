@@ -12,7 +12,11 @@ This repository holds everything a reader sees, one folder per book. Nothing pri
 
 ```
 calvey-commons/
-  index.html                          the library's front page
+  index.html                          the library's front page, a card for each book
+  lessons-in-nature-and-architecture/ Lessons in Nature + Architecture, by CALVEY + CLAUDE
+    index.html                          the contents: a card for each of the nine chapters
+    01-sun/                             Chapter 1, Sun: the page, its narration (audio/) and photographs (img/)
+    CREDITS.md                          every photograph in the lessons, with its licence and source
   nature-and-architecture/            The Calvey and Claude Nature and Architecture Book
     index.html                          the book: read it, or listen to it
     audio/                              the narration, one recording per part, each beside its transcript
@@ -34,6 +38,9 @@ The chapter sources, research notes and working prompts are kept in a private wo
 ---
 
 ## What is here
+
+### Lessons in Nature + Architecture, by CALVEY + CLAUDE
+`lessons-in-nature-and-architecture/` — the teaching edition, and the place to start. It teaches how to bring the sun, air, earth, water, light and living things into buildings, from the best examples across history and the globe, in nine chapters of about five lessons each. Each lesson is about ten minutes, read aloud, on a page that highlights each sentence as it is spoken, opens each lesson as the voice reaches it, and lets you tap any sentence to jump there. Every lesson ends with rules of thumb, the conditions under which the idea fails, and three questions to test yourself. Its drawings are computed from solar geometry and the other sources each lesson names, and each lesson is checked against its sources by a reviewer that did not write it. Chapters are published as they are finished; Chapter 1, Sun, is out.
 
 ### The Calvey and Claude Nature and Architecture Book
 `nature-and-architecture/` — ten parts, about 510,000 words, from the first painted caves to materials now being grown in laboratories; 46 photographs and other reproduced images, each under its own licence, and 239 original diagrams.
@@ -77,11 +84,13 @@ It is written with Claude, and every chapter says so.
 
 ## Citing
 
+> Calvey, M. (2026). *Lessons in Nature + Architecture*, by CALVEY + CLAUDE. CALVEY COMMONS. https://matthewcalvey.github.io/calvey-commons/lessons-in-nature-and-architecture/
+
 > Calvey, M. (2026). *The Calvey and Claude Nature and Architecture Book.* CALVEY COMMONS. https://matthewcalvey.github.io/calvey-commons/nature-and-architecture/
 
 > Calvey, M. (2026). *Nature + Architecture: An illustrated global history and practical design atlas* (The Calvey and ChatGPT Nature and Architecture Book). CALVEY COMMONS. https://matthewcalvey.github.io/calvey-commons/nature-and-architecture-chatgpt/
 
-For a finding inside either book, cite the original study from that book's references rather than the book. The books compile other people's research; the investigators did the work.
+For a finding inside any of the books, cite the original study from that book's references rather than the book. The books compile other people's research; the investigators did the work.
 
 ---
 
@@ -89,7 +98,7 @@ For a finding inside either book, cite the original study from that book's refer
 
 [CC BY 4.0](LICENSE) — share and adapt freely, including commercially, with attribution.
 
-This covers the compilation, the writing, the grading and the original diagrams of each book. It does not cover the underlying studies, which remain the work of the investigators named in each bibliography, under whatever terms those works carry. Images and fonts that carry a licence of their own keep it, and each book lists them: `nature-and-architecture/images/CREDITS.md` and `nature-and-architecture-chatgpt/downloads/image-credits.html`; the small copies on the ChatGPT book's card are credited in `library/chatgpt-card/CREDITS.md`. The cover mosaics of the Claude book, which tile its reproduced images, are shared under CC BY-SA 4.0.
+This covers the compilation, the writing, the grading and the original diagrams of each book. It does not cover the underlying studies, which remain the work of the investigators named in each bibliography, under whatever terms those works carry. Images and fonts that carry a licence of their own keep it, and each book lists them: `lessons-in-nature-and-architecture/CREDITS.md`, `nature-and-architecture/images/CREDITS.md` and `nature-and-architecture-chatgpt/downloads/image-credits.html`; the small copies on the ChatGPT book's card are credited in `library/chatgpt-card/CREDITS.md`. The cover mosaics of the Claude book, which tile its reproduced images, are shared under CC BY-SA 4.0.
 
 ---
 

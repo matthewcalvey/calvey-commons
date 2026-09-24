@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lessons in Nature + Architecture</title>
+<meta name="description" content="Lessons in Nature + Architecture, by CALVEY + CLAUDE. How to bring the sun, air, earth, water, light and living things into buildings, taught from the best examples across history and the globe. Each lesson runs about ten minutes, read aloud, with a page that follows the voice.">
+<meta name="color-scheme" content="dark light">
+<meta property="og:title" content="Lessons in Nature + Architecture">
+<meta property="og:description" content="Lessons in Nature + Architecture, by CALVEY + CLAUDE. How to bring the sun, air, earth, water, light and living things into buildings, taught from the best examples across history and the globe. Each lesson runs about ten minutes, read aloud, with a page that follows the voice.">
+<meta property="og:type" content="book">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Space+Mono&display=swap" rel="stylesheet">
+<style>
+:root{
+  --font-head:'Cormorant Garamond',Georgia,'Times New Roman',serif;
+  --font-label:'Space Mono','Courier New',Courier,monospace;
+  --accent:#6A9CC4; --hot:#C45C3E; --ok:#7AB87A;
+  --bg:#141513; --panel:#191A18; --surface:#1F211E;
+  --ink:#ECEAE3; --dim:#B8B5AC; --mut:#8A8880; --line:#32352F; --grid:#1B1C1A;
+  --wash:rgba(20,21,19,.52);
+  --lift:0 1px 2px rgba(0,0,0,.35),0 22px 44px -16px rgba(0,0,0,.7);
+  --lift-up:0 2px 4px rgba(0,0,0,.3),0 34px 60px -18px rgba(0,0,0,.75);
+  color-scheme:dark;
+}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]){
+  --accent:#4E7FA6; --hot:#B4502F; --ok:#4F8A55;
+  --bg:#FFFFFF; --panel:#FFFFFF; --surface:#F5F5F5;
+  --ink:#1A1A1A; --dim:#555555; --mut:#888888; --line:#DDDDDD; --grid:#F0EDE8;
+  --wash:rgba(255,255,255,.44);
+  --lift:0 1px 2px rgba(0,0,0,.10),0 20px 40px -18px rgba(0,0,0,.34);
+  --lift-up:0 2px 4px rgba(0,0,0,.10),0 30px 56px -18px rgba(0,0,0,.40);
+  color-scheme:light;
+}}
+:root[data-theme="light"]{
+  --accent:#4E7FA6; --hot:#B4502F; --ok:#4F8A55;
+  --bg:#FFFFFF; --panel:#FFFFFF; --surface:#F5F5F5;
+  --ink:#1A1A1A; --dim:#555555; --mut:#888888; --line:#DDDDDD; --grid:#F0EDE8;
+  --wash:rgba(255,255,255,.44);
+  --lift:0 1px 2px rgba(0,0,0,.10),0 20px 40px -18px rgba(0,0,0,.34);
+  --lift-up:0 2px 4px rgba(0,0,0,.10),0 30px 56px -18px rgba(0,0,0,.40);
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--dim);font:300 19px/1.62 var(--font-head);letter-spacing:.004em}
+h1,h2,h3{font-family:var(--font-head);font-weight:300;color:var(--ink);line-height:1.18;text-wrap:balance}
+a{color:var(--accent)}
+.lab{font-family:var(--font-label);font-size:.62rem;font-weight:400;text-transform:uppercase;letter-spacing:.16em;color:var(--mut)}
+.stats{display:flex;flex-wrap:wrap;gap:.35rem 1.1rem;margin:0;padding:0;list-style:none}
+.stats li{font-family:var(--font-label);font-size:.58rem;text-transform:uppercase;letter-spacing:.12em;color:var(--mut)}
+.open{font-family:var(--font-label);font-size:.64rem;text-transform:uppercase;letter-spacing:.16em;color:var(--accent);
+  display:inline-flex;align-items:center;gap:.6em;border:.5px solid var(--accent);padding:.8em 1.1em;align-self:flex-start}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+body{background-color:var(--bg);background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:36px 36px;background-position:-1px -1px}
+.wrap{max-width:68rem;margin:0 auto;padding-block:2.4rem 4rem;padding-inline:max(1rem,env(safe-area-inset-left)) max(1rem,env(safe-area-inset-right))}
+.top{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+.top a{text-decoration:none;color:var(--mut)}
+.top a:hover{color:var(--accent)}
+.hero{max-width:44rem;margin:4.2rem 0 3.4rem}
+.hero .rule{width:40px;height:0;border-top:.75px solid var(--accent);margin:1.2rem 0 1.4rem}
+.hero h1{font-size:clamp(2.3rem,7vw,4.2rem);text-transform:uppercase;letter-spacing:.06em;margin:.7rem 0 0;line-height:1.02}
+.hero .by{margin:.9rem 0 0}
+.hero p{margin:0 0 1rem;font-size:1.14rem}
+.hero .quiet{font-style:italic;color:var(--mut);font-size:1.02rem}
+.chapters{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.8rem;margin:0;padding:0;list-style:none}
+.chapter{display:flex;flex-direction:column;height:100%;background:var(--panel);box-shadow:var(--lift);text-decoration:none;color:var(--dim);
+  transition:transform .4s cubic-bezier(.2,.7,.2,1),box-shadow .4s}
+a.chapter:hover,a.chapter:focus-visible{transform:translateY(-6px);box-shadow:var(--lift-up)}
+a.chapter:focus-visible{outline:1px solid var(--accent);outline-offset:5px}
+.chapter .cover{aspect-ratio:4 / 3;border-bottom:.5px solid var(--line);display:flex;align-items:center;justify-content:center;
+  background:var(--surface);overflow:hidden}
+.chapter .cover svg{display:block;width:88%;height:auto}
+.chapter .numeral{font-family:var(--font-head);font-weight:300;font-size:6.5rem;line-height:1;color:var(--line)}
+.chapter .in{display:flex;flex-direction:column;gap:.7rem;padding:1.3rem 1.4rem 1.5rem;flex:1}
+.chapter h2{margin:0;font-size:1.7rem}
+.chapter p{margin:0;font-size:1.02rem;line-height:1.5}
+.chapter .meta{margin-top:auto;padding-top:.6rem;display:flex;justify-content:space-between;gap:1rem;align-items:baseline;
+  font-family:var(--font-label);font-size:.6rem;text-transform:uppercase;letter-spacing:.12em;color:var(--mut)}
+.chapter .go{color:var(--accent)}
+.chapter.soon{box-shadow:none;background:transparent;border:.5px dashed var(--line)}
+.chapter.soon .cover{background:transparent}
+.chapter.soon h2{color:var(--dim)}
+.foot{margin-top:3.6rem;border-top:.5px solid var(--line);padding-top:1.2rem;font-size:.9rem;color:var(--mut)}
+.foot p{margin:0 0 .7rem}
+@media (max-width:980px){.chapters{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:620px){body{font-size:17.5px}.chapters{grid-template-columns:1fr}.hero{margin:2.8rem 0 2.4rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top"><a class="lab" href="../">CALVEY COMMONS</a><span class="lab">by CALVEY + CLAUDE</span></div>
+  <header class="hero">
+    <div class="lab">The lessons</div>
+    <h1>Lessons in Nature + Architecture</h1>
+    <div class="rule"></div>
+    <p>How to bring the sun, air, earth, water, light and living things into buildings, taught from the best examples across history and the globe. Each lesson runs about ten minutes, read aloud, with a page that follows the voice.</p>
+    <p class="quiet">Taught from the findings of the research edition, checked against their sources, and read aloud. Start anywhere; the chapters build on one another, and the last puts them together, climate by climate.</p>
+  </header>
+  <ol class="chapters"><li><a class="chapter" href="01-sun/">
+  <div class="cover" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="The sky over Boston seen from above, with the sun's path on the longest day, the equinox and the shortest day.">
+<circle cx="200" cy="150" r="122" fill="var(--surface,#1F211E)" stroke="var(--mut,#8A8880)" stroke-width="0.9"/>
+<circle cx="200" cy="150" r="81.33" fill="none" stroke="var(--line,#32352F)" stroke-width="0.9" stroke-dasharray="2 3"/>
+<circle cx="200" cy="150" r="40.67" fill="none" stroke="var(--line,#32352F)" stroke-width="0.9" stroke-dasharray="2 3"/>
+<line x1="78" y1="150" x2="322" y2="150" stroke="var(--line,#32352F)" stroke-width="0.9"/>
+<line x1="200" y1="28" x2="200" y2="272" stroke="var(--line,#32352F)" stroke-width="0.9"/>
+<text x="200" y="19" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">N</text>
+<text x="200" y="289" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="middle" letter-spacing="0.08em">S</text>
+<text x="331" y="153" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" letter-spacing="0.08em">E</text>
+<text x="69" y="153" font-family="&#39;Space Mono&#39;,monospace" font-size="9" fill="var(--mut,#8A8880)" text-anchor="end" letter-spacing="0.08em">W</text>
+<rect x="180" y="142" width="40" height="16" fill="var(--surface,#1F211E)" stroke="var(--ink,#ECEAE3)" stroke-width="1"/>
+<line x1="180" y1="158" x2="220" y2="158" stroke="var(--accent,#6A9CC4)" stroke-width="2.4"/>
+<path d="M302.81,84.32 L302.87,87.44 L302.8,90.52 L302.62,93.54 L302.32,96.52 L301.92,99.44 L301.42,102.32 L300.81,105.13 L300.12,107.89 L299.33,110.6 L298.46,113.25 L297.51,115.84 L296.47,118.38 L295.37,120.85 L294.19,123.27 L292.94,125.63 L291.63,127.92 L290.25,130.17 L288.82,132.35 L287.33,134.47 L285.78,136.54 L284.19,138.55 L282.54,140.5 L280.85,142.39 L279.11,144.23 L277.33,146 L275.51,147.73 L273.65,149.4 L271.75,151.01 L269.82,152.57 L267.86,154.07 L265.86,155.52 L263.84,156.92 L261.78,158.26 L259.7,159.55 L257.6,160.79 L255.47,161.97 L253.32,163.1 L251.14,164.19 L248.95,165.22 L246.73,166.2 L244.5,167.13 L242.25,168.01 L239.99,168.85 L237.71,169.63 L235.42,170.36 L233.11,171.05 L230.79,171.68 L228.47,172.27 L226.13,172.81 L223.78,173.31 L221.43,173.75 L219.06,174.15 L216.69,174.5 L214.32,174.81 L211.94,175.06 L209.56,175.27 L207.17,175.44 L204.78,175.55 L202.39,175.62 L200,175.65 L197.61,175.62 L195.22,175.55 L192.83,175.44 L190.44,175.27 L188.06,175.06 L185.68,174.81 L183.31,174.5 L180.94,174.15 L178.57,173.75 L176.22,173.31 L173.87,172.81 L171.53,172.27 L169.21,171.68 L166.89,171.05 L164.58,170.36 L162.29,169.63 L160.01,168.85 L157.75,168.01 L155.5,167.13 L153.27,166.2 L151.05,165.22 L148.86,164.19 L146.68,163.1 L144.53,161.97 L142.4,160.79 L140.3,159.55 L138.22,158.26 L136.16,156.92 L134.14,155.52 L132.14,154.07 L130.18,152.57 L128.25,151.01 L126.35,149.4 L124.49,147.73 L122.67,146 L120.89,144.23 L119.15,142.39 L117.46,140.5 L115.81,138.55 L114.22,136.54 L112.67,134.47 L111.18,132.35 L109.75,130.17 L108.37,127.92 L107.06,125.63 L105.81,123.27 L104.63,120.85 L103.53,118.38 L102.49,115.84 L101.54,113.25 L100.67,110.6 L99.88,107.89 L99.19,105.13 L98.58,102.32 L98.08,99.44 L97.68,96.52 L97.38,93.54 L97.2,90.52 L97.13,87.44 L97.19,84.32" fill="none" stroke="var(--hot,#C45C3E)" stroke-width="2.2"/>
+<circle cx="200" cy="175.65" r="4.2" fill="var(--hot,#C45C3E)"/>
+<path d="M322,150 L320.48,152.13 L318.92,154.2 L317.33,156.22 L315.71,158.19 L314.05,160.12 L312.36,161.99 L310.65,163.82 L308.91,165.6 L307.14,167.33 L305.35,169.02 L303.54,170.66 L301.7,172.26 L299.84,173.82 L297.96,175.34 L296.06,176.81 L294.15,178.24 L292.21,179.63 L290.26,180.99 L288.29,182.3 L286.31,183.57 L284.31,184.81 L282.3,186.01 L280.27,187.17 L278.23,188.3 L276.18,189.39 L274.12,190.44 L272.05,191.46 L269.96,192.44 L267.87,193.4 L265.76,194.31 L263.65,195.19 L261.53,196.04 L259.4,196.86 L257.26,197.65 L255.12,198.4 L252.96,199.12 L250.8,199.81 L248.64,200.46 L246.47,201.09 L244.29,201.69 L242.11,202.25 L239.92,202.79 L237.73,203.29 L235.53,203.77 L233.33,204.21 L231.12,204.63 L228.91,205.02 L226.7,205.37 L224.49,205.7 L222.27,206 L220.05,206.27 L217.83,206.51 L215.6,206.73 L213.38,206.91 L211.15,207.07 L208.92,207.19 L206.69,207.29 L204.46,207.36 L202.23,207.41 L200,207.42 L197.77,207.41 L195.54,207.36 L193.31,207.29 L191.08,207.19 L188.85,207.07 L186.62,206.91 L184.4,206.73 L182.17,206.51 L179.95,206.27 L177.73,206 L175.51,205.7 L173.3,205.37 L171.09,205.02 L168.88,204.63 L166.67,204.21 L164.47,203.77 L162.27,203.29 L160.08,202.79 L157.89,202.25 L155.71,201.69 L153.53,201.09 L151.36,200.46 L149.2,199.81 L147.04,199.12 L144.88,198.4 L142.74,197.65 L140.6,196.86 L138.47,196.04 L136.35,195.19 L134.24,194.31 L132.13,193.4 L130.04,192.44 L127.95,191.46 L125.88,190.44 L123.82,189.39 L121.77,188.3 L119.73,187.17 L117.7,186.01 L115.69,184.81 L113.69,183.57 L111.71,182.3 L109.74,180.99 L107.79,179.63 L105.85,178.24 L103.94,176.81 L102.04,175.34 L100.16,173.82 L98.3,172.26 L96.46,170.66 L94.65,169.02 L92.86,167.33 L91.09,165.6 L89.35,163.82 L87.64,161.99 L85.95,160.12 L84.29,158.19 L82.67,156.22 L81.08,154.2 L79.52,152.13 L78,150" fill="none" stroke="var(--dim,#B8B5AC)" stroke-width="1.4"/>
+<circle cx="200" cy="207.42" r="4.2" fill="var(--dim,#B8B5AC)"/>
+<path d="M302.81,215.68 L301.16,216.51 L299.51,217.32 L297.85,218.11 L296.18,218.89 L294.52,219.65 L292.85,220.39 L291.18,221.12 L289.5,221.83 L287.82,222.52 L286.14,223.2 L284.46,223.86 L282.77,224.51 L281.08,225.14 L279.39,225.75 L277.7,226.35 L276,226.94 L274.3,227.51 L272.6,228.06 L270.9,228.6 L269.19,229.13 L267.49,229.64 L265.78,230.13 L264.07,230.61 L262.35,231.08 L260.64,231.54 L258.93,231.98 L257.21,232.4 L255.49,232.82 L253.77,233.21 L252.05,233.6 L250.32,233.97 L248.6,234.33 L246.88,234.68 L245.15,235.01 L243.42,235.33 L241.69,235.63 L239.96,235.93 L238.23,236.21 L236.5,236.48 L234.77,236.73 L233.03,236.97 L231.3,237.2 L229.57,237.42 L227.83,237.62 L226.09,237.81 L224.36,237.99 L222.62,238.16 L220.88,238.31 L219.14,238.45 L217.4,238.58 L215.66,238.7 L213.93,238.8 L212.19,238.9 L210.45,238.97 L208.7,239.04 L206.96,239.1 L205.22,239.14 L203.48,239.17 L201.74,239.19 L200,239.2 L198.26,239.19 L196.52,239.17 L194.78,239.14 L193.04,239.1 L191.3,239.04 L189.55,238.97 L187.81,238.9 L186.07,238.8 L184.34,238.7 L182.6,238.58 L180.86,238.45 L179.12,238.31 L177.38,238.16 L175.64,237.99 L173.91,237.81 L172.17,237.62 L170.43,237.42 L168.7,237.2 L166.97,236.97 L165.23,236.73 L163.5,236.48 L161.77,236.21 L160.04,235.93 L158.31,235.63 L156.58,235.33 L154.85,235.01 L153.12,234.68 L151.4,234.33 L149.68,233.97 L147.95,233.6 L146.23,233.21 L144.51,232.82 L142.79,232.4 L141.07,231.98 L139.36,231.54 L137.65,231.08 L135.93,230.61 L134.22,230.13 L132.51,229.64 L130.81,229.13 L129.1,228.6 L127.4,228.06 L125.7,227.51 L124,226.94 L122.3,226.35 L120.61,225.75 L118.92,225.14 L117.23,224.51 L115.54,223.86 L113.86,223.2 L112.18,222.52 L110.5,221.83 L108.82,221.12 L107.15,220.39 L105.48,219.65 L103.82,218.89 L102.15,218.11 L100.49,217.32 L98.84,216.51 L97.19,215.68" fill="none" stroke="var(--accent,#6A9CC4)" stroke-width="2.2"/>
+<circle cx="200" cy="239.2" r="4.2" fill="var(--accent,#6A9CC4)"/>
+</svg></div>
+  <div class="in"><span class="lab">Chapter 01 · 5 lessons</span><h2>Sun</h2><p>Where the sun goes, how to shade it, how to welcome it in winter, and how to share it.</p>
+  <div class="meta"><span>50 min read aloud</span><span class="go">Read or listen</span></div></div></a></li><li><div class="chapter soon">
+  <div class="cover" aria-hidden="true"><span class="numeral">02</span></div>
+  <div class="in"><span class="lab">Chapter 02 · 5 lessons</span><h2>Air</h2><p>How air moves, and how buildings catch the breeze, draw air through and keep the wind out.</p>
+  <div class="meta"><span>In preparation</span></div></div></div></li><li><div class="chapter soon">
+  <div class="cover" aria-hidden="true"><span class="numeral">03</span></div>
+  <div class="in"><span class="lab">Chapter 03 · 5 lessons</span><h2>Earth and mass</h2><p>Heavy walls, the steady ground, warm surfaces, and building with earth.</p>
+  <div class="meta"><span>In preparation</span></div></div></div></li><li><div class="chapter soon">
+  <div class="cover" aria-hidden="true"><span class="numeral">04</span></div>
+  <div class="in"><span class="lab">Chapter 04 · 5 lessons</span><h2>Water</h2><p>Cooling by evaporation, water brought and kept, rain, and the landscape as a sponge.</p>
+  <div class="meta"><span>In preparation</span></div></div></div></li><li><div class="chapter soon">
+  <div class="cover" aria-hidden="true"><span class="numeral">05</span></div>
+  <div class="in"><span class="lab">Chapter 05 · 5 lessons</span><h2>Light</h2><p>Daylight from sky and sun, light from above, filtered light, and the rhythm of the day.</p>
+  <div class="meta"><span>In preparation</span></div></div></div></li><li><div class="chapter soon">
+  <div class="cover" aria-hidden="true"><span class="numeral">06</span></div>
+  <div class="in"><span class="lab">Chapter 06 · 5 lessons</span><h2>Living things</h2><p>Trees, vines, roofs that grow, gardens as rooms, and room for other species.</p>
+  <div class="meta"><span>In preparation</span></div></div></div></li><li><div class="chapter soon">
+  <div class="cover" aria-hidden="true"><span class="numeral">07</span></div>
+  <div class="in"><span class="lab">Chapter 07 · 5 lessons</span><h2>Nature&#x27;s forms</h2><p>Gravity finding the form, growth and pattern, biomimicry, and materials that grow.</p>
+  <div class="meta"><span>In preparation</span></div></div></div></li><li><div class="chapter soon">
+  <div class="cover" aria-hidden="true"><span class="numeral">08</span></div>
+  <div class="in"><span class="lab">Chapter 08 · 5 lessons</span><h2>Why nature feels good</h2><p>Biophilia, prospect and refuge, the view, healing, and the other senses.</p>
+  <div class="meta"><span>In preparation</span></div></div></div></li><li><div class="chapter soon">
+  <div class="cover" aria-hidden="true"><span class="numeral">09</span></div>
+  <div class="in"><span class="lab">Chapter 09 · 6 lessons</span><h2>Putting it together</h2><p>Reading a climate, and the whole toolkit, climate by climate.</p>
+  <div class="meta"><span>In preparation</span></div></div></div></li></ol>
+  <footer class="foot">
+    <p>Lessons in Nature + Architecture, by CALVEY + CLAUDE, 2026. Text and drawings under <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a>. Photographs keep their own licences, listed in <a href="https://github.com/matthewcalvey/calvey-commons/blob/main/lessons-in-nature-and-architecture/CREDITS.md">CREDITS.md</a> and beneath each image.</p>
+    <p><a href="../nature-and-architecture/">The research edition</a> · <a href="../">CALVEY COMMONS</a></p>
+  </footer>
+</div>
+</body>
+</html>
