@@ -15,7 +15,8 @@ calvey-commons/
   index.html                          the library's front page, a card for each book
   lessons-in-nature-and-architecture/ Lessons in Nature + Architecture, by CALVEY + CLAUDE
     index.html                          the contents: a card for each of the nine chapters
-    01-sun/                             Chapter 1, Sun: the page, its narration (audio/) and photographs (img/)
+    01-sun/ … 09-climates/              the nine chapters: each page, its narration (audio/) and photographs (img/);
+                                        every drawing is inline in its page, in a wide and a tall frame
     CREDITS.md                          every photograph in the lessons, with its licence and source
   nature-and-architecture/            The Calvey and Claude Nature and Architecture Book
     index.html                          the book: read it, or listen to it
@@ -40,7 +41,7 @@ The chapter sources, research notes and working prompts are kept in a private wo
 ## What is here
 
 ### Lessons in Nature + Architecture, by CALVEY + CLAUDE
-`lessons-in-nature-and-architecture/` — the teaching edition, and the place to start. It teaches how to bring the sun, air, earth, water, light and living things into buildings, from the best examples across history and the globe, in nine chapters of about five lessons each. Each lesson is about ten minutes, read aloud, on a page that highlights each sentence as it is spoken, opens each lesson as the voice reaches it, and lets you tap any sentence to jump there. Every lesson ends with rules of thumb, the conditions under which the idea fails, and three questions to test yourself. Its drawings are computed from solar geometry and the other sources each lesson names, and each lesson is checked against its sources by a reviewer that did not write it. Chapters are published as they are finished; Chapter 1, Sun, is out.
+`lessons-in-nature-and-architecture/` — the teaching edition, and the place to start. It teaches how to bring the sun, air, earth, water, light and living things into buildings, from the best examples across history and the globe, in nine chapters of about five lessons each. Each lesson is about ten minutes, read aloud, on a page that highlights each sentence as it is spoken, opens each lesson as the voice reaches it, and lets you tap any sentence to jump there. Every lesson ends with rules of thumb, the conditions under which the idea fails, and three questions to test yourself. Its drawings are computed from solar geometry and the other sources each lesson names, and each lesson is checked against its sources by a reviewer that did not write it. All nine chapters are out.
 
 ### The Calvey and Claude Nature and Architecture Book
 `nature-and-architecture/` — ten parts, about 510,000 words, from the first painted caves to materials now being grown in laboratories; 46 photographs and other reproduced images, each under its own licence, and 239 original diagrams.
