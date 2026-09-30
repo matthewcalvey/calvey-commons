@@ -176,6 +176,38 @@ Wolcott, Marion Post, 1910-1990, photographer (U.S. Farm Security Administration
 
 changes: resized for the web
 
+### `02-air/img/darwin-elevated-house.jpg`
+
+Audit House at Myilly Point, Darwin, one of four houses built there for senior public servants between 1936 and 1939: timber, with louvred walls, raised on concrete columns over an open underfloor, under a hipped iron roof with small vented gables. Most of the houses Tracy struck in 1974 were a government type raised in the same way, under gable roofs.
+
+Bidgee · 2016-06-24 · [CC BY-SA 3.0 AU](https://creativecommons.org/licenses/by-sa/3.0/au/deed.en) · [Source](https://commons.wikimedia.org/wiki/File:Audit_House_at_Myilly_Point_in_the_Darwin_suburb_Larrakeyah_(1).jpg)
+
+changes: resized for the web
+
+### `02-air/img/bise-fukugi.jpg`
+
+A lane between the fukugi trees of Bise, on Okinawa's Motobu peninsula, their crowns meeting overhead.
+
+Abasaa · 2017-09-30 · Public domain (PD-self: released into the public domain by its author) · [Source](https://commons.wikimedia.org/wiki/File:Bise_Fukugi_Tree_Road_02.JPG)
+
+changes: resized for the web
+
+### `02-air/img/chattel-house.jpg`
+
+A small timber house in Saint Andrew, Barbados, under a low hip roof of corrugated metal, on a raised masonry base.
+
+Postdlf · 2008-02-06 · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [Source](https://commons.wikimedia.org/wiki/File:Saint_Andrew,_Barbados_044.jpg)
+
+changes: resized for the web
+
+### `02-air/img/andrew-damage.jpg`
+
+A subdivision in Dade County, Florida, from the air after Hurricane Andrew in August 1992: most of its roofs are stripped to the plywood decking, and some to the trusses.
+
+Bob Epstein, FEMA · 1992-08-24 · Public domain (PD-USGov-FEMA) · [Source](https://commons.wikimedia.org/wiki/File:FEMA_-_2574_-_Photograph_by_Bob_Epstein_taken_on_08-24-1992_in_Florida.jpg)
+
+changes: resized for the web
+
 ## Chapter 3, Earth and mass
 
 ### `03-earth/img/mossi-house.jpg`
@@ -339,6 +371,46 @@ A chinampa at Xochimilco, Mexico City, seen from the canal: a field held in plac
 Emmanuel Eslava · 2015-09-23 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Chinampa_arbolada.JPG)
 
 changes: resized for the web
+
+### `04-water/img/katrina-pass-christian.jpg`
+
+Pass Christian, Mississippi, from the air in October 2005, five weeks after Katrina: a house raised on concrete columns still stands among the bare slabs of its neighbours. FEMA's caption called it the only surviving home in the area.
+
+John Fleck, FEMA · 2005-10-04 · Public domain (PD-USGov-FEMA) · [Source](https://commons.wikimedia.org/wiki/File:FEMA_-_17187_-_Photograph_by_John_Fleck_taken_on_10-04-2005_in_Mississippi.jpg)
+
+changes: resized for the web
+
+### `04-water/img/hegebeintum-terp.jpg`
+
+The terp at Hegebeintum, in Friesland, rising from the pasture, with its church among the trees on top.
+
+Gouwenaar · 2020-06-03 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:20200603_kerk3_op_terp_Hogebeintum.jpg)
+
+changes: resized for the web
+
+### `04-water/img/nijmegen-spiegelwaal.jpg`
+
+Room for the River at Nijmegen in 2016: the new side channel, the Spiegelwaal, on the left, and the new island of Veur-Lent on the right, with the Waal, its bridges and the city beyond.
+
+Havang(nl) (Henk van Gaal) · 2016-05-12 · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) · [Source](https://commons.wikimedia.org/wiki/File:Spiegelwaal_03_met_stadseiland.JPG)
+
+changes: resized for the web
+
+### `04-water/img/maasbommel-amphibious.jpg`
+
+Floating houses of De Gouden Kust at Maasbommel, outside the dike on the Maas, in 2015. The scheme's fourteen floating houses are built like its thirty-two amphibious ones, on concrete hulls under light timber frames, but they float on the water and settle onto their foundations when it drops, while the amphibious houses rest on theirs until a flood lifts them.
+
+Marion Golsteijn · 2015-05-20 · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [Source](https://commons.wikimedia.org/wiki/File:Gouden_Ham_watervilla%27s.JPG)
+
+changes: resized for the web
+
+### `04-water/img/homeplace-hahnville.jpg`
+
+Homeplace, a plantation house on the River Road at Hahnville, Louisiana, photographed for the Historic American Buildings Survey in 1940: the main floor and its gallery stand a full storey up, on brick columns over a brick ground storey.
+
+Lester Jones, Historic American Buildings Survey · 1940-02-26 · [No known restrictions on images made by the U.S. Government](https://www.loc.gov/rr/print/res/114_habs.html) · [Source](https://www.loc.gov/pictures/item/la0037.photos.073342p/)
+
+changes: cropped to the picture, resized for the web
 
 ## Chapter 5, Light
 
