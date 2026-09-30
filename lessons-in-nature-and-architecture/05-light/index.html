@@ -114,6 +114,7 @@ button{font:inherit;color:inherit}
 .l-meta{font-family:var(--font-label);font-size:.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--mut)}
 .l-meta::after{content:' +';color:var(--accent)}
 .lesson[open] .l-meta::after{content:' −'}
+.lesson.heard .l-meta::before{content:'\2713  Heard · ';color:var(--accent)}
 .l-body{padding:0 0 2.6rem}
 .l-actions{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;margin:0 0 1.2rem}
 .l-hint{font-family:var(--font-label);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;color:var(--mut)}
@@ -304,6 +305,9 @@ button{font:inherit;color:inherit}
   var CH = JSON.parse(document.getElementById('chapter').textContent);
   function saved(){ try { return JSON.parse(localStorage.getItem(CH.key) || 'null'); } catch(e){ return null; } }
   function put(o){ try { o.at = Date.now(); o.n = CH.n; o.ch = CH.title; localStorage.setItem(CH.key, JSON.stringify(o)); localStorage.setItem('lna:last', CH.key); } catch(e){} }
+  function heardAll(){ try { return JSON.parse(localStorage.getItem('lna:heard') || '{}') || {}; } catch(e){ return {}; } }
+  function markHeard(i){ if (i < 0) return; var el = lessonEl(i); if (el) el.classList.add('heard'); var h = heardAll(); if (h[TRACKS[i].key]) return; h[TRACKS[i].key] = Date.now(); try { localStorage.setItem('lna:heard', JSON.stringify(h)); } catch(e){} }
+  (function(){ var h = heardAll(); for (var i = 0; i < TRACKS.length; i++) if (h[TRACKS[i].key]){ var el = lessonEl(i); if (el) el.classList.add('heard'); } })();
   function trackOf(key){ for (var i = 0; i < TRACKS.length; i++) if (TRACKS[i].key === key) return i; return -1; }
   function timeOf(i, sid){ var h = TRACKS[i].times.find(function(t){ return t[0] === sid; }); return h ? h[1] : 0; }
   var lastStore = 0;
@@ -370,9 +374,10 @@ button{font:inherit;color:inherit}
     if (a.duration){ seek.value = Math.round(a.currentTime / a.duration * 1000); $('dNow').textContent = fmt(a.currentTime); $('dEnd').textContent = fmt(a.duration); }
     if (a.paused) show(find(a.currentTime));
     else if (Date.now() - lastStore > 5000) store();
+    if (a.duration && a.currentTime / a.duration > 0.95) markHeard(cur);
   });
   a.addEventListener('ended', function(){
-    store();
+    markHeard(cur); store();
     if (cur < TRACKS.length - 1 && chain){ load(cur + 1, 0); }
     else { chain = false; }
   });
