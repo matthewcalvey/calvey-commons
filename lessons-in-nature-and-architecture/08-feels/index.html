@@ -145,42 +145,32 @@ button{font:inherit;color:inherit}
 
 .dock{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--panel);border-top:.5px solid var(--line);
   padding-bottom:env(safe-area-inset-bottom, 0px)}
-.dock-in{max-width:52rem;margin:0 auto;padding:.3rem 20px .75rem;display:grid;align-items:center;column-gap:1rem;row-gap:.15rem;
-  grid-template-columns:auto minmax(0,1fr) auto auto;grid-template-areas:"seek seek seek seek" "trans meta rate close"}
-.d-seek{grid-area:seek;display:block;width:100%;height:1.75rem;margin:0;accent-color:var(--accent);cursor:pointer;background:none}
-.d-meta{grid-area:meta;min-width:0;display:flex;flex-wrap:wrap;align-items:baseline;column-gap:.4rem;row-gap:.1rem;
-  font-family:var(--font-label);font-size:.6rem;text-transform:uppercase;letter-spacing:.1em;line-height:1.45}
-.d-title{order:-1;flex:0 0 100%;min-width:0;color:var(--ink);letter-spacing:.14em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.d-now,.d-end{color:var(--mut);letter-spacing:.04em;white-space:nowrap;font-variant-numeric:tabular-nums}
-.d-end::before{content:'/ '}
-.d-trans{grid-area:trans;display:flex;align-items:center;gap:.4rem;min-width:0}
-.d-btn{flex:0 1 auto;border:.5px solid var(--line);background:none;color:var(--dim);cursor:pointer;min-width:2.5rem;height:2.5rem;padding:0 .45rem;
-  display:inline-flex;align-items:center;justify-content:center;gap:.2rem;font-family:var(--font-label);font-size:.64rem;letter-spacing:.02em}
+.dock-in{max-width:44rem;margin:0 auto;padding:.3rem 20px .8rem;display:flex;flex-direction:column}
+.d-seek{display:block;width:100%;height:1.75rem;margin:0;accent-color:var(--accent);cursor:pointer;background:none}
+.d-meta{display:flex;align-items:baseline;gap:.75rem;margin:.05rem 0 .55rem;font-family:var(--font-head);font-weight:500;line-height:1.25}
+.d-now,.d-end{flex:none;font-size:1rem;color:var(--mut);font-variant-numeric:lining-nums tabular-nums}
+.d-title{flex:1 1 auto;min-width:0;text-align:center;font-size:.92rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink);
+  font-variant-numeric:lining-nums;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.d-ctrls{display:flex;justify-content:space-between;align-items:center}
+.d-btn{flex:none;width:2.9rem;height:2.9rem;padding:0;border:.5px solid var(--line);background:none;color:var(--dim);cursor:pointer;
+  display:inline-flex;align-items:center;justify-content:center;gap:.12rem;font-family:var(--font-head);font-size:1.05rem;font-weight:600;
+  font-variant-numeric:lining-nums;line-height:1}
 .d-btn svg{display:block;flex:none;width:18px;height:18px}
-.d-btn:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
+@media (hover:hover){.d-btn:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}}
 .d-btn:disabled{opacity:.35;cursor:default}
-.d-skip svg{width:15px;height:15px}
-.d-main{width:2.9rem;height:2.9rem;border-color:var(--accent);color:var(--accent)}
+.d-skip svg{width:14px;height:14px}
+.d-main{border-color:var(--accent);color:var(--accent)}
 .d-main .i-pause,.d-main.playing .i-play{display:none}
 .d-main.playing .i-pause{display:block}
-.d-rate{grid-area:rate;width:3.3rem}
-.d-close{grid-area:close}
+.d-rate{font-size:.95rem}
 @media (max-width:719.98px){
-  .dock-in{grid-template-columns:auto minmax(0,1fr) auto;grid-template-areas:"seek seek seek" "meta meta meta" "rate trans close";
-    padding:.15rem 12px .6rem;column-gap:.3rem;row-gap:.05rem}
-  .d-meta{flex-wrap:nowrap;margin-bottom:.4rem}
-  .d-now{order:0}.d-title{order:1;flex:1 1 auto;text-align:center}.d-end{order:2}.d-end::before{content:none}
-  .d-trans{justify-content:center;gap:.3rem}
-  .d-btn{min-width:2.35rem;height:2.4rem;padding:0 .3rem}
-  .d-main{width:2.75rem;height:2.75rem}
-  .d-rate{width:3rem}
+  .dock-in{padding:.15rem 12px .65rem}
+  .d-btn{width:2.75rem;height:2.75rem}
 }
 @media (max-width:359.98px){
   .dock-in{padding-left:8px;padding-right:8px}
-  .d-trans{gap:.15rem}
-  .d-btn{min-width:2.05rem;padding:0 .2rem}
-  .d-main{width:2.45rem;height:2.45rem}
-  .d-rate{width:2.6rem}
+  .d-btn{width:2.45rem;height:2.45rem}
+  .d-rate{font-size:.85rem}
 }
 .foot{margin-top:3rem;font-size:.88rem;color:var(--mut)}
 .photo-pair{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:1.2rem;align-items:start;margin:2rem 0}
@@ -290,15 +280,15 @@ button{font:inherit;color:inherit}
   <div class="dock-in">
     <input class="d-seek" type="range" id="dSeek" min="0" max="1000" value="0" aria-label="Position in the lesson">
     <div class="d-meta"><span class="d-now" id="dNow">0:00</span><span class="d-title" id="dTitle"></span><span class="d-end" id="dEnd">0:00</span></div>
-    <div class="d-trans">
+    <div class="d-ctrls">
+      <button class="d-btn d-rate" type="button" id="dRate" aria-label="Speed, 1 times" title="Speed">1×</button>
       <button class="d-btn" type="button" id="dPrev" aria-label="Back a lesson" title="Back a lesson"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.5 5.5v13" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M18 5.5v13L8.5 12z" fill="currentColor"/></svg></button>
       <button class="d-btn d-skip" type="button" id="dBack" aria-label="Back 30 seconds" title="Back 30 seconds"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4.5A7.5 7.5 0 1 1 4.95 9.43" fill="none" stroke="currentColor" stroke-width="1.9"/><path d="M8.2 4.5 12.8 1.8v5.4z" fill="currentColor"/></svg><span>30</span></button>
       <button class="d-btn d-main" type="button" id="dPlay" aria-label="Play"><svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></svg><svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M7.5 5.5h3v13h-3zM13.5 5.5h3v13h-3z" fill="currentColor"/></svg></button>
       <button class="d-btn d-skip" type="button" id="dFwd" aria-label="Forward 30 seconds" title="Forward 30 seconds"><span>30</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4.5A7.5 7.5 0 1 0 19.05 9.43" fill="none" stroke="currentColor" stroke-width="1.9"/><path d="M15.8 4.5 11.2 1.8v5.4z" fill="currentColor"/></svg></button>
       <button class="d-btn" type="button" id="dNext" aria-label="Next lesson" title="Next lesson"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.5 5.5v13" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M6 5.5v13L15.5 12z" fill="currentColor"/></svg></button>
+      <button class="d-btn d-close" type="button" id="dClose" aria-label="Close the player" title="Close the player"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7 7 17" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
     </div>
-    <button class="d-btn d-rate" type="button" id="dRate" aria-label="Speed, 1 times" title="Speed">1×</button>
-    <button class="d-btn d-close" type="button" id="dClose" aria-label="Close the player" title="Close the player"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 7l10 10M17 7 7 17" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
   </div>
 </div>
 <script type="application/json" id="chapter">{"key": "lna:08-feels", "n": 8, "title": "Why nature feels good", "prev": "../07-forms/", "next": "../09-climates/"}</script>
@@ -346,8 +336,15 @@ button{font:inherit;color:inherit}
   var rt = null;
   window.addEventListener('scroll', function(){ if (rt) return; rt = setTimeout(function(){ rt = null; if (a.paused) readPos(); }, 700); }, {passive: true});
 
-  function dockSize(){ document.documentElement.style.setProperty('--dockh', (dock.hidden ? 0 : dock.offsetHeight) + 'px'); }
+  function fitTitle(){
+    var t = $('dTitle'); if (!t || dock.hidden) return;
+    t.style.fontSize = '';
+    var fs = parseFloat(getComputedStyle(t).fontSize), min = fs * 0.7;
+    while (t.scrollWidth > t.clientWidth + 0.5 && fs > min){ fs -= 0.5; t.style.fontSize = fs + 'px'; }
+  }
+  function dockSize(){ fitTitle(); document.documentElement.style.setProperty('--dockh', (dock.hidden ? 0 : dock.offsetHeight) + 'px'); }
   window.addEventListener('resize', dockSize);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(dockSize);
   function setRate(r){
     rate = r; a.defaultPlaybackRate = r; a.playbackRate = r;
     var b = $('dRate'); b.textContent = r + '×'; b.setAttribute('aria-label', 'Speed, ' + r + ' times');
